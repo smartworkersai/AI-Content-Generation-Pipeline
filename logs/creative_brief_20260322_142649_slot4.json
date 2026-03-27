@@ -1,0 +1,29 @@
+{
+  "timestamp": "2026-03-22T14:26:49.115720",
+  "slot": 4,
+  "niche": "dark_psychology",
+  "niche_label": "Dark Psychology",
+  "topic": "Nobody is talking about this: Too much self-reflection is linked to anxiety and depression.",
+  "script": {
+    "hook": "Nobody is talking about this: Too much self-reflection is linked to anxiety and depression.",
+    "body": "Psychologists have known this for decades but it never makes it into mainstream education. The people who use this have an unfair advantage in every conversation.",
+    "cta": "Follow so you do not miss the rest."
+  },
+  "full_script_text": "Nobody is talking about this: Too much self-reflection is linked to anxiety and depression. <break time=\"0.8s\"/> Psychologists have known this for decades but it never makes it into mainstream education. The people who use this have an unfair advantage in every conversation. Follow so you do not miss the rest.",
+  "visual_direction": {
+    "kling_prompt": "extreme close-up eyes in deep shadow, single side light source, no full faces, 9:16 vertical cinematic, psychological thriller, deep shadows",
+    "negative_prompt": "faces, logos, text overlays, watermarks"
+  },
+  "voice_settings": {
+    "voice_id": "TxGEqnHWrfWFTfGW9XjX",
+    "stability": 0.6,
+    "similarity": 0.88,
+    "style": 0.55,
+    "speed": 0.85,
+    "voice": "Josh"
+  },
+  "caption_text": "Nobody is talking about this: Too much self-reflection is linked to anxiety and ",
+  "affiliate": {},
+  "script_variant": "long",
+  "compliance_checked": true
+}

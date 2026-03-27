@@ -1,0 +1,57 @@
+{
+  "timestamp": "2026-03-26T16:00:01.814416",
+  "source_hooks_count": 48,
+  "frameworks": {
+    "tech_ai": [
+      {
+        "structure": "[Familiar Tool/Habit] + ['is secretly/actually'] + [Hidden Cost or Danger you didn't know about]",
+        "trigger": "Loss aversion + status threat \u2014 viewer is already being harmed without knowing it",
+        "example": "That iPhone feature everyone uses is secretly selling your location to 47 data brokers."
+      },
+      {
+        "structure": "[Number] + [Category of Thing] + ['that feel illegal to know'] + [Implied restricted access]",
+        "trigger": "Information asymmetry \u2014 viewer gains access to knowledge others don't have",
+        "example": "4 websites that feel illegal to know about in 2026."
+      },
+      {
+        "structure": "['How to'] + [Aspirational Outcome] + ['using'] + [Unexpected Free or Unknown Method]",
+        "trigger": "Effort gap \u2014 same result with a fraction of the work, and almost nobody knows this exists",
+        "example": "How to automate your entire Monday morning using one free AI tool nobody is using."
+      }
+    ],
+    "dark_psychology": [
+      {
+        "structure": "['If someone does'] + [Very Specific Observable Behaviour] + ['they are'] + [Disturbing Hidden Intent]",
+        "trigger": "Social threat detection \u2014 protecting the viewer from invisible manipulation",
+        "example": "If someone mirrors your body language in the first 30 seconds, they are running a dominance test on you."
+      },
+      {
+        "structure": "['The reason you'] + [Universal Relatable Behaviour] + ['is not'] + [Assumed Reason] + ['it is'] + [Dark Psychological Mechanism]",
+        "trigger": "Self-revelation \u2014 reframes a familiar experience with a disturbing explanation the viewer cannot unsee",
+        "example": "The reason you can't stop scrolling is not boredom. It is a dopamine loop engineered by behavioural scientists."
+      },
+      {
+        "structure": "[Authority] + ['has known this for decades'] + [Why it was suppressed] + [What it means for you now]",
+        "trigger": "Conspiracy of suppression \u2014 powerful people deliberately kept this from you",
+        "example": "Psychologists have known this negotiation trick for 40 years. It was never taught in schools because it is too effective."
+      }
+    ],
+    "micro_mystery": [
+      {
+        "structure": "['What if'] + [Familiar Safe Phenomenon] + ['is actually'] + [Terrifying Alternative Explanation left unresolved]",
+        "trigger": "Existential reframe \u2014 takes a safe everyday experience and leaves it permanently unsettling",
+        "example": "What if d\u00e9j\u00e0 vu is not a memory glitch. What if it is your brain catching a bleed from a parallel timeline."
+      },
+      {
+        "structure": "[Credible Authority] + ['can't explain'] + [Specific Documented Anomaly with real detail] + [Open implication, never resolved]",
+        "trigger": "Authority gap \u2014 if the experts cannot explain it, the mystery is real and the viewer is helpless",
+        "example": "NASA has documented 47 radio signals from deep space that repeat on a 16-day cycle. They have no explanation."
+      },
+      {
+        "structure": "['The [specific place/object/event] that'] + [Mundane description] + ['is actually hiding'] + [Forbidden or suppressed truth]",
+        "trigger": "Hidden reality \u2014 the world has a concealed layer that almost nobody sees",
+        "example": "The town in Norway where it is illegal to die is not a tourist quirk. It is covering up something much stranger."
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "date": "2026-03-26",
+  "data_points": 61,
+  "winners": {
+    "after_intrusion": {
+      "label": "400-500",
+      "ms": 450,
+      "mean_views": 85.0
+    },
+    "after_mechanism": {
+      "label": "200-300",
+      "ms": 250,
+      "mean_views": 85.0
+    },
+    "before_move": {
+      "label": "300-400",
+      "ms": 350,
+      "mean_views": 85.0
+    }
+  }
+}

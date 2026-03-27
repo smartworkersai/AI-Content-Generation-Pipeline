@@ -1,0 +1,34 @@
+{
+  "date": "2026-03-21",
+  "slot": 5,
+  "scheduled_at": "2026-03-21T19:00:00Z",
+  "niche": "Personal Finance",
+  "hook": "Every pound you didn't put in an ISA this year is gone permanently.",
+  "affiliate_url": "fidelity.co.uk/isa",
+  "affiliate_name": "Fidelity Stocks & Shares ISA",
+  "trigger_format": "",
+  "video_file": "/Users/kolly/HARBINGERHQ/output/post_20260321_160115_slot5.mp4",
+  "video_url": "https://res.cloudinary.com/dy9wycfej/video/upload/v1774109131/capital-engine/20260321/post_20260321_160115_slot5.mp4",
+  "captions": {
+    "tiktok": "Every pound you didn't put in an ISA this year is gone permanently.\n\nSave this before the ISA deadline.",
+    "youtube": "Every pound you didn't put in an ISA this year is gone permanently.\n\nFind the ISA link in my channel description.\n\nSubscribe for daily insights.\n\n\ud83d\udd17 fidelity.co.uk/isa\n\n#personalfinance #moneytips #financetok #savemoney #investing #ukfinance #financialfreedom #moneyadvice #budgeting #wealthbuilding #makemoney #fyp #foryoupage #uk #viral",
+    "instagram": "Every pound you didn't put in an ISA this year is gone permanently.\n\nTag someone who's leaving money on the table.\n\n#personalfinance #moneytips #financetok #savemoney #investing #ukfinance #financialfreedom #moneyadvice #budgeting #wealthbuilding #makemoney #fyp #foryoupage #uk #viral"
+  },
+  "api_results": {
+    "tiktok": {
+      "status": "posted",
+      "post_id": "69bec1ce759490ad9fe29196",
+      "scheduled": "2026-03-21T19:00:00Z"
+    },
+    "youtube": {
+      "status": "posted",
+      "post_id": "69bec1cf759490ad9fe291bc",
+      "scheduled": "2026-03-21T19:00:00Z"
+    },
+    "instagram": {
+      "status": "posted",
+      "post_id": "69bec1d0972458d4c5b5bd62",
+      "scheduled": "2026-03-21T19:00:00Z"
+    }
+  }
+}

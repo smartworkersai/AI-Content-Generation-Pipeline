@@ -1,0 +1,29 @@
+{
+  "timestamp": "2026-03-22T14:26:09.422681",
+  "slot": 1,
+  "niche": "tech_ai",
+  "niche_label": "Tech / AI Hacks",
+  "topic": "Nobody is talking about this: Peter Thiel, the billionaire venture capitalist and MAGA don.",
+  "script": {
+    "hook": "Nobody is talking about this: Peter Thiel, the billionaire venture capitalist and MAGA don.",
+    "body": "Most people scroll past these tools without realising what they are missing.",
+    "cta": "Follow so you do not miss the rest."
+  },
+  "full_script_text": "Nobody is talking about this: Peter Thiel, the billionaire venture capitalist and MAGA don. <break time=\"0.8s\"/> Most people scroll past these tools without realising what they are missing. Follow so you do not miss the rest.",
+  "visual_direction": {
+    "kling_prompt": "dark glowing computer screens with code, futuristic AI interface, neon blue and green, no faces, 9:16 vertical cinematic, cyberpunk, high contrast",
+    "negative_prompt": "faces, logos, text overlays, watermarks"
+  },
+  "voice_settings": {
+    "voice_id": "TxGEqnHWrfWFTfGW9XjX",
+    "stability": 0.3,
+    "similarity": 0.88,
+    "style": 0.85,
+    "speed": 1.1,
+    "voice": "Josh"
+  },
+  "caption_text": "Nobody is talking about this: Peter Thiel, the billionaire venture capitalist an",
+  "affiliate": {},
+  "script_variant": "short",
+  "compliance_checked": true
+}

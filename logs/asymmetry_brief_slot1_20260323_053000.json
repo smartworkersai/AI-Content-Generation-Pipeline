@@ -1,0 +1,23 @@
+{
+  "asymmetry": "NHS hospital fitted braces on up to 21 patients including a teenager using unsterilised equipment, putting them at risk of HIV, Hepatitis B, and Hepatitis C.",
+  "category": "government_failure",
+  "hook": "An NHS hospital gave teenagers HIV risk with dirty braces.",
+  "core_fact": "21 patients \u2014 including at least one teenager \u2014 are at risk of contracting HIV, Hepatitis B, and Hepatitis C after unsterilised orthodontic equipment was used during NHS procedures.",
+  "villain": "The NHS hospital trust responsible for the unsterilised orthodontic equipment failure (identity to be confirmed via source reporting).",
+  "share_trigger": "Did you see this? An NHS hospital used dirty equipment on kids getting braces and now they might have HIV.",
+  "search_query": "NHS hospital unsterilised braces HIV hepatitis risk patients 2025 UK news",
+  "keywords": [
+    "NHS scandal",
+    "unsterilised equipment",
+    "braces HIV risk",
+    "NHS infection control failure",
+    "hepatitis NHS",
+    "orthodontic equipment UK",
+    "NHS patient safety",
+    "UK health scandal 2025"
+  ],
+  "estimated_anger_score": 94,
+  "timestamp": "2026-03-23T05:30:00.676468",
+  "slot": 1,
+  "findings_count": 447
+}

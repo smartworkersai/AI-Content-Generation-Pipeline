@@ -1,0 +1,81 @@
+{
+  "timestamp": "2026-03-23T21:02:10.205282",
+  "slot": 7,
+  "sound_profile": {
+    "sub_bass_db": -18,
+    "sub_bass_hz": 40,
+    "ambience_type": "server_hum"
+  },
+  "asymmetry": null,
+  "affiliate": "none_growth_mode",
+  "script": {
+    "hook": "The reason you can't stop analyzing yourself is not self-improvement\u2014it's a trauma loop your brain won't release.",
+    "body": "Every time you replay a conversation or dissect your flaws, you're reinforcing the neural pathway that says you're broken. Your brain treats self-criticism like a threat response, flooding cortisol to 'solve' the problem. But there is no problem to solve\u2014only a cycle that feels productive while it destroys you.",
+    "cta": "Drop a \ud83d\udc41\ufe0f if you've been stuck in this without knowing why."
+  },
+  "caption_text": "The reason you can't stop analyzing yourself is not self-improvement\u2014it's a trau",
+  "visual_direction": {
+    "kling_prompt": "extreme close-up eyes in deep shadow, single side light source, no full faces, 9:16 vertical cinematic, psychological thriller, deep shadows",
+    "negative_prompt": "faces, logos, text overlays, watermarks"
+  },
+  "voice_settings": {
+    "voice_id": "TxGEqnHWrfWFTfGW9XjX",
+    "stability": 0.6,
+    "similarity": 0.88,
+    "style": 0.55,
+    "speed": 0.85,
+    "voice": "Josh"
+  },
+  "visual_source": "broll_footage",
+  "audio": "/Users/kolly/HARBINGERHQ/output/voice_sfx_20260323_210210_slot7.mp3",
+  "video": "/Users/kolly/HARBINGERHQ/output/post_20260323_210210_slot7.mp4",
+  "quality_check": {
+    "file_size_mb": 34.42,
+    "size_ok": true,
+    "resolution": "1080x1920",
+    "resolution_ok": true,
+    "duration_s": 34.2,
+    "duration_ok": true
+  },
+  "prompt_metadata": {
+    "visual_source": "broll_footage",
+    "shot_list": []
+  },
+  "audio_alignment": true,
+  "ffmpeg_evolution_params": {
+    "zoom_factor": 0.15,
+    "ssml_break_secs": 0.8,
+    "prompt_version": 1
+  },
+  "script_variant": "long",
+  "qa_gate": {
+    "passed": true,
+    "checks": [
+      {
+        "name": "audio_stream",
+        "passed": true,
+        "detail": "Audio stream present: codec=aac channels=1"
+      },
+      {
+        "name": "volume",
+        "passed": true,
+        "detail": "Volume OK: max_volume=-0.9dB, mean=-17.6dB"
+      },
+      {
+        "name": "duration",
+        "passed": true,
+        "detail": "Duration OK: 34.2s"
+      },
+      {
+        "name": "file_size",
+        "passed": true,
+        "detail": "File size OK: 34.42MB"
+      }
+    ]
+  },
+  "garbage_collection": {
+    "deleted": 5,
+    "freed_mb": 2.1,
+    "errors": 0
+  }
+}

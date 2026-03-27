@@ -1,0 +1,34 @@
+{
+  "timestamp": "2026-03-24T11:15:29.467193",
+  "slot": 3,
+  "niche": "dark_psychology",
+  "niche_label": "Dark Psychology",
+  "topic": "Scientists discover a surprising way to quiet the anxious mi.",
+  "framework": {
+    "structure": "[Authority] + ['has known this for decades'] + [Why it was suppressed] + [What it means for you now]",
+    "trigger": "Conspiracy of suppression \u2014 powerful people deliberately kept this from you",
+    "example": "Psychologists have known this negotiation trick for 40 years. It was never taught in schools because it is too effective."
+  },
+  "script": {
+    "hook": "Psychologists have known this negotiation trick for 40 years. It was never taught in schools because it is too effective.",
+    "body": "This psychological mechanism gives an unfair advantage in every conversation.",
+    "cta": "Follow \u2014 there's more they're not saying."
+  },
+  "full_script_text": "Psychologists have known this negotiation trick for 40 years. It was never taught in schools because it is too effective. This psychological mechanism gives an unfair advantage in every conversation. Follow \u2014 there's more they're not saying.",
+  "visual_direction": {
+    "kling_prompt": "extreme close-up eyes in deep shadow, single side light source, no full faces, 9:16 vertical cinematic, psychological thriller, deep shadows",
+    "negative_prompt": "faces, logos, text overlays, watermarks"
+  },
+  "voice_settings": {
+    "voice_id": "TxGEqnHWrfWFTfGW9XjX",
+    "stability": 0.6,
+    "similarity": 0.88,
+    "style": 0.55,
+    "speed": 0.85,
+    "voice": "Josh"
+  },
+  "caption_text": "Psychologists have known this negotiation trick for 40 years. It was never taugh",
+  "affiliate": "none_growth_mode",
+  "script_variant": "short",
+  "compliance_checked": true
+}

@@ -1,0 +1,28 @@
+{
+  "timestamp": "2026-03-22T02:24:07.323304",
+  "slot": 1,
+  "topic": "Prop Firm Evaluation",
+  "script": {
+    "hook": "You can't trade full-time if your account is under \u00a310k.",
+    "mechanism": "FXIFY lets you trade a funded account up to $200K after passing a two-phase evaluation. You hit a 10% profit target in phase one, 5% in phase two, with an 8% max drawdown. Pass and you keep 80% of profits \u2014 no personal capital at risk during the challenge itself.",
+    "cta": "Hit the link in my bio to start your FXIFY challenge. Trading involves risk, and this is an evaluation."
+  },
+  "full_script_text": "You can't trade full-time if your account is under \u00a310k. FXIFY lets you trade a funded account up to $200K after passing a two-phase evaluation. You hit a 10% profit target in phase one, 5% in phase two, with an 8% max drawdown. Pass and you keep 80% of profits \u2014 no personal capital at risk during the challenge itself. Hit the link in my bio to start your FXIFY challenge. Trading involves risk, and this is an evaluation.",
+  "visual_direction": {
+    "kling_prompt": "multiple trading screens showing financial charts, dark professional trading environment, cold blue monitor glow, no faces, 9:16 vertical cinematic, documentary realism",
+    "negative_prompt": "faces, lifestyle, warm colours, celebration, fake wealth, luxury"
+  },
+  "voice_settings": {
+    "voice": "Josh",
+    "stability": 0.4,
+    "similarity": 0.88,
+    "style": 0.7,
+    "speed": 0.92
+  },
+  "caption_text": "You can't trade full-time if your accoun",
+  "affiliate": {
+    "name": "FXIFY",
+    "url": "https://trader.fxify.com/purchasechallenge?affiliateId=7710"
+  },
+  "compliance_checked": true
+}

@@ -1,0 +1,23 @@
+{
+  "asymmetry": "Can GP choose to not call a patient for a phone appointment that they don't like?",
+  "category": "government_failure",
+  "hook": "Can GP choose to not call a patient for a phone appointment ...",
+  "core_fact": "My NHS medical clinic has a GP who sometimes doesn't call for a phone appointment even if I'm scheduled for the morning and they know it's about pain. They have also cancelled in person appointment be",
+  "villain": "UK corporations",
+  "share_trigger": "Did you see this? Can GP choose to not call a patient for a phone appointment that they don't like",
+  "search_query": "Can GP choose to not call a patient for a phone ap UK news 2026",
+  "keywords": [
+    "choose",
+    "call",
+    "patient",
+    "phone",
+    "appointment",
+    "that",
+    "they",
+    "like"
+  ],
+  "estimated_anger_score": 178,
+  "timestamp": "2026-03-27T11:00:00.551848",
+  "slot": 3,
+  "findings_count": 433
+}

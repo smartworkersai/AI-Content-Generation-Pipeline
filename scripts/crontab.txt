@@ -1,0 +1,68 @@
+# Harbinger Capital Engine — 7-slot cron schedule (UTC)
+# Mac install:  crontab /Users/kolly/HARBINGERHQ/scripts/crontab.txt
+# Linux install: crontab /root/HARBINGERHQ/scripts/crontab.txt
+# All times UTC. UK BST=UTC+1 / GMT=UTC+0
+# NOTE: edit HARBINGER path before installing on a new machine
+#
+# Post schedule: 06:00, 08:30, 11:00, 13:30, 16:00, 18:30, 21:00 UTC (7 slots)
+# Pre-slot intelligence: 45 min before each post (05:15, 07:45, 10:15, 12:45, 15:15, 17:45, 20:15)
+# 7 briefs/day — each must be a distinct topic, not the same topic varied.
+
+SHELL=/bin/bash
+PATH=/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin
+HARBINGER=/Users/kolly/HARBINGERHQ
+
+# ── ALL CRON JOBS DISABLED — MANUAL TRIGGER ONLY ────────────────────────────
+# System now runs only via: python3 scripts/agents/creative_synthesis.py --slot N
+#                           python3 scripts/agents/production_agent.py --slot N
+# Output lands in: ads_ready_for_review/ — requires human approval before publishing.
+#
+# To re-enable any job, uncomment the relevant line below and re-install:
+#   crontab /Users/kolly/HARBINGERHQ/scripts/crontab.txt
+
+# ── Daily intelligence (DISABLED — no longer scraping) ───────────────────────
+# 30 5 * * * cd $HARBINGER && source .env && python3 scripts/agents/cultural_radar.py          >> logs/cron.log 2>&1
+# 45 5 * * * cd $HARBINGER && source .env && python3 scripts/agents/algorithm_intelligence.py  >> logs/cron.log 2>&1
+
+# ── Slot 1 (DISABLED) ────────────────────────────────────────────────────────
+# 15 5  * * * cd $HARBINGER && source .env && python3 scripts/agents/pre_slot_intelligence.py --slot 1 >> logs/cron.log 2>&1
+# 0  6  * * * cd $HARBINGER && source .env && python3 scripts/harbinger_core.py --cycle 1              >> logs/cron.log 2>&1
+
+# ── Slot 2 (DISABLED) ────────────────────────────────────────────────────────
+# 45 7  * * * cd $HARBINGER && source .env && python3 scripts/agents/pre_slot_intelligence.py --slot 2 >> logs/cron.log 2>&1
+# 30 8  * * * cd $HARBINGER && source .env && python3 scripts/harbinger_core.py --cycle 2              >> logs/cron.log 2>&1
+
+# ── Slot 3 (DISABLED) ────────────────────────────────────────────────────────
+# 15 10 * * * cd $HARBINGER && source .env && python3 scripts/agents/pre_slot_intelligence.py --slot 3 >> logs/cron.log 2>&1
+# 0  11 * * * cd $HARBINGER && source .env && python3 scripts/harbinger_core.py --cycle 3              >> logs/cron.log 2>&1
+
+# ── Slot 4 (DISABLED) ────────────────────────────────────────────────────────
+# 45 12 * * * cd $HARBINGER && source .env && python3 scripts/agents/pre_slot_intelligence.py --slot 4 >> logs/cron.log 2>&1
+# 30 13 * * * cd $HARBINGER && source .env && python3 scripts/harbinger_core.py --cycle 4              >> logs/cron.log 2>&1
+
+# ── Slot 5 (DISABLED) ────────────────────────────────────────────────────────
+# 15 15 * * * cd $HARBINGER && source .env && python3 scripts/agents/pre_slot_intelligence.py --slot 5 >> logs/cron.log 2>&1
+# 0  16 * * * cd $HARBINGER && source .env && python3 scripts/harbinger_core.py --cycle 5              >> logs/cron.log 2>&1
+
+# ── Slot 6 (DISABLED) ────────────────────────────────────────────────────────
+# 45 17 * * * cd $HARBINGER && source .env && python3 scripts/agents/pre_slot_intelligence.py --slot 6 >> logs/cron.log 2>&1
+# 30 18 * * * cd $HARBINGER && source .env && python3 scripts/harbinger_core.py --cycle 6              >> logs/cron.log 2>&1
+
+# ── Slot 7 (DISABLED) ────────────────────────────────────────────────────────
+# 15 20 * * * cd $HARBINGER && source .env && python3 scripts/agents/pre_slot_intelligence.py --slot 7 >> logs/cron.log 2>&1
+# 0  21 * * * cd $HARBINGER && source .env && python3 scripts/harbinger_core.py --cycle 7              >> logs/cron.log 2>&1
+
+# ── Platform metrics scrape (DISABLED) ───────────────────────────────────────
+# 15 22 * * * cd $HARBINGER && source .env && python3 scripts/platform_metrics.py              >> logs/cron.log 2>&1
+
+# ── Nightly quality mirror (DISABLED — replaced by compliance_injector.py) ───
+# 30 22 * * * cd $HARBINGER && source .env && python3 scripts/agents/quality_mirror.py         >> logs/cron.log 2>&1
+
+# ── Health check (DISABLED) ──────────────────────────────────────────────────
+# 0 */6 * * * cd $HARBINGER && source .env && python3 scripts/harbinger_core.py --health       >> logs/health.log 2>&1
+
+# ── Affiliate email monitor (DISABLED) ───────────────────────────────────────
+# */30 * * * * cd $HARBINGER && source .env && python3 scripts/email_monitor.py >> logs/email_monitor.log 2>&1
+
+# ── Nightly cleanup (logs >7d, intermediates >1d, pycache, .DS_Store) ─────────
+45 23 * * * cd $HARBINGER && bash scripts/cleanup.sh >> logs/cleanup.log 2>&1

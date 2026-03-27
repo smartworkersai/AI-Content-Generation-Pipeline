@@ -1,0 +1,276 @@
+{
+  "timestamp": "2026-03-19T06:00:03.593176",
+  "slot": 1,
+  "sound_profile": {
+    "sub_bass_db": -18,
+    "sub_bass_hz": 40,
+    "ambience_type": "server_hum"
+  },
+  "asymmetry": "ISA contribution limits reset annually but the allowance is not cumulative \u2014 money not saved in a given year is permanently lost to the tax-free wrapper, a fact HMRC does not proactively communicate.",
+  "affiliate": {
+    "name": "IG Markets",
+    "url": "ig.com/affiliates"
+  },
+  "script": {
+    "intrusion": "Every pound you didn't put in an ISA this year is gone permanently.",
+    "weight": "The annual ISA allowance is \u00a320,000. If you don't use it by April 5th, that tax-free capacity is gone permanently \u2014 not carried forward, not recovered. HMRC does not send a reminder.",
+    "mechanism": "HMRC created the ISA wrapper in 1999. Each April 5th, any unused allowance disappears \u2014 permanently. It does not roll over. The wrapper itself protects every pound inside it from income tax and capital gains tax for life. But HMRC does not remind you. Your bank does not remind you. The deadline is structural. The silence around it is deliberate.",
+    "proof": "HMRC's ISA statistics, published annually, show \u00a33.7 billion in unclaimed ISA allowance in the 2022-23 tax year. That is permanent, irrecoverable tax exposure for the people who missed the April 5th deadline.",
+    "comment_trigger": "How much of your \u00a320,000 ISA allowance have you used this year?",
+    "move": "What financially-aware people use to navigate this is IG Markets."
+  },
+  "caption_text": "Every pound didn't.",
+  "visual_direction": {
+    "frame_description": "Extreme close-up of a bank statement, numbers slightly out of focus, single column of figures barely visible",
+    "light_source": "Single overhead fluorescent tube, directly above, casting sharp downward shadows",
+    "colour_temperature": "4200K, cold blue-white dominant",
+    "motion": "Ken Burns: slow pull back from 120% to 100%, revealing more of the document, 75 seconds duration",
+    "shadow_ratio": "60% of frame in shadow",
+    "kling_prompt": "extreme close-up bank statement paper texture, cold fluorescent overhead light, sharp downward shadows, numbers barely legible, cinematic 9:16 vertical, dark atmosphere, documentary realism, no faces, no people",
+    "negative_prompt": "faces, people, warm colours, sunlight, lifestyle imagery, text overlays, happy, bright, colorful, outdoors"
+  },
+  "voice_settings": {
+    "voice": "Josh",
+    "stability": 0.4,
+    "similarity": 0.88,
+    "style": 0.7,
+    "speed": 0.88,
+    "pre_script_silence_ms": 800,
+    "post_weight_silence_ms": 400,
+    "post_proof_silence_ms": 400
+  },
+  "visual_source": "/Users/kolly/HARBINGERHQ/output/visual_20260319_060003_slot1.mp4",
+  "audio": "/Users/kolly/HARBINGERHQ/output/mixed_audio_20260319_060003_slot1.mp3",
+  "video": "/Users/kolly/HARBINGERHQ/output/post_20260319_060003_slot1.mp4",
+  "quality_check": {
+    "file_size_mb": 13.38,
+    "size_ok": true,
+    "resolution": "1080x1920",
+    "resolution_ok": true,
+    "duration_s": 78.6,
+    "duration_ok": true
+  },
+  "prompt_metadata": {
+    "visual_dna": {
+      "primary_aesthetic": "urban_noir",
+      "aesthetic_label": "Urban Noir",
+      "aesthetic_plan": {
+        "mode": "multi",
+        "primary": "urban_noir",
+        "shot_aesthetics": {
+          "HOOK": "urban_noir",
+          "WEIGHT": "cinematic_dark",
+          "INTRUSION": "photorealistic_documentary",
+          "MECHANISM": "hyperreal_macro",
+          "PROOF": "luxury_aspirational",
+          "STAT_REVEAL": "lo_fi_authentic",
+          "MOVE": "hyperreal_macro"
+        },
+        "signals": {
+          "urgency_low": 0.0,
+          "urgency_mid": 0.9454545454545454,
+          "urgency_high": 0.0,
+          "urgency_extreme": 0.0,
+          "topic_finance": 1.0,
+          "topic_isa": 1.0,
+          "topic_pension": 0.0,
+          "topic_savings": 0.0,
+          "topic_mortgage": 0.0,
+          "topic_crypto": 0.0,
+          "topic_investment": 0.1,
+          "topic_wealth_gap": 0.1,
+          "tone_revelation": 0.3,
+          "tone_evidence": 1.0,
+          "tone_anger": 0.1,
+          "tone_injustice": 0.1,
+          "tone_weight": 0.3,
+          "tone_aspiration": 0.2,
+          "tone_authority": 1.0,
+          "tone_relatable": 1.0,
+          "tone_investigative": 0.2,
+          "tone_surprise": 0.2,
+          "tone_mechanism": 1.0,
+          "tone_historical": 0.1,
+          "tone_data": 1.0,
+          "tone_move": 1.0
+        }
+      },
+      "world": "wet streets, alley reflections, neon signs in rain, anonymous urban space at 02:00 \u2014 danger aestheticised",
+      "camera_system": "Cooke S4/i anamorphic primes, ARRI Alexa Mini LF \u2014 horizontal lens flare signature",
+      "film": "Kodak 5219 500T \u2014 heavy grain in shadows, deep blacks, colour isolation, halation on practicals",
+      "lighting_primary": "neon practical: red and blue mixed from signage above, colour isolation in darkness",
+      "lighting_secondary": "sodium vapour 2100K backlight \u2014 wet surface reflections as secondary fill",
+      "motion_character": "slow Steadicam push through wet space \u2014 reveal from shadow into pool of neon light",
+      "anchor_text": "neon colour palette + rain + deep shadow ratio + grain consistency",
+      "full_anchor": "[Visual DNA \u2014 embed unchanged in every clip] Consistent emotional register and colour temperature throughout. Each shot's aesthetic serves its moment. Temporal energy consistency.",
+      "seed_phrase": "f37a6248",
+      "topic": "isa"
+    },
+    "aesthetic_plan": {
+      "mode": "multi",
+      "primary": "urban_noir",
+      "shot_aesthetics": {
+        "HOOK": "urban_noir",
+        "WEIGHT": "cinematic_dark",
+        "INTRUSION": "photorealistic_documentary",
+        "MECHANISM": "hyperreal_macro",
+        "PROOF": "luxury_aspirational",
+        "STAT_REVEAL": "lo_fi_authentic",
+        "MOVE": "hyperreal_macro"
+      },
+      "signals": {
+        "urgency_low": 0.0,
+        "urgency_mid": 0.9454545454545454,
+        "urgency_high": 0.0,
+        "urgency_extreme": 0.0,
+        "topic_finance": 1.0,
+        "topic_isa": 1.0,
+        "topic_pension": 0.0,
+        "topic_savings": 0.0,
+        "topic_mortgage": 0.0,
+        "topic_crypto": 0.0,
+        "topic_investment": 0.1,
+        "topic_wealth_gap": 0.1,
+        "tone_revelation": 0.3,
+        "tone_evidence": 1.0,
+        "tone_anger": 0.1,
+        "tone_injustice": 0.1,
+        "tone_weight": 0.3,
+        "tone_aspiration": 0.2,
+        "tone_authority": 1.0,
+        "tone_relatable": 1.0,
+        "tone_investigative": 0.2,
+        "tone_surprise": 0.2,
+        "tone_mechanism": 1.0,
+        "tone_historical": 0.1,
+        "tone_data": 1.0,
+        "tone_move": 1.0
+      }
+    },
+    "shot_list": [
+      {
+        "index": 0,
+        "type": "HOOK",
+        "duration_s": 5,
+        "brief_section": "INTRUSION",
+        "intent": "Stop the scroll. Establish tension before explanation.",
+        "source_text": "",
+        "has_human": false,
+        "money_value": null,
+        "prompt": "Shot 1 (0\u20135s): World: wet streets, alley reflections, neon signs in rain, anonymous urban space at 02:00 \u2014 danger aestheticised. Camera system: Cooke S4/i anamorphic primes, ARRI Alexa Mini LF \u2014 horizontal lens flare signature.  Empty office desk. Untouched ISA paperwork sits under a paperweight. A phone screen lights up \u2014 notification unseen. Optics: 24mm lens, f/2.0, wide field, slight environmental distortion. Camera: static for 0.5 seconds, then aggressive slow dolly forward. Lighting: neon practical: red and blue mixed from signage above, colour isolation in darkness. single overhead practical tungsten 3200K, pool of light, surrounding darkness, isolation. Film stock: Kodak 5219 500T \u2014 heavy grain in shadows, deep blacks, colour isolation, halation on practicals. Atmosphere: steam or breath barely visible in cold air, secondary motion from ventilation barely stirs any fabric. [Visual DNA \u2014 embed unchanged in every clip] Consistent emotional register and colour temperature throughout. Each shot's aesthetic serves its moment. Temporal energy consistency. Avoid: watermarks, text overlays, subtitle artifacts, camera jitter, morphing surfaces, flickering light, inconsistent shadows. Also avoid: daylight, clean environments, cheerful colour palettes, studio lighting, suburban domesticity.",
+        "negative_prompt": "blur, distortion, watermark, text overlay, low quality, compression artifacts, flickering, inconsistent lighting, morphing faces, morphing textures, oversaturation, plastic skin, smooth waxy texture, artificial bokeh halos, readable account numbers, readable financial data, screen moir\u00e9, daylight, clean environments, cheerful colour palettes, studio lighting, suburban domesticity",
+        "component_registry": {
+          "shot_index": 0,
+          "shot_type": "HOOK",
+          "aesthetic_key": "urban_noir",
+          "aesthetic_label": "Urban Noir",
+          "overrides_camera": false,
+          "components": [
+            "24mm lens, f/2.0, wide field, slight environmental distortion",
+            "static for 0.5 seconds, then aggressive slow dolly forward",
+            "single overhead practical tungsten 3200K, pool of light, surrounding darkness, isolation",
+            "Kodak 5219 500T \u2014 heavy grain in shadows, deep blacks, colour isolation, halation on practicals",
+            "steam or breath barely visible in cold air, secondary motion from ventilation barely stirs any fabric"
+          ],
+          "action_line": "Empty office desk. Untouched ISA paperwork sits under a paperweight. A phone screen lights up \u2014 notification unseen.",
+          "optics": "24mm lens, f/2.0, wide field, slight environmental distortion",
+          "motion": "static for 0.5 seconds, then aggressive slow dolly forward",
+          "lighting": "neon practical: red and blue mixed from signage above, colour isolation in darkness. single overhead practical tungsten 3200K, pool of light, surrounding darkness, isolation",
+          "film_stock": "Kodak 5219 500T \u2014 heavy grain in shadows, deep blacks, colour isolation, halation on practicals",
+          "dna_anchor": "neon colour palette + rain + deep shadow ratio + grain consistency"
+        },
+        "aesthetic_key": "urban_noir",
+        "aesthetic_label": "Urban Noir",
+        "fal_params": {
+          "duration": 5,
+          "aspect_ratio": "9:16",
+          "mode": "pro"
+        }
+      },
+      {
+        "index": 1,
+        "type": "MECHANISM",
+        "duration_s": 5,
+        "brief_section": "MECHANISM",
+        "intent": "Show how it works. Documentary observation, information discovered.",
+        "source_text": "",
+        "has_human": false,
+        "money_value": null,
+        "prompt": "Shot 2: World: extreme close-up of physical objects \u2014 paper fibres, metal grain, ink, fabric weave, glass surface \u2014 texture becomes landscape. Camera system: Canon EF 100mm L macro, bellows extension, f/4-f/8, extreme magnification ratio.  ISA wrapper mechanism shown through simple visual metaphor \u2014 money inside protected versus money outside taxed. Optics: 35mm lens, f/2.8, observational framing, handheld logic. Camera: slow lateral pan revealing context from left to right, camera moves at rhythm of information. Lighting: single raking side light at 10\u00b0 angle \u2014 surface texture revealed as topography. harsh overhead fluorescent 5600K, cold blue-white, flat institutional light, deep shadows beneath subject. Film stock: Fujichrome Velvia 100 \u2014 ultra-saturation, microscopic grain, hyper-sharp, colour density. Atmosphere: at 3-second mark, distant city light shifts slightly as cloud passes, barely perceptible ambient change. [Visual DNA \u2014 embed unchanged in every clip] Consistent emotional register and colour temperature throughout. Each shot's aesthetic serves its moment. Temporal energy consistency. Avoid: watermarks, text overlays, subtitle artifacts, camera jitter, morphing surfaces, flickering light, inconsistent shadows. Also avoid: wide establishing shots, human faces, architecture, depth of field, environmental context.",
+        "negative_prompt": "blur, distortion, watermark, text overlay, low quality, compression artifacts, flickering, inconsistent lighting, morphing faces, morphing textures, oversaturation, plastic skin, smooth waxy texture, artificial bokeh halos, readable account numbers, readable financial data, screen moir\u00e9, wide establishing shots, human faces, architecture, depth of field, environmental context",
+        "component_registry": {
+          "shot_index": 1,
+          "shot_type": "MECHANISM",
+          "aesthetic_key": "hyperreal_macro",
+          "aesthetic_label": "Hyperreal Macro",
+          "overrides_camera": false,
+          "components": [
+            "35mm lens, f/2.8, observational framing, handheld logic",
+            "slow lateral pan revealing context from left to right, camera moves at rhythm of information",
+            "harsh overhead fluorescent 5600K, cold blue-white, flat institutional light, deep shadows beneath subject",
+            "Fujichrome Velvia 100 \u2014 ultra-saturation, microscopic grain, hyper-sharp, colour density",
+            "at 3-second mark, distant city light shifts slightly as cloud passes, barely perceptible ambient change"
+          ],
+          "action_line": "ISA wrapper mechanism shown through simple visual metaphor \u2014 money inside protected versus money outside taxed.",
+          "optics": "35mm lens, f/2.8, observational framing, handheld logic",
+          "motion": "slow lateral pan revealing context from left to right, camera moves at rhythm of information",
+          "lighting": "single raking side light at 10\u00b0 angle \u2014 surface texture revealed as topography. harsh overhead fluorescent 5600K, cold blue-white, flat institutional light, deep shadows beneath subject",
+          "film_stock": "Fujichrome Velvia 100 \u2014 ultra-saturation, microscopic grain, hyper-sharp, colour density",
+          "dna_anchor": "neon colour palette + rain + deep shadow ratio + grain consistency"
+        },
+        "aesthetic_key": "hyperreal_macro",
+        "aesthetic_label": "Hyperreal Macro",
+        "fal_params": {
+          "duration": 5,
+          "aspect_ratio": "9:16",
+          "mode": "pro"
+        }
+      },
+      {
+        "index": 2,
+        "type": "MOVE",
+        "duration_s": 5,
+        "brief_section": "MOVE",
+        "intent": "Resolution energy. Forward motion. The action the viewer must take.",
+        "source_text": "",
+        "has_human": false,
+        "money_value": null,
+        "prompt": "Shot 3: World: extreme close-up of physical objects \u2014 paper fibres, metal grain, ink, fabric weave, glass surface \u2014 texture becomes landscape. Camera system: Canon EF 100mm L macro, bellows extension, f/4-f/8, extreme magnification ratio.  Person at a laptop. ISA application page open. Cursor moves. The action is being taken. Camera moves with the resolution. Optics: 35mm lens, f/2.0, forward motion framing, camera advances with subject. Camera: camera accelerates forward with subject, parallax on background architecture. Lighting: single raking side light at 10\u00b0 angle \u2014 surface texture revealed as topography. single overhead practical tungsten 3200K, pool of light, surrounding darkness, isolation. Film stock: Fujichrome Velvia 100 \u2014 ultra-saturation, microscopic grain, hyper-sharp, colour density. Atmosphere: warm practical light flickers once at 2 seconds \u2014 power-grid suggestion \u2014 then stabilises. [Visual DNA \u2014 embed unchanged in every clip] Consistent emotional register and colour temperature throughout. Each shot's aesthetic serves its moment. Temporal energy consistency. Avoid: watermarks, text overlays, subtitle artifacts, camera jitter, morphing surfaces, flickering light, inconsistent shadows. Also avoid: wide establishing shots, human faces, architecture, depth of field, environmental context.",
+        "negative_prompt": "blur, distortion, watermark, text overlay, low quality, compression artifacts, flickering, inconsistent lighting, morphing faces, morphing textures, oversaturation, plastic skin, smooth waxy texture, artificial bokeh halos, readable account numbers, readable financial data, screen moir\u00e9, wide establishing shots, human faces, architecture, depth of field, environmental context",
+        "component_registry": {
+          "shot_index": 2,
+          "shot_type": "MOVE",
+          "aesthetic_key": "hyperreal_macro",
+          "aesthetic_label": "Hyperreal Macro",
+          "overrides_camera": false,
+          "components": [
+            "35mm lens, f/2.0, forward motion framing, camera advances with subject",
+            "camera accelerates forward with subject, parallax on background architecture",
+            "single overhead practical tungsten 3200K, pool of light, surrounding darkness, isolation",
+            "Fujichrome Velvia 100 \u2014 ultra-saturation, microscopic grain, hyper-sharp, colour density",
+            "warm practical light flickers once at 2 seconds \u2014 power-grid suggestion \u2014 then stabilises"
+          ],
+          "action_line": "Person at a laptop. ISA application page open. Cursor moves. The action is being taken. Camera moves with the resolution.",
+          "optics": "35mm lens, f/2.0, forward motion framing, camera advances with subject",
+          "motion": "camera accelerates forward with subject, parallax on background architecture",
+          "lighting": "single raking side light at 10\u00b0 angle \u2014 surface texture revealed as topography. single overhead practical tungsten 3200K, pool of light, surrounding darkness, isolation",
+          "film_stock": "Fujichrome Velvia 100 \u2014 ultra-saturation, microscopic grain, hyper-sharp, colour density",
+          "dna_anchor": "neon colour palette + rain + deep shadow ratio + grain consistency"
+        },
+        "aesthetic_key": "hyperreal_macro",
+        "aesthetic_label": "Hyperreal Macro",
+        "fal_params": {
+          "duration": 5,
+          "aspect_ratio": "9:16",
+          "mode": "pro"
+        }
+      }
+    ],
+    "genome_generation": 2,
+    "seed_phrase": "f37a6248",
+    "total_shots": 3,
+    "total_duration_s": 15,
+    "generated_at": "2026-03-19T06:00:04.590311"
+  },
+  "audio_alignment": true
+}

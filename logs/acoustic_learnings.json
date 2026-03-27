@@ -1,0 +1,13 @@
+{
+  "date": "2026-03-26",
+  "data_points": 61,
+  "profile_means": {
+    "medium": 41.0
+  },
+  "winner_profile": null,
+  "winner_config": {
+    "reverb_tail_ms": 400,
+    "pre_delay_ms": 25,
+    "room_size": "medium"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "timestamp": "2026-03-24T11:15:26.699261",
+  "slot": 3,
+  "niche": "dark_psychology",
+  "niche_label": "Dark Psychology",
+  "topic": "Too much self-reflection is linked to anxiety and depression.",
+  "framework": {
+    "structure": "['The reason you'] + [Universal Relatable Behaviour] + ['is not'] + [Assumed Reason] + ['it is'] + [Dark Psychological Mechanism]",
+    "trigger": "Self-revelation \u2014 reframes a familiar experience with a disturbing explanation the viewer cannot unsee",
+    "example": "The reason you can't stop scrolling is not boredom. It is a dopamine loop engineered by behavioural scientists."
+  },
+  "script": {
+    "hook": "The reason you can't stop scrolling is not boredom. It is a dopamine loop engineered by behavioural scientists.",
+    "body": "This psychological mechanism gives an unfair advantage in every conversation.",
+    "cta": "Follow to see the ones they don't want you to find."
+  },
+  "full_script_text": "The reason you can't stop scrolling is not boredom. It is a dopamine loop engineered by behavioural scientists. This psychological mechanism gives an unfair advantage in every conversation. Follow to see the ones they don't want you to find.",
+  "visual_direction": {
+    "kling_prompt": "extreme close-up eyes in deep shadow, single side light source, no full faces, 9:16 vertical cinematic, psychological thriller, deep shadows",
+    "negative_prompt": "faces, logos, text overlays, watermarks"
+  },
+  "voice_settings": {
+    "voice_id": "TxGEqnHWrfWFTfGW9XjX",
+    "stability": 0.6,
+    "similarity": 0.88,
+    "style": 0.55,
+    "speed": 0.85,
+    "voice": "Josh"
+  },
+  "caption_text": "The reason you can't stop scrolling is not boredom. It is a dopamine loop engine",
+  "affiliate": "none_growth_mode",
+  "script_variant": "short",
+  "compliance_checked": true
+}

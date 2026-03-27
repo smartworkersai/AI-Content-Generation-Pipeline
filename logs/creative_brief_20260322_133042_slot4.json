@@ -1,0 +1,27 @@
+{
+  "timestamp": "2026-03-22T13:30:42.784978",
+  "slot": 4,
+  "niche": "micro_mystery",
+  "niche_label": "Micro-Mysteries",
+  "topic": "The scariest space fact that NASA tries to hide from us.",
+  "script": {
+    "hook": "The scariest space fact that NASA tries to hide from us.",
+    "body": "Scientists have no explanation for this. The data exists, the phenomenon is documented, but the answer has never been found.",
+    "cta": "Tag someone who needs to see this."
+  },
+  "full_script_text": "The scariest space fact that NASA tries to hide from us. Scientists have no explanation for this. The data exists, the phenomenon is documented, but the answer has never been found. Tag someone who needs to see this.",
+  "visual_direction": {
+    "kling_prompt": "deep space starfield or abandoned corridor, eerie dim lighting, fog effect, no people, 9:16 vertical cinematic, horror atmospheric, unsettling stillness",
+    "negative_prompt": "faces, logos, text overlays, watermarks, bright colours"
+  },
+  "voice_settings": {
+    "voice": "Josh",
+    "stability": 0.4,
+    "similarity": 0.88,
+    "style": 0.7,
+    "speed": 0.95
+  },
+  "caption_text": "The scariest space fact that NASA tries to hide from us.",
+  "affiliate": {},
+  "compliance_checked": true
+}

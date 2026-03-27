@@ -1,0 +1,58 @@
+/Users/kolly/HARBINGERHQ/scripts/agents/creative_synthesis.py:18: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  NOW       = datetime.datetime.utcnow()
+[2026-03-22 14:58:48 UTC] ============================================================
+[2026-03-22 14:58:48 UTC] AGENT 2: CREATIVE SYNTHESIS — VIRAL CONTENT (SLOT 7)
+[2026-03-22 14:58:48 UTC] ============================================================
+[2026-03-22 14:58:48 UTC] Niche: micro_mystery (CLI override)
+[2026-03-22 14:58:48 UTC] Variant:  SHORT (30-40 words (15 seconds spoken))
+[2026-03-22 14:58:48 UTC] Hook:  Nobody is talking about this: West Des Moines Police Have Made An Arrest In The April 2011.
+[2026-03-22 14:58:48 UTC] Generating script via Replicate (attempt 1)...
+[2026-03-22 14:58:48 UTC] Replicate generation failed: Error code: 404 - {'error': {'message': 'No endpoints found for meta-llama/llama-3.1-405b-instruct.', 'code': 404}, 'user_id': 'user_33sxpMMBfb9uoCdG5ceA6CpR7Nb'} — using template fallback
+[2026-03-22 14:58:48 UTC] SSML: injected <break time="0.8s"/> after hook
+[2026-03-22 14:58:48 UTC] Script: 40 words
+[2026-03-22 14:58:48 UTC] Creative brief saved: creative_brief_20260322_145848_slot7.json
+[2026-03-22 14:58:48 UTC] HOOK:   Nobody is talking about this: West Des Moines Police Have Made An Arrest In The April 2011.
+[2026-03-22 14:58:48 UTC] NICHE:  Micro-Mysteries
+[2026-03-22 14:58:48 UTC] BODY:   Scientists have no explanation. The data exists, but the answer was never found....
+[2026-03-22 14:58:48 UTC] ============================================================
+{
+  "timestamp": "2026-03-22T14:58:48.704562",
+  "slot": 7,
+  "niche": "micro_mystery",
+  "niche_label": "Micro-Mysteries",
+  "topic": "Nobody is talking about this: West Des Moines Police Have Made An Arrest In The April 2011.",
+  "script": {
+    "hook": "Nobody is talking about this: West Des Moines Police Have Made An Arrest In The April 2011.",
+    "body": "Scientists have no explanation. The data exists, but the answer was never found.",
+    "cta": "Follow so you do not miss the rest."
+  },
+  "full_script_text": "Nobody is talking about this: West Des Moines Police Have Made An Arrest In The April 2011. <break time=\"0.8s\"/> Scientists have no explanation. The data exists, but the answer was never found. Follow so you do not miss the rest.",
+  "visual_direction": {
+    "kling_prompt": "deep space starfield or abandoned corridor, eerie dim lighting, fog effect, no people, 9:16 vertical cinematic, horror atmospheric, unsettling stillness",
+    "negative_prompt": "faces, logos, text overlays, watermarks"
+  },
+  "voice_settings": {
+    "voice_id": "TxGEqnHWrfWFTfGW9XjX",
+    "stability": 0.7,
+    "similarity": 0.85,
+    "style": 0.45,
+    "speed": 0.8,
+    "voice": "Josh"
+  },
+  "caption_text": "Nobody is talking about this: West Des Moines Police Have Made An Arrest In The ",
+  "affiliate": {},
+  "script_variant": "short",
+  "compliance_checked": true
+}
+/Users/kolly/HARBINGERHQ/scripts/agents/quality_assessor.py:29: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  NOW       = datetime.datetime.utcnow()
+[2026-03-22 14:58:50 UTC] [quality_assessor] ============================================================
+[2026-03-22 14:58:50 UTC] [quality_assessor] QUALITY ASSESSOR — SLOT 7  (max retries: 3)
+[2026-03-22 14:58:50 UTC] [quality_assessor] ============================================================
+[2026-03-22 14:58:50 UTC] [quality_assessor] PASS — brief 'creative_brief_20260322_145848_slot7.json' passed all checks
+[2026-03-22 14:58:50 UTC] [quality_assessor]   Words:   40
+[2026-03-22 14:58:50 UTC] [quality_assessor]   Hook:    Nobody is talking about this: West Des Moines Police Have Ma
+[2026-03-22 14:58:50 UTC] [quality_assessor]   Niche:   Micro-Mysteries
+[2026-03-22 14:58:50 UTC] [quality_assessor] ============================================================
+/Users/kolly/HARBINGERHQ/scripts/agents/production_agent.py:24: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  NOW = datetime.datetime.utcnow()

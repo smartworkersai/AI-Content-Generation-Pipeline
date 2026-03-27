@@ -1,0 +1,16 @@
+{
+  "asymmetry": "New Scam",
+  "category": "government_failure",
+  "hook": "New Scam",
+  "core_fact": "Just received this by text. Called the number at the bottom and voice recording confirmed it was a scam. Show and tell your friends and family. ",
+  "villain": "UK corporations",
+  "share_trigger": "Did you see this? New Scam",
+  "search_query": "New Scam UK news 2026",
+  "keywords": [
+    "Scam"
+  ],
+  "estimated_anger_score": 193,
+  "timestamp": "2026-03-25T16:00:01.097301",
+  "slot": 5,
+  "findings_count": 451
+}

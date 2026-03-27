@@ -1,0 +1,95 @@
+{
+  "mode": "micro",
+  "slot": 4,
+  "timestamp": "2026-03-19T13:38:23.392919",
+  "prompt_genome": {
+    "status": "scored",
+    "videos_scored": 0,
+    "genome_generation": 1,
+    "components_retired": 0,
+    "mutations_added": 0
+  },
+  "caption_ab": {
+    "status": "no_data",
+    "message": "No caption metadata in manifests yet"
+  },
+  "loop_a_visual": {
+    "status": "complete",
+    "shot_scores": [],
+    "avg_visual_score": null,
+    "negative_prompt_additions": []
+  },
+  "timing": {
+    "source_file": "audio_alignment_20260319_133159_slot4.json",
+    "pre_hook_silence_ms": 330,
+    "hook_pace": {
+      "hook_wps": 4.33,
+      "hook_word_count": 13,
+      "hook_window_s": 3.0,
+      "hook_words": "[serious tone] Every pound you didn't put in an ISA this year is"
+    },
+    "delivery": {
+      "overall_wps": 2.08,
+      "zone_wps": {
+        "hook": 2.13,
+        "mechanism": 2.13,
+        "move": 1.99
+      },
+      "peak_zone": "hook",
+      "tempo_variance": 55.6,
+      "total_words": 161,
+      "duration_s": 77.34
+    },
+    "pauses_detected": 6,
+    "pause_map": [
+      {
+        "after_word": "permanently",
+        "before_word": "\u2014",
+        "pause_ms": 320,
+        "position_s": 14.522,
+        "position_pct": 0.188
+      },
+      {
+        "after_word": "recovered.",
+        "before_word": "HMRC",
+        "pause_ms": 373,
+        "position_s": 17.242,
+        "position_pct": 0.223
+      },
+      {
+        "after_word": "in",
+        "before_word": "1999.",
+        "pause_ms": 400,
+        "position_s": 23.867,
+        "position_pct": 0.309
+      },
+      {
+        "after_word": "disappears",
+        "before_word": "\u2014",
+        "pause_ms": 200,
+        "position_s": 28.891,
+        "position_pct": 0.374
+      },
+      {
+        "after_word": "over.",
+        "before_word": "The",
+        "pause_ms": 220,
+        "position_s": 32.085,
+        "position_pct": 0.415
+      },
+      {
+        "after_word": "life.",
+        "before_word": "But",
+        "pause_ms": 200,
+        "position_s": 38.702,
+        "position_pct": 0.5
+      }
+    ],
+    "structural_pauses": {
+      "after_hook_ms": 320,
+      "after_mechanism_ms": 400,
+      "before_move_ms": 0
+    },
+    "word_count": 161
+  }
+}

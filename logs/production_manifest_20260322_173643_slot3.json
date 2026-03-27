@@ -1,0 +1,51 @@
+{
+  "timestamp": "2026-03-22T17:36:43.821867",
+  "slot": 3,
+  "sound_profile": {
+    "sub_bass_db": -18,
+    "sub_bass_hz": 40,
+    "ambience_type": "server_hum"
+  },
+  "asymmetry": null,
+  "affiliate": "none_growth_mode",
+  "script": {
+    "hook": "4 websites that feel illegal to know about in 2026.",
+    "body": "Most people scroll past these tools every day without realising they exist. Once you know about them, you cannot un-know them.",
+    "cta": "Follow \u2014 there's more they're not saying."
+  },
+  "caption_text": "4 websites that feel illegal to know about in 2026.",
+  "visual_direction": {
+    "kling_prompt": "dark glowing computer screens with code, futuristic AI interface, neon blue and green, no faces, 9:16 vertical cinematic, cyberpunk, high contrast",
+    "negative_prompt": "faces, logos, text overlays, watermarks"
+  },
+  "voice_settings": {
+    "voice_id": "TxGEqnHWrfWFTfGW9XjX",
+    "stability": 0.3,
+    "similarity": 0.88,
+    "style": 0.85,
+    "speed": 1.1,
+    "voice": "Josh"
+  },
+  "visual_source": "broll_footage",
+  "audio": "/Users/kolly/HARBINGERHQ/output/voice_sfx_20260322_173643_slot3.mp3",
+  "video": "/Users/kolly/HARBINGERHQ/output/post_20260322_173643_slot3.mp4",
+  "quality_check": {
+    "file_size_mb": 14.09,
+    "size_ok": true,
+    "resolution": "1080x1920",
+    "resolution_ok": true,
+    "duration_s": 18.9,
+    "duration_ok": true
+  },
+  "prompt_metadata": {
+    "visual_source": "broll_footage",
+    "shot_list": []
+  },
+  "audio_alignment": true,
+  "ffmpeg_evolution_params": {
+    "zoom_factor": 0.15,
+    "ssml_break_secs": 0.8,
+    "prompt_version": 1
+  },
+  "script_variant": "long"
+}

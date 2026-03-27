@@ -1,0 +1,41 @@
+{
+  "timestamp": "2026-03-27T13:30:27.488272",
+  "slot": 4,
+  "brief_evaluated": "creative_brief_20260327_133026_slot4.json",
+  "overall_chain_score": 4.6,
+  "weakest_link": "visual_identity_precondition",
+  "rewrite_required": true,
+  "corrective_directives": [
+    "Rewrite visual_direction.kling_prompt to open with an extreme close-up of something ordinary made unsettling \u2014 a number on a screen, a hand, a phone notification.",
+    "Add a named UK regulatory body or specific percentage/figure with source in THE MECHANISM section. E.g. 'FCA data shows X% of Y in 2024'.",
+    "Rewrite THE MOVE so 'none_growth_mode' is introduced as the direct answer to the vulnerability just exposed. The viewer should feel the affiliate is obvious, not pitched."
+  ],
+  "chain_scores": {
+    "visual_identity_precondition": {
+      "score": 4,
+      "failure": "Visual prompt is generic \u2014 no emotional priming. Add cold, high-contrast, close-up framing that creates unease before the mechanism is named.",
+      "directive": "Rewrite visual_direction.kling_prompt to open with an extreme close-up of something ordinary made unsettling \u2014 a number on a screen, a hand, a phone notification."
+    },
+    "mechanism_specificity": {
+      "score": 4,
+      "failure": "Mechanism lacks a named UK source or specific verifiable claim. Viewers share specifics, not descriptions.",
+      "directive": "Add a named UK regulatory body or specific percentage/figure with source in THE MECHANISM section. E.g. 'FCA data shows X% of Y in 2024'."
+    },
+    "emotional_arc_to_cta": {
+      "score": 5,
+      "failure": "CTA is absent or too short to resolve the tension the intrusion created.",
+      "directive": "The MOVE section must name the action, make it feel urgent (time-bounded or quantity-bounded), and connect explicitly to the mechanism just named. Don't explain \u2014 instruct."
+    },
+    "affiliate_as_conclusion": {
+      "score": 4,
+      "failure": "Affiliate 'none_growth_mode' not mentioned in THE MOVE \u2014 affiliate will feel like an interruption, not a conclusion.",
+      "directive": "Rewrite THE MOVE so 'none_growth_mode' is introduced as the direct answer to the vulnerability just exposed. The viewer should feel the affiliate is obvious, not pitched."
+    },
+    "comment_trigger_structural": {
+      "score": 6,
+      "failure": "",
+      "directive": ""
+    }
+  },
+  "evaluation_method": "heuristic"
+}

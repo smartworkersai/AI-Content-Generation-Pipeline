@@ -1,0 +1,81 @@
+{
+  "timestamp": "2026-03-25T13:31:07.280585",
+  "slot": 4,
+  "sound_profile": {
+    "sub_bass_db": -22.0,
+    "sub_bass_hz": 40,
+    "ambience_type": "server_hum"
+  },
+  "asymmetry": null,
+  "affiliate": "none_growth_mode",
+  "script": {
+    "hook": "Psychologists have known this negotiation trick for 40 years. It was never taught in schools because it is too effective.",
+    "body": "Psychologists have known this for decades but it never makes it into mainstream education. The people who use this have an unfair advantage in every conversation.",
+    "cta": "Comment KNEW if you already knew this."
+  },
+  "caption_text": "Psychologists have known this negotiation trick for 40 years. It was never taugh",
+  "visual_direction": {
+    "kling_prompt": "extreme close-up eyes in deep shadow, single side light source, no full faces, 9:16 vertical cinematic, psychological thriller, deep shadows",
+    "negative_prompt": "faces, logos, text overlays, watermarks"
+  },
+  "voice_settings": {
+    "voice_id": "TxGEqnHWrfWFTfGW9XjX",
+    "stability": 0.6,
+    "similarity": 0.88,
+    "style": 0.55,
+    "speed": 0.85,
+    "voice": "Josh"
+  },
+  "visual_source": "broll_footage",
+  "audio": "/Users/kolly/HARBINGERHQ/output/voice_sfx_20260325_133107_slot4.mp3",
+  "video": "/Users/kolly/HARBINGERHQ/output/post_20260325_133107_slot4.mp4",
+  "quality_check": {
+    "file_size_mb": 13.84,
+    "size_ok": true,
+    "resolution": "1080x1920",
+    "resolution_ok": true,
+    "duration_s": 22.8,
+    "duration_ok": true
+  },
+  "prompt_metadata": {
+    "visual_source": "broll_footage",
+    "shot_list": []
+  },
+  "audio_alignment": true,
+  "ffmpeg_evolution_params": {
+    "zoom_factor": 0.15,
+    "ssml_break_secs": 0.8,
+    "prompt_version": 1
+  },
+  "script_variant": "long",
+  "qa_gate": {
+    "passed": true,
+    "checks": [
+      {
+        "name": "audio_stream",
+        "passed": true,
+        "detail": "Audio stream present: codec=aac channels=1"
+      },
+      {
+        "name": "volume",
+        "passed": true,
+        "detail": "Volume OK: max_volume=-1.2dB, mean=-18.8dB"
+      },
+      {
+        "name": "duration",
+        "passed": true,
+        "detail": "Duration OK: 22.8s"
+      },
+      {
+        "name": "file_size",
+        "passed": true,
+        "detail": "File size OK: 13.84MB"
+      }
+    ]
+  },
+  "garbage_collection": {
+    "deleted": 5,
+    "freed_mb": 1.4,
+    "errors": 0
+  }
+}

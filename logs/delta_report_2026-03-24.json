@@ -1,0 +1,240 @@
+{
+  "date": "2026-03-24",
+  "visual_frame_gap": {
+    "score": 0.0,
+    "top_3_patterns_to_adopt": [],
+    "viral_avg": 0.0,
+    "harbinger_avg": 0.0
+  },
+  "silence_winner": {
+    "after_intrusion": {
+      "label": "400-500",
+      "ms": 450,
+      "mean_views": 131.0
+    },
+    "after_mechanism": {
+      "label": "200-300",
+      "ms": 250,
+      "mean_views": 131.0
+    },
+    "before_move": {
+      "label": "300-400",
+      "ms": 350,
+      "mean_views": 131.0
+    }
+  },
+  "sound_ab_current_test": {
+    "variable": "ambience_type",
+    "stage_winner_today": null,
+    "locked_variables": {
+      "sub_bass_db": -22.0
+    }
+  },
+  "captured_score_today": 0.0,
+  "acoustic_winner": null,
+  "trust_signal_summary": {
+    "avg_trust_score": 4.3,
+    "briefs_scored": 20,
+    "flagged_auto_retry": [],
+    "flagged_review": [
+      "creative_brief_20260324_210039_slot7",
+      "creative_brief_20260324_210035_slot7",
+      "creative_brief_20260324_183029_slot6",
+      "creative_brief_20260324_183027_slot6",
+      "creative_brief_20260324_160029_slot5",
+      "creative_brief_20260324_160027_slot5",
+      "creative_brief_20260324_133028_slot4",
+      "creative_brief_20260324_133026_slot4",
+      "creative_brief_20260324_111529_slot3",
+      "creative_brief_20260324_111526_slot3",
+      "creative_brief_20260323_210206_slot7",
+      "creative_brief_20260323_210128_slot7",
+      "creative_brief_20260323_183106_slot6",
+      "creative_brief_20260323_183033_slot6",
+      "creative_brief_20260323_160115_slot5",
+      "creative_brief_20260323_160038_slot5",
+      "creative_brief_20260323_133109_slot4",
+      "creative_brief_20260323_133033_slot4",
+      "creative_brief_20260323_110121_slot3",
+      "creative_brief_20260323_110045_slot3"
+    ],
+    "retired_this_run": []
+  },
+  "loop_b_pattern_summary": {
+    "avg_chain_score": 5.3,
+    "rewrite_rate": 0.8,
+    "worst_links": {
+      "mechanism_specificity": 5.4,
+      "affiliate_as_conclusion": 5.8
+    },
+    "structural_improvements_added": 2
+  },
+  "overall_learning_velocity": 0,
+  "directives_updated": [
+    "instructions"
+  ],
+  "loop_results": {
+    "first_frame": {
+      "viral_avg_score": 0.0,
+      "harbinger_avg_score": 0.0,
+      "gap_score": 0.0,
+      "top_patterns": []
+    },
+    "silence_geometry": {
+      "data_points": 61,
+      "winners": {
+        "after_intrusion": {
+          "label": "400-500",
+          "ms": 450,
+          "mean_views": 131.0
+        },
+        "after_mechanism": {
+          "label": "200-300",
+          "ms": 250,
+          "mean_views": 131.0
+        },
+        "before_move": {
+          "label": "300-400",
+          "ms": 350,
+          "mean_views": 131.0
+        }
+      }
+    },
+    "sound_ab": {
+      "current_stage": "ambience_type",
+      "stage_start_date": "2026-03-23",
+      "total_observations": 58,
+      "locked_variables": {
+        "sub_bass_db": -22.0
+      }
+    },
+    "visual_language": {
+      "mean_captured_score": 0.0,
+      "failing_elements": [],
+      "captured_elements": []
+    },
+    "acoustic_space": {
+      "winner_profile": null,
+      "config": {
+        "reverb_tail_ms": 400,
+        "pre_delay_ms": 25,
+        "room_size": "medium"
+      },
+      "profile_means": {
+        "medium": 38.0
+      }
+    },
+    "caption_ab": {
+      "status": "no_data",
+      "message": "No caption metadata in manifests yet"
+    },
+    "prompt_genome": {
+      "status": "scored",
+      "videos_scored": 0,
+      "genome_generation": 1,
+      "components_retired": 0,
+      "mutations_added": 0
+    },
+    "trust_signal": {
+      "briefs_scored": 20,
+      "avg_trust_score": 4.3,
+      "flagged_auto_retry": [],
+      "flagged_review": [
+        "creative_brief_20260324_210039_slot7",
+        "creative_brief_20260324_210035_slot7",
+        "creative_brief_20260324_183029_slot6",
+        "creative_brief_20260324_183027_slot6",
+        "creative_brief_20260324_160029_slot5",
+        "creative_brief_20260324_160027_slot5",
+        "creative_brief_20260324_133028_slot4",
+        "creative_brief_20260324_133026_slot4",
+        "creative_brief_20260324_111529_slot3",
+        "creative_brief_20260324_111526_slot3",
+        "creative_brief_20260323_210206_slot7",
+        "creative_brief_20260323_210128_slot7",
+        "creative_brief_20260323_183106_slot6",
+        "creative_brief_20260323_183033_slot6",
+        "creative_brief_20260323_160115_slot5",
+        "creative_brief_20260323_160038_slot5",
+        "creative_brief_20260323_133109_slot4",
+        "creative_brief_20260323_133033_slot4",
+        "creative_brief_20260323_110121_slot3",
+        "creative_brief_20260323_110045_slot3"
+      ],
+      "retired_this_run": [],
+      "correlation_sample_size": 274,
+      "correlation_data": [
+        {
+          "brief_id": "creative_brief_20260310_190131_slot5",
+          "trust_score": 8.38,
+          "completion_rate": 0,
+          "shares": 0
+        },
+        {
+          "brief_id": "creative_brief_20260310_170651_slot5",
+          "trust_score": 9.22,
+          "completion_rate": 0,
+          "shares": 0
+        },
+        {
+          "brief_id": "creative_brief_20260310_170554_slot5",
+          "trust_score": 8.38,
+          "completion_rate": 0,
+          "shares": 0
+        },
+        {
+          "brief_id": "creative_brief_20260309_184734_slot5",
+          "trust_score": 7.78,
+          "completion_rate": 0,
+          "shares": 0
+        },
+        {
+          "brief_id": "creative_brief_20260309_183835_slot5",
+          "trust_score": 7.98,
+          "completion_rate": 0,
+          "shares": 0
+        },
+        {
+          "brief_id": "creative_brief_20260311_190131_slot5",
+          "trust_score": 8.58,
+          "completion_rate": 0,
+          "shares": 0
+        },
+        {
+          "brief_id": "creative_brief_20260315_160204_slot5",
+          "trust_score": 9.2,
+          "completion_rate": 0,
+          "shares": 0
+        },
+        {
+          "brief_id": "creative_brief_20260313_160131_slot5",
+          "trust_score": 8.43,
+          "completion_rate": 0,
+          "shares": 0
+        },
+        {
+          "brief_id": "creative_brief_20260312_160132_slot5",
+          "trust_score": 8.58,
+          "completion_rate": 0,
+          "shares": 0
+        },
+        {
+          "brief_id": "creative_brief_20260317_160218_slot5",
+          "trust_score": 8.43,
+          "completion_rate": 0,
+          "shares": 0
+        }
+      ]
+    },
+    "loop_b_patterns": {
+      "status": "complete",
+      "avg_chain_score": 5.3,
+      "rewrite_rate": 0.8,
+      "worst_links": {
+        "mechanism_specificity": 5.4,
+        "affiliate_as_conclusion": 5.8
+      },
+      "structural_improvements_added": 2
+    }
+  }
+}

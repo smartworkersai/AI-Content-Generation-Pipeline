@@ -1,0 +1,29 @@
+{
+  "timestamp": "2026-03-22T14:28:01.649138",
+  "slot": 8,
+  "niche": "micro_mystery",
+  "niche_label": "Micro-Mysteries",
+  "topic": "Nobody is talking about this: The unsettling case of Gursimran Kaur (2024): 19 year old gi.",
+  "script": {
+    "hook": "Nobody is talking about this: The unsettling case of Gursimran Kaur (2024): 19 year old gi.",
+    "body": "Scientists have no explanation. The data exists, but the answer was never found.",
+    "cta": "Save this \u2014 you will need it."
+  },
+  "full_script_text": "Nobody is talking about this: The unsettling case of Gursimran Kaur (2024): 19 year old gi. <break time=\"0.8s\"/> Scientists have no explanation. The data exists, but the answer was never found. Save this \u2014 you will need it.",
+  "visual_direction": {
+    "kling_prompt": "deep space starfield or abandoned corridor, eerie dim lighting, fog effect, no people, 9:16 vertical cinematic, horror atmospheric, unsettling stillness",
+    "negative_prompt": "faces, logos, text overlays, watermarks"
+  },
+  "voice_settings": {
+    "voice_id": "TxGEqnHWrfWFTfGW9XjX",
+    "stability": 0.7,
+    "similarity": 0.85,
+    "style": 0.45,
+    "speed": 0.8,
+    "voice": "Josh"
+  },
+  "caption_text": "Nobody is talking about this: The unsettling case of Gursimran Kaur (2024): 19 y",
+  "affiliate": {},
+  "script_variant": "short",
+  "compliance_checked": true
+}

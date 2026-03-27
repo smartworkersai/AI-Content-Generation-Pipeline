@@ -1,0 +1,133 @@
+{
+  "mode": "micro",
+  "slot": 5,
+  "timestamp": "2026-03-21T16:04:55.835526",
+  "prompt_genome": {
+    "status": "scored",
+    "videos_scored": 0,
+    "genome_generation": 1,
+    "components_retired": 0,
+    "mutations_added": 0
+  },
+  "caption_ab": {
+    "status": "no_data",
+    "message": "No caption metadata in manifests yet"
+  },
+  "loop_a_visual": {
+    "status": "complete",
+    "shot_scores": [
+      {
+        "score": 4,
+        "executed_well": [
+          "Dark atmospheric mood with dusk/evening lighting suits financial urgency",
+          "Documents/papers visible on desk reinforce financial paperwork theme",
+          "No faces or people present as intended",
+          "9:16 vertical framing correct",
+          "City lights at dusk create some cinematic quality"
+        ],
+        "failed_elements": [
+          "Wide establishing shot instead of extreme close-up bank statement paper texture",
+          "Warm amber desk lamp light directly contradicts the intended cold fluorescent overhead lighting",
+          "Sharp downward shadows not present \u2014 lamp creates soft diffused warm glow",
+          "Numbers on documents not legible at all \u2014 too far away",
+          "Overall composition feels like a generic office/lifestyle shot rather than documentary realism focused on financial documents",
+          "Smartphone on desk is distracting and anachronistic to the intended sterile document aesthetic",
+          "Paper documents visible but not the focal point \u2014 camera too far back",
+          "Warm colour palette (amber, orange sunset) contradicts intended cold palette",
+          "Scene feels aspirational/premium rather than urgent/clinical"
+        ],
+        "negative_prompt_additions": [
+          "no warm amber lighting",
+          "no desk lamps with warm glow",
+          "no sunset or dusk backgrounds visible through windows",
+          "no wide establishing shots",
+          "no smartphones or electronic devices",
+          "no cityscape backgrounds",
+          "no premium office aesthetic",
+          "no soft diffused lighting",
+          "avoid wide angle compositions showing full desk surface"
+        ],
+        "label": "MOVE",
+        "time_s": 64.0
+      }
+    ],
+    "avg_visual_score": 4.0,
+    "negative_prompt_additions": [
+      "no warm amber lighting",
+      "no desk lamps with warm glow",
+      "no sunset or dusk backgrounds visible through windows",
+      "no wide establishing shots",
+      "no smartphones or electronic devices",
+      "no cityscape backgrounds",
+      "no premium office aesthetic",
+      "no soft diffused lighting",
+      "avoid wide angle compositions showing full desk surface"
+    ]
+  },
+  "timing": {
+    "source_file": "audio_alignment_20260321_160115_slot5.json",
+    "pre_hook_silence_ms": 261,
+    "hook_pace": {
+      "hook_wps": 4.67,
+      "hook_word_count": 14,
+      "hook_window_s": 3.0,
+      "hook_words": "[serious tone] Every pound you didn't put in an ISA this year is gone"
+    },
+    "delivery": {
+      "overall_wps": 2.07,
+      "zone_wps": {
+        "hook": 2.17,
+        "mechanism": 2.29,
+        "move": 1.9
+      },
+      "peak_zone": "mechanism",
+      "tempo_variance": 59.0,
+      "total_words": 153,
+      "duration_s": 74.06
+    },
+    "pauses_detected": 5,
+    "pause_map": [
+      {
+        "after_word": "permanently",
+        "before_word": "\u2014",
+        "pause_ms": 320,
+        "position_s": 14.355,
+        "position_pct": 0.194
+      },
+      {
+        "after_word": "recovered.",
+        "before_word": "HMRC",
+        "pause_ms": 346,
+        "position_s": 17.315,
+        "position_pct": 0.234
+      },
+      {
+        "after_word": "disappears",
+        "before_word": "\u2014",
+        "pause_ms": 240,
+        "position_s": 29.136,
+        "position_pct": 0.393
+      },
+      {
+        "after_word": "permanently.",
+        "before_word": "It",
+        "pause_ms": 213,
+        "position_s": 30.256,
+        "position_pct": 0.409
+      },
+      {
+        "after_word": "the",
+        "before_word": "2022-23",
+        "pause_ms": 480,
+        "position_s": 57.299,
+        "position_pct": 0.774
+      }
+    ],
+    "structural_pauses": {
+      "after_hook_ms": 320,
+      "after_mechanism_ms": 240,
+      "before_move_ms": 480
+    },
+    "word_count": 153
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "asymmetry": "Your bankruptcy lawyer is legally allowed to send a random stranger to represent you in court for \u00a360 while charging you thousands.",
+  "category": "banking_ripoff",
+  "hook": "Your lawyer isn't showing up. A stranger is.",
+  "core_fact": "A website called MyMotionCalendar.com lets high-volume bankruptcy law firms hire random unqualified strangers for $75 to physically appear at your court hearing as a 'placeholder' \u2014 while you paid your actual attorney thousands of pounds for representation.",
+  "villain": "High-volume bankruptcy law firms exploiting a legal loophole to ghost their own clients in court",
+  "share_trigger": "Did you see this? Your solicitor can literally hire a random off the street to go to court instead of them and it's completely legal.",
+  "search_query": "bankruptcy attorney sending stranger to court instead of showing up hearing substitute appearance lawyer",
+  "keywords": [
+    "bankruptcy court hearing",
+    "lawyer not showing up",
+    "substitute attorney appearance",
+    "legal loophole exposed",
+    "bankruptcy firm scam",
+    "court representation fraud",
+    "solicitor negligence UK",
+    "MyMotionCalendar"
+  ],
+  "estimated_anger_score": 87,
+  "timestamp": "2026-03-23T13:30:01.099025",
+  "slot": 4,
+  "findings_count": 430
+}

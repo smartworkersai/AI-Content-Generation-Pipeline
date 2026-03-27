@@ -1,0 +1,88 @@
+{
+  "mode": "micro",
+  "slot": 3,
+  "timestamp": "2026-03-19T11:06:15.429080",
+  "prompt_genome": {
+    "status": "scored",
+    "videos_scored": 0,
+    "genome_generation": 1,
+    "components_retired": 0,
+    "mutations_added": 0
+  },
+  "caption_ab": {
+    "status": "no_data",
+    "message": "No caption metadata in manifests yet"
+  },
+  "loop_a_visual": {
+    "status": "complete",
+    "shot_scores": [],
+    "avg_visual_score": null,
+    "negative_prompt_additions": []
+  },
+  "timing": {
+    "source_file": "audio_alignment_20260319_110233_slot3.json",
+    "pre_hook_silence_ms": 138,
+    "hook_pace": {
+      "hook_wps": 3.33,
+      "hook_word_count": 10,
+      "hook_window_s": 3.0,
+      "hook_words": "[serious tone] Your pension manager is legally betting your retirement"
+    },
+    "delivery": {
+      "overall_wps": 2.03,
+      "zone_wps": {
+        "hook": 2.07,
+        "mechanism": 2.15,
+        "move": 1.89
+      },
+      "peak_zone": "mechanism",
+      "tempo_variance": 45.0,
+      "total_words": 154,
+      "duration_s": 75.88
+    },
+    "pauses_detected": 5,
+    "pause_map": [
+      {
+        "after_word": "72.",
+        "before_word": "It",
+        "pause_ms": 213,
+        "position_s": 18.996,
+        "position_pct": 0.25
+      },
+      {
+        "after_word": "gap.",
+        "before_word": "It",
+        "pause_ms": 240,
+        "position_s": 30.382,
+        "position_pct": 0.4
+      },
+      {
+        "after_word": "gap.",
+        "before_word": "The",
+        "pause_ms": 280,
+        "position_s": 32.862,
+        "position_pct": 0.433
+      },
+      {
+        "after_word": "years.",
+        "before_word": "Most",
+        "pause_ms": 224,
+        "position_s": 43.795,
+        "position_pct": 0.577
+      },
+      {
+        "after_word": "years.",
+        "before_word": "None",
+        "pause_ms": 224,
+        "position_s": 60.955,
+        "position_pct": 0.803
+      }
+    ],
+    "structural_pauses": {
+      "after_hook_ms": 0,
+      "after_mechanism_ms": 213,
+      "before_move_ms": 224
+    },
+    "word_count": 154
+  }
+}

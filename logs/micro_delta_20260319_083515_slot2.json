@@ -1,0 +1,95 @@
+{
+  "mode": "micro",
+  "slot": 2,
+  "timestamp": "2026-03-19T08:35:15.598586",
+  "prompt_genome": {
+    "status": "scored",
+    "videos_scored": 0,
+    "genome_generation": 1,
+    "components_retired": 0,
+    "mutations_added": 0
+  },
+  "caption_ab": {
+    "status": "no_data",
+    "message": "No caption metadata in manifests yet"
+  },
+  "loop_a_visual": {
+    "status": "complete",
+    "shot_scores": [],
+    "avg_visual_score": null,
+    "negative_prompt_additions": []
+  },
+  "timing": {
+    "source_file": "audio_alignment_20260319_083200_slot2.json",
+    "pre_hook_silence_ms": 266,
+    "hook_pace": {
+      "hook_wps": 4.33,
+      "hook_word_count": 13,
+      "hook_window_s": 3.0,
+      "hook_words": "[serious tone] Every pound you didn't put in an ISA this year is"
+    },
+    "delivery": {
+      "overall_wps": 2.08,
+      "zone_wps": {
+        "hook": 2.17,
+        "mechanism": 2.09,
+        "move": 2.0
+      },
+      "peak_zone": "hook",
+      "tempo_variance": 53.8,
+      "total_words": 160,
+      "duration_s": 76.89
+    },
+    "pauses_detected": 6,
+    "pause_map": [
+      {
+        "after_word": "permanently",
+        "before_word": "\u2014",
+        "pause_ms": 280,
+        "position_s": 14.21,
+        "position_pct": 0.185
+      },
+      {
+        "after_word": "recovered.",
+        "before_word": "HMRC",
+        "pause_ms": 346,
+        "position_s": 17.41,
+        "position_pct": 0.226
+      },
+      {
+        "after_word": "in",
+        "before_word": "1999.",
+        "pause_ms": 320,
+        "position_s": 23.635,
+        "position_pct": 0.307
+      },
+      {
+        "after_word": "disappears",
+        "before_word": "\u2014",
+        "pause_ms": 280,
+        "position_s": 28.908,
+        "position_pct": 0.376
+      },
+      {
+        "after_word": "life.",
+        "before_word": "But",
+        "pause_ms": 220,
+        "position_s": 39.212,
+        "position_pct": 0.51
+      },
+      {
+        "after_word": "billion",
+        "before_word": "in",
+        "pause_ms": 213,
+        "position_s": 55.417,
+        "position_pct": 0.721
+      }
+    ],
+    "structural_pauses": {
+      "after_hook_ms": 280,
+      "after_mechanism_ms": 320,
+      "before_move_ms": 213
+    },
+    "word_count": 160
+  }
+}

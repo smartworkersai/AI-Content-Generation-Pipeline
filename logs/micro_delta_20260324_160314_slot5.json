@@ -1,0 +1,23 @@
+{
+  "mode": "micro",
+  "slot": 5,
+  "timestamp": "2026-03-24T16:03:14.046337",
+  "prompt_genome": {
+    "status": "scored",
+    "videos_scored": 0,
+    "genome_generation": 1,
+    "components_retired": 0,
+    "mutations_added": 0
+  },
+  "caption_ab": {
+    "status": "no_data",
+    "message": "No caption metadata in manifests yet"
+  },
+  "loop_a_visual": {
+    "status": "error",
+    "reason": "'NoneType' object is not subscriptable"
+  },
+  "timing": {
+    "status": "no_alignment_file"
+  }
+}

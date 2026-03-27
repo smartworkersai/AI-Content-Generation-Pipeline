@@ -1,0 +1,374 @@
+{
+  "model_version": "1.0",
+  "created": "2026-03-09T12:13:37.775029",
+  "last_updated": "2026-03-27T05:45:00.396103",
+  "post_count": 57,
+  "warm_up_active": false,
+  "signals": [
+    {
+      "id": "completion_rate_70",
+      "name": "Completion Rate \u226570% (Distribution Gate \u2014 All Platforms)",
+      "rank": 1,
+      "platforms": [
+        "TikTok",
+        "YouTube",
+        "Instagram"
+      ],
+      "category": "distribution_gate",
+      "evidence": "TikTok test pool: 60% completion unlocks 1K-10K distribution, 70%+ unlocks 10K-100K, 75%+ triggers viral push. YouTube Shorts: 75% threshold added 2025 (up from 50%). Instagram: completion is #2 Explore signal after DM shares. Source: Syncstudio 2026, Shortimize, Hootsuite. Multiple practitioner accounts confirm these brackets are consistent across niches.",
+      "confidence": 0.92,
+      "confidence_history": [],
+      "action": "MAX VIDEO DURATION 60s for posts 1-20. Script word count target: 150-170 words (\u224860s at 0.88 speed). First 20 seconds must deliver standalone value \u2014 no slow reveal past 20s. The INTRUSION + WEIGHT sections must together be complete enough that a viewer who stops at 20s still got something real. MECHANISM is the reward for continuing. Never pad to fill time.",
+      "agent": [
+        "creative_synthesis",
+        "production_agent"
+      ],
+      "feedback_loop": "Post-accumulation (5+ posts): check video durations in production manifests as a proxy. When TikTok/YouTube analytics available: map completion rate brackets to distribution outcome per video. Update confidence thresholds if observed data contradicts research (e.g. finance niche completes better at longer duration).",
+      "update_cadence_days": 7,
+      "warm_up_only": false,
+      "expires_after_post": null,
+      "last_validated": "2026-03-23",
+      "active": true
+    },
+    {
+      "id": "tiktok_20s_sustained",
+      "name": "TikTok 15-20s Sustained Engagement Threshold (Dec 2024 Shift)",
+      "rank": 2,
+      "platforms": [
+        "TikTok"
+      ],
+      "category": "hook_mechanics",
+      "evidence": "TikTok shifted its primary engagement measurement window from 3-5s hold to 15-20s sustained engagement in December 2024. The algorithm now evaluates whether content holds past 20s, not just whether it survives the first hook. Source: Syncstudio 2026, PostEverywhere. Confidence note: this is reported by 2-3 practitioners; no official confirmation.",
+      "confidence": 0.88,
+      "confidence_history": [],
+      "action": "Script structure: THE WEIGHT section (3-15s) and the opening of THE MECHANISM (15-25s) must collectively drive continued watching past the 20s mark. Do not resolve the core tension before 20s. The MECHANISM reveal IS the 20s+ reward. In the LLM prompt, add explicit instruction: 'The viewer must not yet understand HOW the mechanism works by the 20-second mark \u2014 they must feel the WEIGHT of not knowing and want the answer.'",
+      "agent": [
+        "creative_synthesis"
+      ],
+      "feedback_loop": "When TikTok analytics available: compare 20s watch-through rate vs. full completion rate across posts. If the 20s drop-off is consistently large, update the WEIGHT section pacing directives. Update confidence if platform behaviour contradicts the threshold (e.g. 10s content outperforms 20s content).",
+      "update_cadence_days": 30,
+      "warm_up_only": false,
+      "expires_after_post": null,
+      "last_validated": "2026-03-09",
+      "active": true
+    },
+    {
+      "id": "tiktok_business_account",
+      "name": "TikTok Business Account: Bio Link from Post 1 (No 1K Follower Gate)",
+      "rank": 3,
+      "platforms": [
+        "TikTok"
+      ],
+      "category": "conversion_infrastructure",
+      "evidence": "TikTok Creator accounts: bio link requires 1,000 followers. Business accounts: bio link available from day 1. Capital Engine uses original ElevenLabs audio \u2014 commercial music library loss (Business account trade-off) is irrelevant. Source: Buffer bio link guide, TikTok Business Centre. Confidence: Very High \u2014 this is a confirmed platform mechanic, not a practitioner inference.",
+      "confidence": 0.97,
+      "confidence_history": [],
+      "action": "ACTION REQUIRED BEFORE POST 1: Switch TikTok account to Business account in Settings \u2192 Manage Account \u2192 Switch to Business Account. Category: Finance. Verify bio link is active. Set bridge page URL in bio before any post goes live. This is a one-time action \u2014 mark complete and set cadence to 999.",
+      "agent": [
+        "harbinger_core"
+      ],
+      "feedback_loop": "Binary: bio link active or not. Verify once. Mark resolved in signal model by setting expires_after_post to 1 when confirmed active.",
+      "update_cadence_days": 999,
+      "warm_up_only": true,
+      "expires_after_post": 1,
+      "last_validated": "2026-03-09",
+      "active": false
+    },
+    {
+      "id": "fca_on_screen_risk_warning",
+      "name": "FCA On-Screen Risk Warning Throughout Video (Criminal Liability if Missing)",
+      "rank": 4,
+      "platforms": [
+        "TikTok",
+        "YouTube",
+        "Instagram"
+      ],
+      "category": "compliance",
+      "evidence": "FCA FG24/1 (March 2024): risk warnings in captions alone are NOT sufficient. On-screen text risk warnings required THROUGHOUT any video promoting a regulated product. Violation = criminal offence under FSMA s.21 (2 years imprisonment + unlimited fine). FCA issued 650+ takedown requests June 2025; 3 criminal proceedings. Source: FCA FG24/1, AO Shearman, Hogan Lovells. Confidence: Very High \u2014 primary regulatory source.",
+      "confidence": 0.99,
+      "confidence_history": [],
+      "action": "Production Agent must burn a persistent risk warning into ALL videos where a specific regulated product (HL, Fidelity, Trading212, eToro) is named or its affiliate link is used. Required text (minimum): 'Capital at risk. Tax treatment depends on individual circumstances.' Position: bottom of frame, white text on semi-transparent dark bar, persistent throughout video. This is implemented in the FFmpeg render pipeline via drawtext filter. Threshold: brief.affiliate.name is set and non-empty.",
+      "agent": [
+        "production_agent"
+      ],
+      "feedback_loop": "Verified at render time \u2014 check brief for affiliate name before each render. Binary pass/fail. Update cadence: 90 days (regulatory framework stable). Monitor FCA enforcement actions for any updated guidance on required wording.",
+      "update_cadence_days": 90,
+      "warm_up_only": false,
+      "expires_after_post": null,
+      "last_validated": "2026-03-09",
+      "active": true
+    },
+    {
+      "id": "cta_platform_differentiation",
+      "name": "Platform CTA: Sends/DM (Instagram) \u00b7 Saves (TikTok) \u00b7 Channel Desc (YouTube)",
+      "rank": 5,
+      "platforms": [
+        "TikTok",
+        "YouTube",
+        "Instagram"
+      ],
+      "category": "engagement_optimization",
+      "evidence": "Instagram #1 Explore signal (Mosseri confirmed, 2025): sends per reach (DM shares). TikTok highest-weight post-completion signal: saves (2025 algorithm). YouTube Shorts: no clickable bio links; channel description is the only linked path. Engagement hierarchy TikTok: shares (3x weight) > saves > comments > rewatches > likes. Source: Hootsuite citing Mosseri, Buffer, Affiverse, Socialinsider 2025.",
+      "confidence": 0.87,
+      "confidence_history": [],
+      "action": "Creative Synthesis must generate platform-differentiated MOVE sections. TikTok MOVE: 'Save this before the ISA deadline.' Instagram MOVE (verbal): 'If this changes what you do with your ISA this year, send it to someone who needs to see it.' YouTube Shorts MOVE: 'The link is in my channel description.' NEVER use 'click the link in bio' \u2014 use 'check my profile' to reduce NLP moderation flags. NEVER make 'comment below' the primary CTA \u2014 it is the lowest-weight signal.",
+      "agent": [
+        "creative_synthesis"
+      ],
+      "feedback_loop": "After 10+ posts: compare save rate for TikTok posts with explicit save CTA vs. generic CTA. When Instagram analytics available: sends-per-reach for DM CTA posts vs. generic. Target: Instagram sends/reach >3% for Explore eligibility. Update confidence if one CTA type consistently outperforms.",
+      "update_cadence_days": 14,
+      "warm_up_only": false,
+      "expires_after_post": null,
+      "last_validated": "2026-03-23",
+      "active": true
+    },
+    {
+      "id": "niche_consistency_warmup",
+      "name": "100% Finance Niche Consistency (Posts 1-20 \u2014 Algorithm Classification)",
+      "rank": 6,
+      "platforms": [
+        "TikTok",
+        "YouTube",
+        "Instagram"
+      ],
+      "category": "warm_up",
+      "evidence": "TikTok: requires 5-7 consecutive on-niche posts to classify a new account. Off-topic posts during this window reset confidence and can misclassify the account. YouTube: 9-12 consistent Shorts before reliable niche resolution. Instagram: micro-niche classification converges at posts 9-12. Source: MakeViral warm-up guide, Syncstudio, Napolify, onestream.",
+      "confidence": 0.9,
+      "confidence_history": [],
+      "action": "Creative Synthesis: content category must be one of: savings/ISA, tax efficiency, investing basics, mortgage/base rate impact, salary benchmarking. ZERO off-topic content until post 20. Format variation within niche is encouraged (hook types, video lengths, visual approaches). Zero topic variation. If asymmetry_brief.json surfaces a non-finance topic, discard and use previous brief.",
+      "agent": [
+        "creative_synthesis"
+      ],
+      "feedback_loop": "Check each creative brief output for niche category. Track niche distribution across all briefs. Alert via Telegram if any non-finance topic detected. Signal expires at post 20 \u2014 after that, limited cross-topic testing permitted.",
+      "update_cadence_days": 5,
+      "warm_up_only": true,
+      "expires_after_post": 20,
+      "last_validated": "2026-03-27",
+      "active": false
+    },
+    {
+      "id": "hook_number_loss_frame",
+      "name": "Hook: Specific Number + Loss/Violation Frame (No Question Hooks)",
+      "rank": 7,
+      "platforms": [
+        "TikTok",
+        "YouTube",
+        "Instagram"
+      ],
+      "category": "hook_mechanics",
+      "evidence": "71% of watch continuation determined within 3 seconds. 3-second retention >65% delivers 4-7x more impressions. Documented high-performing finance hook patterns: (1) Balance reveal: 'I'm 28 with \u00a347 in my account and \u00a331K in my ISA' \u2014 1.3M-7.1M views, (2) Pattern interrupt stat: 'Most people lose \u00a33K/year to this', (3) Counter-intuitive claim: 'Saving money is the worst thing you can do.' Question hooks ('Did you know...?') now underperform \u2014 overused. Source: OpusClip hook analysis, Social Growth Engineers 44M-view case study, HeyOrca.",
+      "confidence": 0.85,
+      "confidence_history": [],
+      "action": "Creative Synthesis: THE INTRUSION must contain either: (1) A specific \u00a3/number figure, (2) A named violation of assumed reality ('The savings account your bank is hiding'), (3) A counter-intuitive claim with no question mark. NEVER open with a question. NEVER use 'Did you know'. The first word should be: 'You', a number, or a named entity. Inject into LLM prompt: 'The INTRUSION must assume the viewer already suspects something is wrong \u2014 not ask them if they do.'",
+      "agent": [
+        "creative_synthesis"
+      ],
+      "feedback_loop": "Categorise each intrusion by hook type: number / loss-frame / counter-intuitive / question (flag as violation). Track completion rate per hook type when available. After 10 posts with analytics: update confidence and rerank hook types by observed completion rate. Replace lowest-performing hook type in directives.",
+      "update_cadence_days": 7,
+      "warm_up_only": false,
+      "expires_after_post": null,
+      "last_validated": "2026-03-23",
+      "active": true
+    },
+    {
+      "id": "isa_savings_topic_priority",
+      "name": "ISA/Savings Topic = Highest Affiliate Value + Lowest FCA Risk",
+      "rank": 8,
+      "platforms": [
+        "TikTok",
+        "YouTube",
+        "Instagram"
+      ],
+      "category": "content_strategy",
+      "evidence": "Fidelity ISA: \u00a3100/conversion (Awin) \u2014 highest per-conversion rate in accessible UK finance affiliate programmes. ISA content: low FCA risk (educational, no direct product recommendation required), high save behaviour, April 5 deadline creates natural urgency. Finance topic virality ranking: savings rate comparisons #1, tax efficiency #2. HL Pension Calculator: \u00a380/conversion \u2014 underutilised, strong content angle. Source: Awin Fidelity listing, LinkClicky HL rates, Social Growth Engineers.",
+      "confidence": 0.82,
+      "confidence_history": [],
+      "action": "Posts 1-10: minimum 60% ISA/savings-adjacent content. Posts 11-20: maintain 40%+ ISA/savings, introduce HL Pension Calculator ('Are you saving enough for retirement?') and investing basics (Trading212 CPA). Cultural Radar: from March 15, flag ISA deadline as maximum-urgency signal \u2014 all 3 daily slots should have ISA-adjacent angle. Affiliate priority order: (1) Fidelity ISA \u00a3100, (2) HL Pension Calculator \u00a380, (3) Trading212 up to $1000.",
+      "agent": [
+        "creative_synthesis",
+        "cultural_radar"
+      ],
+      "feedback_loop": "Track affiliate category per post in production manifests. When conversion data available: compare revenue per affiliate programme vs. post count. If HL Pension Calculator outperforms Fidelity ISA per post: rerank. ISA deadline urgency expires April 5.",
+      "update_cadence_days": 7,
+      "warm_up_only": false,
+      "expires_after_post": null,
+      "last_validated": "2026-03-23",
+      "active": true
+    },
+    {
+      "id": "isa_deadline_countdown",
+      "name": "ISA Deadline Countdown: April 5 \u2014 Maximum Leverage Window (27 Days)",
+      "rank": 9,
+      "platforms": [
+        "TikTok",
+        "YouTube",
+        "Instagram"
+      ],
+      "category": "content_strategy",
+      "evidence": "UK ISA allowance: \u00a320,000. Unused by April 5 = permanently lost (not carried forward). This is a hard, verifiable deadline creating genuine urgency \u2014 not manufactured scarcity. Fidelity ISA affiliate: \u00a3100/conversion. Window: March 9 - April 5 = 27 days, overlapping almost exactly with the 18-day sprint. Last 10 days of March are the peak ISA search volume period. Time-bound finance hooks have highest documented completion + save rates. Source: HMRC ISA statistics, Google Trends UK ISA patterns, practitioner pattern analysis.",
+      "confidence": 0.85,
+      "confidence_history": [],
+      "action": "From March 15 onwards: ISA deadline countdown MUST appear in every ISA-adjacent hook. Format: 'You have [X] days left to use this year's ISA allowance.' Days remaining injected dynamically from algorithm_directives.json (isa_deadline_days field). Creative Synthesis: if topic is ISA/savings, the countdown is MANDATORY in the INTRUSION or first line of WEIGHT. Do not soft-pedal it \u2014 the deadline is real and the urgency is the conversion hook.",
+      "agent": [
+        "creative_synthesis"
+      ],
+      "feedback_loop": "Track click-throughs on Fidelity ISA affiliate link per week. Expected pattern: conversion rate rises as April 5 approaches, peaks March 28 - April 4. If conversion rate does not rise in final 10 days: investigate whether bridge page is performing and whether the CTA is reaching the right audience.",
+      "update_cadence_days": 1,
+      "warm_up_only": false,
+      "expires_after_post": null,
+      "last_validated": "2026-03-27",
+      "active": true
+    },
+    {
+      "id": "original_audio_preference",
+      "name": "Original Audio: 3x Algorithmic Weight vs Trending Sounds (TikTok)",
+      "rank": 10,
+      "platforms": [
+        "TikTok"
+      ],
+      "category": "production_quality",
+      "evidence": "2025 practitioner reports: original audio receives approximately 3x more algorithmic weight than trending sounds. Using trending audio without adding unique value now results in ~60% reach reduction vs. original audio. 38% of trending sounds have AI involvement; original AI audio not penalised. Source: Dash Social, Napolify, UseVisuals. Confidence note: the 3x figure is from a single source \u2014 treat as directional. Confidence held at 0.75 until second-source confirmation.",
+      "confidence": 0.75,
+      "confidence_history": [],
+      "action": "Maintain ElevenLabs original voice + SFX + sub-bass ambient stack. Do NOT add trending sounds as background under the voiceover \u2014 this is now counterproductive. The three-layer audio mix (voice + ambience + sub-bass) is the correct approach and is already implemented.",
+      "agent": [
+        "production_agent"
+      ],
+      "feedback_loop": "If an A/B test is run (trending sound vs. original audio on same content): compare completion rates and distribution breadth. Update confidence from 0.75 to 0.90+ if original outperforms, or to 0.40 if trending consistently outperforms. Currently no test data.",
+      "update_cadence_days": 30,
+      "warm_up_only": false,
+      "expires_after_post": null,
+      "last_validated": "2026-03-09",
+      "active": true
+    },
+    {
+      "id": "bridge_page_mandatory",
+      "name": "Bridge Page Pre-Sell: Reduces Bio-Link Drop-Off by 30-50%",
+      "rank": 11,
+      "platforms": [
+        "TikTok",
+        "YouTube",
+        "Instagram"
+      ],
+      "category": "conversion_infrastructure",
+      "evidence": "Requiring app exit via bio link reduces conversions 30-50% vs. in-app checkout. No in-app checkout exists for UK finance products (HL, Fidelity not on TikTok Shop). Bridge page with one CTA + pre-sell copy (restates hook, shows product benefit) outperforms sending traffic directly to the affiliate landing page. Source: Affiverse CTA guide, Way2Earning, EcommerceFastlane.",
+      "confidence": 0.78,
+      "confidence_history": [],
+      "action": "Bridge page must be live before post 1. Requirements: (1) Restate the hook from the video (continuity \u2014 visitor arrived because of the hook), (2) One product benefit statement (not the affiliate landing page copy), (3) Single button CTA linking to the affiliate URL. Do NOT send traffic directly to HL/Fidelity affiliate URL from bio \u2014 bridge page is a required conversion layer.",
+      "agent": [
+        "harbinger_core"
+      ],
+      "feedback_loop": "When UTM data available: track click-through rate from bridge page to affiliate URL. Compare with and without pre-sell copy variants. Target bridge page CTR: >35%. If below 25%: revise bridge page copy.",
+      "update_cadence_days": 14,
+      "warm_up_only": false,
+      "expires_after_post": null,
+      "last_validated": "2026-03-23",
+      "active": true
+    },
+    {
+      "id": "no_deletion_set_private",
+      "name": "No Post Deletion: Set Underperformers to Private (Not Delete)",
+      "rank": 12,
+      "platforms": [
+        "TikTok",
+        "Instagram"
+      ],
+      "category": "warm_up",
+      "evidence": "TikTok penalises deletion patterns as a low-quality account signal. Repeated deletion in the first 20 posts can trigger shadow restriction. Setting to 'Only Me' (TikTok) or restricting visibility preserves account health. Source: Shopify shadow ban guide, GoLogin shadow ban analysis, MakeViral.",
+      "confidence": 0.8,
+      "confidence_history": [],
+      "action": "Do not delete any posts. If a post receives under 500 views after 72 hours on TikTok: change visibility to 'Only Me' \u2014 do not delete. Log which posts are set to private for tracking. Telegram alert if any deletion event is detected.",
+      "agent": [
+        "harbinger_core"
+      ],
+      "feedback_loop": "Track any deletion events. If shadow ban occurs after deletion: update confidence to 0.95 and escalate via Telegram. Signal expires at post 20.",
+      "update_cadence_days": 999,
+      "warm_up_only": true,
+      "expires_after_post": 20,
+      "last_validated": "2026-03-09",
+      "active": false
+    },
+    {
+      "id": "instagram_dm_share_cta",
+      "name": "Instagram: DM Share CTA = #1 Explore Signal (Mosseri Confirmed)",
+      "rank": 13,
+      "platforms": [
+        "Instagram"
+      ],
+      "category": "engagement_optimization",
+      "evidence": "Adam Mosseri (Instagram CEO), 2025: 'sends per reach' is the single most powerful Instagram Explore signal. DM sharing = 'strong enough to recommend to someone you care about.' Saves are #2. Likes are #4. Comments are lowest weight. Viewers decide in 1.7 seconds whether to continue watching on Instagram. Source: Hootsuite citing Mosseri statements, Dataslayer, funnl.ai.",
+      "confidence": 0.9,
+      "confidence_history": [],
+      "action": "Instagram Reels MOVE section must include verbal DM share CTA: 'If this changes what you do with your ISA this year, send it to someone who needs it.' This CTA must be spoken by the narrator \u2014 not just in the caption. Caption CTA: 'Tag someone who's leaving money on the table.' Secondary: 'Save this for when you open your ISA.' NEVER make 'comment below' the primary Instagram CTA.",
+      "agent": [
+        "creative_synthesis"
+      ],
+      "feedback_loop": "When Instagram analytics available: track sends-per-reach metric. Target: >3% sends per reach for Explore page eligibility. Compare posts with explicit DM CTA vs. save CTA \u2014 whichever drives more Explore reach becomes the primary. Update confidence based on observed sends data.",
+      "update_cadence_days": 14,
+      "warm_up_only": false,
+      "expires_after_post": null,
+      "last_validated": "2026-03-23",
+      "active": true
+    },
+    {
+      "id": "native_upload_warmup",
+      "name": "Native Upload Only (No Buffer) for Posts 1-20 \u2014 Shadow Ban Avoidance",
+      "rank": 14,
+      "platforms": [
+        "TikTok",
+        "Instagram"
+      ],
+      "category": "warm_up",
+      "evidence": "TikTok gives algorithmic preference to native creation (in-app camera or TikTok's own scheduling API). Third-party scheduling tools may trigger new account shadow restriction flags in the first 20 posts. Confidence is medium \u2014 no confirmed platform statement; this is practitioner consensus. Source: MakeViral warm-up guide, GoLogin shadow ban analysis.",
+      "confidence": 0.72,
+      "confidence_history": [],
+      "action": "Distribute.sh: for posts 1-20, use TikTok's own scheduling API rather than Buffer for TikTok uploads. Instagram: use Instagram's Creator Studio scheduling (not Buffer) for posts 1-20. Reassess after post 20 \u2014 Buffer is acceptable once account is established. Telegram alert when post count reaches 18 to plan Buffer reactivation.",
+      "agent": [
+        "harbinger_core"
+      ],
+      "feedback_loop": "If shadow ban is detected (content not appearing in hashtag search for non-followers): immediately check if Buffer was used and update confidence to 0.90+. If no shadow ban occurs at post 20 with native upload: signal expires, confidence confirmed.",
+      "update_cadence_days": 5,
+      "warm_up_only": true,
+      "expires_after_post": 20,
+      "last_validated": "2026-03-27",
+      "active": false
+    },
+    {
+      "id": "youtube_shorts_channel_desc_link",
+      "name": "YouTube Shorts: No Clickable Bio Links \u2014 Channel Description Is the Only Path",
+      "rank": 15,
+      "platforms": [
+        "YouTube"
+      ],
+      "category": "conversion_infrastructure",
+      "evidence": "YouTube removed clickable links from Shorts descriptions August 31 2023 \u2014 not restored. Clickable links in pinned comments also blocked for Shorts. Channel description About section: links are clickable from day 1 (no follower threshold). YouTube does not suppress content for mentioning affiliate products. Alternative workaround: QR codes in video (QR scanning up 2x among mobile users 2025). Source: Affiverse, Logie.ai, Cuelinks \u2014 confirmed by multiple sources. Very High confidence.",
+      "confidence": 0.97,
+      "confidence_history": [],
+      "action": "YouTube Shorts CTA: verbal instruction to 'find the link in my channel description.' Channel About section must have affiliate link live before post 1. Alternative: burn QR code into bottom-right of video frame (above risk warning) pointing to bridge page \u2014 implement in production_agent as optional overlay. Do not use 'link in description' as the verbal CTA \u2014 Shorts have no description link.",
+      "agent": [
+        "production_agent",
+        "creative_synthesis"
+      ],
+      "feedback_loop": "Track channel description link clicks when YouTube analytics available. Compare with QR code scan rate if QR overlay is implemented. Signal is stable \u2014 update cadence 90 days unless YouTube restores Shorts bio links.",
+      "update_cadence_days": 90,
+      "warm_up_only": false,
+      "expires_after_post": null,
+      "last_validated": "2026-03-09",
+      "active": true
+    }
+  ],
+  "telegram_last_top3": [
+    {
+      "id": "completion_rate_70",
+      "confidence": 0.92
+    },
+    {
+      "id": "tiktok_20s_sustained",
+      "confidence": 0.88
+    },
+    {
+      "id": "fca_on_screen_risk_warning",
+      "confidence": 0.99
+    }
+  ]
+}

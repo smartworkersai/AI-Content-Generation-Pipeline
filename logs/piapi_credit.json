@@ -1,0 +1,6 @@
+{
+  "balance_usd": 0.0,
+  "last_deduction": 0.0,
+  "updated_at": "2026-03-14T07:35:00",
+  "note": "Balance confirmed zero by API (code 10002) on 2026-03-14. Top up required at piapi.ai before renders will succeed."
+}

@@ -1,0 +1,45 @@
+{
+  "source_file": "audio_alignment_20260322_160120_slot5.json",
+  "pre_hook_silence_ms": 0,
+  "hook_pace": {
+    "hook_wps": 2.67,
+    "hook_word_count": 8,
+    "hook_window_s": 3.0,
+    "hook_words": "Nobody is talking about this: Too much self-reflection"
+  },
+  "delivery": {
+    "overall_wps": 2.41,
+    "zone_wps": {
+      "hook": 2.47,
+      "mechanism": 2.03,
+      "move": 2.8
+    },
+    "peak_zone": "move",
+    "tempo_variance": 40.0,
+    "total_words": 107,
+    "duration_s": 44.36
+  },
+  "pauses_detected": 2,
+  "pause_map": [
+    {
+      "after_word": "this:",
+      "before_word": "Too",
+      "pause_ms": 200,
+      "position_s": 1.593,
+      "position_pct": 0.036
+    },
+    {
+      "after_word": "this:",
+      "before_word": "Too",
+      "pause_ms": 220,
+      "position_s": 19.944,
+      "position_pct": 0.45
+    }
+  ],
+  "structural_pauses": {
+    "after_hook_ms": 200,
+    "after_mechanism_ms": 220,
+    "before_move_ms": 0
+  },
+  "word_count": 107
+}

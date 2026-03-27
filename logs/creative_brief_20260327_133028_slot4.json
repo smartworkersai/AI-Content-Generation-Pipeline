@@ -1,0 +1,34 @@
+{
+  "timestamp": "2026-03-27T13:30:28.463545",
+  "slot": 4,
+  "niche": "dark_psychology",
+  "niche_label": "Dark Psychology",
+  "topic": "Scientists discover a surprising way to quiet the anxious mi.",
+  "framework": {
+    "structure": "['The reason you'] + [Universal Relatable Behaviour] + ['is not'] + [Assumed Reason] + ['it is'] + [Dark Psychological Mechanism]",
+    "trigger": "Self-revelation \u2014 reframes a familiar experience with a disturbing explanation the viewer cannot unsee",
+    "example": "The reason you can't stop scrolling is not boredom. It is a dopamine loop engineered by behavioural scientists."
+  },
+  "script": {
+    "hook": "The reason you can't stop scrolling is not boredom. It is a dopamine loop engineered by behavioural scientists.",
+    "body": "Psychologists have known this for decades but it never makes it into mainstream education. The people who use this have an unfair advantage in every conversation.",
+    "cta": "Comment KNEW if you already knew this."
+  },
+  "full_script_text": "The reason you can't stop scrolling is not boredom. It is a dopamine loop engineered by behavioural scientists. Psychologists have known this for decades but it never makes it into mainstream education. The people who use this have an unfair advantage in every conversation. Comment KNEW if you already knew this.",
+  "visual_direction": {
+    "kling_prompt": "extreme close-up eyes in deep shadow, single side light source, no full faces, 9:16 vertical cinematic, psychological thriller, deep shadows",
+    "negative_prompt": "faces, logos, text overlays, watermarks"
+  },
+  "voice_settings": {
+    "voice_id": "TxGEqnHWrfWFTfGW9XjX",
+    "stability": 0.6,
+    "similarity": 0.88,
+    "style": 0.55,
+    "speed": 0.85,
+    "voice": "Josh"
+  },
+  "caption_text": "The reason you can't stop scrolling is not boredom. It is a dopamine loop engine",
+  "affiliate": "none_growth_mode",
+  "script_variant": "long",
+  "compliance_checked": true
+}

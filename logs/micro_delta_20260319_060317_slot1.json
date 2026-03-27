@@ -1,0 +1,74 @@
+{
+  "mode": "micro",
+  "slot": 1,
+  "timestamp": "2026-03-19T06:03:17.747782",
+  "prompt_genome": {
+    "status": "scored",
+    "videos_scored": 0,
+    "genome_generation": 1,
+    "components_retired": 0,
+    "mutations_added": 0
+  },
+  "caption_ab": {
+    "status": "no_data",
+    "message": "No caption metadata in manifests yet"
+  },
+  "loop_a_visual": {
+    "status": "complete",
+    "shot_scores": [],
+    "avg_visual_score": null,
+    "negative_prompt_additions": []
+  },
+  "timing": {
+    "source_file": "audio_alignment_20260319_060003_slot1.json",
+    "pre_hook_silence_ms": 261,
+    "hook_pace": {
+      "hook_wps": 4.33,
+      "hook_word_count": 13,
+      "hook_window_s": 3.0,
+      "hook_words": "[serious tone] Every pound you didn't put in an ISA this year is"
+    },
+    "delivery": {
+      "overall_wps": 2.08,
+      "zone_wps": {
+        "hook": 2.1,
+        "mechanism": 2.13,
+        "move": 2.02
+      },
+      "peak_zone": "mechanism",
+      "tempo_variance": 46.7,
+      "total_words": 161,
+      "duration_s": 77.42
+    },
+    "pauses_detected": 3,
+    "pause_map": [
+      {
+        "after_word": "\u00a320,000.",
+        "before_word": "If",
+        "pause_ms": 213,
+        "position_s": 9.336,
+        "position_pct": 0.121
+      },
+      {
+        "after_word": "permanently",
+        "before_word": "\u2014",
+        "pause_ms": 320,
+        "position_s": 14.682,
+        "position_pct": 0.19
+      },
+      {
+        "after_word": "recovered.",
+        "before_word": "HMRC",
+        "pause_ms": 320,
+        "position_s": 17.722,
+        "position_pct": 0.229
+      }
+    ],
+    "structural_pauses": {
+      "after_hook_ms": 213,
+      "after_mechanism_ms": 0,
+      "before_move_ms": 0
+    },
+    "word_count": 161
+  }
+}

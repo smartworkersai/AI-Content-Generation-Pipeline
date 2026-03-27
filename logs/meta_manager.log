@@ -1,0 +1,102 @@
+[2026-03-22 14:25:02 UTC] [meta_manager] Auditor due (last run: None)
+[2026-03-22 14:25:02 UTC] [meta_manager] Running: auditor.py
+[2026-03-22 14:25:13 UTC] [meta_manager]   [2026-03-22 14:25:02 UTC] [auditor] ============================================================
+[2026-03-22 14:25:13 UTC] [meta_manager]   [2026-03-22 14:25:02 UTC] [auditor] AUDITOR — 24-hour performance audit
+[2026-03-22 14:25:13 UTC] [meta_manager]   [2026-03-22 14:25:02 UTC] [auditor] ============================================================
+[2026-03-22 14:25:13 UTC] [meta_manager]   [2026-03-22 14:25:02 UTC] [auditor]   Auditing slot=7 niche=tech_ai post=?
+[2026-03-22 14:25:13 UTC] [meta_manager]   [2026-03-22 14:25:04 UTC] [auditor] LLM sentiment error: Error code: 404 - {'error': {'message': 'No endpoints found for meta-llama/llama-3.1-405b-instruct.', 'code': 404}, 'user_id': 'user_33sxpMMBfb9uoCdG5ceA6CpR7Nb'}
+[2026-03-22 14:25:13 UTC] [meta_manager]   [2026-03-22 14:25:04 UTC] [auditor]   → views=None | Unknown | action=none
+[2026-03-22 14:25:13 UTC] [meta_manager]   [2026-03-22 14:25:04 UTC] [auditor]      LLM unavailable.
+[2026-03-22 14:25:13 UTC] [meta_manager]   [2026-03-22 14:25:05 UTC] [auditor]   Auditing slot=6 niche=tech_ai post=?
+[2026-03-22 14:25:13 UTC] [meta_manager]   [2026-03-22 14:25:05 UTC] [auditor] LLM sentiment error: ReplicateError Details:
+[2026-03-22 14:25:13 UTC] [meta_manager]   status: 429
+[2026-03-22 14:25:13 UTC] [meta_manager]   detail: Request was throttled. Your rate limit for creating predictions is reduced to 6 requests per minute with a burst of 1 requests while you have less than $5.0 in credit. Your rate limit resets in ~9s.
+[2026-03-22 14:25:13 UTC] [meta_manager]   [2026-03-22 14:25:05 UTC] [auditor]   → views=None | Unknown | action=none
+[2026-03-22 14:25:13 UTC] [meta_manager]   [2026-03-22 14:25:05 UTC] [auditor]      LLM unavailable.
+[2026-03-22 14:25:13 UTC] [meta_manager]   [2026-03-22 14:25:06 UTC] [auditor]   Auditing slot=5 niche=tech_ai post=?
+[2026-03-22 14:25:13 UTC] [meta_manager]   [2026-03-22 14:25:06 UTC] [auditor] LLM sentiment error: ReplicateError Details:
+[2026-03-22 14:25:13 UTC] [meta_manager]   status: 429
+[2026-03-22 14:25:13 UTC] [meta_manager]   detail: Request was throttled. Your rate limit for creating predictions is reduced to 6 requests per minute with a burst of 1 requests while you have less than $5.0 in credit. Your rate limit resets in ~8s.
+[2026-03-22 14:25:13 UTC] [meta_manager]   [2026-03-22 14:25:06 UTC] [auditor]   → views=None | Unknown | action=none
+[2026-03-22 14:25:13 UTC] [meta_manager]   [2026-03-22 14:25:06 UTC] [auditor]      LLM unavailable.
+[2026-03-22 14:25:13 UTC] [meta_manager]   [2026-03-22 14:25:07 UTC] [auditor]   Auditing slot=1 niche=tech_ai post=?
+[2026-03-22 14:25:13 UTC] [meta_manager]   [2026-03-22 14:25:07 UTC] [auditor] LLM sentiment error: ReplicateError Details:
+[2026-03-22 14:25:13 UTC] [meta_manager]   status: 429
+[2026-03-22 14:25:13 UTC] [meta_manager]   detail: Request was throttled. Your rate limit for creating predictions is reduced to 6 requests per minute with a burst of 1 requests while you have less than $5.0 in credit. Your rate limit resets in ~7s.
+[2026-03-22 14:25:13 UTC] [meta_manager]   [2026-03-22 14:25:07 UTC] [auditor]   → views=None | Unknown | action=none
+[2026-03-22 14:25:13 UTC] [meta_manager]   [2026-03-22 14:25:07 UTC] [auditor]      LLM unavailable.
+[2026-03-22 14:25:13 UTC] [meta_manager]   [2026-03-22 14:25:08 UTC] [auditor]   Auditing slot=3 niche=tech_ai post=?
+[2026-03-22 14:25:13 UTC] [meta_manager]   [2026-03-22 14:25:08 UTC] [auditor] LLM sentiment error: ReplicateError Details:
+[2026-03-22 14:25:13 UTC] [meta_manager]   status: 429
+[2026-03-22 14:25:13 UTC] [meta_manager]   detail: Request was throttled. Your rate limit for creating predictions is reduced to 6 requests per minute with a burst of 1 requests while you have less than $5.0 in credit. Your rate limit resets in ~5s.
+[2026-03-22 14:25:13 UTC] [meta_manager]   [2026-03-22 14:25:08 UTC] [auditor]   → views=None | Unknown | action=none
+[2026-03-22 14:25:13 UTC] [meta_manager]   [2026-03-22 14:25:08 UTC] [auditor]      LLM unavailable.
+[2026-03-22 14:25:13 UTC] [meta_manager]   [2026-03-22 14:25:09 UTC] [auditor]   Auditing slot=6 niche=tech_ai post=?
+[2026-03-22 14:25:13 UTC] [meta_manager]   [2026-03-22 14:25:09 UTC] [auditor] LLM sentiment error: ReplicateError Details:
+[2026-03-22 14:25:13 UTC] [meta_manager]   status: 429
+[2026-03-22 14:25:13 UTC] [meta_manager]   detail: Request was throttled. Your rate limit for creating predictions is reduced to 6 requests per minute with a burst of 1 requests while you have less than $5.0 in credit. Your rate limit resets in ~4s.
+[2026-03-22 14:25:13 UTC] [meta_manager]   [2026-03-22 14:25:09 UTC] [auditor]   → views=None | Unknown | action=none
+[2026-03-22 14:25:13 UTC] [meta_manager]   [2026-03-22 14:25:09 UTC] [auditor]      LLM unavailable.
+[2026-03-22 14:25:13 UTC] [meta_manager]   [2026-03-22 14:25:10 UTC] [auditor]   Auditing slot=5 niche=tech_ai post=?
+[2026-03-22 14:25:13 UTC] [meta_manager]   [2026-03-22 14:25:11 UTC] [auditor] LLM sentiment error: ReplicateError Details:
+[2026-03-22 14:25:13 UTC] [meta_manager]   status: 429
+[2026-03-22 14:25:13 UTC] [meta_manager]   detail: Request was throttled. Your rate limit for creating predictions is reduced to 6 requests per minute with a burst of 1 requests while you have less than $5.0 in credit. Your rate limit resets in ~3s.
+[2026-03-22 14:25:13 UTC] [meta_manager]   [2026-03-22 14:25:11 UTC] [auditor]   → views=None | Unknown | action=none
+[2026-03-22 14:25:13 UTC] [meta_manager]   [2026-03-22 14:25:11 UTC] [auditor]      LLM unavailable.
+[2026-03-22 14:25:13 UTC] [meta_manager]   [2026-03-22 14:25:12 UTC] [auditor]   Auditing slot=4 niche=tech_ai post=?
+[2026-03-22 14:25:13 UTC] [meta_manager]   [2026-03-22 14:25:12 UTC] [auditor] LLM sentiment error: ReplicateError Details:
+[2026-03-22 14:25:13 UTC] [meta_manager]   status: 429
+[2026-03-22 14:25:13 UTC] [meta_manager]   detail: Request was throttled. Your rate limit for creating predictions is reduced to 6 requests per minute with a burst of 1 requests while you have less than $5.0 in credit. Your rate limit resets in ~2s.
+[2026-03-22 14:25:13 UTC] [meta_manager]   [2026-03-22 14:25:12 UTC] [auditor]   → views=None | Unknown | action=none
+[2026-03-22 14:25:13 UTC] [meta_manager]   [2026-03-22 14:25:12 UTC] [auditor]      LLM unavailable.
+[2026-03-22 14:25:13 UTC] [meta_manager]   [2026-03-22 14:25:13 UTC] [auditor] Audit complete: 8 new | 8 total in memory
+[2026-03-22 14:25:13 UTC] [meta_manager] Evolution engine due (last run: None)
+[2026-03-22 14:25:13 UTC] [meta_manager] Running: evolution_engine.py
+[2026-03-22 14:25:13 UTC] [meta_manager]   [2026-03-22 14:25:13 UTC] [evolution] ============================================================
+[2026-03-22 14:25:13 UTC] [meta_manager]   [2026-03-22 14:25:13 UTC] [evolution] EVOLUTION ENGINE — self-improvement run
+[2026-03-22 14:25:13 UTC] [meta_manager]   [2026-03-22 14:25:13 UTC] [evolution] ============================================================
+[2026-03-22 14:25:13 UTC] [meta_manager]   [2026-03-22 14:25:13 UTC] [evolution] Insufficient view data: 0 entries with views — skipping
+[2026-03-22 14:25:13 UTC] [meta_manager] Trend scraper due (last run: None)
+[2026-03-22 14:25:13 UTC] [meta_manager] Running: trend_scraper.py
+[2026-03-22 14:25:28 UTC] [meta_manager]   [2026-03-22 14:25:13 UTC] [trend_scraper] ============================================================
+[2026-03-22 14:25:28 UTC] [meta_manager]   [2026-03-22 14:25:13 UTC] [trend_scraper] TREND SCRAPER — weekly self-research run
+[2026-03-22 14:25:28 UTC] [meta_manager]   [2026-03-22 14:25:13 UTC] [trend_scraper] ============================================================
+[2026-03-22 14:25:28 UTC] [meta_manager]   [2026-03-22 14:25:13 UTC] [trend_scraper] Niche health (avg views): {'tech_ai': None, 'dark_psychology': None, 'micro_mystery': None}
+[2026-03-22 14:25:28 UTC] [meta_manager]   [2026-03-22 14:25:13 UTC] [trend_scraper] Scraping trends...
+[2026-03-22 14:25:28 UTC] [meta_manager]   [2026-03-22 14:25:14 UTC] [trend_scraper]   tech_ai: 15 titles
+[2026-03-22 14:25:28 UTC] [meta_manager]   [2026-03-22 14:25:16 UTC] [trend_scraper]   dark_psychology: 15 titles
+[2026-03-22 14:25:28 UTC] [meta_manager]   [2026-03-22 14:25:18 UTC] [trend_scraper]   micro_mystery: 15 titles
+[2026-03-22 14:25:28 UTC] [meta_manager]   [2026-03-22 14:25:20 UTC] [trend_scraper]   Google Trends RSS error: HTTP Error 404: Not Found
+[2026-03-22 14:25:28 UTC] [meta_manager]   [2026-03-22 14:25:20 UTC] [trend_scraper]   Google Trends: 0 entries
+[2026-03-22 14:25:28 UTC] [meta_manager]   [2026-03-22 14:25:21 UTC] [trend_scraper]   LLM hook derivation failed: Error code: 404 - {'error': {'message': 'No endpoints found for meta-llama/llama-3.1-405b-instruct.', 'code': 404}, 'user_id': 'user_33sxpMMBfb9uoCdG5ceA6CpR7Nb'}
+[2026-03-22 14:25:28 UTC] [meta_manager]   [2026-03-22 14:25:21 UTC] [trend_scraper]   tech_ai: LLM unavailable — using trend keywords as hooks
+[2026-03-22 14:25:28 UTC] [meta_manager]   [2026-03-22 14:25:23 UTC] [trend_scraper]   LLM hook derivation failed: ReplicateError Details:
+[2026-03-22 14:25:28 UTC] [meta_manager]   status: 429
+[2026-03-22 14:25:28 UTC] [meta_manager]   detail: Request was throttled. Your rate limit for creating predictions is reduced to 6 requests per minute with a burst of 1 requests while you have less than $5.0 in credit. Your rate limit resets in ~8s.
+[2026-03-22 14:25:28 UTC] [meta_manager]   [2026-03-22 14:25:23 UTC] [trend_scraper]   dark_psychology: LLM unavailable — using trend keywords as hooks
+[2026-03-22 14:25:28 UTC] [meta_manager]   [2026-03-22 14:25:26 UTC] [trend_scraper]   LLM hook derivation failed: ReplicateError Details:
+[2026-03-22 14:25:28 UTC] [meta_manager]   status: 429
+[2026-03-22 14:25:28 UTC] [meta_manager]   detail: Request was throttled. Your rate limit for creating predictions is reduced to 6 requests per minute with a burst of 1 requests while you have less than $5.0 in credit. Your rate limit resets in ~5s.
+[2026-03-22 14:25:28 UTC] [meta_manager]   [2026-03-22 14:25:26 UTC] [trend_scraper]   micro_mystery: LLM unavailable — using trend keywords as hooks
+[2026-03-22 14:25:28 UTC] [meta_manager]   [2026-03-22 14:25:28 UTC] [trend_scraper] Overrides saved: 3 niches updated | active=['tech_ai', 'dark_psychology', 'micro_mystery']
+[2026-03-22 14:25:28 UTC] [meta_manager]   [2026-03-22 14:25:28 UTC] [trend_scraper] niche_overrides.json → /Users/kolly/HARBINGERHQ/logs/niche_overrides.json
+[2026-03-22 14:26:06 UTC] [meta_manager] All modules up to date — nothing scheduled this run
+[2026-03-22 14:26:11 UTC] [meta_manager] REPAIR: starting self-healing for production_agent.py
+[2026-03-22 14:26:11 UTC] [meta_manager] REPAIR: no recent traceback found in logs — cannot proceed
+[2026-03-22 14:26:30 UTC] [meta_manager] REPAIR: starting self-healing for production_agent.py
+[2026-03-22 14:26:30 UTC] [meta_manager] REPAIR: no recent traceback found in logs — cannot proceed
+[2026-03-22 14:26:48 UTC] [meta_manager] REPAIR: starting self-healing for production_agent.py
+[2026-03-22 14:26:48 UTC] [meta_manager] REPAIR: no recent traceback found in logs — cannot proceed
+[2026-03-22 14:27:06 UTC] [meta_manager] REPAIR: starting self-healing for production_agent.py
+[2026-03-22 14:27:06 UTC] [meta_manager] REPAIR: no recent traceback found in logs — cannot proceed
+[2026-03-22 14:27:24 UTC] [meta_manager] REPAIR: starting self-healing for production_agent.py
+[2026-03-22 14:27:24 UTC] [meta_manager] REPAIR: no recent traceback found in logs — cannot proceed
+[2026-03-22 14:27:43 UTC] [meta_manager] REPAIR: starting self-healing for production_agent.py
+[2026-03-22 14:27:43 UTC] [meta_manager] REPAIR: no recent traceback found in logs — cannot proceed
+[2026-03-22 14:28:00 UTC] [meta_manager] REPAIR: starting self-healing for production_agent.py
+[2026-03-22 14:28:00 UTC] [meta_manager] REPAIR: no recent traceback found in logs — cannot proceed
+[2026-03-22 14:28:19 UTC] [meta_manager] REPAIR: starting self-healing for production_agent.py
+[2026-03-22 14:28:19 UTC] [meta_manager] REPAIR: no recent traceback found in logs — cannot proceed
+[2026-03-22 14:34:55 UTC] [meta_manager] All modules up to date — nothing scheduled this run
+[2026-03-22 17:31:33 UTC] [meta_manager] All modules up to date — nothing scheduled this run
+[2026-03-23 02:11:28 UTC] [meta_manager] All modules up to date — nothing scheduled this run

@@ -1,0 +1,276 @@
+{
+  "timestamp": "2026-03-21T18:31:10.841387",
+  "slot": 6,
+  "sound_profile": {
+    "sub_bass_db": -18,
+    "sub_bass_hz": 40,
+    "ambience_type": "server_hum"
+  },
+  "asymmetry": "The UK ISA allowance \u2014 \u00a320,000 tax-free \u2014 permanently expires April 5. Every pound not sheltered inside an ISA this tax year is gone from the wrapper forever. HMRC does not carry unused allowance forward. Banks do not remind you. The deadline is in 14 days. This is not manufactured urgency \u2014 it is statute.",
+  "affiliate": {
+    "name": "Fidelity Stocks & Shares ISA",
+    "url": "fidelity.co.uk/isa"
+  },
+  "script": {
+    "intrusion": "Every pound you didn't put in an ISA this year is gone permanently.",
+    "weight": "The annual ISA allowance is \u00a320,000. If you don't use it by April 5th, that tax-free capacity is gone permanently \u2014 not carried forward, not recovered. HMRC does not send a reminder.",
+    "mechanism": "HMRC created the ISA wrapper in 1999. Each April 5th, any unused allowance disappears \u2014 permanently. It does not roll over. The wrapper itself protects every pound inside it from income tax and capital gains tax for life. But HMRC does not remind you. Your bank does not remind you. The deadline is structural. The silence around it is deliberate.",
+    "proof": "HMRC's ISA statistics, published annually, show \u00a33.7 billion in unclaimed ISA allowance in the 2022-23 tax year. That is permanent, irrecoverable tax",
+    "comment_trigger": "How much of your \u00a320,000 ISA allowance have you used this year?",
+    "move": "What financially-aware people use to navigate this is Fidelity Stocks & Shares"
+  },
+  "caption_text": "Every pound didn't.",
+  "visual_direction": {
+    "frame_description": "Extreme close-up of a bank statement, numbers slightly out of focus, single column of figures barely visible",
+    "light_source": "Single overhead fluorescent tube, directly above, casting sharp downward shadows",
+    "colour_temperature": "4200K, cold blue-white dominant",
+    "motion": "Ken Burns: slow pull back from 120% to 100%, revealing more of the document, 75 seconds duration",
+    "shadow_ratio": "60% of frame in shadow",
+    "kling_prompt": "extreme close-up bank statement paper texture, cold fluorescent overhead light, sharp downward shadows, numbers barely legible, cinematic 9:16 vertical, dark atmosphere, documentary realism, no faces, no people",
+    "negative_prompt": "faces, people, warm colours, sunlight, lifestyle imagery, text overlays, happy, bright, colorful, outdoors"
+  },
+  "voice_settings": {
+    "voice": "Josh",
+    "stability": 0.4,
+    "similarity": 0.88,
+    "style": 0.7,
+    "speed": 0.88,
+    "pre_script_silence_ms": 800,
+    "post_weight_silence_ms": 400,
+    "post_proof_silence_ms": 400
+  },
+  "visual_source": "AI",
+  "audio": "/Users/kolly/HARBINGERHQ/output/mixed_audio_20260321_183110_slot6.mp3",
+  "video": "/Users/kolly/HARBINGERHQ/output/post_20260321_183110_slot6.mp4",
+  "quality_check": {
+    "file_size_mb": 15.16,
+    "size_ok": true,
+    "resolution": "1080x1920",
+    "resolution_ok": true,
+    "duration_s": 76.2,
+    "duration_ok": true
+  },
+  "prompt_metadata": {
+    "visual_dna": {
+      "primary_aesthetic": "lo_fi_authentic",
+      "aesthetic_label": "Lo-fi Authentic",
+      "aesthetic_plan": {
+        "mode": "single",
+        "primary": "lo_fi_authentic",
+        "shot_aesthetics": {
+          "HOOK": "lo_fi_authentic",
+          "WEIGHT": "lo_fi_authentic",
+          "INTRUSION": "lo_fi_authentic",
+          "MECHANISM": "lo_fi_authentic",
+          "PROOF": "lo_fi_authentic",
+          "STAT_REVEAL": "lo_fi_authentic",
+          "MOVE": "lo_fi_authentic"
+        },
+        "signals": {
+          "urgency_low": 0.0,
+          "urgency_mid": 0.9090909090909091,
+          "urgency_high": 0.0,
+          "urgency_extreme": 0.0,
+          "topic_finance": 1.0,
+          "topic_isa": 1.0,
+          "topic_pension": 0.0,
+          "topic_savings": 0.0,
+          "topic_mortgage": 0.0,
+          "topic_crypto": 0.0,
+          "topic_investment": 0.1,
+          "topic_wealth_gap": 0.1,
+          "tone_revelation": 0.3,
+          "tone_evidence": 1.0,
+          "tone_anger": 0.1,
+          "tone_injustice": 0.1,
+          "tone_weight": 0.3,
+          "tone_aspiration": 0.2,
+          "tone_authority": 1.0,
+          "tone_relatable": 1.0,
+          "tone_investigative": 0.2,
+          "tone_surprise": 0.2,
+          "tone_mechanism": 1.0,
+          "tone_historical": 0.1,
+          "tone_data": 1.0,
+          "tone_move": 1.0
+        }
+      },
+      "world": "real domestic environments: kitchens, bedrooms, living rooms, commutes \u2014 the ordinary world as protagonist",
+      "camera_system": "iPhone 15 Pro Max or similar consumer device, natural lens, no stabilisation, real compression",
+      "film": "compressed video codec \u2014 slight purple fringing, real exposure decisions, no grade applied",
+      "lighting_primary": "window light at noon or lamp from wrong angle \u2014 imperfect, real, what was there",
+      "lighting_secondary": "screen glow as fill \u2014 the device used to access information",
+      "motion_character": "handheld human breath visible, zoom instead of dolly, accidental reframes kept",
+      "anchor_text": "ambient light character + room environment + human-held movement energy",
+      "full_anchor": "[Visual DNA \u2014 embed unchanged in every clip] ambient light character + room environment + human-held movement energy. compressed video codec \u2014 slight purple fringing, real exposure decisions, no grade applied. Temporal consistency across all clips.",
+      "seed_phrase": "2cbd7ad7",
+      "topic": "isa"
+    },
+    "aesthetic_plan": {
+      "mode": "single",
+      "primary": "lo_fi_authentic",
+      "shot_aesthetics": {
+        "HOOK": "lo_fi_authentic",
+        "WEIGHT": "lo_fi_authentic",
+        "INTRUSION": "lo_fi_authentic",
+        "MECHANISM": "lo_fi_authentic",
+        "PROOF": "lo_fi_authentic",
+        "STAT_REVEAL": "lo_fi_authentic",
+        "MOVE": "lo_fi_authentic"
+      },
+      "signals": {
+        "urgency_low": 0.0,
+        "urgency_mid": 0.9090909090909091,
+        "urgency_high": 0.0,
+        "urgency_extreme": 0.0,
+        "topic_finance": 1.0,
+        "topic_isa": 1.0,
+        "topic_pension": 0.0,
+        "topic_savings": 0.0,
+        "topic_mortgage": 0.0,
+        "topic_crypto": 0.0,
+        "topic_investment": 0.1,
+        "topic_wealth_gap": 0.1,
+        "tone_revelation": 0.3,
+        "tone_evidence": 1.0,
+        "tone_anger": 0.1,
+        "tone_injustice": 0.1,
+        "tone_weight": 0.3,
+        "tone_aspiration": 0.2,
+        "tone_authority": 1.0,
+        "tone_relatable": 1.0,
+        "tone_investigative": 0.2,
+        "tone_surprise": 0.2,
+        "tone_mechanism": 1.0,
+        "tone_historical": 0.1,
+        "tone_data": 1.0,
+        "tone_move": 1.0
+      }
+    },
+    "shot_list": [
+      {
+        "index": 0,
+        "type": "HOOK",
+        "duration_s": 5,
+        "brief_section": "INTRUSION",
+        "intent": "Stop the scroll. Establish tension before explanation.",
+        "source_text": "",
+        "has_human": false,
+        "money_value": null,
+        "prompt": "Shot 1 (0\u20135s): Aesthetic: Lo-fi Authentic. real domestic environments: kitchens, bedrooms, living rooms, commutes \u2014 the ordinary world as protagonist. Empty office desk. Untouched ISA paperwork sits under a paperweight. A phone screen lights up \u2014 notification unseen. Camera: iPhone 15 Pro Max or similar consumer device, natural lens, no stabilisation, real compression. Motion: handheld human breath visible, zoom instead of dolly, accidental reframes kept. Lighting: window light at noon or lamp from wrong angle \u2014 imperfect, real, what was there. screen glow as fill \u2014 the device used to access information. Film stock: compressed video codec \u2014 slight purple fringing, real exposure decisions, no grade applied. Atmosphere: warm practical light flickers once at 2 seconds \u2014 power-grid suggestion \u2014 then stabilises. [Visual DNA \u2014 embed unchanged in every clip] ambient light character + room environment + human-held movement energy. compressed video codec \u2014 slight purple fringing, real exposure decisions, no grade applied. Temporal consistency across all clips. Avoid: watermarks, text overlays, subtitle artifacts, camera jitter, morphing surfaces, flickering light, inconsistent shadows. Also avoid: studio, professional lighting, crisp production value, cinematic grading, cinematic lenses.",
+        "negative_prompt": "blur, distortion, watermark, text overlay, low quality, compression artifacts, flickering, inconsistent lighting, morphing faces, morphing textures, oversaturation, plastic skin, smooth waxy texture, artificial bokeh halos, readable account numbers, readable financial data, screen moir\u00e9, studio, professional lighting, crisp production value, cinematic grading, cinematic lenses",
+        "component_registry": {
+          "shot_index": 0,
+          "shot_type": "HOOK",
+          "aesthetic_key": "lo_fi_authentic",
+          "aesthetic_label": "Lo-fi Authentic",
+          "overrides_camera": true,
+          "components": [
+            "iPhone 15 Pro Max or similar consumer device, natural lens, no stabilisation, real compression",
+            "handheld human breath visible, zoom instead of dolly, accidental reframes kept",
+            "window light at noon or lamp from wrong angle \u2014 imperfect, real, what was there. screen glow as fill \u2014 the device used to access information",
+            "compressed video codec \u2014 slight purple fringing, real exposure decisions, no grade applied",
+            "warm practical light flickers once at 2 seconds \u2014 power-grid suggestion \u2014 then stabilises"
+          ],
+          "action_line": "Empty office desk. Untouched ISA paperwork sits under a paperweight. A phone screen lights up \u2014 notification unseen.",
+          "optics": "iPhone 15 Pro Max or similar consumer device, natural lens, no stabilisation, real compression",
+          "motion": "handheld human breath visible, zoom instead of dolly, accidental reframes kept",
+          "lighting": "window light at noon or lamp from wrong angle \u2014 imperfect, real, what was there. screen glow as fill \u2014 the device used to access information",
+          "film_stock": "compressed video codec \u2014 slight purple fringing, real exposure decisions, no grade applied",
+          "dna_anchor": "ambient light character + room environment + human-held movement energy"
+        },
+        "aesthetic_key": "lo_fi_authentic",
+        "aesthetic_label": "Lo-fi Authentic",
+        "fal_params": {
+          "duration": 5,
+          "aspect_ratio": "9:16",
+          "mode": "pro"
+        }
+      },
+      {
+        "index": 1,
+        "type": "MECHANISM",
+        "duration_s": 5,
+        "brief_section": "MECHANISM",
+        "intent": "Show how it works. Documentary observation, information discovered.",
+        "source_text": "",
+        "has_human": false,
+        "money_value": null,
+        "prompt": "Shot 2: Aesthetic: Lo-fi Authentic. real domestic environments: kitchens, bedrooms, living rooms, commutes \u2014 the ordinary world as protagonist. ISA wrapper mechanism shown through simple visual metaphor \u2014 money inside protected versus money outside taxed. Camera: iPhone 15 Pro Max or similar consumer device, natural lens, no stabilisation, real compression. Motion: handheld human breath visible, zoom instead of dolly, accidental reframes kept. Lighting: window light at noon or lamp from wrong angle \u2014 imperfect, real, what was there. screen glow as fill \u2014 the device used to access information. Film stock: compressed video codec \u2014 slight purple fringing, real exposure decisions, no grade applied. Atmosphere: at 3-second mark, distant city light shifts slightly as cloud passes, barely perceptible ambient change. [Visual DNA \u2014 embed unchanged in every clip] ambient light character + room environment + human-held movement energy. compressed video codec \u2014 slight purple fringing, real exposure decisions, no grade applied. Temporal consistency across all clips. Avoid: watermarks, text overlays, subtitle artifacts, camera jitter, morphing surfaces, flickering light, inconsistent shadows. Also avoid: studio, professional lighting, crisp production value, cinematic grading, cinematic lenses.",
+        "negative_prompt": "blur, distortion, watermark, text overlay, low quality, compression artifacts, flickering, inconsistent lighting, morphing faces, morphing textures, oversaturation, plastic skin, smooth waxy texture, artificial bokeh halos, readable account numbers, readable financial data, screen moir\u00e9, studio, professional lighting, crisp production value, cinematic grading, cinematic lenses",
+        "component_registry": {
+          "shot_index": 1,
+          "shot_type": "MECHANISM",
+          "aesthetic_key": "lo_fi_authentic",
+          "aesthetic_label": "Lo-fi Authentic",
+          "overrides_camera": true,
+          "components": [
+            "iPhone 15 Pro Max or similar consumer device, natural lens, no stabilisation, real compression",
+            "handheld human breath visible, zoom instead of dolly, accidental reframes kept",
+            "window light at noon or lamp from wrong angle \u2014 imperfect, real, what was there. screen glow as fill \u2014 the device used to access information",
+            "compressed video codec \u2014 slight purple fringing, real exposure decisions, no grade applied",
+            "at 3-second mark, distant city light shifts slightly as cloud passes, barely perceptible ambient change"
+          ],
+          "action_line": "ISA wrapper mechanism shown through simple visual metaphor \u2014 money inside protected versus money outside taxed.",
+          "optics": "iPhone 15 Pro Max or similar consumer device, natural lens, no stabilisation, real compression",
+          "motion": "handheld human breath visible, zoom instead of dolly, accidental reframes kept",
+          "lighting": "window light at noon or lamp from wrong angle \u2014 imperfect, real, what was there. screen glow as fill \u2014 the device used to access information",
+          "film_stock": "compressed video codec \u2014 slight purple fringing, real exposure decisions, no grade applied",
+          "dna_anchor": "ambient light character + room environment + human-held movement energy"
+        },
+        "aesthetic_key": "lo_fi_authentic",
+        "aesthetic_label": "Lo-fi Authentic",
+        "fal_params": {
+          "duration": 5,
+          "aspect_ratio": "9:16",
+          "mode": "pro"
+        }
+      },
+      {
+        "index": 2,
+        "type": "MOVE",
+        "duration_s": 5,
+        "brief_section": "MOVE",
+        "intent": "Resolution energy. Forward motion. The action the viewer must take.",
+        "source_text": "",
+        "has_human": false,
+        "money_value": null,
+        "prompt": "Shot 3: Aesthetic: Lo-fi Authentic. real domestic environments: kitchens, bedrooms, living rooms, commutes \u2014 the ordinary world as protagonist. Person at a laptop. ISA application page open. Cursor moves. The action is being taken. Camera moves with the resolution. Camera: iPhone 15 Pro Max or similar consumer device, natural lens, no stabilisation, real compression. Motion: handheld human breath visible, zoom instead of dolly, accidental reframes kept. Lighting: window light at noon or lamp from wrong angle \u2014 imperfect, real, what was there. screen glow as fill \u2014 the device used to access information. Film stock: compressed video codec \u2014 slight purple fringing, real exposure decisions, no grade applied. Atmosphere: steam or breath barely visible in cold air, secondary motion from ventilation barely stirs any fabric. [Visual DNA \u2014 embed unchanged in every clip] ambient light character + room environment + human-held movement energy. compressed video codec \u2014 slight purple fringing, real exposure decisions, no grade applied. Temporal consistency across all clips. Avoid: watermarks, text overlays, subtitle artifacts, camera jitter, morphing surfaces, flickering light, inconsistent shadows. Also avoid: studio, professional lighting, crisp production value, cinematic grading, cinematic lenses.",
+        "negative_prompt": "blur, distortion, watermark, text overlay, low quality, compression artifacts, flickering, inconsistent lighting, morphing faces, morphing textures, oversaturation, plastic skin, smooth waxy texture, artificial bokeh halos, readable account numbers, readable financial data, screen moir\u00e9, studio, professional lighting, crisp production value, cinematic grading, cinematic lenses",
+        "component_registry": {
+          "shot_index": 2,
+          "shot_type": "MOVE",
+          "aesthetic_key": "lo_fi_authentic",
+          "aesthetic_label": "Lo-fi Authentic",
+          "overrides_camera": true,
+          "components": [
+            "iPhone 15 Pro Max or similar consumer device, natural lens, no stabilisation, real compression",
+            "handheld human breath visible, zoom instead of dolly, accidental reframes kept",
+            "window light at noon or lamp from wrong angle \u2014 imperfect, real, what was there. screen glow as fill \u2014 the device used to access information",
+            "compressed video codec \u2014 slight purple fringing, real exposure decisions, no grade applied",
+            "steam or breath barely visible in cold air, secondary motion from ventilation barely stirs any fabric"
+          ],
+          "action_line": "Person at a laptop. ISA application page open. Cursor moves. The action is being taken. Camera moves with the resolution.",
+          "optics": "iPhone 15 Pro Max or similar consumer device, natural lens, no stabilisation, real compression",
+          "motion": "handheld human breath visible, zoom instead of dolly, accidental reframes kept",
+          "lighting": "window light at noon or lamp from wrong angle \u2014 imperfect, real, what was there. screen glow as fill \u2014 the device used to access information",
+          "film_stock": "compressed video codec \u2014 slight purple fringing, real exposure decisions, no grade applied",
+          "dna_anchor": "ambient light character + room environment + human-held movement energy"
+        },
+        "aesthetic_key": "lo_fi_authentic",
+        "aesthetic_label": "Lo-fi Authentic",
+        "fal_params": {
+          "duration": 5,
+          "aspect_ratio": "9:16",
+          "mode": "pro"
+        }
+      }
+    ],
+    "genome_generation": 2,
+    "seed_phrase": "2cbd7ad7",
+    "total_shots": 3,
+    "total_duration_s": 15,
+    "generated_at": "2026-03-21T18:31:11.416074"
+  },
+  "audio_alignment": true
+}

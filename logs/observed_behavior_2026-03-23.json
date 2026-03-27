@@ -1,0 +1,17 @@
+{
+  "timestamp": "2026-03-23T05:45:00.609261",
+  "slot_distribution": {},
+  "timing_patterns": {
+    "avg_hook_wps": 3.89,
+    "samples": 3,
+    "avg_pre_hook_silence_ms": 176
+  },
+  "visual_patterns": {
+    "avg_loop_a_score": 4.0,
+    "samples": 1,
+    "below_threshold": 1,
+    "flag": "visual_identity_weak \u2014 Loop A scores below 6.0 average; visual identity is not executing research-derived brief"
+  },
+  "confidence_updates": [],
+  "total_signals_updated": 0
+}

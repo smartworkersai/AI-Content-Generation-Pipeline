@@ -1,0 +1,27 @@
+{
+  "timestamp": "2026-03-22T13:31:15.829500",
+  "slot": 4,
+  "niche": "dark_psychology",
+  "niche_label": "Dark Psychology",
+  "topic": "How to tell if someone is lying to you just by looking at their feet.",
+  "script": {
+    "hook": "How to tell if someone is lying to you just by looking at their feet.",
+    "body": "Psychologists have known this for decades but it never makes it into mainstream education. The people who use this have an unfair advantage in every conversation.",
+    "cta": "Follow for more."
+  },
+  "full_script_text": "How to tell if someone is lying to you just by looking at their feet. Psychologists have known this for decades but it never makes it into mainstream education. The people who use this have an unfair advantage in every conversation. Follow for more.",
+  "visual_direction": {
+    "kling_prompt": "extreme close-up of eyes in deep shadow, single light source from the side, no full faces, 9:16 vertical cinematic, psychological thriller aesthetic, deep shadows",
+    "negative_prompt": "faces, logos, text overlays, watermarks, bright colours"
+  },
+  "voice_settings": {
+    "voice": "Josh",
+    "stability": 0.4,
+    "similarity": 0.88,
+    "style": 0.7,
+    "speed": 0.95
+  },
+  "caption_text": "How to tell if someone is lying to you just by looking at their feet.",
+  "affiliate": {},
+  "compliance_checked": true
+}

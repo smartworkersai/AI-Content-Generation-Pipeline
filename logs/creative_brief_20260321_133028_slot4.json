@@ -1,0 +1,47 @@
+{
+  "timestamp": "2026-03-21T13:30:28.712571",
+  "slot": 4,
+  "asymmetry": "The UK ISA allowance \u2014 \u00a320,000 tax-free \u2014 permanently expires April 5. Every pound not sheltered inside an ISA this tax year is gone from the wrapper forever. HMRC does not carry unused allowance forward. Banks do not remind you. The deadline is in 16 days. This is not manufactured urgency \u2014 it is statute.",
+  "urgency_score": null,
+  "affiliate_alignment": null,
+  "script": {
+    "intrusion": "Every pound you didn't put in an ISA this year is gone permanently.",
+    "weight": "The annual ISA allowance is \u00a320,000. If you don't use it by April 5th, that tax-free capacity is gone permanently \u2014 not carried forward, not recovered. HMRC does not send a reminder.",
+    "mechanism": "HMRC created the ISA wrapper in 1999. Each April 5th, any unused allowance disappears \u2014 permanently. It does not roll over. The wrapper itself protects every pound inside it from income tax and capital gains tax for life. But HMRC does not remind you. Your bank does not remind you. The deadline is structural. The silence around it is deliberate.",
+    "proof": "HMRC's ISA statistics, published annually, show \u00a33.7 billion in unclaimed ISA allowance in the 2022-23 tax year. That is permanent, irrecoverable tax",
+    "comment_trigger": "How much of your \u00a320,000 ISA allowance have you used this year?",
+    "move": "What financially-aware people use to navigate this is Fidelity Stocks & Shares"
+  },
+  "full_script_text": "[serious tone] Every pound you didn't put in an ISA this year is gone permanently. [pause] The annual ISA allowance is \u00a320,000. If you don't use it by April 5th, that tax-free capacity is gone permanently \u2014 not carried forward, not recovered. HMRC does not send a reminder. [pause] [authoritative] HMRC created the ISA wrapper in 1999. Each April 5th, any unused allowance disappears \u2014 permanently. It does not roll over. The wrapper itself protects every pound inside it from income tax and capital gains tax for life. But HMRC does not remind you. Your bank does not remind you. The deadline is structural. The silence around it is deliberate. [measured] HMRC's ISA statistics, published annually, show \u00a33.7 billion in unclaimed ISA allowance in the 2022-23 tax year. That is permanent, irrecoverable tax [pause] [hushed] How much of your \u00a320,000 ISA allowance have you used this year? [direct] What financially-aware people use to navigate this is Fidelity Stocks & Shares",
+  "trust_anchors": {
+    "source_citation": "HMRC ISA Statistics 2022-23 \u2014 published annually at gov.uk",
+    "uk_relevance_signal": "HMRC ISA allowance rules, annual \u00a320,000 wrapper",
+    "affiliate_integration_type": "next_step",
+    "disclaimer_required": false
+  },
+  "visual_direction": {
+    "frame_description": "Extreme close-up of a bank statement, numbers slightly out of focus, single column of figures barely visible",
+    "light_source": "Single overhead fluorescent tube, directly above, casting sharp downward shadows",
+    "colour_temperature": "4200K, cold blue-white dominant",
+    "motion": "Ken Burns: slow pull back from 120% to 100%, revealing more of the document, 75 seconds duration",
+    "shadow_ratio": "60% of frame in shadow",
+    "kling_prompt": "extreme close-up bank statement paper texture, cold fluorescent overhead light, sharp downward shadows, numbers barely legible, cinematic 9:16 vertical, dark atmosphere, documentary realism, no faces, no people",
+    "negative_prompt": "faces, people, warm colours, sunlight, lifestyle imagery, text overlays, happy, bright, colorful, outdoors"
+  },
+  "voice_settings": {
+    "voice": "Josh",
+    "stability": 0.4,
+    "similarity": 0.88,
+    "style": 0.7,
+    "speed": 0.88,
+    "pre_script_silence_ms": 800,
+    "post_weight_silence_ms": 400,
+    "post_proof_silence_ms": 400
+  },
+  "caption_text": "Every pound didn't.",
+  "affiliate": {
+    "name": "Fidelity Stocks & Shares ISA",
+    "url": "fidelity.co.uk/isa"
+  },
+  "isa_override_active": true
+}

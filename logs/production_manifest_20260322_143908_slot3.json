@@ -1,0 +1,52 @@
+{
+  "timestamp": "2026-03-22T14:39:08.604163",
+  "slot": 3,
+  "sound_profile": {
+    "sub_bass_db": -18,
+    "sub_bass_hz": 40,
+    "ambience_type": "server_hum"
+  },
+  "asymmetry": null,
+  "affiliate": {},
+  "script": {
+    "hook": "How to use AI to automate your entire job and get paid to do nothing.",
+    "body": "Most people scroll past these tools without realising what they are missing.",
+    "cta": "Follow so you do not miss the rest.",
+    "disclosure_cta": "Trading involves significant risk. Capital at risk. This is an affiliate link. I may earn a commission at no extra cost to you. Check out my affiliate link below."
+  },
+  "caption_text": "How to use AI to automate your entire job and get paid to do nothing.",
+  "visual_direction": {
+    "kling_prompt": "dark glowing computer screens with code, futuristic AI interface, neon blue and green, no faces, 9:16 vertical cinematic, cyberpunk, high contrast",
+    "negative_prompt": "faces, logos, text overlays, watermarks"
+  },
+  "voice_settings": {
+    "voice_id": "TxGEqnHWrfWFTfGW9XjX",
+    "stability": 0.3,
+    "similarity": 0.88,
+    "style": 0.85,
+    "speed": 1.1,
+    "voice": "Josh"
+  },
+  "visual_source": "broll_footage",
+  "audio": "/Users/kolly/HARBINGERHQ/output/voice_sfx_20260322_143908_slot3.mp3",
+  "video": "/Users/kolly/HARBINGERHQ/output/post_20260322_143908_slot3.mp4",
+  "quality_check": {
+    "file_size_mb": 38.64,
+    "size_ok": true,
+    "resolution": "1080x1920",
+    "resolution_ok": true,
+    "duration_s": 34.3,
+    "duration_ok": true
+  },
+  "prompt_metadata": {
+    "visual_source": "broll_footage",
+    "shot_list": []
+  },
+  "audio_alignment": true,
+  "ffmpeg_evolution_params": {
+    "zoom_factor": 0.15,
+    "ssml_break_secs": 0.8,
+    "prompt_version": 1
+  },
+  "script_variant": "short"
+}

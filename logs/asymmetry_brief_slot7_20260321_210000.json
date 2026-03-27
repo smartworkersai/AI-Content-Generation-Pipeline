@@ -1,0 +1,23 @@
+{
+  "asymmetry": "Student loan repayments now act as a 9% stealth tax on earnings above \u00a325k, meaning a young parent on \u00a335k loses \u00a3900/year extra compared to someone who never went to university \u2014 for a degree that was supposed to improve their life.",
+  "category": "wage_theft",
+  "hook": "Your degree is costing you more than you think.",
+  "core_fact": "A graduate earning \u00a335,000 pays \u00a3900/year in student loan repayments \u2014 someone without a degree pays \u00a30. After 30 years the debt is wiped, but most graduates never clear it, meaning they paid a 9% tax surcharge their entire working life for nothing.",
+  "villain": "The UK Government \u2014 which tripled tuition fees in 2012 and then lowered the repayment threshold in 2023, making graduates pay MORE per month than the original deal promised when they signed up.",
+  "share_trigger": "Did you see this? They changed the rules AFTER people already took the loans \u2014 it's literally a retrospective pay cut.",
+  "search_query": "UK student loan repayment threshold change 2023 graduates paying more BBC News",
+  "keywords": [
+    "student loan",
+    "tuition fees",
+    "graduate tax",
+    "repayment threshold",
+    "UK debt",
+    "young family finances",
+    "cost of living UK",
+    "2023 loan rule change"
+  ],
+  "estimated_anger_score": 87,
+  "timestamp": "2026-03-21T21:00:00.486492",
+  "slot": 7,
+  "findings_count": 411
+}

@@ -1,0 +1,34 @@
+{
+  "timestamp": "2026-03-23T11:01:21.676213",
+  "slot": 3,
+  "niche": "tech_ai",
+  "niche_label": "Tech / AI Hacks",
+  "topic": "Elon Musk to Owe Billions After Jury Finds He Misled Twitter.",
+  "framework": {
+    "structure": "['How to'] + [Aspirational Outcome] + ['using'] + [Unexpected Free or Unknown Method]",
+    "trigger": "Effort gap \u2014 same result with a fraction of the work, and almost nobody knows this exists",
+    "example": "How to automate your entire Monday morning using one free AI tool nobody is using."
+  },
+  "script": {
+    "hook": "How to automate your entire Monday morning using one free AI tool nobody is using.",
+    "body": "Most people scroll past these tools without realising what they are missing.",
+    "cta": "Comment KNEW if you already knew this."
+  },
+  "full_script_text": "How to automate your entire Monday morning using one free AI tool nobody is using. Most people scroll past these tools without realising what they are missing. Comment KNEW if you already knew this.",
+  "visual_direction": {
+    "kling_prompt": "dark glowing computer screens with code, futuristic AI interface, neon blue and green, no faces, 9:16 vertical cinematic, cyberpunk, high contrast",
+    "negative_prompt": "faces, logos, text overlays, watermarks"
+  },
+  "voice_settings": {
+    "voice_id": "TxGEqnHWrfWFTfGW9XjX",
+    "stability": 0.3,
+    "similarity": 0.88,
+    "style": 0.85,
+    "speed": 1.1,
+    "voice": "Josh"
+  },
+  "caption_text": "How to automate your entire Monday morning using one free AI tool nobody is usin",
+  "affiliate": "none_growth_mode",
+  "script_variant": "short",
+  "compliance_checked": true
+}

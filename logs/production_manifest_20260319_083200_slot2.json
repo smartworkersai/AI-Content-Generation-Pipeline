@@ -1,0 +1,276 @@
+{
+  "timestamp": "2026-03-19T08:32:00.921004",
+  "slot": 2,
+  "sound_profile": {
+    "sub_bass_db": -18,
+    "sub_bass_hz": 40,
+    "ambience_type": "server_hum"
+  },
+  "asymmetry": "ISA contribution limits reset annually but the allowance is not cumulative \u2014 money not saved in a given year is permanently lost to the tax-free wrapper, a fact HMRC does not proactively communicate.",
+  "affiliate": {
+    "name": "eToro",
+    "url": "etoro.com/affiliates"
+  },
+  "script": {
+    "intrusion": "Every pound you didn't put in an ISA this year is gone permanently.",
+    "weight": "The annual ISA allowance is \u00a320,000. If you don't use it by April 5th, that tax-free capacity is gone permanently \u2014 not carried forward, not recovered. HMRC does not send a reminder.",
+    "mechanism": "HMRC created the ISA wrapper in 1999. Each April 5th, any unused allowance disappears \u2014 permanently. It does not roll over. The wrapper itself protects every pound inside it from income tax and capital gains tax for life. But HMRC does not remind you. Your bank does not remind you. The deadline is structural. The silence around it is deliberate.",
+    "proof": "HMRC's ISA statistics, published annually, show \u00a33.7 billion in unclaimed ISA allowance in the 2022-23 tax year. That is permanent, irrecoverable tax exposure for the people who missed the April 5th deadline.",
+    "comment_trigger": "How much of your \u00a320,000 ISA allowance have you used this year?",
+    "move": "What financially-aware people use to navigate this is eToro."
+  },
+  "caption_text": "Every pound didn't.",
+  "visual_direction": {
+    "frame_description": "Extreme close-up of a bank statement, numbers slightly out of focus, single column of figures barely visible",
+    "light_source": "Single overhead fluorescent tube, directly above, casting sharp downward shadows",
+    "colour_temperature": "4200K, cold blue-white dominant",
+    "motion": "Ken Burns: slow pull back from 120% to 100%, revealing more of the document, 75 seconds duration",
+    "shadow_ratio": "60% of frame in shadow",
+    "kling_prompt": "extreme close-up bank statement paper texture, cold fluorescent overhead light, sharp downward shadows, numbers barely legible, cinematic 9:16 vertical, dark atmosphere, documentary realism, no faces, no people",
+    "negative_prompt": "faces, people, warm colours, sunlight, lifestyle imagery, text overlays, happy, bright, colorful, outdoors"
+  },
+  "voice_settings": {
+    "voice": "Josh",
+    "stability": 0.4,
+    "similarity": 0.88,
+    "style": 0.7,
+    "speed": 0.88,
+    "pre_script_silence_ms": 800,
+    "post_weight_silence_ms": 400,
+    "post_proof_silence_ms": 400
+  },
+  "visual_source": "/Users/kolly/HARBINGERHQ/output/visual_20260319_083200_slot2.mp4",
+  "audio": "/Users/kolly/HARBINGERHQ/output/mixed_audio_20260319_083200_slot2.mp3",
+  "video": "/Users/kolly/HARBINGERHQ/output/post_20260319_083200_slot2.mp4",
+  "quality_check": {
+    "file_size_mb": 10.37,
+    "size_ok": true,
+    "resolution": "1080x1920",
+    "resolution_ok": true,
+    "duration_s": 78.4,
+    "duration_ok": true
+  },
+  "prompt_metadata": {
+    "visual_dna": {
+      "primary_aesthetic": "cinematic_dark",
+      "aesthetic_label": "Cinematic Institutional",
+      "aesthetic_plan": {
+        "mode": "single",
+        "primary": "cinematic_dark",
+        "shot_aesthetics": {
+          "HOOK": "cinematic_dark",
+          "WEIGHT": "cinematic_dark",
+          "INTRUSION": "cinematic_dark",
+          "MECHANISM": "cinematic_dark",
+          "PROOF": "cinematic_dark",
+          "STAT_REVEAL": "cinematic_dark",
+          "MOVE": "cinematic_dark"
+        },
+        "signals": {
+          "urgency_low": 0.0,
+          "urgency_mid": 1.0,
+          "urgency_high": 0.0,
+          "urgency_extreme": 0.0,
+          "topic_finance": 1.0,
+          "topic_isa": 1.0,
+          "topic_pension": 0.0,
+          "topic_savings": 0.0,
+          "topic_mortgage": 0.0,
+          "topic_crypto": 0.0,
+          "topic_investment": 0.1,
+          "topic_wealth_gap": 0.1,
+          "tone_revelation": 0.3,
+          "tone_evidence": 1.0,
+          "tone_anger": 0.1,
+          "tone_injustice": 0.1,
+          "tone_weight": 0.3,
+          "tone_aspiration": 0.2,
+          "tone_authority": 1.0,
+          "tone_relatable": 1.0,
+          "tone_investigative": 0.2,
+          "tone_surprise": 0.2,
+          "tone_mechanism": 1.0,
+          "tone_historical": 0.1,
+          "tone_data": 1.0,
+          "tone_move": 1.0
+        }
+      },
+      "world": "glass-and-steel financial building interior, late evening, city grid visible through floor-to-ceiling windows",
+      "camera_system": "ARRI Alexa 35, anamorphic Panavision Primo lenses, LOG-C3 science",
+      "film": "Kodak Vision3 500T pushed one stop \u2014 fine grain, lifted blacks, cinematic toe curve",
+      "lighting_primary": "warm overhead practical 2800K, chiaroscuro ratio 5:1, deep shadows preserved",
+      "lighting_secondary": "cool monitor glow blue fill from below-right",
+      "motion_character": "every movement intentional, deliberate, controlled \u2014 slow to very slow",
+      "anchor_text": "warm practical 2800K overhead + evening city light + ARRI colour science",
+      "full_anchor": "[Visual DNA \u2014 embed unchanged in every clip] warm practical 2800K overhead + evening city light + ARRI colour science. Kodak Vision3 500T pushed one stop \u2014 fine grain, lifted blacks, cinematic toe curve. Temporal consistency across all clips.",
+      "seed_phrase": "5935ba17",
+      "topic": "isa"
+    },
+    "aesthetic_plan": {
+      "mode": "single",
+      "primary": "cinematic_dark",
+      "shot_aesthetics": {
+        "HOOK": "cinematic_dark",
+        "WEIGHT": "cinematic_dark",
+        "INTRUSION": "cinematic_dark",
+        "MECHANISM": "cinematic_dark",
+        "PROOF": "cinematic_dark",
+        "STAT_REVEAL": "cinematic_dark",
+        "MOVE": "cinematic_dark"
+      },
+      "signals": {
+        "urgency_low": 0.0,
+        "urgency_mid": 1.0,
+        "urgency_high": 0.0,
+        "urgency_extreme": 0.0,
+        "topic_finance": 1.0,
+        "topic_isa": 1.0,
+        "topic_pension": 0.0,
+        "topic_savings": 0.0,
+        "topic_mortgage": 0.0,
+        "topic_crypto": 0.0,
+        "topic_investment": 0.1,
+        "topic_wealth_gap": 0.1,
+        "tone_revelation": 0.3,
+        "tone_evidence": 1.0,
+        "tone_anger": 0.1,
+        "tone_injustice": 0.1,
+        "tone_weight": 0.3,
+        "tone_aspiration": 0.2,
+        "tone_authority": 1.0,
+        "tone_relatable": 1.0,
+        "tone_investigative": 0.2,
+        "tone_surprise": 0.2,
+        "tone_mechanism": 1.0,
+        "tone_historical": 0.1,
+        "tone_data": 1.0,
+        "tone_move": 1.0
+      }
+    },
+    "shot_list": [
+      {
+        "index": 0,
+        "type": "HOOK",
+        "duration_s": 5,
+        "brief_section": "INTRUSION",
+        "intent": "Stop the scroll. Establish tension before explanation.",
+        "source_text": "",
+        "has_human": false,
+        "money_value": null,
+        "prompt": "Shot 1 (0\u20135s): World: glass-and-steel financial building interior, late evening, city grid visible through floor-to-ceiling windows. Camera system: ARRI Alexa 35, anamorphic Panavision Primo lenses, LOG-C3 science.  Empty office desk. Untouched ISA paperwork sits under a paperweight. A phone screen lights up \u2014 notification unseen. Optics: anamorphic 40mm, f/2.8, oval bokeh, horizontal lens flare potential. Camera: static for 0.5 seconds, then aggressive slow dolly forward. Lighting: warm overhead practical 2800K, chiaroscuro ratio 5:1, deep shadows preserved. practical desk lamp warm 2800K from below left, harsh shadow on right side, chiaroscuro ratio 5:1. Film stock: Kodak Vision3 500T pushed one stop \u2014 fine grain, lifted blacks, cinematic toe curve. Atmosphere: light quality static throughout, no atmospheric progression. [Visual DNA \u2014 embed unchanged in every clip] warm practical 2800K overhead + evening city light + ARRI colour science. Kodak Vision3 500T pushed one stop \u2014 fine grain, lifted blacks, cinematic toe curve. Temporal consistency across all clips. Avoid: watermarks, text overlays, subtitle artifacts, camera jitter, morphing surfaces, flickering light, inconsistent shadows. Also avoid: outdoor sunlight, cheerful colour, handheld jitter, warm daylight colour balance.",
+        "negative_prompt": "blur, distortion, watermark, text overlay, low quality, compression artifacts, flickering, inconsistent lighting, morphing faces, morphing textures, oversaturation, plastic skin, smooth waxy texture, artificial bokeh halos, readable account numbers, readable financial data, screen moir\u00e9, outdoor sunlight, cheerful colour, handheld jitter, warm daylight colour balance",
+        "component_registry": {
+          "shot_index": 0,
+          "shot_type": "HOOK",
+          "aesthetic_key": "cinematic_dark",
+          "aesthetic_label": "Cinematic Institutional",
+          "overrides_camera": false,
+          "components": [
+            "anamorphic 40mm, f/2.8, oval bokeh, horizontal lens flare potential",
+            "static for 0.5 seconds, then aggressive slow dolly forward",
+            "practical desk lamp warm 2800K from below left, harsh shadow on right side, chiaroscuro ratio 5:1",
+            "Kodak Vision3 500T pushed one stop \u2014 fine grain, lifted blacks, cinematic toe curve",
+            "light quality static throughout, no atmospheric progression"
+          ],
+          "action_line": "Empty office desk. Untouched ISA paperwork sits under a paperweight. A phone screen lights up \u2014 notification unseen.",
+          "optics": "anamorphic 40mm, f/2.8, oval bokeh, horizontal lens flare potential",
+          "motion": "static for 0.5 seconds, then aggressive slow dolly forward",
+          "lighting": "warm overhead practical 2800K, chiaroscuro ratio 5:1, deep shadows preserved. practical desk lamp warm 2800K from below left, harsh shadow on right side, chiaroscuro ratio 5:1",
+          "film_stock": "Kodak Vision3 500T pushed one stop \u2014 fine grain, lifted blacks, cinematic toe curve",
+          "dna_anchor": "warm practical 2800K overhead + evening city light + ARRI colour science"
+        },
+        "aesthetic_key": "cinematic_dark",
+        "aesthetic_label": "Cinematic Institutional",
+        "fal_params": {
+          "duration": 5,
+          "aspect_ratio": "9:16",
+          "mode": "pro"
+        }
+      },
+      {
+        "index": 1,
+        "type": "MECHANISM",
+        "duration_s": 5,
+        "brief_section": "MECHANISM",
+        "intent": "Show how it works. Documentary observation, information discovered.",
+        "source_text": "",
+        "has_human": false,
+        "money_value": null,
+        "prompt": "Shot 2: World: glass-and-steel financial building interior, late evening, city grid visible through floor-to-ceiling windows. Camera system: ARRI Alexa 35, anamorphic Panavision Primo lenses, LOG-C3 science.  ISA wrapper mechanism shown through simple visual metaphor \u2014 money inside protected versus money outside taxed. Optics: 50mm lens, f/4.0, enough DoF to show environment and subject together. Camera: slow orbital around object or environment element, 180 degrees over 5 seconds. Lighting: warm overhead practical 2800K, chiaroscuro ratio 5:1, deep shadows preserved. harsh overhead fluorescent 5600K, cold blue-white, flat institutional light, deep shadows beneath subject. Film stock: Kodak Vision3 500T pushed one stop \u2014 fine grain, lifted blacks, cinematic toe curve. Atmosphere: at 3-second mark, distant city light shifts slightly as cloud passes, barely perceptible ambient change. [Visual DNA \u2014 embed unchanged in every clip] warm practical 2800K overhead + evening city light + ARRI colour science. Kodak Vision3 500T pushed one stop \u2014 fine grain, lifted blacks, cinematic toe curve. Temporal consistency across all clips. Avoid: watermarks, text overlays, subtitle artifacts, camera jitter, morphing surfaces, flickering light, inconsistent shadows. Also avoid: outdoor sunlight, cheerful colour, handheld jitter, warm daylight colour balance.",
+        "negative_prompt": "blur, distortion, watermark, text overlay, low quality, compression artifacts, flickering, inconsistent lighting, morphing faces, morphing textures, oversaturation, plastic skin, smooth waxy texture, artificial bokeh halos, readable account numbers, readable financial data, screen moir\u00e9, outdoor sunlight, cheerful colour, handheld jitter, warm daylight colour balance",
+        "component_registry": {
+          "shot_index": 1,
+          "shot_type": "MECHANISM",
+          "aesthetic_key": "cinematic_dark",
+          "aesthetic_label": "Cinematic Institutional",
+          "overrides_camera": false,
+          "components": [
+            "50mm lens, f/4.0, enough DoF to show environment and subject together",
+            "slow orbital around object or environment element, 180 degrees over 5 seconds",
+            "harsh overhead fluorescent 5600K, cold blue-white, flat institutional light, deep shadows beneath subject",
+            "Kodak Vision3 500T pushed one stop \u2014 fine grain, lifted blacks, cinematic toe curve",
+            "at 3-second mark, distant city light shifts slightly as cloud passes, barely perceptible ambient change"
+          ],
+          "action_line": "ISA wrapper mechanism shown through simple visual metaphor \u2014 money inside protected versus money outside taxed.",
+          "optics": "50mm lens, f/4.0, enough DoF to show environment and subject together",
+          "motion": "slow orbital around object or environment element, 180 degrees over 5 seconds",
+          "lighting": "warm overhead practical 2800K, chiaroscuro ratio 5:1, deep shadows preserved. harsh overhead fluorescent 5600K, cold blue-white, flat institutional light, deep shadows beneath subject",
+          "film_stock": "Kodak Vision3 500T pushed one stop \u2014 fine grain, lifted blacks, cinematic toe curve",
+          "dna_anchor": "warm practical 2800K overhead + evening city light + ARRI colour science"
+        },
+        "aesthetic_key": "cinematic_dark",
+        "aesthetic_label": "Cinematic Institutional",
+        "fal_params": {
+          "duration": 5,
+          "aspect_ratio": "9:16",
+          "mode": "pro"
+        }
+      },
+      {
+        "index": 2,
+        "type": "MOVE",
+        "duration_s": 5,
+        "brief_section": "MOVE",
+        "intent": "Resolution energy. Forward motion. The action the viewer must take.",
+        "source_text": "",
+        "has_human": false,
+        "money_value": null,
+        "prompt": "Shot 3: World: glass-and-steel financial building interior, late evening, city grid visible through floor-to-ceiling windows. Camera system: ARRI Alexa 35, anamorphic Panavision Primo lenses, LOG-C3 science.  Person at a laptop. ISA application page open. Cursor moves. The action is being taken. Camera moves with the resolution. Optics: 35mm lens, f/2.0, forward motion framing, camera advances with subject. Camera: Steadicam forward tracking following subject, smooth resolute movement, environment opens ahead. Lighting: warm overhead practical 2800K, chiaroscuro ratio 5:1, deep shadows preserved. practical desk lamp warm 2800K from below left, harsh shadow on right side, chiaroscuro ratio 5:1. Film stock: Kodak Vision3 500T pushed one stop \u2014 fine grain, lifted blacks, cinematic toe curve. Atmosphere: steam or breath barely visible in cold air, secondary motion from ventilation barely stirs any fabric. [Visual DNA \u2014 embed unchanged in every clip] warm practical 2800K overhead + evening city light + ARRI colour science. Kodak Vision3 500T pushed one stop \u2014 fine grain, lifted blacks, cinematic toe curve. Temporal consistency across all clips. Avoid: watermarks, text overlays, subtitle artifacts, camera jitter, morphing surfaces, flickering light, inconsistent shadows. Also avoid: outdoor sunlight, cheerful colour, handheld jitter, warm daylight colour balance.",
+        "negative_prompt": "blur, distortion, watermark, text overlay, low quality, compression artifacts, flickering, inconsistent lighting, morphing faces, morphing textures, oversaturation, plastic skin, smooth waxy texture, artificial bokeh halos, readable account numbers, readable financial data, screen moir\u00e9, outdoor sunlight, cheerful colour, handheld jitter, warm daylight colour balance",
+        "component_registry": {
+          "shot_index": 2,
+          "shot_type": "MOVE",
+          "aesthetic_key": "cinematic_dark",
+          "aesthetic_label": "Cinematic Institutional",
+          "overrides_camera": false,
+          "components": [
+            "35mm lens, f/2.0, forward motion framing, camera advances with subject",
+            "Steadicam forward tracking following subject, smooth resolute movement, environment opens ahead",
+            "practical desk lamp warm 2800K from below left, harsh shadow on right side, chiaroscuro ratio 5:1",
+            "Kodak Vision3 500T pushed one stop \u2014 fine grain, lifted blacks, cinematic toe curve",
+            "steam or breath barely visible in cold air, secondary motion from ventilation barely stirs any fabric"
+          ],
+          "action_line": "Person at a laptop. ISA application page open. Cursor moves. The action is being taken. Camera moves with the resolution.",
+          "optics": "35mm lens, f/2.0, forward motion framing, camera advances with subject",
+          "motion": "Steadicam forward tracking following subject, smooth resolute movement, environment opens ahead",
+          "lighting": "warm overhead practical 2800K, chiaroscuro ratio 5:1, deep shadows preserved. practical desk lamp warm 2800K from below left, harsh shadow on right side, chiaroscuro ratio 5:1",
+          "film_stock": "Kodak Vision3 500T pushed one stop \u2014 fine grain, lifted blacks, cinematic toe curve",
+          "dna_anchor": "warm practical 2800K overhead + evening city light + ARRI colour science"
+        },
+        "aesthetic_key": "cinematic_dark",
+        "aesthetic_label": "Cinematic Institutional",
+        "fal_params": {
+          "duration": 5,
+          "aspect_ratio": "9:16",
+          "mode": "pro"
+        }
+      }
+    ],
+    "genome_generation": 2,
+    "seed_phrase": "5935ba17",
+    "total_shots": 3,
+    "total_duration_s": 15,
+    "generated_at": "2026-03-19T08:32:01.224978"
+  },
+  "audio_alignment": true
+}

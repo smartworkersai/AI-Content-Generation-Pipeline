@@ -1,0 +1,34 @@
+{
+  "timestamp": "2026-03-23T21:02:06.329911",
+  "slot": 7,
+  "niche": "dark_psychology",
+  "niche_label": "Dark Psychology",
+  "topic": "Too much self-reflection is linked to anxiety and depression.",
+  "framework": {
+    "structure": "['The reason you'] + [Universal Relatable Behaviour] + ['is not'] + [Assumed Reason] + ['it is'] + [Dark Psychological Mechanism]",
+    "trigger": "Self-revelation \u2014 reframes a familiar experience with a disturbing explanation the viewer cannot unsee",
+    "example": "The reason you can't stop scrolling is not boredom. It is a dopamine loop engineered by behavioural scientists."
+  },
+  "script": {
+    "hook": "The reason you can't stop analyzing yourself is not self-improvement\u2014it's a trauma loop your brain won't release.",
+    "body": "Every time you replay a conversation or dissect your flaws, you're reinforcing the neural pathway that says you're broken. Your brain treats self-criticism like a threat response, flooding cortisol to 'solve' the problem. But there is no problem to solve\u2014only a cycle that feels productive while it destroys you.",
+    "cta": "Drop a \ud83d\udc41\ufe0f if you've been stuck in this without knowing why."
+  },
+  "full_script_text": "The reason you can't stop analyzing yourself is not self-improvement\u2014it's a trauma loop your brain won't release. Every time you replay a conversation or dissect your flaws, you're reinforcing the neural pathway that says you're broken. Your brain treats self-criticism like a threat response, flooding cortisol to 'solve' the problem. But there is no problem to solve\u2014only a cycle that feels productive while it destroys you. Drop a \ud83d\udc41\ufe0f if you've been stuck in this without knowing why.",
+  "visual_direction": {
+    "kling_prompt": "extreme close-up eyes in deep shadow, single side light source, no full faces, 9:16 vertical cinematic, psychological thriller, deep shadows",
+    "negative_prompt": "faces, logos, text overlays, watermarks"
+  },
+  "voice_settings": {
+    "voice_id": "TxGEqnHWrfWFTfGW9XjX",
+    "stability": 0.6,
+    "similarity": 0.88,
+    "style": 0.55,
+    "speed": 0.85,
+    "voice": "Josh"
+  },
+  "caption_text": "The reason you can't stop analyzing yourself is not self-improvement\u2014it's a trau",
+  "affiliate": "none_growth_mode",
+  "script_variant": "long",
+  "compliance_checked": true
+}

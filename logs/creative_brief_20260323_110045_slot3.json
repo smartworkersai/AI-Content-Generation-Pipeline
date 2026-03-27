@@ -1,0 +1,34 @@
+{
+  "timestamp": "2026-03-23T11:00:45.638079",
+  "slot": 3,
+  "niche": "micro_mystery",
+  "niche_label": "Micro-Mysteries",
+  "topic": "West Des Moines Police Have Made An Arrest In The April 2011.",
+  "framework": {
+    "structure": "[Credible Authority] + ['can't explain'] + [Specific Documented Anomaly with real detail] + [Open implication, never resolved]",
+    "trigger": "Authority gap \u2014 if the experts cannot explain it, the mystery is real and the viewer is helpless",
+    "example": "NASA has documented 47 radio signals from deep space that repeat on a 16-day cycle. They have no explanation."
+  },
+  "script": {
+    "hook": "NASA has documented 47 radio signals from deep space that repeat on a 16-day cycle. They have no explanation.",
+    "body": "Scientists have no explanation. The data exists, but the answer was never found.",
+    "cta": "Follow to see the ones they don't want you to find."
+  },
+  "full_script_text": "NASA has documented 47 radio signals from deep space that repeat on a 16-day cycle. They have no explanation. Scientists have no explanation. The data exists, but the answer was never found. Follow to see the ones they don't want you to find.",
+  "visual_direction": {
+    "kling_prompt": "deep space starfield or abandoned corridor, eerie dim lighting, fog effect, no people, 9:16 vertical cinematic, horror atmospheric, unsettling stillness",
+    "negative_prompt": "faces, logos, text overlays, watermarks"
+  },
+  "voice_settings": {
+    "voice_id": "TxGEqnHWrfWFTfGW9XjX",
+    "stability": 0.7,
+    "similarity": 0.85,
+    "style": 0.45,
+    "speed": 0.8,
+    "voice": "Josh"
+  },
+  "caption_text": "NASA has documented 47 radio signals from deep space that repeat on a 16-day cyc",
+  "affiliate": "none_growth_mode",
+  "script_variant": "short",
+  "compliance_checked": true
+}

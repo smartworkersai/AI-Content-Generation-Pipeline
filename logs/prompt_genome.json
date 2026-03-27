@@ -1,0 +1,618 @@
+{
+  "optics": {
+    "HOOK": [
+      {
+        "text": "24mm lens, f/2.0, wide field, slight environmental distortion",
+        "fitness": 60.0,
+        "uses": 15,
+        "wins": 0
+      },
+      {
+        "text": "35mm lens, f/1.8, medium wide, natural perspective, shallow DoF",
+        "fitness": 60.0,
+        "uses": 13,
+        "wins": 0
+      },
+      {
+        "text": "anamorphic 40mm, f/2.8, oval bokeh, horizontal lens flare potential",
+        "fitness": 60.0,
+        "uses": 16,
+        "wins": 0
+      }
+    ],
+    "WEIGHT": [
+      {
+        "text": "35mm lens, f/2.8, documentary field, subject mid-frame",
+        "fitness": 60,
+        "uses": 2
+      },
+      {
+        "text": "50mm lens, f/2.0, natural compression, slight background separation",
+        "fitness": 60
+      },
+      {
+        "text": "28mm lens, f/4.0, deep focus, environment visible and present",
+        "fitness": 60,
+        "uses": 1
+      }
+    ],
+    "INTRUSION": [
+      {
+        "text": "50mm lens, f/1.8, subject isolation, background falls away",
+        "fitness": 60,
+        "uses": 2
+      },
+      {
+        "text": "85mm lens, f/1.4, portrait compression, maximum background separation",
+        "fitness": 60,
+        "uses": 1
+      },
+      {
+        "text": "anamorphic 75mm, f/2.0, oval bokeh, compressed perspective, horizontal flares",
+        "fitness": 60
+      }
+    ],
+    "MECHANISM": [
+      {
+        "text": "35mm lens, f/2.8, observational framing, handheld logic",
+        "fitness": 60.0,
+        "uses": 26,
+        "wins": 0
+      },
+      {
+        "text": "50mm lens, f/4.0, enough DoF to show environment and subject together",
+        "fitness": 60.0,
+        "uses": 17,
+        "wins": 0
+      }
+    ],
+    "PROOF": [
+      {
+        "text": "100mm macro lens, f/4.0, extreme close-up of surface detail",
+        "fitness": 60,
+        "uses": 1
+      },
+      {
+        "text": "85mm lens, f/2.8, medium close, clinical sharpness across frame",
+        "fitness": 60,
+        "uses": 2
+      }
+    ],
+    "STAT_REVEAL": [
+      {
+        "text": "100mm macro, f/2.8, maximum detail isolation, background dissolves",
+        "fitness": 60,
+        "uses": 1
+      },
+      {
+        "text": "50mm lens, f/1.4, subject in sharp focus, world behind out of focus",
+        "fitness": 60,
+        "uses": 2
+      }
+    ],
+    "MOVE": [
+      {
+        "text": "35mm lens, f/2.0, forward motion framing, camera advances with subject",
+        "fitness": 60.0,
+        "uses": 25,
+        "wins": 0
+      },
+      {
+        "text": "24mm lens, f/2.8, wide to emphasise forward movement and environment opening up",
+        "fitness": 60.0,
+        "uses": 20,
+        "wins": 0
+      }
+    ]
+  },
+  "motion": {
+    "HOOK": [
+      {
+        "text": "fast whip pan entering frame, then hard lock \u2014 arrests the scroll",
+        "fitness": 60.0,
+        "uses": 13,
+        "wins": 0
+      },
+      {
+        "text": "sudden smash cut push-in from wide to tight in 1.5 seconds",
+        "fitness": 60.0,
+        "uses": 16,
+        "wins": 0
+      },
+      {
+        "text": "static for 0.5 seconds, then aggressive slow dolly forward",
+        "fitness": 60.0,
+        "uses": 15,
+        "wins": 0
+      }
+    ],
+    "WEIGHT": [
+      {
+        "text": "slow lateral dolly right, camera moving at 0.3m/s, ground level",
+        "fitness": 60
+      },
+      {
+        "text": "locked off tripod, subject enters from left and walks toward camera, slightly overhead angle",
+        "fitness": 60,
+        "uses": 1
+      },
+      {
+        "text": "slow crane descent from overhead to eye level over 4 seconds",
+        "fitness": 60,
+        "uses": 2
+      }
+    ],
+    "INTRUSION": [
+      {
+        "text": "slow deliberate push-in, camera closes distance 40cm over 5 seconds, subject fills frame by end",
+        "fitness": 60
+      },
+      {
+        "text": "handheld subtle micro-jitter, camera at rest but organically alive, not mechanical",
+        "fitness": 60,
+        "uses": 2
+      },
+      {
+        "text": "rack focus from soft foreground element to sharp subject at 2-second mark",
+        "fitness": 60,
+        "uses": 1
+      }
+    ],
+    "MECHANISM": [
+      {
+        "text": "handheld controlled micro-jitter, observational documentary tracking, camera follows discovery",
+        "fitness": 60.0,
+        "uses": 16,
+        "wins": 0
+      },
+      {
+        "text": "slow orbital around object or environment element, 180 degrees over 5 seconds",
+        "fitness": 60.0,
+        "uses": 12,
+        "wins": 0
+      },
+      {
+        "text": "slow lateral pan revealing context from left to right, camera moves at rhythm of information",
+        "fitness": 60.0,
+        "uses": 15,
+        "wins": 0
+      }
+    ],
+    "PROOF": [
+      {
+        "text": "locked off, subject or object static, camera perfectly still, evidence speaks alone",
+        "fitness": 60,
+        "uses": 2
+      },
+      {
+        "text": "very slow dolly-in 20cm total, barely perceptible, clinical observation",
+        "fitness": 60,
+        "uses": 1
+      }
+    ],
+    "STAT_REVEAL": [
+      {
+        "text": "static macro, subject perfectly still, light catches surface texture, no camera movement",
+        "fitness": 60,
+        "uses": 2
+      },
+      {
+        "text": "extremely slow dolly-in 10cm over 4 seconds, macro subject expanding to fill frame",
+        "fitness": 60,
+        "uses": 1
+      }
+    ],
+    "MOVE": [
+      {
+        "text": "camera accelerates forward with subject, parallax on background architecture",
+        "fitness": 60.0,
+        "uses": 8,
+        "wins": 0
+      },
+      {
+        "text": "Steadicam forward tracking following subject, smooth resolute movement, environment opens ahead",
+        "fitness": 60.0,
+        "uses": 18,
+        "wins": 0
+      },
+      {
+        "text": "slow crane upward revealing scale and forward direction simultaneously",
+        "fitness": 60.0,
+        "uses": 19,
+        "wins": 0
+      }
+    ]
+  },
+  "lighting": {
+    "institutional": [
+      {
+        "text": "harsh overhead fluorescent 5600K, cold blue-white, flat institutional light, deep shadows beneath subject",
+        "fitness": 60.0,
+        "uses": 31,
+        "wins": 0
+      },
+      {
+        "text": "practical desk lamp warm 2800K from below left, harsh shadow on right side, chiaroscuro ratio 5:1",
+        "fitness": 60.0,
+        "uses": 29,
+        "wins": 0
+      },
+      {
+        "text": "single overhead practical tungsten 3200K, pool of light, surrounding darkness, isolation",
+        "fitness": 60.0,
+        "uses": 22,
+        "wins": 0
+      }
+    ],
+    "wealth": [
+      {
+        "text": "warm practical ambient 2700K, city lights contributing blue fill from window, balanced 3:1 ratio",
+        "fitness": 60
+      },
+      {
+        "text": "soft north-facing window light 6500K diffused through sheer, even and revealing, no harsh shadows",
+        "fitness": 60
+      },
+      {
+        "text": "golden hour practical sunlight from left, warm 3200K, long shadows, depth across frame",
+        "fitness": 60
+      }
+    ],
+    "revelation": [
+      {
+        "text": "single motivated source from above-right 3200K, rest of frame intentionally underexposed",
+        "fitness": 60.0,
+        "uses": 6,
+        "wins": 0
+      },
+      {
+        "text": "backlight rim from behind subject 5600K, face in 60% shadow, information withheld and revealed",
+        "fitness": 60.0,
+        "uses": 9,
+        "wins": 0
+      },
+      {
+        "text": "mixed light: warm practical left 2800K, cold blue ambient right 6500K, tension in the colour split",
+        "fitness": 60.0,
+        "uses": 9,
+        "wins": 0
+      }
+    ],
+    "documentary": [
+      {
+        "text": "available light only, overcast diffused daylight 7000K, no fill, naturalistic",
+        "fitness": 60,
+        "uses": 1
+      },
+      {
+        "text": "practical sources only: overhead practical fluorescent, monitor glow contributing blue fill",
+        "fitness": 60,
+        "uses": 2
+      }
+    ]
+  },
+  "film_stock": {
+    "finance_dark": [
+      {
+        "text": "Kodak Vision3 500T tungsten stock, slight blue cast in daylight, fine grain, lifted blacks, cinematic toe curve",
+        "fitness": 60
+      },
+      {
+        "text": "shot on 35mm, Kodak Vision3 200T, natural skin tones, fine grain structure, professional cinema colour science",
+        "fitness": 60
+      }
+    ],
+    "finance_warm": [
+      {
+        "text": "Kodak Portra 400 colour science, warm lifted shadows, natural saturation, organic grain, photographic not rendered",
+        "fitness": 60
+      },
+      {
+        "text": "Fuji Superia 400 colour tone, slight green-teal midtone cast, fine grain, photojournalistic authenticity",
+        "fitness": 60
+      }
+    ],
+    "high_contrast": [
+      {
+        "text": "Kodak Tri-X 400 desaturated grade, high contrast, coarse grain, deep blacks, documentary authority",
+        "fitness": 60
+      },
+      {
+        "text": "bleach bypass process simulation, desaturated, increased contrast, silver retention, photochemical grit",
+        "fitness": 60
+      }
+    ],
+    "cinema_neutral": [
+      {
+        "text": "ARRI Alexa 35 colour science, LOG-C3 basegrade, natural tones, subtle grain, professional broadcast standard",
+        "fitness": 60
+      },
+      {
+        "text": "Sony Venice colour matrix, cinematic neutrality, excellent shadow detail, film halation on practical lights",
+        "fitness": 60
+      }
+    ]
+  },
+  "environment": {
+    "finance_institutional": [
+      {
+        "text": "glass-and-steel office building interior, evening, city grid visible through floor-to-ceiling windows below",
+        "fitness": 60
+      },
+      {
+        "text": "dark wood-panelled banking hall, high ceiling, marble floor, single occupied desk illuminated, all else in shadow",
+        "fitness": 60
+      },
+      {
+        "text": "modern open-plan office after hours, overhead lighting half-off, screens glowing, city visible through windows",
+        "fitness": 60
+      }
+    ],
+    "finance_aspiration": [
+      {
+        "text": "penthouse apartment, sparse and expensive, city skyline below, late evening, minimal furniture, maximum space",
+        "fitness": 60
+      },
+      {
+        "text": "rooftop terrace with city below, golden hour, distant buildings sharp against pale sky, isolation and scale",
+        "fitness": 60
+      }
+    ],
+    "finance_street": [
+      {
+        "text": "wet London street at night, sodium vapour streetlight reflections in puddles, red brick architecture, deserted",
+        "fitness": 60
+      },
+      {
+        "text": "commuter station, off-peak hours, long empty platform, overhead industrial lighting, echo implied",
+        "fitness": 60
+      }
+    ],
+    "finance_data": [
+      {
+        "text": "clean dark surface, single object or document in exact centre, controlled studio negative space",
+        "fitness": 60
+      },
+      {
+        "text": "close surface of printed bank statement or official document, edge softly out of focus, cold overhead light",
+        "fitness": 60
+      }
+    ]
+  },
+  "continuity_anchor": [
+    {
+      "text": "glass-walled office interior, evening blue-hour, city lights visible below, warm practical overhead",
+      "fitness": 60
+    },
+    {
+      "text": "dark professional environment, single warm practical source, evening, muted ambient city light",
+      "fitness": 60
+    },
+    {
+      "text": "institutional London interior, overcast ambient, fluorescent overhead, no direct sunlight",
+      "fitness": 60
+    },
+    {
+      "text": "contemporary financial environment, evening, controlled cool ambient with warm practical accent",
+      "fitness": 60
+    },
+    {
+      "text": "minimal dark environment, one motivated light source, city visible distantly, no clutter",
+      "fitness": 60
+    }
+  ],
+  "avoid": {
+    "human": "Avoid: facial distortion, extra fingers, hand deformities, morphing skin, eye asymmetry, blink artifacts, warped proportions.",
+    "environment": "Avoid: watermarks, text overlays, subtitle artifacts, camera jitter, morphing surfaces, flickering light, inconsistent shadows.",
+    "data": "Avoid: readable text on screens, identifiable account numbers, facial distortion, extra fingers, screen flicker, moir\u00e9 patterns.",
+    "general": "Avoid: blur, distortion, oversaturation, smooth waxy skin, plastic textures, over-sharpening, artificial bokeh halos, morphing edges."
+  },
+  "subject": {
+    "authority": [
+      {
+        "text": "person in their 40s, experienced, no wasted movement, wearing dark jacket, direct gaze",
+        "fitness": 60.0,
+        "uses": 5,
+        "wins": 0
+      },
+      {
+        "text": "professional mid-career, unhurried, carrying weight of knowledge, neutral expression that could shift",
+        "fitness": 60.0,
+        "uses": 6,
+        "wins": 0
+      }
+    ],
+    "everyday": [
+      {
+        "text": "ordinary person, unremarkable clothes, tired in the way the system makes people tired",
+        "fitness": 60
+      },
+      {
+        "text": "person in their 30s, smart but not wealthy, the kind of person who reads the fine print too late",
+        "fitness": 60
+      }
+    ],
+    "abstract": [
+      {
+        "text": "no human subject, object or environment carries the scene",
+        "fitness": 60
+      }
+    ]
+  },
+  "performance": {
+    "revelation": [
+      {
+        "text": "expression neutral to start, subtle brow shift at 2-second mark as comprehension registers, no overacting",
+        "fitness": 60
+      },
+      {
+        "text": "controlled stillness, jaw slightly set, the weight of knowing something others do not",
+        "fitness": 60
+      }
+    ],
+    "authority": [
+      {
+        "text": "deliberate pacing, unhurried gaze, each movement communicates confidence not urgency",
+        "fitness": 60.0,
+        "uses": 6,
+        "wins": 0
+      },
+      {
+        "text": "steady and precise, the expression of someone laying out facts they have long understood",
+        "fitness": 60.0,
+        "uses": 5,
+        "wins": 0
+      }
+    ],
+    "concern": [
+      {
+        "text": "slightly furrowed brow, eyes that have calculated something unwelcome, contained not panicked",
+        "fitness": 60
+      }
+    ]
+  },
+  "temporal": [
+    {
+      "text": "light quality static throughout, no atmospheric progression",
+      "fitness": 60.0,
+      "uses": 48,
+      "wins": 0
+    },
+    {
+      "text": "at 3-second mark, distant city light shifts slightly as cloud passes, barely perceptible ambient change",
+      "fitness": 60.0,
+      "uses": 53,
+      "wins": 0
+    },
+    {
+      "text": "warm practical light flickers once at 2 seconds \u2014 power-grid suggestion \u2014 then stabilises",
+      "fitness": 60.0,
+      "uses": 44,
+      "wins": 0
+    },
+    {
+      "text": "steam or breath barely visible in cold air, secondary motion from ventilation barely stirs any fabric",
+      "fitness": 60.0,
+      "uses": 55,
+      "wins": 0
+    }
+  ],
+  "aesthetic_fitness": {
+    "cinematic_dark": {
+      "HOOK": 72.0,
+      "WEIGHT": 84.0,
+      "INTRUSION": 84.0,
+      "MECHANISM": 78.0,
+      "PROOF": 78.0,
+      "STAT_REVEAL": 72.0,
+      "MOVE": 66.0
+    },
+    "photorealistic_documentary": {
+      "HOOK": 60.0,
+      "WEIGHT": 84.0,
+      "INTRUSION": 72.0,
+      "MECHANISM": 78.0,
+      "PROOF": 84.0,
+      "STAT_REVEAL": 60.0,
+      "MOVE": 84.0
+    },
+    "hyperreal_macro": {
+      "HOOK": 78.0,
+      "WEIGHT": 48.0,
+      "INTRUSION": 66.0,
+      "MECHANISM": 60.0,
+      "PROOF": 90.0,
+      "STAT_REVEAL": 84.0,
+      "MOVE": 42.0
+    },
+    "abstract_motion": {
+      "HOOK": 84.0,
+      "WEIGHT": 42.0,
+      "INTRUSION": 78.0,
+      "MECHANISM": 90.0,
+      "PROOF": 54.0,
+      "STAT_REVEAL": 84.0,
+      "MOVE": 72.0
+    },
+    "surreal_temporal": {
+      "HOOK": 90.0,
+      "WEIGHT": 54.0,
+      "INTRUSION": 84.0,
+      "MECHANISM": 72.0,
+      "PROOF": 42.0,
+      "STAT_REVEAL": 78.0,
+      "MOVE": 60.0
+    },
+    "cold_clinical": {
+      "HOOK": 60.0,
+      "WEIGHT": 66.0,
+      "INTRUSION": 72.0,
+      "MECHANISM": 72.0,
+      "PROOF": 90.0,
+      "STAT_REVEAL": 84.0,
+      "MOVE": 54.0
+    },
+    "urban_noir": {
+      "HOOK": 84.0,
+      "WEIGHT": 78.0,
+      "INTRUSION": 90.0,
+      "MECHANISM": 60.0,
+      "PROOF": 54.0,
+      "STAT_REVEAL": 66.0,
+      "MOVE": 78.0
+    },
+    "archive_degraded": {
+      "HOOK": 72.0,
+      "WEIGHT": 90.0,
+      "INTRUSION": 66.0,
+      "MECHANISM": 60.0,
+      "PROOF": 78.0,
+      "STAT_REVEAL": 54.0,
+      "MOVE": 48.0
+    },
+    "luxury_aspirational": {
+      "HOOK": 54.0,
+      "WEIGHT": 54.0,
+      "INTRUSION": 48.0,
+      "MECHANISM": 48.0,
+      "PROOF": 42.0,
+      "STAT_REVEAL": 60.0,
+      "MOVE": 90.0
+    },
+    "lo_fi_authentic": {
+      "HOOK": 66.0,
+      "WEIGHT": 90.0,
+      "INTRUSION": 60.0,
+      "MECHANISM": 72.0,
+      "PROOF": 66.0,
+      "STAT_REVEAL": 60.0,
+      "MOVE": 78.0
+    }
+  },
+  "aesthetic_mode_fitness": {
+    "single": {
+      "fitness": 60.0,
+      "uses": 44,
+      "wins": 0
+    },
+    "multi": {
+      "fitness": 60.0,
+      "uses": 15,
+      "wins": 0
+    }
+  },
+  "_meta": {
+    "generation": 2,
+    "created": "2026-03-09T02:15:41.614398",
+    "last_evolved": "2026-03-27T13:32:06.526949",
+    "total_videos_scored": 59,
+    "evolution_history": [
+      {
+        "generation": 2,
+        "timestamp": "2026-03-09T14:41:44.830872",
+        "retired": 0,
+        "mutated": 0
+      }
+    ]
+  }
+}

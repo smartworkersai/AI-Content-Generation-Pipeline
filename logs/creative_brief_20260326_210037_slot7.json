@@ -1,0 +1,34 @@
+{
+  "timestamp": "2026-03-26T21:00:37.259321",
+  "slot": 7,
+  "niche": "tech_ai",
+  "niche_label": "Tech / AI Hacks",
+  "topic": "\u2018Another internet is possible\u2019: Norway rails against \u2018enshit.",
+  "framework": {
+    "structure": "['How to'] + [Aspirational Outcome] + ['using'] + [Unexpected Free or Unknown Method]",
+    "trigger": "Effort gap \u2014 same result with a fraction of the work, and almost nobody knows this exists",
+    "example": "How to automate your entire Monday morning using one free AI tool nobody is using."
+  },
+  "script": {
+    "hook": "How to automate your entire Monday morning using one free AI tool nobody is using.",
+    "body": "Most people scroll past these tools every day without realising they exist. Once you know about them, you cannot un-know them.",
+    "cta": "Follow before this disappears."
+  },
+  "full_script_text": "How to automate your entire Monday morning using one free AI tool nobody is using. Most people scroll past these tools every day without realising they exist. Once you know about them, you cannot un-know them. Follow before this disappears.",
+  "visual_direction": {
+    "kling_prompt": "dark glowing computer screens with code, futuristic AI interface, neon blue and green, no faces, 9:16 vertical cinematic, cyberpunk, high contrast",
+    "negative_prompt": "faces, logos, text overlays, watermarks"
+  },
+  "voice_settings": {
+    "voice_id": "TxGEqnHWrfWFTfGW9XjX",
+    "stability": 0.3,
+    "similarity": 0.88,
+    "style": 0.85,
+    "speed": 1.1,
+    "voice": "Josh"
+  },
+  "caption_text": "How to automate your entire Monday morning using one free AI tool nobody is usin",
+  "affiliate": "none_growth_mode",
+  "script_variant": "long",
+  "compliance_checked": true
+}

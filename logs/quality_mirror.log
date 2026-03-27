@@ -1,0 +1,1332 @@
+[2026-03-09 14:41:44 UTC] ============================================================
+[2026-03-09 14:41:44 UTC] AGENT 4: QUALITY MIRROR (MICRO — slot 2)
+[2026-03-09 14:41:44 UTC] ============================================================
+[2026-03-09 14:41:44 UTC] creative_directives.json not found — creating with defaults
+[2026-03-09 14:41:44 UTC] Micro: loaded manifest production_manifest_20260309_134246_slot2.json
+[2026-03-09 14:41:44 UTC] --- LOOP 6: Caption AB ---
+[2026-03-09 14:41:44 UTC]   Caption manifests with metadata: 0
+[2026-03-09 14:41:44 UTC] --- LOOP 7: Prompt Genome ---
+[2026-03-09 14:41:44 UTC]   Manifests with prompt_metadata: 1
+[2026-03-09 14:41:44 UTC] Micro delta saved: micro_delta_20260309_144144_slot2.json
+[2026-03-09 14:41:44 UTC] ============================================================
+[2026-03-09 14:41:44 UTC] Quality Mirror micro-loop complete
+[2026-03-09 14:41:44 UTC] ============================================================
+[2026-03-09 18:46:45 UTC] ============================================================
+[2026-03-09 18:46:45 UTC] AGENT 4: QUALITY MIRROR (MICRO — slot 5)
+[2026-03-09 18:46:45 UTC] ============================================================
+[2026-03-09 18:46:45 UTC] Micro: loaded manifest production_manifest_20260309_183944_slot5.json
+[2026-03-09 18:46:45 UTC] --- LOOP 6: Caption AB ---
+[2026-03-09 18:46:45 UTC]   Caption manifests with metadata: 0, with completion data: 0
+[2026-03-09 18:46:45 UTC]   Caption manifests with metadata: 0
+[2026-03-09 18:46:45 UTC] --- LOOP 7: Prompt Genome ---
+[2026-03-09 18:46:45 UTC]   Manifests with prompt_metadata: 1
+[2026-03-09 18:46:45 UTC]   Loop A HOOK: Claude call failed: Expecting ',' delimiter: line 28 column 59 (char 1523)
+[2026-03-09 18:46:45 UTC]   Loop A MECHANISM: score=2/10 | failures=['No smartphone screen present anywhere in the frame', 'No social media post interface visible']
+[2026-03-09 18:46:45 UTC]   Loop A MOVE: score=3/10 | failures=['Text on screen is completely illegible - AI-generated garbled characters instead of readable social media post content', 'Cannot identify the app as a recognizable social media platform promoting a stock']
+[2026-03-09 18:46:45 UTC]   Loop A: added 18 Kling negative prompt elements: ['dark rubble', 'gear mechanisms', 'exploding architecture', 'unintentional disclaimer overlays', 'floating device without contextual narrative grounding']
+[2026-03-09 18:46:45 UTC]   Loop A complete — 2 frames scored, avg=2.5
+[2026-03-09 18:46:45 UTC] creative_directives.json updated: ['kling_negative_prompt_additions']
+[2026-03-09 18:46:45 UTC] Micro delta saved: micro_delta_20260309_184645_slot5.json
+[2026-03-09 18:46:45 UTC] ============================================================
+[2026-03-09 18:46:45 UTC] Quality Mirror micro-loop complete
+[2026-03-09 18:46:45 UTC] ============================================================
+[2026-03-10 01:26:03 UTC] ============================================================
+[2026-03-10 01:26:03 UTC] AGENT 4: QUALITY MIRROR (MICRO — slot 1)
+[2026-03-10 01:26:03 UTC] ============================================================
+[2026-03-10 01:26:03 UTC] Micro: loaded manifest production_manifest_20260310_012313_slot1.json
+[2026-03-10 01:26:03 UTC] --- LOOP 6: Caption AB ---
+[2026-03-10 01:26:03 UTC]   Caption manifests with metadata: 0, with completion data: 0
+[2026-03-10 01:26:03 UTC]   Caption manifests with metadata: 0
+[2026-03-10 01:26:03 UTC] --- LOOP 7: Prompt Genome ---
+[2026-03-10 01:26:03 UTC]   Manifests with prompt_metadata: 1
+[2026-03-10 01:26:03 UTC]   Loop A HOOK: Claude call failed: Unterminated string starting at: line 22 column 5 (char 1601)
+[2026-03-10 01:26:03 UTC]   Loop A MECHANISM: Claude call failed: Unterminated string starting at: line 27 column 5 (char 1729)
+[2026-03-10 01:26:03 UTC]   Loop A MOVE: score=8/10 | failures=["Chart label appears to read something other than clearly 'Oil' - branding specificity could be stronger", 'The red bokeh circle at center-right of screen feels like an unintended UI artifact rather than intentional design']
+[2026-03-10 01:26:03 UTC]   Loop A: added 5 Kling negative prompt elements: ['exclude multiple light sources competing with the single overhead LED', 'avoid overly warm red hand tones clashing with cool teal palette', 'no motion blur on financial data displays', 'avoid red circular UI overlay elements on phone screen', 'no illegible or pixelated chart axis labels']
+[2026-03-10 01:26:03 UTC]   Loop A complete — 1 frames scored, avg=8.0
+[2026-03-10 01:26:03 UTC] creative_directives.json updated: ['kling_negative_prompt_additions']
+[2026-03-10 01:26:03 UTC] Micro delta saved: micro_delta_20260310_012603_slot1.json
+[2026-03-10 01:26:03 UTC] ============================================================
+[2026-03-10 01:26:03 UTC] Quality Mirror micro-loop complete
+[2026-03-10 01:26:03 UTC] ============================================================
+[2026-03-10 12:47:33 UTC] ============================================================
+[2026-03-10 12:47:33 UTC] AGENT 4: QUALITY MIRROR (MICRO — slot 2)
+[2026-03-10 12:47:33 UTC] ============================================================
+[2026-03-10 12:47:33 UTC] Micro: loaded manifest production_manifest_20260310_124239_slot2.json
+[2026-03-10 12:47:33 UTC] --- LOOP 6: Caption AB ---
+[2026-03-10 12:47:33 UTC]   Caption manifests with metadata: 0, with completion data: 0
+[2026-03-10 12:47:33 UTC]   Caption manifests with metadata: 0
+[2026-03-10 12:47:33 UTC] --- LOOP 7: Prompt Genome ---
+[2026-03-10 12:47:33 UTC]   Manifests with prompt_metadata: 1
+[2026-03-10 12:47:33 UTC]   Loop A HOOK: Claude call failed: Unterminated string starting at: line 27 column 5 (char 1654)
+[2026-03-10 12:47:33 UTC]   Loop A MECHANISM: Claude call failed: Expecting value: line 27 column 70 (char 1673)
+[2026-03-10 12:47:33 UTC]   Loop A MOVE: Claude call failed: Unterminated string starting at: line 29 column 5 (char 1670)
+[2026-03-10 12:47:33 UTC]   Loop A complete — 0 frames scored, avg=None
+[2026-03-10 12:47:33 UTC] Micro delta saved: micro_delta_20260310_124733_slot2.json
+[2026-03-10 12:47:33 UTC] ============================================================
+[2026-03-10 12:47:33 UTC] Quality Mirror micro-loop complete
+[2026-03-10 12:47:33 UTC] ============================================================
+[2026-03-10 19:07:49 UTC] ============================================================
+[2026-03-10 19:07:49 UTC] AGENT 4: QUALITY MIRROR (MICRO — slot 5)
+[2026-03-10 19:07:49 UTC] ============================================================
+[2026-03-10 19:07:49 UTC] Micro: loaded manifest production_manifest_20260310_190229_slot5.json
+[2026-03-10 19:07:49 UTC] --- LOOP 6: Caption AB ---
+[2026-03-10 19:07:49 UTC]   Caption manifests with metadata: 0, with completion data: 0
+[2026-03-10 19:07:49 UTC]   Caption manifests with metadata: 0
+[2026-03-10 19:07:49 UTC] --- LOOP 7: Prompt Genome ---
+[2026-03-10 19:07:49 UTC]   Manifests with prompt_metadata: 1
+[2026-03-10 19:07:49 UTC]   Loop A HOOK: Claude call failed: Unterminated string starting at: line 23 column 5 (char 1542)
+[2026-03-10 19:07:49 UTC]   Loop A MECHANISM: Claude call failed: Expecting ',' delimiter: line 25 column 74 (char 1702)
+[2026-03-10 19:07:49 UTC]   Loop A MOVE: Claude call failed: Unterminated string starting at: line 25 column 5 (char 1589)
+[2026-03-10 19:07:49 UTC]   Loop A complete — 0 frames scored, avg=None
+[2026-03-10 19:07:49 UTC] Timing: hook_wps=2.0 | pre_hook=354ms | pauses=4 | after_hook=240ms
+[2026-03-10 19:07:49 UTC] Micro delta saved: micro_delta_20260310_190749_slot5.json
+[2026-03-10 19:07:49 UTC] ============================================================
+[2026-03-10 19:07:49 UTC] Quality Mirror micro-loop complete
+[2026-03-10 19:07:49 UTC] ============================================================
+[2026-03-10 22:30:00 UTC] ============================================================
+[2026-03-10 22:30:00 UTC] AGENT 4: QUALITY MIRROR
+[2026-03-10 22:30:00 UTC] ============================================================
+[2026-03-10 22:30:00 UTC] Loaded 6 production manifests (last 2d)
+[2026-03-10 22:30:00 UTC] Viral benchmarks: 10 videos
+[2026-03-10 22:30:00 UTC] Analytics: pulling data for 9 posts
+[2026-03-10 22:30:00 UTC] --- LOOP 1: First Frame ---
+[2026-03-10 22:30:00 UTC]   Scoring 5 viral thumbnails...
+[2026-03-10 22:30:00 UTC]     Viral 'How Much Can I Spend In Retirement? (UK)': score=72, shadow=0.15
+[2026-03-10 22:30:00 UTC]     Viral 'Why £68557 Annoys People | UK Salary Tax': score=72, shadow=0.65
+[2026-03-10 22:30:00 UTC]     Viral 'India vs Dubai, US &amp; UK: Zero Tax Ab': score=72, shadow=0.25
+[2026-03-10 22:30:00 UTC]     Viral 'Hidden Money Trap of Abroad Education': score=62, shadow=0.25
+[2026-03-10 22:30:00 UTC]     Viral 'Where Does Your Money Disappear? (The Hi': score=72, shadow=0.15
+[2026-03-10 22:30:00 UTC]   Scoring 1 Harbinger frames...
+[2026-03-10 22:30:00 UTC]     Harbinger 'visual_20260308_121046_slot2.jpg': score=72
+[2026-03-10 22:30:00 UTC]   visual_frame_rules updated: ["Stop-scroll elements: The bold £500,000 figure paired with 'MORE THAN YOU THINK' text creates a curiosity gap, while the ascending bar chart suggests achievable growth that contradicts expectations about pension difficulty; Bold red text with £100K salary figure combined with provocative framing ('THE PROBLEM WITH') and the UK flag emoji signals relatable financial/tax content for British viewers", "Unease sources: The contemplative hand-on-chin pose combined with the large financial figure creates anxiety about retirement adequacy - viewer questions if their own savings are sufficient; The contrast between the large salary figure (£100K) and the word 'PROBLEM' creates cognitive dissonance - why would a high salary be problematic? The 'is this fair?!' subtext amplifies this tension", 'High shadow ratio (>0.6) used in 1/5 viral thumbnails']
+[2026-03-10 22:30:00 UTC]   Loop 1 complete — viral avg: 70.0, Harbinger avg: 72.0, gap: -2.0
+[2026-03-10 22:30:00 UTC] --- LOOP 2: Silence Geometry ---
+[2026-03-10 22:30:00 UTC] Loaded 9 production manifests (last 14d)
+[2026-03-10 22:30:00 UTC]   silence_geometry updated: {'after_intrusion': 450, 'after_mechanism': 250, 'before_move': 350}
+[2026-03-10 22:30:00 UTC]   Loop 2 complete — 9 manifests analysed, winners: ['after_intrusion', 'after_mechanism', 'before_move']
+[2026-03-10 22:30:00 UTC] --- LOOP 3: Sound Design A/B ---
+[2026-03-10 22:30:00 UTC] Loaded 9 production manifests (last 14d)
+[2026-03-10 22:30:00 UTC]   Loop 3 complete — testing: sub_bass_db, days in stage: 0, locked: {}
+[2026-03-10 22:30:00 UTC] --- LOOP 4: Visual Language ---
+[2026-03-10 22:30:00 UTC]   Scoring 1 Harbinger Kling frames...
+[2026-03-10 22:30:00 UTC]     visual_20260308_121046_slot2.jpg: captured_score=45, failing=["Text on phone screen is garbled and nonsensical - shows gibberish characters like 'Muy: 12.197', 'Nap's ation', and other illegible text that no real trading app would display", 'The candlestick chart has unrealistic proportions and spacing - the candles appear warped and inconsistently rendered', "The lower portion of the phone screen shows distorted UI elements with blurred, melted-looking text and interface components that don't match any real application"]
+[2026-03-10 22:30:00 UTC]   Scoring 3 viral frames...
+[2026-03-10 22:30:00 UTC]     Viral 'How Much Can I Spend In Retirement? (UK)': score=85
+[2026-03-10 22:30:00 UTC]     Viral 'Why £68557 Annoys People | UK Salary Tax': score=85
+[2026-03-10 22:30:00 UTC]     Viral 'India vs Dubai, US &amp; UK: Zero Tax Ab': score=85
+[2026-03-10 22:30:00 UTC]   Kling negative additions: ["Text on phone screen is garbled and nonsensical - shows gibberish characters like 'Muy: 12.197', 'Nap's ation', and other illegible text that no real trading app would display", 'The candlestick chart has unrealistic proportions and spacing - the candles appear warped and inconsistently rendered', "The lower portion of the phone screen shows distorted UI elements with blurred, melted-looking text and interface components that don't match any real application"]
+[2026-03-10 22:30:00 UTC]   Kling base additions: ["The person's face shows natural skin texture, lighting, and realistic facial features with genuine expression", 'The YouTube thumbnail style with overlaid graphics, text, and bar chart is consistent with real content creator productions', 'Natural lighting with realistic room ambiance and shadows from practical lights in background', 'Authentic video compression artifacts and text overlay typical of social media content creation', "Natural lighting and shadows on the subject's face and clothing are consistent with a real indoor studio/podcast setting"]
+[2026-03-10 22:30:00 UTC]   Loop 4 complete — mean captured score: 45.0, failing elements: 3
+[2026-03-10 22:30:00 UTC] --- LOOP 5: Acoustic Space ---
+[2026-03-10 22:30:00 UTC] Loaded 9 production manifests (last 14d)
+[2026-03-10 22:30:00 UTC]   Profile means: {'medium': 0.0}
+[2026-03-10 22:30:00 UTC]   Loop 5 complete — winner: None, profiles analysed: ['medium']
+[2026-03-10 22:30:00 UTC] --- LOOP 6: Caption AB ---
+[2026-03-10 22:30:00 UTC]   Caption manifests with metadata: 0, with completion data: 0
+[2026-03-10 22:30:00 UTC]   Caption manifests with metadata: 0
+[2026-03-10 22:30:00 UTC] --- LOOP 7: Prompt Genome ---
+[2026-03-10 22:30:00 UTC]   Manifests with prompt_metadata: 6
+[2026-03-10 22:30:00 UTC] --- LOOP 8: Trust Signal Scorer ---
+[2026-03-10 22:30:00 UTC]   TRUST REVIEW flag: creative_brief_20260309_161501_slot3 score=5.4
+[2026-03-10 22:30:00 UTC]   Loop 8 complete — scored=20, avg=8.32, retry_flags=0, review_flags=1, retired=0
+[2026-03-10 22:30:00 UTC]   Loop B nightly: avg chain score=6.7, rewrite rate=33%
+[2026-03-10 22:30:00 UTC]   Worst links: [('visual_identity_precondition', 4.5), ('mechanism_specificity', 6.3)]
+[2026-03-10 22:30:00 UTC]   Loop B nightly: 1 structural directives written to creative_directives
+[2026-03-10 22:30:00 UTC] creative_directives.json updated: ['visual_frame_rules', 'silence_geometry', 'kling_base_prompt_additions', 'kling_negative_prompt_additions', 'instructions']
+[2026-03-10 22:30:00 UTC] Delta report saved: delta_report_2026-03-10.json
+[2026-03-10 22:30:00 UTC] ============================================================
+[2026-03-10 22:30:00 UTC] Quality Mirror complete. Loops run: 9/9. Directives changed: ['visual_frame_rules', 'silence_geometry', 'kling_base_prompt_additions', 'kling_negative_prompt_additions', 'instructions']
+[2026-03-10 22:30:00 UTC] ============================================================
+[2026-03-11 07:07:08 UTC] ============================================================
+[2026-03-11 07:07:08 UTC] AGENT 4: QUALITY MIRROR (MICRO — slot 1)
+[2026-03-11 07:07:08 UTC] ============================================================
+[2026-03-11 07:07:08 UTC] Micro: loaded manifest production_manifest_20260311_070239_slot1.json
+[2026-03-11 07:07:08 UTC] --- LOOP 6: Caption AB ---
+[2026-03-11 07:07:08 UTC]   Caption manifests with metadata: 0, with completion data: 0
+[2026-03-11 07:07:08 UTC]   Caption manifests with metadata: 0
+[2026-03-11 07:07:08 UTC] --- LOOP 7: Prompt Genome ---
+[2026-03-11 07:07:08 UTC]   Manifests with prompt_metadata: 1
+[2026-03-11 07:07:08 UTC]   Loop A HOOK: score=3/10 | failures=['Teal/cyan hospital corridor palette feels clinical and cold rather than financially urgent — evokes healthcare, not wealth or taxation', 'No visual cues connecting to money, ISAs, April 5 deadline, or UK financial context whatsoever']
+[2026-03-11 07:07:08 UTC]   Loop A MECHANISM: Claude call failed: Unterminated string starting at: line 29 column 5 (char 1642)
+[2026-03-11 07:07:08 UTC]   Loop A MOVE: Claude call failed: Unterminated string starting at: line 23 column 5 (char 1531)
+[2026-03-11 07:07:08 UTC]   Loop A: added 9 Kling negative prompt elements: ['hospital corridors', 'dark featureless hallways', 'scenes without financial visual anchors', 'anonymous silhouettes in non-financial settings', 'fluorescent ceiling panel lighting']
+[2026-03-11 07:07:08 UTC]   Loop A complete — 1 frames scored, avg=3.0
+[2026-03-11 07:07:08 UTC] creative_directives.json updated: ['kling_negative_prompt_additions']
+[2026-03-11 07:07:08 UTC] Timing: hook_wps=2.0 | pre_hook=357ms | pauses=4 | after_hook=293ms
+[2026-03-11 07:07:08 UTC] Micro delta saved: micro_delta_20260311_070708_slot1.json
+[2026-03-11 07:07:08 UTC] ============================================================
+[2026-03-11 07:07:08 UTC] Quality Mirror micro-loop complete
+[2026-03-11 07:07:08 UTC] ============================================================
+[2026-03-11 10:07:09 UTC] ============================================================
+[2026-03-11 10:07:09 UTC] AGENT 4: QUALITY MIRROR (MICRO — slot 2)
+[2026-03-11 10:07:09 UTC] ============================================================
+[2026-03-11 10:07:09 UTC] Micro: loaded manifest production_manifest_20260311_100236_slot2.json
+[2026-03-11 10:07:09 UTC] --- LOOP 6: Caption AB ---
+[2026-03-11 10:07:09 UTC]   Caption manifests with metadata: 0, with completion data: 0
+[2026-03-11 10:07:09 UTC]   Caption manifests with metadata: 0
+[2026-03-11 10:07:09 UTC] --- LOOP 7: Prompt Genome ---
+[2026-03-11 10:07:09 UTC]   Manifests with prompt_metadata: 1
+[2026-03-11 10:07:09 UTC]   Loop A HOOK: score=7/10 | failures=['No visible financial cues — nothing anchors this to ISA/money/tax context at hook moment', 'Figure walking AWAY from viewer may subconsciously signal retreat rather than urgency to act']
+[2026-03-11 10:07:09 UTC]   Loop A MECHANISM: score=7/10 | failures=['No visual connection to financial mechanisms — ISA, allowance, or money concepts are entirely absent', 'Feels more horror/thriller than finance — risks tonal misalignment with a serious but not frightening topic']
+[2026-03-11 10:07:09 UTC]   Loop A MOVE: Claude call failed: Unterminated string starting at: line 24 column 5 (char 1608)
+[2026-03-11 10:07:09 UTC]   Loop A: added 14 Kling negative prompt elements: ['avoid bottom-heavy black voids consuming more than 25% of frame', 'no human presence whatsoever', 'excessive darkness obscuring architectural detail', 'avoid figure walking away from camera', 'avoid horror corridor framing without financial context anchors']
+[2026-03-11 10:07:09 UTC]   Loop A complete — 2 frames scored, avg=7.0
+[2026-03-11 10:07:09 UTC] creative_directives.json updated: ['kling_negative_prompt_additions']
+[2026-03-11 10:07:09 UTC] Timing: hook_wps=2.0 | pre_hook=413ms | pauses=5 | after_hook=0ms
+[2026-03-11 10:07:09 UTC] Micro delta saved: micro_delta_20260311_100709_slot2.json
+[2026-03-11 10:07:09 UTC] ============================================================
+[2026-03-11 10:07:09 UTC] Quality Mirror micro-loop complete
+[2026-03-11 10:07:09 UTC] ============================================================
+[2026-03-11 13:07:22 UTC] ============================================================
+[2026-03-11 13:07:22 UTC] AGENT 4: QUALITY MIRROR (MICRO — slot 3)
+[2026-03-11 13:07:22 UTC] ============================================================
+[2026-03-11 13:07:22 UTC] Micro: loaded manifest production_manifest_20260311_130223_slot3.json
+[2026-03-11 13:07:22 UTC] --- LOOP 6: Caption AB ---
+[2026-03-11 13:07:22 UTC]   Caption manifests with metadata: 0, with completion data: 0
+[2026-03-11 13:07:22 UTC]   Caption manifests with metadata: 0
+[2026-03-11 13:07:22 UTC] --- LOOP 7: Prompt Genome ---
+[2026-03-11 13:07:22 UTC]   Manifests with prompt_metadata: 1
+[2026-03-11 13:07:22 UTC]   Loop A HOOK: score=6/10 | failures=['Subject is a ledger/spreadsheet document, NOT a calendar page — misses the deadline/expiry visual metaphor entirely', 'No visible date, April 5, or calendar grid to reinforce the tax-year-end deadline urgency']
+[2026-03-11 13:07:22 UTC]   Loop A MECHANISM: Claude call failed: Unterminated string starting at: line 27 column 5 (char 1628)
+[2026-03-11 13:07:22 UTC]   Loop A MOVE: Claude call failed: Unterminated string starting at: line 25 column 5 (char 1629)
+[2026-03-11 13:07:22 UTC]   Loop A: added 7 Kling negative prompt elements: ['no documents without visible dates or calendar grids', 'no coffee cups or domestic items in frame', 'no warm or neutral background objects', 'avoid teal monochrome wash that obscures document detail', 'no illegible blurred financial documents']
+[2026-03-11 13:07:22 UTC]   Loop A complete — 1 frames scored, avg=6.0
+[2026-03-11 13:07:22 UTC] creative_directives.json updated: ['kling_negative_prompt_additions']
+[2026-03-11 13:07:22 UTC] Timing: hook_wps=2.33 | pre_hook=128ms | pauses=3 | after_hook=200ms
+[2026-03-11 13:07:22 UTC] Micro delta saved: micro_delta_20260311_130722_slot3.json
+[2026-03-11 13:07:22 UTC] ============================================================
+[2026-03-11 13:07:22 UTC] Quality Mirror micro-loop complete
+[2026-03-11 13:07:22 UTC] ============================================================
+[2026-03-11 19:04:01 UTC] ============================================================
+[2026-03-11 19:04:01 UTC] AGENT 4: QUALITY MIRROR (MICRO — slot 5)
+[2026-03-11 19:04:01 UTC] ============================================================
+[2026-03-11 19:04:01 UTC] Micro: loaded manifest production_manifest_20260311_190232_slot5.json
+[2026-03-11 19:04:01 UTC] --- LOOP 6: Caption AB ---
+[2026-03-11 19:04:01 UTC]   Caption manifests with metadata: 0, with completion data: 0
+[2026-03-11 19:04:01 UTC]   Caption manifests with metadata: 0
+[2026-03-11 19:04:01 UTC] --- LOOP 7: Prompt Genome ---
+[2026-03-11 19:04:01 UTC]   Manifests with prompt_metadata: 1
+[2026-03-11 19:04:01 UTC]   Loop A HOOK: score=1/10 | failures=['Frame is almost entirely black — no visual content rendered', 'No calendar page visible']
+[2026-03-11 19:04:01 UTC]   Loop A MECHANISM: score=1/10 | failures=['Frame is almost entirely black — no visual content rendered', 'No calendar, deadline imagery, or institutional environment visible']
+[2026-03-11 19:04:01 UTC]   Loop A MOVE: score=1/10 | failures=['Frame is almost entirely black — no visual content rendered', 'No calendar imagery or deadline visual present']
+[2026-03-11 19:04:01 UTC]   Loop A: added 28 Kling negative prompt elements: ['unlit scene', 'missing foreground elements', 'exclude frames where only text overlays exist with no background scene', 'featureless darkness without intentional noir composition', 'void background without subject']
+[2026-03-11 19:04:01 UTC]   Loop A complete — 3 frames scored, avg=1.0
+[2026-03-11 19:04:01 UTC] creative_directives.json updated: ['kling_negative_prompt_additions']
+[2026-03-11 19:04:01 UTC] Timing: hook_wps=3.33 | pre_hook=126ms | pauses=5 | after_hook=280ms
+[2026-03-11 19:04:01 UTC] Micro delta saved: micro_delta_20260311_190401_slot5.json
+[2026-03-11 19:04:01 UTC] ============================================================
+[2026-03-11 19:04:01 UTC] Quality Mirror micro-loop complete
+[2026-03-11 19:04:01 UTC] ============================================================
+[2026-03-11 22:30:01 UTC] ============================================================
+[2026-03-11 22:30:01 UTC] AGENT 4: QUALITY MIRROR
+[2026-03-11 22:30:01 UTC] ============================================================
+[2026-03-11 22:30:01 UTC] Loaded 7 production manifests (last 2d)
+[2026-03-11 22:30:01 UTC] Viral benchmarks: 10 videos
+[2026-03-11 22:30:01 UTC] Analytics: pulling data for 10 posts
+[2026-03-11 22:30:01 UTC] --- LOOP 1: First Frame ---
+[2026-03-11 22:30:01 UTC]   Scoring 5 viral thumbnails...
+[2026-03-11 22:30:01 UTC]     Viral 'The Complete Guide to the 2026 UK Pensio': score=72, shadow=0.15
+[2026-03-11 22:30:01 UTC]     Viral 'How Much Will You Retire On?': score=72, shadow=0.15
+[2026-03-11 22:30:01 UTC]     Viral 'The Silicon Valley Bank UK Collapse #SVB': score=72, shadow=0.65
+[2026-03-11 22:30:01 UTC]     Viral 'Opportunity': score=62, shadow=0.25
+[2026-03-11 22:30:01 UTC]     Viral 'I’m Overpaying My 1.74% Mortgage… Should': score=72, shadow=0.35
+[2026-03-11 22:30:01 UTC]   Scoring 1 Harbinger frames...
+[2026-03-11 22:30:01 UTC]     Harbinger 'visual_20260308_121046_slot2.jpg': score=72
+[2026-03-11 22:30:01 UTC]   visual_frame_rules updated: ["Stop-scroll elements: Bold red 'PENSIONERS WARNING' text creates urgency; year-specific '2026' implies imminent deadline; direct eye contact from authoritative-looking woman with glasses suggests credible insider information; bold white text overlay 'RETIREMENT: ARE YOU ON TRACK?' contrasted with attractive woman in stylish grey jumpsuit taking mirror selfie - the mismatch between lifestyle content aesthetic and financial planning topic creates curiosity", "Unease sources: Warning language combined with 'CHANGES' implies potential loss of benefits; serious expression on subject reinforces concern about financial security; cognitive dissonance between glamorous young woman and serious retirement topic, unexpected pairing creates mental friction", 'High shadow ratio (>0.6) used in 1/5 viral thumbnails']
+[2026-03-11 22:30:01 UTC]   Loop 1 complete — viral avg: 70.0, Harbinger avg: 72.0, gap: -2.0
+[2026-03-11 22:30:01 UTC] --- LOOP 2: Silence Geometry ---
+[2026-03-11 22:30:01 UTC] Loaded 13 production manifests (last 14d)
+[2026-03-11 22:30:01 UTC]   silence_geometry updated: {'after_intrusion': 450, 'after_mechanism': 250, 'before_move': 350}
+[2026-03-11 22:30:01 UTC]   Loop 2 complete — 13 manifests analysed, winners: ['after_intrusion', 'after_mechanism', 'before_move']
+[2026-03-11 22:30:01 UTC] --- LOOP 3: Sound Design A/B ---
+[2026-03-11 22:30:01 UTC] Loaded 13 production manifests (last 14d)
+[2026-03-11 22:30:01 UTC]   Loop 3 complete — testing: sub_bass_db, days in stage: 1, locked: {}
+[2026-03-11 22:30:01 UTC] --- LOOP 4: Visual Language ---
+[2026-03-11 22:30:01 UTC]   Scoring 1 Harbinger Kling frames...
+[2026-03-11 22:30:01 UTC]     visual_20260308_121046_slot2.jpg: captured_score=35, failing=["Text on phone screen is garbled and nonsensical - showing random characters like 'Muz: 12.137' and 'Nap's mdon' instead of real readable text", 'The candlestick chart has unrealistic proportions and spacing, with price axis numbers that are blurry and inconsistent', "The interface elements below the chart show distorted, meaningless text and UI components that don't match any real trading application"]
+[2026-03-11 22:30:01 UTC]   Scoring 3 viral frames...
+[2026-03-11 22:30:01 UTC]     Viral 'The Complete Guide to the 2026 UK Pensio': score=72
+[2026-03-11 22:30:01 UTC]     Viral 'How Much Will You Retire On?': score=85
+[2026-03-11 22:30:01 UTC]   Kling negative additions: ["Text on phone screen is garbled and nonsensical - showing random characters like 'Muz: 12.137' and 'Nap's mdon' instead of real readable text", 'The candlestick chart has unrealistic proportions and spacing, with price axis numbers that are blurry and inconsistent', "The interface elements below the chart show distorted, meaningless text and UI components that don't match any real trading application"]
+[2026-03-11 22:30:01 UTC]   Kling base additions: ["The woman's face shows natural skin texture, age-appropriate wrinkles, and realistic glasses reflections consistent with real photography", 'The typography and layout follows standard YouTube thumbnail conventions with proper text rendering and gradient overlays typical of real video content', 'Natural mirror selfie composition with realistic phone positioning and hand grip', 'Authentic interior environment with consistent lighting, natural shadows, and believable furniture/decor details']
+[2026-03-11 22:30:01 UTC]   Loop 4 complete — mean captured score: 35.0, failing elements: 3
+[2026-03-11 22:30:01 UTC] --- LOOP 5: Acoustic Space ---
+[2026-03-11 22:30:01 UTC] Loaded 13 production manifests (last 14d)
+[2026-03-11 22:30:01 UTC]   Profile means: {'medium': 0.0}
+[2026-03-11 22:30:01 UTC]   Loop 5 complete — winner: None, profiles analysed: ['medium']
+[2026-03-11 22:30:01 UTC] --- LOOP 6: Caption AB ---
+[2026-03-11 22:30:01 UTC]   Caption manifests with metadata: 0, with completion data: 0
+[2026-03-11 22:30:01 UTC]   Caption manifests with metadata: 0
+[2026-03-11 22:30:01 UTC] --- LOOP 7: Prompt Genome ---
+[2026-03-11 22:30:01 UTC]   Manifests with prompt_metadata: 7
+[2026-03-11 22:30:01 UTC] --- LOOP 8: Trust Signal Scorer ---
+[2026-03-11 22:30:01 UTC]   Loop 8 complete — scored=20, avg=8.57, retry_flags=0, review_flags=0, retired=0
+[2026-03-11 22:30:01 UTC]   Loop B nightly: avg chain score=6.7, rewrite rate=18%
+[2026-03-11 22:30:01 UTC]   Worst links: [('visual_identity_precondition', 4.3), ('mechanism_specificity', 6.2)]
+[2026-03-11 22:30:01 UTC]   Loop B nightly: 1 structural directives written to creative_directives
+[2026-03-11 22:30:01 UTC] creative_directives.json updated: ['visual_frame_rules', 'kling_base_prompt_additions', 'kling_negative_prompt_additions', 'instructions']
+[2026-03-11 22:30:01 UTC] Delta report saved: delta_report_2026-03-11.json
+[2026-03-11 22:30:01 UTC] ============================================================
+[2026-03-11 22:30:01 UTC] Quality Mirror complete. Loops run: 9/9. Directives changed: ['visual_frame_rules', 'kling_base_prompt_additions', 'kling_negative_prompt_additions', 'instructions']
+[2026-03-11 22:30:01 UTC] ============================================================
+[2026-03-14 08:10:42 UTC] ============================================================
+[2026-03-14 08:10:42 UTC] AGENT 4: QUALITY MIRROR (MICRO — slot 1)
+[2026-03-14 08:10:42 UTC] ============================================================
+[2026-03-14 08:10:42 UTC] Micro: loaded manifest production_manifest_20260314_080718_slot1.json
+[2026-03-14 08:10:42 UTC] --- LOOP 6: Caption AB ---
+[2026-03-14 08:10:42 UTC]   Caption manifests with metadata: 0, with completion data: 0
+[2026-03-14 08:10:42 UTC]   Caption manifests with metadata: 0
+[2026-03-14 08:10:42 UTC] --- LOOP 7: Prompt Genome ---
+[2026-03-14 08:10:42 UTC]   Manifests with prompt_metadata: 1
+[2026-03-14 08:10:42 UTC]   Loop A HOOK: Claude call failed: Unterminated string starting at: line 31 column 5 (char 1527)
+[2026-03-14 08:10:42 UTC]   Loop A MECHANISM: Claude call failed: Expecting value: line 29 column 40 (char 1616)
+[2026-03-14 08:10:42 UTC]   Loop A MOVE: Claude call failed: Unterminated string starting at: line 30 column 5 (char 1614)
+[2026-03-14 08:10:42 UTC]   Loop A complete — 0 frames scored, avg=None
+[2026-03-14 08:10:42 UTC] Timing: hook_wps=4.67 | pre_hook=190ms | pauses=4 | after_hook=200ms
+[2026-03-14 08:10:42 UTC] Micro delta saved: micro_delta_20260314_081042_slot1.json
+[2026-03-14 08:10:42 UTC] ============================================================
+[2026-03-14 08:10:42 UTC] Quality Mirror micro-loop complete
+[2026-03-14 08:10:42 UTC] ============================================================
+[2026-03-14 08:35:02 UTC] ============================================================
+[2026-03-14 08:35:02 UTC] AGENT 4: QUALITY MIRROR (MICRO — slot 2)
+[2026-03-14 08:35:02 UTC] ============================================================
+[2026-03-14 08:35:02 UTC] Micro: loaded manifest production_manifest_20260314_083034_slot2.json
+[2026-03-14 08:35:02 UTC] --- LOOP 6: Caption AB ---
+[2026-03-14 08:35:02 UTC]   Caption manifests with metadata: 0, with completion data: 0
+[2026-03-14 08:35:02 UTC]   Caption manifests with metadata: 0
+[2026-03-14 08:35:02 UTC] --- LOOP 7: Prompt Genome ---
+[2026-03-14 08:35:02 UTC]   Manifests with prompt_metadata: 1
+[2026-03-14 08:35:02 UTC]   Loop A HOOK: Claude call failed: Unterminated string starting at: line 30 column 5 (char 1529)
+[2026-03-14 08:35:02 UTC]   Loop A MECHANISM: Claude call failed: Expecting ',' delimiter: line 31 column 46 (char 1588)
+[2026-03-14 08:35:02 UTC]   Loop A MOVE: Claude call failed: Expecting ',' delimiter: line 32 column 4 (char 1588)
+[2026-03-14 08:35:02 UTC]   Loop A complete — 0 frames scored, avg=None
+[2026-03-14 08:35:02 UTC] Timing: hook_wps=4.33 | pre_hook=330ms | pauses=6 | after_hook=280ms
+[2026-03-14 08:35:02 UTC] Micro delta saved: micro_delta_20260314_083502_slot2.json
+[2026-03-14 08:35:02 UTC] ============================================================
+[2026-03-14 08:35:02 UTC] Quality Mirror micro-loop complete
+[2026-03-14 08:35:02 UTC] ============================================================
+[2026-03-15 16:31:36 UTC] ============================================================
+[2026-03-15 16:31:36 UTC] AGENT 4: QUALITY MIRROR (MICRO — slot 5)
+[2026-03-15 16:31:36 UTC] ============================================================
+[2026-03-15 16:31:36 UTC] Micro: loaded manifest production_manifest_20260315_162815_slot5.json
+[2026-03-15 16:31:36 UTC] --- LOOP 6: Caption AB ---
+[2026-03-15 16:31:36 UTC]   Caption manifests with metadata: 0, with completion data: 0
+[2026-03-15 16:31:36 UTC]   Caption manifests with metadata: 0
+[2026-03-15 16:31:36 UTC] --- LOOP 7: Prompt Genome ---
+[2026-03-15 16:31:36 UTC]   Manifests with prompt_metadata: 1
+[2026-03-15 16:31:36 UTC]   Loop A HOOK: Claude call failed: Unterminated string starting at: line 27 column 5 (char 1564)
+[2026-03-15 16:31:36 UTC]   Loop A MECHANISM: Claude call failed: Expecting value: line 31 column 29 (char 1619)
+[2026-03-15 16:31:36 UTC]   Loop A MOVE: Claude call failed: Unterminated string starting at: line 31 column 5 (char 1618)
+[2026-03-15 16:31:36 UTC]   Loop A complete — 0 frames scored, avg=None
+[2026-03-15 16:31:36 UTC] Timing: hook_wps=4.33 | pre_hook=203ms | pauses=2 | after_hook=0ms
+[2026-03-15 16:31:36 UTC] Micro delta saved: micro_delta_20260315_163136_slot5.json
+[2026-03-15 16:31:36 UTC] ============================================================
+[2026-03-15 16:31:36 UTC] Quality Mirror micro-loop complete
+[2026-03-15 16:31:36 UTC] ============================================================
+[2026-03-15 22:30:00 UTC] ============================================================
+[2026-03-15 22:30:00 UTC] AGENT 4: QUALITY MIRROR
+[2026-03-15 22:30:00 UTC] ============================================================
+[2026-03-15 22:30:00 UTC] Loaded 4 production manifests (last 2d)
+[2026-03-15 22:30:00 UTC] Viral benchmarks: 10 videos
+[2026-03-15 22:30:00 UTC] Analytics: pulling data for 10 posts
+[2026-03-15 22:30:00 UTC] --- LOOP 1: First Frame ---
+[2026-03-15 22:30:00 UTC]   Scoring 5 viral thumbnails...
+[2026-03-15 22:30:00 UTC]     Viral '#money #success #millionaire #wealth #bu': score=78, shadow=0.35
+[2026-03-15 22:30:00 UTC]     Viral 'What does &quot;Pay Your Fair Share&quot': score=62, shadow=0.15
+[2026-03-15 22:30:00 UTC]     Viral 'A Former Prime Minister Just Called Bitc': score=78, shadow=0.35
+[2026-03-15 22:30:00 UTC]     Viral 'If you bought a car between 2007 and 202': score=42, shadow=0.3
+[2026-03-15 22:30:00 UTC]     Viral 'Secret.': score=62, shadow=0.35
+[2026-03-15 22:30:00 UTC]   Scoring 1 Harbinger frames...
+[2026-03-15 22:30:00 UTC]     Harbinger 'visual_20260308_121046_slot2.jpg': score=62
+[2026-03-15 22:30:00 UTC]   visual_frame_rules updated: ["Stop-scroll elements: thick stack of $100 bills being fanned in hand, multiple banded cash bundles creating wealth display, visceral money imagery triggers curiosity about source/context; The unusual two-person composition with one figure appearing to loom over another, combined with the direct eye contact and the word 'HERE'S' creating incomplete narrative tension that demands resolution", 'Unease sources: large amounts of unprotected cash in casual setting, implies illicit or unusual wealth, money counting machine suggests volume; The silhouetted figure with sunglasses standing ominously behind the main subject creates an unsettling power dynamic, suggesting surveillance or threat']
+[2026-03-15 22:30:00 UTC]   Loop 1 complete — viral avg: 64.4, Harbinger avg: 62.0, gap: 2.4
+[2026-03-15 22:30:00 UTC] --- LOOP 2: Silence Geometry ---
+[2026-03-15 22:30:00 UTC] Loaded 17 production manifests (last 14d)
+[2026-03-15 22:30:00 UTC]   silence_geometry updated: {'after_intrusion': 450, 'after_mechanism': 250, 'before_move': 350}
+[2026-03-15 22:30:00 UTC]   Loop 2 complete — 17 manifests analysed, winners: ['after_intrusion', 'after_mechanism', 'before_move']
+[2026-03-15 22:30:00 UTC] --- LOOP 3: Sound Design A/B ---
+[2026-03-15 22:30:00 UTC] Loaded 17 production manifests (last 14d)
+[2026-03-15 22:30:00 UTC]   Loop 3 complete — testing: sub_bass_db, days in stage: 5, locked: {}
+[2026-03-15 22:30:00 UTC] --- LOOP 4: Visual Language ---
+[2026-03-15 22:30:00 UTC]   Scoring 1 Harbinger Kling frames...
+[2026-03-15 22:30:00 UTC]     visual_20260308_121046_slot2.jpg: captured_score=42, failing=["Text on the phone screen is garbled and nonsensical - showing gibberish characters like 'Muge 12.197', 'Nap'a mdon', and other unreadable strings that no real trading app would display", 'The numerical values on the right side of the chart (123,800, 98,000, etc.) have inconsistent formatting and some appear distorted or partially formed', 'The interface elements blend unnaturally - the white section below the chart has text that dissolves into meaningless shapes and the overall UI lacks coherent structure typical of real financial apps']
+[2026-03-15 22:30:00 UTC]   Scoring 3 viral frames...
+[2026-03-15 22:30:00 UTC]     Viral '#money #success #millionaire #wealth #bu': score=85
+[2026-03-15 22:30:00 UTC]     Viral 'What does &quot;Pay Your Fair Share&quot': score=85
+[2026-03-15 22:30:00 UTC]   Kling negative additions: ["Text on the phone screen is garbled and nonsensical - showing gibberish characters like 'Muge 12.197', 'Nap'a mdon', and other unreadable strings that no real trading app would display", 'The numerical values on the right side of the chart (123,800, 98,000, etc.) have inconsistent formatting and some appear distorted or partially formed', 'The interface elements blend unnaturally - the white section below the chart has text that dissolves into meaningless shapes and the overall UI lacks coherent structure typical of real financial apps']
+[2026-03-15 22:30:00 UTC]   Kling base additions: ['Natural hand positioning and skin texture with realistic watch detail and lighting on wrist', 'Authentic currency band wrapping and paper money texture with consistent lighting and shadows across multiple bill stacks', 'Natural smartphone selfie perspective with realistic motion blur and casual framing typical of authentic social media video content', 'Genuine environmental details including architectural moldings, furniture, and natural lighting consistent with real indoor filming']
+[2026-03-15 22:30:00 UTC]   Loop 4 complete — mean captured score: 42.0, failing elements: 3
+[2026-03-15 22:30:00 UTC] --- LOOP 5: Acoustic Space ---
+[2026-03-15 22:30:00 UTC] Loaded 17 production manifests (last 14d)
+[2026-03-15 22:30:00 UTC]   Profile means: {'medium': 0.0}
+[2026-03-15 22:30:00 UTC]   Loop 5 complete — winner: None, profiles analysed: ['medium']
+[2026-03-15 22:30:00 UTC] --- LOOP 6: Caption AB ---
+[2026-03-15 22:30:00 UTC]   Caption manifests with metadata: 0, with completion data: 0
+[2026-03-15 22:30:00 UTC]   Caption manifests with metadata: 0
+[2026-03-15 22:30:00 UTC] --- LOOP 7: Prompt Genome ---
+[2026-03-15 22:30:00 UTC]   Manifests with prompt_metadata: 4
+[2026-03-15 22:30:00 UTC] --- LOOP 8: Trust Signal Scorer ---
+[2026-03-15 22:30:00 UTC]   Loop 8 complete — scored=20, avg=8.51, retry_flags=0, review_flags=0, retired=0
+[2026-03-15 22:30:00 UTC]   Loop B nightly: avg chain score=6.9, rewrite rate=0%
+[2026-03-15 22:30:00 UTC]   Worst links: [('visual_identity_precondition', 5.3), ('mechanism_specificity', 6.1)]
+[2026-03-15 22:30:00 UTC]   Loop B nightly: 1 structural directives written to creative_directives
+[2026-03-15 22:30:00 UTC] creative_directives.json updated: ['visual_frame_rules', 'kling_base_prompt_additions', 'kling_negative_prompt_additions', 'instructions']
+[2026-03-15 22:30:00 UTC] Delta report saved: delta_report_2026-03-15.json
+[2026-03-15 22:30:00 UTC] ============================================================
+[2026-03-15 22:30:00 UTC] Quality Mirror complete. Loops run: 9/9. Directives changed: ['visual_frame_rules', 'kling_base_prompt_additions', 'kling_negative_prompt_additions', 'instructions']
+[2026-03-15 22:30:00 UTC] ============================================================
+[2026-03-16 06:03:27 UTC] ============================================================
+[2026-03-16 06:03:27 UTC] AGENT 4: QUALITY MIRROR (MICRO — slot 1)
+[2026-03-16 06:03:27 UTC] ============================================================
+[2026-03-16 06:03:27 UTC] Micro: loaded manifest production_manifest_20260316_060037_slot1.json
+[2026-03-16 06:03:27 UTC] --- LOOP 6: Caption AB ---
+[2026-03-16 06:03:27 UTC]   Caption manifests with metadata: 0, with completion data: 0
+[2026-03-16 06:03:27 UTC]   Caption manifests with metadata: 0
+[2026-03-16 06:03:27 UTC] --- LOOP 7: Prompt Genome ---
+[2026-03-16 06:03:27 UTC]   Manifests with prompt_metadata: 1
+[2026-03-16 06:03:27 UTC]   Loop A HOOK: Claude call failed: Unterminated string starting at: line 30 column 5 (char 1659)
+[2026-03-16 06:03:27 UTC]   Loop A MECHANISM: Claude call failed: Unterminated string starting at: line 31 column 5 (char 1543)
+[2026-03-16 06:03:27 UTC]   Loop A MOVE: Claude call failed: Unterminated string starting at: line 29 column 5 (char 1631)
+[2026-03-16 06:03:27 UTC]   Loop A complete — 0 frames scored, avg=None
+[2026-03-16 06:03:27 UTC] Timing: hook_wps=4.33 | pre_hook=261ms | pauses=3 | after_hook=240ms
+[2026-03-16 06:03:27 UTC] Micro delta saved: micro_delta_20260316_060327_slot1.json
+[2026-03-16 06:03:27 UTC] ============================================================
+[2026-03-16 06:03:27 UTC] Quality Mirror micro-loop complete
+[2026-03-16 06:03:27 UTC] ============================================================
+[2026-03-17 06:03:28 UTC] ============================================================
+[2026-03-17 06:03:28 UTC] AGENT 4: QUALITY MIRROR (MICRO — slot 1)
+[2026-03-17 06:03:28 UTC] ============================================================
+[2026-03-17 06:03:28 UTC] Micro: loaded manifest production_manifest_20260317_060035_slot1.json
+[2026-03-17 06:03:28 UTC] --- LOOP 6: Caption AB ---
+[2026-03-17 06:03:28 UTC]   Caption manifests with metadata: 0, with completion data: 0
+[2026-03-17 06:03:28 UTC]   Caption manifests with metadata: 0
+[2026-03-17 06:03:28 UTC] --- LOOP 7: Prompt Genome ---
+[2026-03-17 06:03:28 UTC]   Manifests with prompt_metadata: 1
+[2026-03-17 06:03:28 UTC]   Loop A HOOK: Claude call failed: Unterminated string starting at: line 29 column 5 (char 1606)
+[2026-03-17 06:03:28 UTC]   Loop A MECHANISM: Claude call failed: Unterminated string starting at: line 32 column 5 (char 1628)
+[2026-03-17 06:03:28 UTC]   Loop A MOVE: Claude call failed: Unterminated string starting at: line 31 column 5 (char 1528)
+[2026-03-17 06:03:28 UTC]   Loop A complete — 0 frames scored, avg=None
+[2026-03-17 06:03:28 UTC] Timing: hook_wps=4.33 | pre_hook=266ms | pauses=5 | after_hook=360ms
+[2026-03-17 06:03:28 UTC] Micro delta saved: micro_delta_20260317_060328_slot1.json
+[2026-03-17 06:03:28 UTC] ============================================================
+[2026-03-17 06:03:28 UTC] Quality Mirror micro-loop complete
+[2026-03-17 06:03:28 UTC] ============================================================
+[2026-03-17 08:37:15 UTC] ============================================================
+[2026-03-17 08:37:15 UTC] AGENT 4: QUALITY MIRROR (MICRO — slot 2)
+[2026-03-17 08:37:15 UTC] ============================================================
+[2026-03-17 08:37:15 UTC] Micro: loaded manifest production_manifest_20260317_083239_slot2.json
+[2026-03-17 08:37:15 UTC] --- LOOP 6: Caption AB ---
+[2026-03-17 08:37:15 UTC]   Caption manifests with metadata: 0, with completion data: 0
+[2026-03-17 08:37:15 UTC]   Caption manifests with metadata: 0
+[2026-03-17 08:37:15 UTC] --- LOOP 7: Prompt Genome ---
+[2026-03-17 08:37:15 UTC]   Manifests with prompt_metadata: 1
+[2026-03-17 08:37:15 UTC]   Loop A HOOK: Claude call failed: Expecting value: line 28 column 49 (char 1552)
+[2026-03-17 08:37:15 UTC]   Loop A MECHANISM: Claude call failed: Expecting ',' delimiter: line 31 column 46 (char 1619)
+[2026-03-17 08:37:15 UTC]   Loop A MOVE: Claude call failed: Expecting value: line 30 column 30 (char 1631)
+[2026-03-17 08:37:15 UTC]   Loop A complete — 0 frames scored, avg=None
+[2026-03-17 08:37:15 UTC] Timing: hook_wps=4.67 | pre_hook=190ms | pauses=3 | after_hook=200ms
+[2026-03-17 08:37:15 UTC] Micro delta saved: micro_delta_20260317_083715_slot2.json
+[2026-03-17 08:37:15 UTC] ============================================================
+[2026-03-17 08:37:15 UTC] Quality Mirror micro-loop complete
+[2026-03-17 08:37:15 UTC] ============================================================
+[2026-03-17 11:06:35 UTC] ============================================================
+[2026-03-17 11:06:35 UTC] AGENT 4: QUALITY MIRROR (MICRO — slot 3)
+[2026-03-17 11:06:35 UTC] ============================================================
+[2026-03-17 11:06:35 UTC] Micro: loaded manifest production_manifest_20260317_110300_slot3.json
+[2026-03-17 11:06:35 UTC] --- LOOP 6: Caption AB ---
+[2026-03-17 11:06:35 UTC]   Caption manifests with metadata: 0, with completion data: 0
+[2026-03-17 11:06:35 UTC]   Caption manifests with metadata: 0
+[2026-03-17 11:06:35 UTC] --- LOOP 7: Prompt Genome ---
+[2026-03-17 11:06:35 UTC]   Manifests with prompt_metadata: 1
+[2026-03-17 11:06:35 UTC]   Loop A HOOK: Claude call failed: Unterminated string starting at: line 30 column 5 (char 1610)
+[2026-03-17 11:06:35 UTC]   Loop A MECHANISM: score=2/10 | failures=['Warm, natural daylight atmosphere directly contradicts the specified cold fluorescent overhead light', 'Bright, airy mood completely opposes the intended dark documentary realism']
+[2026-03-17 11:06:35 UTC]   Loop A MOVE: score=3/10 | failures=['Warm natural window light completely contradicts the intended cold fluorescent overhead lighting', 'Bright, airy atmosphere is the opposite of the intended dark documentary mood']
+[2026-03-17 11:06:35 UTC]   Loop A: added 20 Kling negative prompt elements: ['no oversized decorative lettering', 'no warm sunlight or natural window light', 'no bright airy atmosphere', 'no warm white color palette', 'no soft diffuse shadows']
+[2026-03-17 11:06:35 UTC]   Loop A complete — 2 frames scored, avg=2.5
+[2026-03-17 11:06:35 UTC] creative_directives.json updated: ['kling_negative_prompt_additions']
+[2026-03-17 11:06:35 UTC] Timing: hook_wps=4.33 | pre_hook=261ms | pauses=3 | after_hook=200ms
+[2026-03-17 11:06:35 UTC] Micro delta saved: micro_delta_20260317_110635_slot3.json
+[2026-03-17 11:06:35 UTC] ============================================================
+[2026-03-17 11:06:35 UTC] Quality Mirror micro-loop complete
+[2026-03-17 11:06:35 UTC] ============================================================
+[2026-03-17 13:36:01 UTC] ============================================================
+[2026-03-17 13:36:01 UTC] AGENT 4: QUALITY MIRROR (MICRO — slot 4)
+[2026-03-17 13:36:01 UTC] ============================================================
+[2026-03-17 13:36:01 UTC] Micro: loaded manifest production_manifest_20260317_133233_slot4.json
+[2026-03-17 13:36:01 UTC] --- LOOP 6: Caption AB ---
+[2026-03-17 13:36:01 UTC]   Caption manifests with metadata: 0, with completion data: 0
+[2026-03-17 13:36:01 UTC]   Caption manifests with metadata: 0
+[2026-03-17 13:36:01 UTC] --- LOOP 7: Prompt Genome ---
+[2026-03-17 13:36:01 UTC]   Manifests with prompt_metadata: 1
+[2026-03-17 13:36:01 UTC]   Loop A HOOK: Claude call failed: Expecting value: line 29 column 45 (char 1621)
+[2026-03-17 13:36:01 UTC]   Loop A MECHANISM: score=2/10 | failures=["Smartphone lock screen completely contradicts 'bank statement paper texture' identity — wrong surface entirely", "Clock display '15:56' dominates frame with no relevance to ISA allowance mechanism"]
+[2026-03-17 13:36:01 UTC]   Loop A MOVE: score=3/10 | failures=['No bank statement paper texture visible — surface texture completely absent', 'Clock display (18:5) dominates frame and reads as a phone lockscreen, breaking documentary realism']
+[2026-03-17 13:36:01 UTC]   Loop A: added 19 Kling negative prompt elements: ['no consumer fintech branding aesthetics', 'no soft gradient blue panels', 'no advertising banners or promotional text panels', 'no smooth surfaces — avoid absence of paper grain or texture', 'no app interface mockups']
+[2026-03-17 13:36:01 UTC]   Loop A complete — 2 frames scored, avg=2.5
+[2026-03-17 13:36:01 UTC] creative_directives.json updated: ['kling_negative_prompt_additions']
+[2026-03-17 13:36:01 UTC] Timing: hook_wps=4.67 | pre_hook=261ms | pauses=5 | after_hook=280ms
+[2026-03-17 13:36:01 UTC] Micro delta saved: micro_delta_20260317_133601_slot4.json
+[2026-03-17 13:36:01 UTC] ============================================================
+[2026-03-17 13:36:01 UTC] Quality Mirror micro-loop complete
+[2026-03-17 13:36:01 UTC] ============================================================
+[2026-03-17 16:07:22 UTC] ============================================================
+[2026-03-17 16:07:22 UTC] AGENT 4: QUALITY MIRROR (MICRO — slot 5)
+[2026-03-17 16:07:22 UTC] ============================================================
+[2026-03-17 16:07:22 UTC] Micro: loaded manifest production_manifest_20260317_160307_slot5.json
+[2026-03-17 16:07:22 UTC] --- LOOP 6: Caption AB ---
+[2026-03-17 16:07:22 UTC]   Caption manifests with metadata: 0, with completion data: 0
+[2026-03-17 16:07:22 UTC]   Caption manifests with metadata: 0
+[2026-03-17 16:07:22 UTC] --- LOOP 7: Prompt Genome ---
+[2026-03-17 16:07:22 UTC]   Manifests with prompt_metadata: 1
+[2026-03-17 16:07:22 UTC]   Loop A HOOK: score=2/10 | failures=['App UI screenshot instead of bank statement paper texture — completely wrong material', 'Warm amber/orange colour palette contradicts the intended cold fluorescent colour identity']
+[2026-03-17 16:07:22 UTC]   Loop A MECHANISM: Claude call failed: Unterminated string starting at: line 27 column 5 (char 1493)
+[2026-03-17 16:07:22 UTC]   Loop A MOVE: Claude call failed: Expecting value: line 27 column 33 (char 1562)
+[2026-03-17 16:07:22 UTC]   Loop A: added 10 Kling negative prompt elements: ['no soft rounded card UI elements', 'no orange or gold colour palettes', 'no flat digital interfaces or app cards', 'no bright legible large-font numbers on coloured backgrounds', 'no mobile app UI or smartphone screens']
+[2026-03-17 16:07:22 UTC]   Loop A complete — 1 frames scored, avg=2.0
+[2026-03-17 16:07:22 UTC] creative_directives.json updated: ['kling_negative_prompt_additions']
+[2026-03-17 16:07:22 UTC] Timing: hook_wps=4.33 | pre_hook=303ms | pauses=3 | after_hook=280ms
+[2026-03-17 16:07:22 UTC] Micro delta saved: micro_delta_20260317_160722_slot5.json
+[2026-03-17 16:07:22 UTC] ============================================================
+[2026-03-17 16:07:22 UTC] Quality Mirror micro-loop complete
+[2026-03-17 16:07:22 UTC] ============================================================
+[2026-03-17 22:30:00 UTC] ============================================================
+[2026-03-17 22:30:00 UTC] AGENT 4: QUALITY MIRROR
+[2026-03-17 22:30:00 UTC] ============================================================
+[2026-03-17 22:30:00 UTC] Loaded 7 production manifests (last 2d)
+[2026-03-17 22:30:00 UTC] Viral benchmarks: 21 videos
+[2026-03-17 22:30:00 UTC] Analytics: loaded 28 posts from platform_metrics.json (age 0.2h)
+[2026-03-17 22:30:00 UTC] --- LOOP 1: First Frame ---
+[2026-03-17 22:30:00 UTC]   Scoring 5 viral thumbnails...
+[2026-03-17 22:30:00 UTC]     Viral 'Is UK Really the Worst Country for Inves': score=62, shadow=0.35
+[2026-03-17 22:30:00 UTC]     Viral 'Where do brits keep their savings?': score=72, shadow=0.15
+[2026-03-17 22:30:00 UTC]     Viral '“Are young people in Britain being set u': score=62, shadow=0.15
+[2026-03-17 22:30:00 UTC]     Viral 'That £50k Car is Actually Costing You £2': score=62, shadow=0.15
+[2026-03-17 22:30:00 UTC]     Viral 'That £50k Car is Actually Costing You £2': score=62, shadow=0.15
+[2026-03-17 22:30:00 UTC]   Scoring 1 Harbinger frames...
+[2026-03-17 22:30:00 UTC]     Harbinger 'visual_20260308_121046_slot2.jpg': score=72
+[2026-03-17 22:30:00 UTC]   visual_frame_rules updated: ["Stop-scroll elements: bold yellow 'STOCK MARKET' text on dark background, recognizable podcast format with multiple speakers suggesting conflict or interesting discussion, financial topic keywords like NIFTY, MUTUAL FUND, VALUE INVESTING appeal to money-motivated viewers; Bold white text with contrarian/warning message combined with subject's direct eye contact and expressive face mid-speech, plus the word 'current' suggesting timely/relevant advice", "Unease sources: cluttered text overlay competing for attention, slight tension from debate/discussion format implied by multiple speakers; The negative statement 'THAT'S NOT A GREAT IDEA' creates immediate tension and curiosity about what the 'bad idea' is, combined with the subject's knowing expression and hand gesture suggesting she's about to reveal something"]
+[2026-03-17 22:30:00 UTC]   Loop 1 complete — viral avg: 64.0, Harbinger avg: 72.0, gap: -8.0
+[2026-03-17 22:30:00 UTC] --- LOOP 2: Silence Geometry ---
+[2026-03-17 22:30:00 UTC] Loaded 24 production manifests (last 14d)
+[2026-03-17 22:30:00 UTC]   silence_geometry updated: {'after_intrusion': 450, 'after_mechanism': 250, 'before_move': 350}
+[2026-03-17 22:30:00 UTC]   Loop 2 complete — 24 manifests analysed, winners: ['after_intrusion', 'after_mechanism', 'before_move']
+[2026-03-17 22:30:00 UTC] --- LOOP 3: Sound Design A/B ---
+[2026-03-17 22:30:00 UTC] Loaded 24 production manifests (last 14d)
+[2026-03-17 22:30:00 UTC]   Loop 3 complete — testing: sub_bass_db, days in stage: 7, locked: {}
+[2026-03-17 22:30:00 UTC] --- LOOP 4: Visual Language ---
+[2026-03-17 22:30:00 UTC]   Scoring 1 Harbinger Kling frames...
+[2026-03-17 22:30:00 UTC]     visual_20260308_121046_slot2.jpg: captured_score=42, failing=["Text on the phone screen is garbled and nonsensical - showing gibberish characters like 'Nap'a arion', 'Muz: 12.197', and other illegible text that doesn't form coherent words", "The candlestick chart has inconsistent and unrealistic rendering with floating elements and irregular spacing that doesn't match real trading apps", 'The lower portion of the phone shows blurred, distorted interface elements with text that appears smeared and physically impossible']
+[2026-03-17 22:30:00 UTC]   Scoring 3 viral frames...
+[2026-03-17 22:30:00 UTC]     Viral 'Is UK Really the Worst Country for Inves': score=85
+[2026-03-17 22:30:00 UTC]     Viral 'Where do brits keep their savings?': score=85
+[2026-03-17 22:30:00 UTC]     Viral '“Are young people in Britain being set u': score=85
+[2026-03-17 22:30:00 UTC]   Kling negative additions: ["Text on the phone screen is garbled and nonsensical - showing gibberish characters like 'Nap'a arion', 'Muz: 12.197', and other illegible text that doesn't form coherent words", "The candlestick chart has inconsistent and unrealistic rendering with floating elements and irregular spacing that doesn't match real trading apps", 'The lower portion of the phone shows blurred, distorted interface elements with text that appears smeared and physically impossible']
+[2026-03-17 22:30:00 UTC]   Kling base additions: ['Natural lighting and shadows on the faces of the podcast participants are consistent with studio recording equipment', 'The overlaid text graphics, timestamps, and YouTube-style interface elements are typical of real social media video content', "Natural skin texture, pores, and subtle facial imperfections visible on the woman's face", 'Realistic lighting with natural shadows and highlights consistent with indoor ambient lighting, plus authentic motion blur on the hand holding food', 'Natural video call compression artifacts and lighting inconsistencies typical of real webcam footage']
+[2026-03-17 22:30:00 UTC]   Loop 4 complete — mean captured score: 42.0, failing elements: 3
+[2026-03-17 22:30:00 UTC] --- LOOP 5: Acoustic Space ---
+[2026-03-17 22:30:00 UTC] Loaded 24 production manifests (last 14d)
+[2026-03-17 22:30:00 UTC]   Profile means: {'medium': 2.0}
+[2026-03-17 22:30:00 UTC]   Loop 5 complete — winner: None, profiles analysed: ['medium']
+[2026-03-17 22:30:00 UTC] --- LOOP 6: Caption AB ---
+[2026-03-17 22:30:00 UTC]   Caption manifests with metadata: 0, with completion data: 0
+[2026-03-17 22:30:00 UTC]   Caption manifests with metadata: 0
+[2026-03-17 22:30:00 UTC] --- LOOP 7: Prompt Genome ---
+[2026-03-17 22:30:00 UTC]   Manifests with prompt_metadata: 7
+[2026-03-17 22:30:00 UTC] --- LOOP 8: Trust Signal Scorer ---
+[2026-03-17 22:30:00 UTC]   Loop 8 complete — scored=20, avg=8.47, retry_flags=0, review_flags=0, retired=0
+[2026-03-17 22:30:00 UTC]   Loop B nightly: avg chain score=7.1, rewrite rate=0%
+[2026-03-17 22:30:00 UTC]   Worst links: [('visual_identity_precondition', 5.7), ('mechanism_specificity', 6.1)]
+[2026-03-17 22:30:00 UTC]   Loop B nightly: 1 structural directives written to creative_directives
+[2026-03-17 22:30:00 UTC] creative_directives.json updated: ['visual_frame_rules', 'kling_base_prompt_additions', 'kling_negative_prompt_additions', 'instructions']
+[2026-03-17 22:30:00 UTC] Delta report saved: delta_report_2026-03-17.json
+[2026-03-17 22:30:00 UTC] ============================================================
+[2026-03-17 22:30:00 UTC] Quality Mirror complete. Loops run: 9/9. Directives changed: ['visual_frame_rules', 'kling_base_prompt_additions', 'kling_negative_prompt_additions', 'instructions']
+[2026-03-17 22:30:00 UTC] ============================================================
+[2026-03-18 06:03:51 UTC] ============================================================
+[2026-03-18 06:03:51 UTC] AGENT 4: QUALITY MIRROR (MICRO — slot 1)
+[2026-03-18 06:03:51 UTC] ============================================================
+[2026-03-18 06:03:51 UTC] Micro: loaded manifest production_manifest_20260318_060003_slot1.json
+[2026-03-18 06:03:51 UTC] --- LOOP 6: Caption AB ---
+[2026-03-18 06:03:51 UTC]   Caption manifests with metadata: 0, with completion data: 0
+[2026-03-18 06:03:51 UTC]   Caption manifests with metadata: 0
+[2026-03-18 06:03:51 UTC] --- LOOP 7: Prompt Genome ---
+[2026-03-18 06:03:51 UTC]   Manifests with prompt_metadata: 1
+[2026-03-18 06:03:51 UTC]   Loop A HOOK: Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specified API usage limits. You will regain access on 2026-04-01 at 00:00 UTC.'}, 'request_id': 'req_011CZA3HAHrxYJWvmkaLMNW4'}
+[2026-03-18 06:03:51 UTC]   Loop A MECHANISM: Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specified API usage limits. You will regain access on 2026-04-01 at 00:00 UTC.'}, 'request_id': 'req_011CZA3HCqf8aBiPnwEnSryY'}
+[2026-03-18 06:03:51 UTC]   Loop A MOVE: Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specified API usage limits. You will regain access on 2026-04-01 at 00:00 UTC.'}, 'request_id': 'req_011CZA3HEkkVuWZDBy3oB5Qy'}
+[2026-03-18 06:03:51 UTC]   Loop A complete — 0 frames scored, avg=None
+[2026-03-18 06:03:51 UTC] Timing: hook_wps=4.33 | pre_hook=261ms | pauses=4 | after_hook=360ms
+[2026-03-18 06:03:51 UTC] Micro delta saved: micro_delta_20260318_060351_slot1.json
+[2026-03-18 06:03:51 UTC] ============================================================
+[2026-03-18 06:03:51 UTC] Quality Mirror micro-loop complete
+[2026-03-18 06:03:51 UTC] ============================================================
+[2026-03-18 08:35:39 UTC] ============================================================
+[2026-03-18 08:35:39 UTC] AGENT 4: QUALITY MIRROR (MICRO — slot 2)
+[2026-03-18 08:35:39 UTC] ============================================================
+[2026-03-18 08:35:39 UTC] Micro: loaded manifest production_manifest_20260318_083202_slot2.json
+[2026-03-18 08:35:39 UTC] --- LOOP 6: Caption AB ---
+[2026-03-18 08:35:39 UTC]   Caption manifests with metadata: 0, with completion data: 0
+[2026-03-18 08:35:39 UTC]   Caption manifests with metadata: 0
+[2026-03-18 08:35:39 UTC] --- LOOP 7: Prompt Genome ---
+[2026-03-18 08:35:39 UTC]   Manifests with prompt_metadata: 1
+[2026-03-18 08:35:39 UTC]   Loop A HOOK: Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specified API usage limits. You will regain access on 2026-04-01 at 00:00 UTC.'}, 'request_id': 'req_011CZAErcokoRHkr3LgPrbjA'}
+[2026-03-18 08:35:39 UTC]   Loop A MECHANISM: Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specified API usage limits. You will regain access on 2026-04-01 at 00:00 UTC.'}, 'request_id': 'req_011CZAErek5xM8g67ePm9v7C'}
+[2026-03-18 08:35:39 UTC]   Loop A MOVE: Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specified API usage limits. You will regain access on 2026-04-01 at 00:00 UTC.'}, 'request_id': 'req_011CZAErg6wn6fowNXpgRKNF'}
+[2026-03-18 08:35:39 UTC]   Loop A complete — 0 frames scored, avg=None
+[2026-03-18 08:35:39 UTC] Timing: hook_wps=4.33 | pre_hook=261ms | pauses=5 | after_hook=280ms
+[2026-03-18 08:35:39 UTC] Micro delta saved: micro_delta_20260318_083539_slot2.json
+[2026-03-18 08:35:39 UTC] ============================================================
+[2026-03-18 08:35:39 UTC] Quality Mirror micro-loop complete
+[2026-03-18 08:35:39 UTC] ============================================================
+[2026-03-18 13:39:12 UTC] ============================================================
+[2026-03-18 13:39:12 UTC] AGENT 4: QUALITY MIRROR (MICRO — slot 4)
+[2026-03-18 13:39:12 UTC] ============================================================
+[2026-03-18 13:39:12 UTC] Micro: loaded manifest production_manifest_20260318_133534_slot4.json
+[2026-03-18 13:39:12 UTC] --- LOOP 6: Caption AB ---
+[2026-03-18 13:39:12 UTC]   Caption manifests with metadata: 0, with completion data: 0
+[2026-03-18 13:39:12 UTC]   Caption manifests with metadata: 0
+[2026-03-18 13:39:12 UTC] --- LOOP 7: Prompt Genome ---
+[2026-03-18 13:39:12 UTC]   Manifests with prompt_metadata: 1
+[2026-03-18 13:39:12 UTC]   Loop A HOOK: Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specified API usage limits. You will regain access on 2026-04-01 at 00:00 UTC.'}, 'request_id': 'req_011CZAe15jQGLruNWUEzDziW'}
+[2026-03-18 13:39:12 UTC]   Loop A MECHANISM: Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specified API usage limits. You will regain access on 2026-04-01 at 00:00 UTC.'}, 'request_id': 'req_011CZAe17Ku9B6feTzPDLmPh'}
+[2026-03-18 13:39:12 UTC]   Loop A MOVE: Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specified API usage limits. You will regain access on 2026-04-01 at 00:00 UTC.'}, 'request_id': 'req_011CZAe195ZqnCpP6a57AUdh'}
+[2026-03-18 13:39:12 UTC]   Loop A complete — 0 frames scored, avg=None
+[2026-03-18 13:39:12 UTC] Timing: hook_wps=4.67 | pre_hook=261ms | pauses=4 | after_hook=240ms
+[2026-03-18 13:39:12 UTC] Micro delta saved: micro_delta_20260318_133912_slot4.json
+[2026-03-18 13:39:12 UTC] ============================================================
+[2026-03-18 13:39:12 UTC] Quality Mirror micro-loop complete
+[2026-03-18 13:39:12 UTC] ============================================================
+[2026-03-18 16:06:18 UTC] ============================================================
+[2026-03-18 16:06:18 UTC] AGENT 4: QUALITY MIRROR (MICRO — slot 5)
+[2026-03-18 16:06:18 UTC] ============================================================
+[2026-03-18 16:06:18 UTC] Micro: loaded manifest production_manifest_20260318_160207_slot5.json
+[2026-03-18 16:06:18 UTC] --- LOOP 6: Caption AB ---
+[2026-03-18 16:06:18 UTC]   Caption manifests with metadata: 0, with completion data: 0
+[2026-03-18 16:06:18 UTC]   Caption manifests with metadata: 0
+[2026-03-18 16:06:18 UTC] --- LOOP 7: Prompt Genome ---
+[2026-03-18 16:06:18 UTC]   Manifests with prompt_metadata: 1
+[2026-03-18 16:06:18 UTC]   Loop A HOOK: Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specified API usage limits. You will regain access on 2026-04-01 at 00:00 UTC.'}, 'request_id': 'req_011CZAqDm1fSfW6iq4EnUizG'}
+[2026-03-18 16:06:18 UTC]   Loop A MECHANISM: Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specified API usage limits. You will regain access on 2026-04-01 at 00:00 UTC.'}, 'request_id': 'req_011CZAqDo8uGsLcgnFaS7K8u'}
+[2026-03-18 16:06:18 UTC]   Loop A MOVE: Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specified API usage limits. You will regain access on 2026-04-01 at 00:00 UTC.'}, 'request_id': 'req_011CZAqDpt5QFQgQPXRQTwmj'}
+[2026-03-18 16:06:18 UTC]   Loop A complete — 0 frames scored, avg=None
+[2026-03-18 16:06:18 UTC] Timing: hook_wps=4.67 | pre_hook=266ms | pauses=4 | after_hook=280ms
+[2026-03-18 16:06:18 UTC] Micro delta saved: micro_delta_20260318_160618_slot5.json
+[2026-03-18 16:06:18 UTC] ============================================================
+[2026-03-18 16:06:18 UTC] Quality Mirror micro-loop complete
+[2026-03-18 16:06:18 UTC] ============================================================
+[2026-03-19 06:03:17 UTC] ============================================================
+[2026-03-19 06:03:17 UTC] AGENT 4: QUALITY MIRROR (MICRO — slot 1)
+[2026-03-19 06:03:17 UTC] ============================================================
+[2026-03-19 06:03:17 UTC] Micro: loaded manifest production_manifest_20260319_060003_slot1.json
+[2026-03-19 06:03:17 UTC] --- LOOP 6: Caption AB ---
+[2026-03-19 06:03:17 UTC]   Caption manifests with metadata: 0, with completion data: 0
+[2026-03-19 06:03:17 UTC]   Caption manifests with metadata: 0
+[2026-03-19 06:03:17 UTC] --- LOOP 7: Prompt Genome ---
+[2026-03-19 06:03:17 UTC]   Manifests with prompt_metadata: 1
+[2026-03-19 06:03:17 UTC]   Loop A HOOK: Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specified API usage limits. You will regain access on 2026-04-01 at 00:00 UTC.'}, 'request_id': 'req_011CZBw3ZfxRG3HR3PXTe8WD'}
+[2026-03-19 06:03:17 UTC]   Loop A MECHANISM: Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specified API usage limits. You will regain access on 2026-04-01 at 00:00 UTC.'}, 'request_id': 'req_011CZBw3bBVdvGAGRK4HxSJX'}
+[2026-03-19 06:03:17 UTC]   Loop A MOVE: Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specified API usage limits. You will regain access on 2026-04-01 at 00:00 UTC.'}, 'request_id': 'req_011CZBw3cV89tCEhHPobL1B2'}
+[2026-03-19 06:03:17 UTC]   Loop A complete — 0 frames scored, avg=None
+[2026-03-19 06:03:17 UTC] Timing: hook_wps=4.33 | pre_hook=261ms | pauses=3 | after_hook=213ms
+[2026-03-19 06:03:17 UTC] Micro delta saved: micro_delta_20260319_060317_slot1.json
+[2026-03-19 06:03:17 UTC] ============================================================
+[2026-03-19 06:03:17 UTC] Quality Mirror micro-loop complete
+[2026-03-19 06:03:17 UTC] ============================================================
+[2026-03-19 08:35:15 UTC] ============================================================
+[2026-03-19 08:35:15 UTC] AGENT 4: QUALITY MIRROR (MICRO — slot 2)
+[2026-03-19 08:35:15 UTC] ============================================================
+[2026-03-19 08:35:15 UTC] Micro: loaded manifest production_manifest_20260319_083200_slot2.json
+[2026-03-19 08:35:15 UTC] --- LOOP 6: Caption AB ---
+[2026-03-19 08:35:15 UTC]   Caption manifests with metadata: 0, with completion data: 0
+[2026-03-19 08:35:15 UTC]   Caption manifests with metadata: 0
+[2026-03-19 08:35:15 UTC] --- LOOP 7: Prompt Genome ---
+[2026-03-19 08:35:15 UTC]   Manifests with prompt_metadata: 1
+[2026-03-19 08:35:15 UTC]   Loop A HOOK: Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specified API usage limits. You will regain access on 2026-04-01 at 00:00 UTC.'}, 'request_id': 'req_011CZC8dgFKkQpsWUbKvzq6d'}
+[2026-03-19 08:35:15 UTC]   Loop A MECHANISM: Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specified API usage limits. You will regain access on 2026-04-01 at 00:00 UTC.'}, 'request_id': 'req_011CZC8dhq51Zz1HnsuMdWdR'}
+[2026-03-19 08:35:15 UTC]   Loop A MOVE: Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specified API usage limits. You will regain access on 2026-04-01 at 00:00 UTC.'}, 'request_id': 'req_011CZC8dj1m7zzvwLXUzp88E'}
+[2026-03-19 08:35:15 UTC]   Loop A complete — 0 frames scored, avg=None
+[2026-03-19 08:35:15 UTC] Timing: hook_wps=4.33 | pre_hook=266ms | pauses=6 | after_hook=280ms
+[2026-03-19 08:35:15 UTC] Micro delta saved: micro_delta_20260319_083515_slot2.json
+[2026-03-19 08:35:15 UTC] ============================================================
+[2026-03-19 08:35:15 UTC] Quality Mirror micro-loop complete
+[2026-03-19 08:35:15 UTC] ============================================================
+[2026-03-19 11:06:15 UTC] ============================================================
+[2026-03-19 11:06:15 UTC] AGENT 4: QUALITY MIRROR (MICRO — slot 3)
+[2026-03-19 11:06:15 UTC] ============================================================
+[2026-03-19 11:06:15 UTC] Micro: loaded manifest production_manifest_20260319_110233_slot3.json
+[2026-03-19 11:06:15 UTC] --- LOOP 6: Caption AB ---
+[2026-03-19 11:06:15 UTC]   Caption manifests with metadata: 0, with completion data: 0
+[2026-03-19 11:06:15 UTC]   Caption manifests with metadata: 0
+[2026-03-19 11:06:15 UTC] --- LOOP 7: Prompt Genome ---
+[2026-03-19 11:06:15 UTC]   Manifests with prompt_metadata: 1
+[2026-03-19 11:06:15 UTC]   Loop A HOOK: Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specified API usage limits. You will regain access on 2026-04-01 at 00:00 UTC.'}, 'request_id': 'req_011CZCL9YW6wVSqPWsxUw8ay'}
+[2026-03-19 11:06:15 UTC]   Loop A MECHANISM: Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specified API usage limits. You will regain access on 2026-04-01 at 00:00 UTC.'}, 'request_id': 'req_011CZCL9abcetAph9NfX56hx'}
+[2026-03-19 11:06:15 UTC]   Loop A MOVE: Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specified API usage limits. You will regain access on 2026-04-01 at 00:00 UTC.'}, 'request_id': 'req_011CZCL9btkVbuqe2kUs8yYL'}
+[2026-03-19 11:06:15 UTC]   Loop A complete — 0 frames scored, avg=None
+[2026-03-19 11:06:15 UTC] Timing: hook_wps=3.33 | pre_hook=138ms | pauses=5 | after_hook=0ms
+[2026-03-19 11:06:15 UTC] Micro delta saved: micro_delta_20260319_110615_slot3.json
+[2026-03-19 11:06:15 UTC] ============================================================
+[2026-03-19 11:06:15 UTC] Quality Mirror micro-loop complete
+[2026-03-19 11:06:15 UTC] ============================================================
+[2026-03-19 13:38:23 UTC] ============================================================
+[2026-03-19 13:38:23 UTC] AGENT 4: QUALITY MIRROR (MICRO — slot 4)
+[2026-03-19 13:38:23 UTC] ============================================================
+[2026-03-19 13:38:23 UTC] Micro: loaded manifest production_manifest_20260319_133159_slot4.json
+[2026-03-19 13:38:23 UTC] --- LOOP 6: Caption AB ---
+[2026-03-19 13:38:23 UTC]   Caption manifests with metadata: 0, with completion data: 0
+[2026-03-19 13:38:23 UTC]   Caption manifests with metadata: 0
+[2026-03-19 13:38:23 UTC] --- LOOP 7: Prompt Genome ---
+[2026-03-19 13:38:23 UTC]   Manifests with prompt_metadata: 1
+[2026-03-19 13:38:23 UTC]   Loop A HOOK: Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specified API usage limits. You will regain access on 2026-04-01 at 00:00 UTC.'}, 'request_id': 'req_011CZCXkX9FmGP4qLJ7hH1xH'}
+[2026-03-19 13:38:23 UTC]   Loop A MECHANISM: Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specified API usage limits. You will regain access on 2026-04-01 at 00:00 UTC.'}, 'request_id': 'req_011CZCXkaWAL4ipP76DaimQs'}
+[2026-03-19 13:38:23 UTC]   Loop A MOVE: Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specified API usage limits. You will regain access on 2026-04-01 at 00:00 UTC.'}, 'request_id': 'req_011CZCXkdTWjSVV3qiirBoH8'}
+[2026-03-19 13:38:23 UTC]   Loop A complete — 0 frames scored, avg=None
+[2026-03-19 13:38:23 UTC] Timing: hook_wps=4.33 | pre_hook=330ms | pauses=6 | after_hook=320ms
+[2026-03-19 13:38:23 UTC] Micro delta saved: micro_delta_20260319_133823_slot4.json
+[2026-03-19 13:38:23 UTC] ============================================================
+[2026-03-19 13:38:23 UTC] Quality Mirror micro-loop complete
+[2026-03-19 13:38:23 UTC] ============================================================
+[2026-03-19 16:06:17 UTC] ============================================================
+[2026-03-19 16:06:17 UTC] AGENT 4: QUALITY MIRROR (MICRO — slot 5)
+[2026-03-19 16:06:17 UTC] ============================================================
+[2026-03-19 16:06:17 UTC] Micro: loaded manifest production_manifest_20260319_160214_slot5.json
+[2026-03-19 16:06:17 UTC] --- LOOP 6: Caption AB ---
+[2026-03-19 16:06:17 UTC]   Caption manifests with metadata: 0, with completion data: 0
+[2026-03-19 16:06:17 UTC]   Caption manifests with metadata: 0
+[2026-03-19 16:06:17 UTC] --- LOOP 7: Prompt Genome ---
+[2026-03-19 16:06:17 UTC]   Manifests with prompt_metadata: 1
+[2026-03-19 16:06:17 UTC]   Loop A HOOK: Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specified API usage limits. You will regain access on 2026-04-01 at 00:00 UTC.'}, 'request_id': 'req_011CZCj2ZaaNbmdmQLYbMuYz'}
+[2026-03-19 16:06:17 UTC]   Loop A MECHANISM: Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specified API usage limits. You will regain access on 2026-04-01 at 00:00 UTC.'}, 'request_id': 'req_011CZCj2bY9jRJhKmJJvMhTr'}
+[2026-03-19 16:06:17 UTC]   Loop A MOVE: Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specified API usage limits. You will regain access on 2026-04-01 at 00:00 UTC.'}, 'request_id': 'req_011CZCj2d5g4RLFyQ5wrtzEt'}
+[2026-03-19 16:06:17 UTC]   Loop A complete — 0 frames scored, avg=None
+[2026-03-19 16:06:17 UTC] Timing: hook_wps=4.33 | pre_hook=330ms | pauses=5 | after_hook=360ms
+[2026-03-19 16:06:17 UTC] Micro delta saved: micro_delta_20260319_160617_slot5.json
+[2026-03-19 16:06:17 UTC] ============================================================
+[2026-03-19 16:06:17 UTC] Quality Mirror micro-loop complete
+[2026-03-19 16:06:17 UTC] ============================================================
+[2026-03-20 11:06:16 UTC] ============================================================
+[2026-03-20 11:06:16 UTC] AGENT 4: QUALITY MIRROR (MICRO — slot 3)
+[2026-03-20 11:06:16 UTC] ============================================================
+[2026-03-20 11:06:16 UTC] Micro: loaded manifest production_manifest_20260320_110246_slot3.json
+[2026-03-20 11:06:16 UTC] --- LOOP 6: Caption AB ---
+[2026-03-20 11:06:16 UTC]   Caption manifests with metadata: 0, with completion data: 0
+[2026-03-20 11:06:16 UTC]   Caption manifests with metadata: 0
+[2026-03-20 11:06:16 UTC] --- LOOP 7: Prompt Genome ---
+[2026-03-20 11:06:16 UTC]   Manifests with prompt_metadata: 1
+[2026-03-20 11:06:16 UTC]   Loop A HOOK: Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specified API usage limits. You will regain access on 2026-04-01 at 00:00 UTC.'}, 'request_id': 'req_011CZEDxVWmtjZfZuU18EraH'}
+[2026-03-20 11:06:16 UTC]   Loop A MECHANISM: Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specified API usage limits. You will regain access on 2026-04-01 at 00:00 UTC.'}, 'request_id': 'req_011CZEDxX2JmZgx8nNYEpq6p'}
+[2026-03-20 11:06:16 UTC]   Loop A MOVE: Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specified API usage limits. You will regain access on 2026-04-01 at 00:00 UTC.'}, 'request_id': 'req_011CZEDxYzdRJ3Dtph6v4iQY'}
+[2026-03-20 11:06:16 UTC]   Loop A complete — 0 frames scored, avg=None
+[2026-03-20 11:06:16 UTC] Timing: hook_wps=4.67 | pre_hook=261ms | pauses=2 | after_hook=200ms
+[2026-03-20 11:06:16 UTC] Micro delta saved: micro_delta_20260320_110616_slot3.json
+[2026-03-20 11:06:16 UTC] ============================================================
+[2026-03-20 11:06:16 UTC] Quality Mirror micro-loop complete
+[2026-03-20 11:06:16 UTC] ============================================================
+[2026-03-21 14:23:50 UTC] ============================================================
+[2026-03-21 14:23:50 UTC] AGENT 4: QUALITY MIRROR (MICRO — slot 1)
+[2026-03-21 14:23:50 UTC] ============================================================
+[2026-03-21 14:23:50 UTC] Micro: loaded manifest production_manifest_20260321_141934_slot1.json
+[2026-03-21 14:23:50 UTC] --- LOOP 6: Caption AB ---
+[2026-03-21 14:23:50 UTC]   Caption manifests with metadata: 0, with completion data: 0
+[2026-03-21 14:23:50 UTC]   Caption manifests with metadata: 0
+[2026-03-21 14:23:50 UTC] --- LOOP 7: Prompt Genome ---
+[2026-03-21 14:23:50 UTC]   Manifests with prompt_metadata: 1
+[2026-03-21 14:23:50 UTC]   Loop A HOOK: Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specified API usage limits. You will regain access on 2026-04-01 at 00:00 UTC.'}, 'request_id': 'req_011CZGNqC4u9bZJAWGy92RTF'}
+[2026-03-21 14:23:50 UTC]   Loop A MECHANISM: Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specified API usage limits. You will regain access on 2026-04-01 at 00:00 UTC.'}, 'request_id': 'req_011CZGNqFCQvZZEUAKEfMP2Z'}
+[2026-03-21 14:23:50 UTC]   Loop A MOVE: Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specified API usage limits. You will regain access on 2026-04-01 at 00:00 UTC.'}, 'request_id': 'req_011CZGNqJzNHg7eSDYab398c'}
+[2026-03-21 14:23:50 UTC]   Loop A complete — 0 frames scored, avg=None
+[2026-03-21 14:23:50 UTC] Timing: hook_wps=4.33 | pre_hook=266ms | pauses=4 | after_hook=280ms
+[2026-03-21 14:23:50 UTC] Micro delta saved: micro_delta_20260321_142350_slot1.json
+[2026-03-21 14:23:50 UTC] ============================================================
+[2026-03-21 14:23:50 UTC] Quality Mirror micro-loop complete
+[2026-03-21 14:23:50 UTC] ============================================================
+[2026-03-21 16:04:55 UTC] ============================================================
+[2026-03-21 16:04:55 UTC] AGENT 4: QUALITY MIRROR (MICRO — slot 5)
+[2026-03-21 16:04:55 UTC] ============================================================
+[2026-03-21 16:04:55 UTC] Micro: loaded manifest production_manifest_20260321_160115_slot5.json
+[2026-03-21 16:04:55 UTC] --- LOOP 6: Caption AB ---
+[2026-03-21 16:04:55 UTC]   Caption manifests with metadata: 0, with completion data: 0
+[2026-03-21 16:04:55 UTC]   Caption manifests with metadata: 0
+[2026-03-21 16:04:55 UTC] --- LOOP 7: Prompt Genome ---
+[2026-03-21 16:04:55 UTC]   Manifests with prompt_metadata: 1
+[2026-03-21 16:04:55 UTC]   Loop A HOOK: Claude call failed: Expecting ',' delimiter: line 32 column 46 (char 1582)
+[2026-03-21 16:04:55 UTC]   Loop A MECHANISM: Claude call failed: Unterminated string starting at: line 29 column 5 (char 1514)
+[2026-03-21 16:04:55 UTC]   Loop A MOVE: score=4/10 | failures=['Wide establishing shot instead of extreme close-up bank statement paper texture', 'Warm amber desk lamp light directly contradicts the intended cold fluorescent overhead lighting']
+[2026-03-21 16:04:55 UTC]   Loop A: added 9 Kling negative prompt elements: ['no sunset or dusk backgrounds visible through windows', 'no premium office aesthetic', 'avoid wide angle compositions showing full desk surface', 'no cityscape backgrounds', 'no smartphones or electronic devices']
+[2026-03-21 16:04:55 UTC]   Loop A complete — 1 frames scored, avg=4.0
+[2026-03-21 16:04:55 UTC] creative_directives.json updated: ['kling_negative_prompt_additions']
+[2026-03-21 16:04:55 UTC] Timing: hook_wps=4.67 | pre_hook=261ms | pauses=5 | after_hook=320ms
+[2026-03-21 16:04:55 UTC] Micro delta saved: micro_delta_20260321_160455_slot5.json
+[2026-03-21 16:04:55 UTC] ============================================================
+[2026-03-21 16:04:55 UTC] Quality Mirror micro-loop complete
+[2026-03-21 16:04:55 UTC] ============================================================
+[2026-03-21 22:31:37 UTC] ============================================================
+[2026-03-21 22:31:37 UTC] AGENT 4: QUALITY MIRROR
+[2026-03-21 22:31:37 UTC] ============================================================
+[2026-03-21 22:31:37 UTC] Loaded 5 production manifests (last 2d)
+[2026-03-21 22:31:37 UTC] Viral benchmarks: 10 videos
+[2026-03-21 22:31:37 UTC] Analytics: loaded 39 posts from platform_metrics.json (age 0.2h)
+[2026-03-21 22:31:37 UTC] --- LOOP 1: First Frame ---
+[2026-03-21 22:31:37 UTC]   Scoring 5 viral thumbnails...
+[2026-03-21 22:31:37 UTC]     Viral 'Save money on fuel ? We’ve got you! 💷': score=62, shadow=0.15
+[2026-03-21 22:31:37 UTC]     Viral 'You&#39;re wasting hundreds without real': score=62, shadow=0.05
+[2026-03-21 22:31:37 UTC]     Viral 'You&#39;re wasting hundreds without real': score=62, shadow=0.05
+[2026-03-21 22:31:37 UTC]     Viral 'How to Start eBay Dropshipping for Begin': score=42, shadow=0.25
+[2026-03-21 22:31:37 UTC]     Viral '£746m UK “investment” in Nigeria; Unpack': score=35, shadow=0.15
+[2026-03-21 22:31:37 UTC]   Scoring 1 Harbinger frames...
+[2026-03-21 22:31:37 UTC]     Harbinger 'visual_20260308_121046_slot2.jpg': score=72
+[2026-03-21 22:31:37 UTC]   visual_frame_rules updated: ["Stop-scroll elements: The contrasting gestures (playful peace signs) with stern expression and professional attire creates curiosity about context; bright teal background with yellow highlighted word 'TRUNK' draws eye; Bold red £300/MONTH text with 'GONE' creates immediate financial fear/FOMO, relatable money stress depicted through simple panicked character", "Unease sources: The double peace signs gesture combined with a serious facial expression creates cognitive dissonance; the instructional text about emptying trunk feels oddly specific and slightly ominous; distressed stick figure with hands on head expressing panic/shock about money loss, the 'GONE' text with alarming emoji creates financial anxiety"]
+[2026-03-21 22:31:37 UTC]   Loop 1 complete — viral avg: 52.6, Harbinger avg: 72.0, gap: -19.4
+[2026-03-21 22:31:37 UTC] --- LOOP 2: Silence Geometry ---
+[2026-03-21 22:31:37 UTC] Loaded 39 production manifests (last 14d)
+[2026-03-21 22:31:37 UTC]   silence_geometry updated: {'after_intrusion': 450, 'after_mechanism': 250, 'before_move': 350}
+[2026-03-21 22:31:37 UTC]   Loop 2 complete — 39 manifests analysed, winners: ['after_intrusion', 'after_mechanism', 'before_move']
+[2026-03-21 22:31:37 UTC] --- LOOP 3: Sound Design A/B ---
+[2026-03-21 22:31:37 UTC] Loaded 39 production manifests (last 14d)
+[2026-03-21 22:31:37 UTC]   Evaluating sub_bass_db after 11 days...
+[2026-03-21 22:31:37 UTC] Loop 3 error: Traceback (most recent call last):
+  File "/Users/kolly/HARBINGERHQ/scripts/agents/quality_mirror.py", line 1570, in main
+    loop_results["sound_ab"] = loop_sound_ab(manifests, analytics, directives)
+  File "/Users/kolly/HARBINGERHQ/scripts/agents/quality_mirror.py", line 540, in loop_sound_ab
+    
+[2026-03-21 22:31:37 UTC] --- LOOP 4: Visual Language ---
+[2026-03-21 22:31:37 UTC]   Scoring 1 Harbinger Kling frames...
+[2026-03-21 22:31:37 UTC]     visual_20260308_121046_slot2.jpg: captured_score=35, failing=["Text on screen is garbled and nonsensical - 'Nap's adon', 'Muy: 12.137', 'En The Fryer Patanios' are not real words or coherent UI elements", "The status bar shows distorted/impossible characters like '4# 10:45' and malformed signal indicators", 'The candlestick chart labels and numbers are inconsistent and partially illegible, with impossible formatting']
+[2026-03-21 22:31:37 UTC]   Scoring 3 viral frames...
+[2026-03-21 22:31:37 UTC]   Kling negative additions: ["Text on screen is garbled and nonsensical - 'Nap's adon', 'Muy: 12.137', 'En The Fryer Patanios' are not real words or coherent UI elements", "The status bar shows distorted/impossible characters like '4# 10:45' and malformed signal indicators", 'The candlestick chart labels and numbers are inconsistent and partially illegible, with impossible formatting']
+[2026-03-21 22:31:37 UTC]   Loop 4 complete — mean captured score: 35.0, failing elements: 3
+[2026-03-21 22:31:37 UTC] --- LOOP 5: Acoustic Space ---
+[2026-03-21 22:31:37 UTC] Loaded 39 production manifests (last 14d)
+[2026-03-21 22:31:37 UTC]   Profile means: {'medium': 6.0}
+[2026-03-21 22:31:37 UTC]   Loop 5 complete — winner: None, profiles analysed: ['medium']
+[2026-03-21 22:31:37 UTC] --- LOOP 6: Caption AB ---
+[2026-03-21 22:31:37 UTC]   Caption manifests with metadata: 0, with completion data: 0
+[2026-03-21 22:31:37 UTC]   Caption manifests with metadata: 0
+[2026-03-21 22:31:37 UTC] --- LOOP 7: Prompt Genome ---
+[2026-03-21 22:31:37 UTC]   Manifests with prompt_metadata: 5
+[2026-03-21 22:31:37 UTC] --- LOOP 8: Trust Signal Scorer ---
+[2026-03-21 22:31:37 UTC]   Loop 8 complete — scored=20, avg=8.45, retry_flags=0, review_flags=0, retired=0
+[2026-03-21 22:31:37 UTC]   Loop B nightly: avg chain score=7.0, rewrite rate=0%
+[2026-03-21 22:31:37 UTC]   Worst links: [('mechanism_specificity', 6.0), ('visual_identity_precondition', 6.3)]
+[2026-03-21 22:31:37 UTC] creative_directives.json updated: ['visual_frame_rules', 'kling_negative_prompt_additions']
+[2026-03-21 22:31:37 UTC] Delta report saved: delta_report_2026-03-21.json
+[2026-03-21 22:31:37 UTC] ============================================================
+[2026-03-21 22:31:37 UTC] Quality Mirror complete. Loops run: 9/9. Directives changed: ['visual_frame_rules', 'kling_negative_prompt_additions']
+[2026-03-21 22:31:37 UTC] ============================================================
+[2026-03-22 16:02:57 UTC] ============================================================
+[2026-03-22 16:02:57 UTC] AGENT 4: QUALITY MIRROR (MICRO — slot 5)
+[2026-03-22 16:02:57 UTC] ============================================================
+[2026-03-22 16:02:57 UTC] Micro: loaded manifest production_manifest_20260322_160120_slot5.json
+[2026-03-22 16:02:57 UTC] --- LOOP 6: Caption AB ---
+[2026-03-22 16:02:57 UTC]   Caption manifests with metadata: 0, with completion data: 0
+[2026-03-22 16:02:57 UTC]   Caption manifests with metadata: 0
+[2026-03-22 16:02:57 UTC] --- LOOP 7: Prompt Genome ---
+[2026-03-22 16:02:57 UTC]   Manifests with prompt_metadata: 1
+[2026-03-22 16:02:57 UTC] Micro Loop A error: 'NoneType' object is not subscriptable
+[2026-03-22 16:02:57 UTC] Timing: hook_wps=2.67 | pre_hook=0ms | pauses=2 | after_hook=200ms
+[2026-03-22 16:02:57 UTC] Micro delta saved: micro_delta_20260322_160257_slot5.json
+[2026-03-22 16:02:57 UTC] ============================================================
+[2026-03-22 16:02:57 UTC] Quality Mirror micro-loop complete
+[2026-03-22 16:02:57 UTC] ============================================================
+[2026-03-23 06:01:42 UTC] ============================================================
+[2026-03-23 06:01:42 UTC] AGENT 4: QUALITY MIRROR (MICRO — slot 1)
+[2026-03-23 06:01:42 UTC] ============================================================
+[2026-03-23 06:01:42 UTC] Micro: loaded manifest production_manifest_20260323_060037_slot1.json
+[2026-03-23 06:01:42 UTC] --- LOOP 6: Caption AB ---
+[2026-03-23 06:01:42 UTC]   Caption manifests with metadata: 0, with completion data: 0
+[2026-03-23 06:01:42 UTC]   Caption manifests with metadata: 0
+[2026-03-23 06:01:42 UTC] --- LOOP 7: Prompt Genome ---
+[2026-03-23 06:01:42 UTC]   Manifests with prompt_metadata: 1
+[2026-03-23 06:01:42 UTC] Micro Loop A error: 'NoneType' object is not subscriptable
+[2026-03-23 06:01:42 UTC] Timing: no audio alignment file for this slot
+[2026-03-23 06:01:42 UTC] Micro delta saved: micro_delta_20260323_060142_slot1.json
+[2026-03-23 06:01:42 UTC] ============================================================
+[2026-03-23 06:01:42 UTC] Quality Mirror micro-loop complete
+[2026-03-23 06:01:42 UTC] ============================================================
+[2026-03-23 08:32:27 UTC] ============================================================
+[2026-03-23 08:32:27 UTC] AGENT 4: QUALITY MIRROR (MICRO — slot 2)
+[2026-03-23 08:32:27 UTC] ============================================================
+[2026-03-23 08:32:27 UTC] Micro: loaded manifest production_manifest_20260323_083112_slot2.json
+[2026-03-23 08:32:27 UTC] --- LOOP 6: Caption AB ---
+[2026-03-23 08:32:27 UTC]   Caption manifests with metadata: 0, with completion data: 0
+[2026-03-23 08:32:27 UTC]   Caption manifests with metadata: 0
+[2026-03-23 08:32:27 UTC] --- LOOP 7: Prompt Genome ---
+[2026-03-23 08:32:27 UTC]   Manifests with prompt_metadata: 1
+[2026-03-23 08:32:27 UTC] Micro Loop A error: 'NoneType' object is not subscriptable
+[2026-03-23 08:32:27 UTC] Timing: no audio alignment file for this slot
+[2026-03-23 08:32:27 UTC] Micro delta saved: micro_delta_20260323_083227_slot2.json
+[2026-03-23 08:32:27 UTC] ============================================================
+[2026-03-23 08:32:27 UTC] Quality Mirror micro-loop complete
+[2026-03-23 08:32:27 UTC] ============================================================
+[2026-03-23 11:02:32 UTC] ============================================================
+[2026-03-23 11:02:32 UTC] AGENT 4: QUALITY MIRROR (MICRO — slot 3)
+[2026-03-23 11:02:32 UTC] ============================================================
+[2026-03-23 11:02:32 UTC] Micro: loaded manifest production_manifest_20260323_110122_slot3.json
+[2026-03-23 11:02:32 UTC] --- LOOP 6: Caption AB ---
+[2026-03-23 11:02:32 UTC]   Caption manifests with metadata: 0, with completion data: 0
+[2026-03-23 11:02:32 UTC]   Caption manifests with metadata: 0
+[2026-03-23 11:02:32 UTC] --- LOOP 7: Prompt Genome ---
+[2026-03-23 11:02:32 UTC]   Manifests with prompt_metadata: 1
+[2026-03-23 11:02:32 UTC] Micro Loop A error: 'NoneType' object is not subscriptable
+[2026-03-23 11:02:32 UTC] Timing: no audio alignment file for this slot
+[2026-03-23 11:02:32 UTC] Micro delta saved: micro_delta_20260323_110232_slot3.json
+[2026-03-23 11:02:32 UTC] ============================================================
+[2026-03-23 11:02:32 UTC] Quality Mirror micro-loop complete
+[2026-03-23 11:02:32 UTC] ============================================================
+[2026-03-23 13:32:45 UTC] ============================================================
+[2026-03-23 13:32:45 UTC] AGENT 4: QUALITY MIRROR (MICRO — slot 4)
+[2026-03-23 13:32:45 UTC] ============================================================
+[2026-03-23 13:32:45 UTC] Micro: loaded manifest production_manifest_20260323_133110_slot4.json
+[2026-03-23 13:32:45 UTC] --- LOOP 6: Caption AB ---
+[2026-03-23 13:32:45 UTC]   Caption manifests with metadata: 0, with completion data: 0
+[2026-03-23 13:32:45 UTC]   Caption manifests with metadata: 0
+[2026-03-23 13:32:45 UTC] --- LOOP 7: Prompt Genome ---
+[2026-03-23 13:32:45 UTC]   Manifests with prompt_metadata: 1
+[2026-03-23 13:32:45 UTC] Micro Loop A error: 'NoneType' object is not subscriptable
+[2026-03-23 13:32:45 UTC] Timing: no audio alignment file for this slot
+[2026-03-23 13:32:45 UTC] Micro delta saved: micro_delta_20260323_133245_slot4.json
+[2026-03-23 13:32:45 UTC] ============================================================
+[2026-03-23 13:32:45 UTC] Quality Mirror micro-loop complete
+[2026-03-23 13:32:45 UTC] ============================================================
+[2026-03-23 16:03:13 UTC] ============================================================
+[2026-03-23 16:03:13 UTC] AGENT 4: QUALITY MIRROR (MICRO — slot 5)
+[2026-03-23 16:03:13 UTC] ============================================================
+[2026-03-23 16:03:13 UTC] Micro: loaded manifest production_manifest_20260323_160116_slot5.json
+[2026-03-23 16:03:13 UTC] --- LOOP 6: Caption AB ---
+[2026-03-23 16:03:13 UTC]   Caption manifests with metadata: 0, with completion data: 0
+[2026-03-23 16:03:13 UTC]   Caption manifests with metadata: 0
+[2026-03-23 16:03:13 UTC] --- LOOP 7: Prompt Genome ---
+[2026-03-23 16:03:13 UTC]   Manifests with prompt_metadata: 1
+[2026-03-23 16:03:13 UTC] Micro Loop A error: 'NoneType' object is not subscriptable
+[2026-03-23 16:03:13 UTC] Timing: no audio alignment file for this slot
+[2026-03-23 16:03:13 UTC] Micro delta saved: micro_delta_20260323_160313_slot5.json
+[2026-03-23 16:03:13 UTC] ============================================================
+[2026-03-23 16:03:13 UTC] Quality Mirror micro-loop complete
+[2026-03-23 16:03:13 UTC] ============================================================
+[2026-03-23 22:30:00 UTC] ============================================================
+[2026-03-23 22:30:00 UTC] AGENT 4: QUALITY MIRROR
+[2026-03-23 22:30:00 UTC] ============================================================
+[2026-03-23 22:30:00 UTC] Loaded 34 production manifests (last 2d)
+[2026-03-23 22:30:00 UTC] Viral benchmarks: 12 videos
+[2026-03-23 22:30:00 UTC] Analytics: loaded 17 posts from platform_metrics.json (age 0.2h)
+[2026-03-23 22:30:00 UTC] --- LOOP 1: First Frame ---
+[2026-03-23 22:30:00 UTC]   Scoring 5 viral thumbnails...
+[2026-03-23 22:30:00 UTC]   Vision request failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZLoXSZD3yZyiqCDbCNcg'}
+[2026-03-23 22:30:00 UTC]   Vision request failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZLoXZUgdt2EVXgtBtQL1'}
+[2026-03-23 22:30:00 UTC]   Vision request failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZLoXfGByhmdGAH6gCWdk'}
+[2026-03-23 22:30:00 UTC]   Vision request failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZLoXs9ZYB3Y7THj4mJrR'}
+[2026-03-23 22:30:00 UTC]   Vision request failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZLoXycWC2qzjmoyV5wFV'}
+[2026-03-23 22:30:00 UTC]   Scoring 0 Harbinger frames...
+[2026-03-23 22:30:00 UTC]   Loop 1 complete — viral avg: 0.0, Harbinger avg: 0.0, gap: 0.0
+[2026-03-23 22:30:00 UTC] --- LOOP 2: Silence Geometry ---
+[2026-03-23 22:30:00 UTC] Loaded 56 production manifests (last 14d)
+[2026-03-23 22:30:00 UTC]   silence_geometry updated: {'after_intrusion': 450, 'after_mechanism': 250, 'before_move': 350}
+[2026-03-23 22:30:00 UTC]   Loop 2 complete — 56 manifests analysed, winners: ['after_intrusion', 'after_mechanism', 'before_move']
+[2026-03-23 22:30:00 UTC] --- LOOP 3: Sound Design A/B ---
+[2026-03-23 22:30:00 UTC] Loaded 56 production manifests (last 14d)
+[2026-03-23 22:30:00 UTC]   Evaluating sub_bass_db after 13 days...
+[2026-03-23 22:30:00 UTC]   sub_bass_db winner: -22dB -> moving to ambience_type test
+[2026-03-23 22:30:00 UTC]   Loop 3 complete — testing: ambience_type, days in stage: 13, locked: {'sub_bass_db': -22.0}
+[2026-03-23 22:30:00 UTC] --- LOOP 4: Visual Language ---
+[2026-03-23 22:30:00 UTC]   Scoring 0 Harbinger Kling frames...
+[2026-03-23 22:30:00 UTC]   Scoring 3 viral frames...
+[2026-03-23 22:30:00 UTC]   Vision request failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZLoY5k6khuK92FJ6e8tB'}
+[2026-03-23 22:30:00 UTC]   Vision request failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZLoYBZbKk4Z8HNMBChNL'}
+[2026-03-23 22:30:00 UTC]   Vision request failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZLoYHUncyC9mC7LrCrDy'}
+[2026-03-23 22:30:00 UTC]   Loop 4 complete — mean captured score: 0.0, failing elements: 0
+[2026-03-23 22:30:00 UTC] --- LOOP 5: Acoustic Space ---
+[2026-03-23 22:30:00 UTC] Loaded 56 production manifests (last 14d)
+[2026-03-23 22:30:00 UTC]   Profile means: {'medium': 38.0}
+[2026-03-23 22:30:00 UTC]   Loop 5 complete — winner: None, profiles analysed: ['medium']
+[2026-03-23 22:30:00 UTC] --- LOOP 6: Caption AB ---
+[2026-03-23 22:30:00 UTC]   Caption manifests with metadata: 0, with completion data: 0
+[2026-03-23 22:30:00 UTC]   Caption manifests with metadata: 0
+[2026-03-23 22:30:00 UTC] --- LOOP 7: Prompt Genome ---
+[2026-03-23 22:30:00 UTC]   Manifests with prompt_metadata: 34
+[2026-03-23 22:30:00 UTC] --- LOOP 8: Trust Signal Scorer ---
+[2026-03-23 22:30:00 UTC]   TRUST REVIEW flag: creative_brief_20260323_210206_slot7 score=4.3
+[2026-03-23 22:30:00 UTC]   TRUST REVIEW flag: creative_brief_20260323_210128_slot7 score=4.3
+[2026-03-23 22:30:00 UTC]   TRUST REVIEW flag: creative_brief_20260323_183106_slot6 score=4.3
+[2026-03-23 22:30:00 UTC]   TRUST REVIEW flag: creative_brief_20260323_183033_slot6 score=4.3
+[2026-03-23 22:30:00 UTC]   TRUST REVIEW flag: creative_brief_20260323_160115_slot5 score=4.3
+[2026-03-23 22:30:00 UTC]   TRUST REVIEW flag: creative_brief_20260323_160038_slot5 score=4.3
+[2026-03-23 22:30:00 UTC]   TRUST REVIEW flag: creative_brief_20260323_133109_slot4 score=4.3
+[2026-03-23 22:30:00 UTC]   TRUST REVIEW flag: creative_brief_20260323_133033_slot4 score=4.3
+[2026-03-23 22:30:00 UTC]   TRUST REVIEW flag: creative_brief_20260323_110121_slot3 score=4.3
+[2026-03-23 22:30:00 UTC]   TRUST REVIEW flag: creative_brief_20260323_110045_slot3 score=4.3
+[2026-03-23 22:30:00 UTC]   TRUST REVIEW flag: creative_brief_20260323_083111_slot2 score=4.3
+[2026-03-23 22:30:00 UTC]   TRUST REVIEW flag: creative_brief_20260323_083034_slot2 score=4.3
+[2026-03-23 22:30:00 UTC]   TRUST REVIEW flag: creative_brief_20260323_060035_slot1 score=4.3
+[2026-03-23 22:30:00 UTC]   TRUST REVIEW flag: creative_brief_20260323_060000_slot1 score=4.3
+[2026-03-23 22:30:00 UTC]   TRUST REVIEW flag: creative_brief_20260323_022824_slot8 score=4.3
+[2026-03-23 22:30:00 UTC]   TRUST REVIEW flag: creative_brief_20260323_022524_slot7 score=4.3
+[2026-03-23 22:30:00 UTC]   TRUST REVIEW flag: creative_brief_20260323_022233_slot6 score=4.3
+[2026-03-23 22:30:00 UTC]   TRUST REVIEW flag: creative_brief_20260323_022026_slot5 score=4.3
+[2026-03-23 22:30:00 UTC]   TRUST REVIEW flag: creative_brief_20260323_022025_slot5 score=4.3
+[2026-03-23 22:30:00 UTC]   TRUST REVIEW flag: creative_brief_20260323_021812_slot4 score=4.3
+[2026-03-23 22:30:00 UTC]   Loop 8 complete — scored=20, avg=4.3, retry_flags=0, review_flags=20, retired=0
+[2026-03-23 22:30:00 UTC]   Loop B nightly: avg chain score=5.7, rewrite rate=55%
+[2026-03-23 22:30:00 UTC]   Worst links: [('mechanism_specificity', 5.6), ('affiliate_as_conclusion', 6.1)]
+[2026-03-23 22:30:00 UTC]   Loop B nightly: 1 structural directives written to creative_directives
+[2026-03-23 22:30:00 UTC] creative_directives.json updated: ['sound_profile', 'instructions']
+[2026-03-23 22:30:00 UTC] Delta report saved: delta_report_2026-03-23.json
+[2026-03-23 22:30:00 UTC] ============================================================
+[2026-03-23 22:30:00 UTC] Quality Mirror complete. Loops run: 9/9. Directives changed: ['sound_profile', 'instructions']
+[2026-03-23 22:30:00 UTC] ============================================================
+[2026-03-24 11:47:14 UTC] ============================================================
+[2026-03-24 11:47:14 UTC] AGENT 4: QUALITY MIRROR (MICRO — slot 3)
+[2026-03-24 11:47:14 UTC] ============================================================
+[2026-03-24 11:47:14 UTC] Micro: loaded manifest production_manifest_20260324_111546_slot3.json
+[2026-03-24 11:47:14 UTC] --- LOOP 6: Caption AB ---
+[2026-03-24 11:47:14 UTC]   Caption manifests with metadata: 0, with completion data: 0
+[2026-03-24 11:47:14 UTC]   Caption manifests with metadata: 0
+[2026-03-24 11:47:14 UTC] --- LOOP 7: Prompt Genome ---
+[2026-03-24 11:47:14 UTC]   Manifests with prompt_metadata: 1
+[2026-03-24 11:47:14 UTC] Micro Loop A error: 'NoneType' object is not subscriptable
+[2026-03-24 11:47:14 UTC] Timing: no audio alignment file for this slot
+[2026-03-24 11:47:14 UTC] Micro delta saved: micro_delta_20260324_114714_slot3.json
+[2026-03-24 11:47:14 UTC] ============================================================
+[2026-03-24 11:47:14 UTC] Quality Mirror micro-loop complete
+[2026-03-24 11:47:14 UTC] ============================================================
+[2026-03-24 13:32:07 UTC] ============================================================
+[2026-03-24 13:32:07 UTC] AGENT 4: QUALITY MIRROR (MICRO — slot 4)
+[2026-03-24 13:32:07 UTC] ============================================================
+[2026-03-24 13:32:07 UTC] Micro: loaded manifest production_manifest_20260324_133045_slot4.json
+[2026-03-24 13:32:07 UTC] --- LOOP 6: Caption AB ---
+[2026-03-24 13:32:07 UTC]   Caption manifests with metadata: 0, with completion data: 0
+[2026-03-24 13:32:07 UTC]   Caption manifests with metadata: 0
+[2026-03-24 13:32:07 UTC] --- LOOP 7: Prompt Genome ---
+[2026-03-24 13:32:07 UTC]   Manifests with prompt_metadata: 1
+[2026-03-24 13:32:07 UTC] Micro Loop A error: 'NoneType' object is not subscriptable
+[2026-03-24 13:32:07 UTC] Timing: no audio alignment file for this slot
+[2026-03-24 13:32:07 UTC] Micro delta saved: micro_delta_20260324_133207_slot4.json
+[2026-03-24 13:32:07 UTC] ============================================================
+[2026-03-24 13:32:07 UTC] Quality Mirror micro-loop complete
+[2026-03-24 13:32:07 UTC] ============================================================
+[2026-03-24 16:03:14 UTC] ============================================================
+[2026-03-24 16:03:14 UTC] AGENT 4: QUALITY MIRROR (MICRO — slot 5)
+[2026-03-24 16:03:14 UTC] ============================================================
+[2026-03-24 16:03:14 UTC] Micro: loaded manifest production_manifest_20260324_160046_slot5.json
+[2026-03-24 16:03:14 UTC] --- LOOP 6: Caption AB ---
+[2026-03-24 16:03:14 UTC]   Caption manifests with metadata: 0, with completion data: 0
+[2026-03-24 16:03:14 UTC]   Caption manifests with metadata: 0
+[2026-03-24 16:03:14 UTC] --- LOOP 7: Prompt Genome ---
+[2026-03-24 16:03:14 UTC]   Manifests with prompt_metadata: 1
+[2026-03-24 16:03:14 UTC] Micro Loop A error: 'NoneType' object is not subscriptable
+[2026-03-24 16:03:14 UTC] Timing: no audio alignment file for this slot
+[2026-03-24 16:03:14 UTC] Micro delta saved: micro_delta_20260324_160314_slot5.json
+[2026-03-24 16:03:14 UTC] ============================================================
+[2026-03-24 16:03:14 UTC] Quality Mirror micro-loop complete
+[2026-03-24 16:03:14 UTC] ============================================================
+[2026-03-24 22:30:01 UTC] ============================================================
+[2026-03-24 22:30:01 UTC] AGENT 4: QUALITY MIRROR
+[2026-03-24 22:30:01 UTC] ============================================================
+[2026-03-24 22:30:01 UTC] Loaded 20 production manifests (last 2d)
+[2026-03-24 22:30:01 UTC] Viral benchmarks: 10 videos
+[2026-03-24 22:30:01 UTC] Analytics: platform_metrics.json is 24.2h old — refreshing
+[2026-03-24 22:30:01 UTC] Analytics: running platform_metrics scraper inline...
+[2026-03-24 22:30:01 UTC] Analytics: scraper returned 17 matched posts
+[2026-03-24 22:30:01 UTC] --- LOOP 1: First Frame ---
+[2026-03-24 22:30:01 UTC]   Scoring 5 viral thumbnails...
+[2026-03-24 22:30:01 UTC]   Vision request failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZNjigK3PjSEZLeJQbzgP'}
+[2026-03-24 22:30:01 UTC]   Vision request failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZNjio75VfZFeUcGnAace'}
+[2026-03-24 22:30:01 UTC]   Vision request failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZNjiu12nZFfjuX13A97N'}
+[2026-03-24 22:30:01 UTC]   Vision request failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZNjizszgaFoaXw66a2eU'}
+[2026-03-24 22:30:01 UTC]   Vision request failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZNjj6owXBnjJVbkKVuFG'}
+[2026-03-24 22:30:01 UTC]   Scoring 0 Harbinger frames...
+[2026-03-24 22:30:01 UTC]   Loop 1 complete — viral avg: 0.0, Harbinger avg: 0.0, gap: 0.0
+[2026-03-24 22:30:01 UTC] --- LOOP 2: Silence Geometry ---
+[2026-03-24 22:30:01 UTC] Loaded 61 production manifests (last 14d)
+[2026-03-24 22:30:01 UTC]   silence_geometry updated: {'after_intrusion': 450, 'after_mechanism': 250, 'before_move': 350}
+[2026-03-24 22:30:01 UTC]   Loop 2 complete — 61 manifests analysed, winners: ['after_intrusion', 'after_mechanism', 'before_move']
+[2026-03-24 22:30:01 UTC] --- LOOP 3: Sound Design A/B ---
+[2026-03-24 22:30:01 UTC] Loaded 61 production manifests (last 14d)
+[2026-03-24 22:30:01 UTC]   Loop 3 complete — testing: ambience_type, days in stage: 1, locked: {'sub_bass_db': -22.0}
+[2026-03-24 22:30:01 UTC] --- LOOP 4: Visual Language ---
+[2026-03-24 22:30:01 UTC]   Scoring 0 Harbinger Kling frames...
+[2026-03-24 22:30:01 UTC]   Scoring 3 viral frames...
+[2026-03-24 22:30:01 UTC]   Vision request failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZNjjDBvBKhHUiGhVPv4D'}
+[2026-03-24 22:30:01 UTC]   Vision request failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZNjjJkHaj3AmA2dH872Q'}
+[2026-03-24 22:30:01 UTC]   Vision request failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZNjjQnvaHNeP7ZHaquFp'}
+[2026-03-24 22:30:01 UTC]   Loop 4 complete — mean captured score: 0.0, failing elements: 0
+[2026-03-24 22:30:01 UTC] --- LOOP 5: Acoustic Space ---
+[2026-03-24 22:30:01 UTC] Loaded 61 production manifests (last 14d)
+[2026-03-24 22:30:01 UTC]   Profile means: {'medium': 38.0}
+[2026-03-24 22:30:01 UTC]   Loop 5 complete — winner: None, profiles analysed: ['medium']
+[2026-03-24 22:30:01 UTC] --- LOOP 6: Caption AB ---
+[2026-03-24 22:30:01 UTC]   Caption manifests with metadata: 0, with completion data: 0
+[2026-03-24 22:30:01 UTC]   Caption manifests with metadata: 0
+[2026-03-24 22:30:01 UTC] --- LOOP 7: Prompt Genome ---
+[2026-03-24 22:30:01 UTC]   Manifests with prompt_metadata: 20
+[2026-03-24 22:30:01 UTC] --- LOOP 8: Trust Signal Scorer ---
+[2026-03-24 22:30:01 UTC]   TRUST REVIEW flag: creative_brief_20260324_210039_slot7 score=4.3
+[2026-03-24 22:30:01 UTC]   TRUST REVIEW flag: creative_brief_20260324_210035_slot7 score=4.3
+[2026-03-24 22:30:01 UTC]   TRUST REVIEW flag: creative_brief_20260324_183029_slot6 score=4.3
+[2026-03-24 22:30:01 UTC]   TRUST REVIEW flag: creative_brief_20260324_183027_slot6 score=4.3
+[2026-03-24 22:30:01 UTC]   TRUST REVIEW flag: creative_brief_20260324_160029_slot5 score=4.3
+[2026-03-24 22:30:01 UTC]   TRUST REVIEW flag: creative_brief_20260324_160027_slot5 score=4.3
+[2026-03-24 22:30:01 UTC]   TRUST REVIEW flag: creative_brief_20260324_133028_slot4 score=4.3
+[2026-03-24 22:30:01 UTC]   TRUST REVIEW flag: creative_brief_20260324_133026_slot4 score=4.3
+[2026-03-24 22:30:01 UTC]   TRUST REVIEW flag: creative_brief_20260324_111529_slot3 score=4.3
+[2026-03-24 22:30:01 UTC]   TRUST REVIEW flag: creative_brief_20260324_111526_slot3 score=4.3
+[2026-03-24 22:30:01 UTC]   TRUST REVIEW flag: creative_brief_20260323_210206_slot7 score=4.3
+[2026-03-24 22:30:01 UTC]   TRUST REVIEW flag: creative_brief_20260323_210128_slot7 score=4.3
+[2026-03-24 22:30:01 UTC]   TRUST REVIEW flag: creative_brief_20260323_183106_slot6 score=4.3
+[2026-03-24 22:30:01 UTC]   TRUST REVIEW flag: creative_brief_20260323_183033_slot6 score=4.3
+[2026-03-24 22:30:01 UTC]   TRUST REVIEW flag: creative_brief_20260323_160115_slot5 score=4.3
+[2026-03-24 22:30:01 UTC]   TRUST REVIEW flag: creative_brief_20260323_160038_slot5 score=4.3
+[2026-03-24 22:30:01 UTC]   TRUST REVIEW flag: creative_brief_20260323_133109_slot4 score=4.3
+[2026-03-24 22:30:01 UTC]   TRUST REVIEW flag: creative_brief_20260323_133033_slot4 score=4.3
+[2026-03-24 22:30:01 UTC]   TRUST REVIEW flag: creative_brief_20260323_110121_slot3 score=4.3
+[2026-03-24 22:30:01 UTC]   TRUST REVIEW flag: creative_brief_20260323_110045_slot3 score=4.3
+[2026-03-24 22:30:01 UTC]   Loop 8 complete — scored=20, avg=4.3, retry_flags=0, review_flags=20, retired=0
+[2026-03-24 22:30:01 UTC]   Loop B nightly: avg chain score=5.3, rewrite rate=80%
+[2026-03-24 22:30:01 UTC]   Worst links: [('mechanism_specificity', 5.4), ('affiliate_as_conclusion', 5.8)]
+[2026-03-24 22:30:01 UTC]   Loop B nightly: 2 structural directives written to creative_directives
+[2026-03-24 22:30:01 UTC] creative_directives.json updated: ['instructions']
+[2026-03-24 22:30:01 UTC] Delta report saved: delta_report_2026-03-24.json
+[2026-03-24 22:30:01 UTC] ============================================================
+[2026-03-24 22:30:01 UTC] Quality Mirror complete. Loops run: 9/9. Directives changed: ['instructions']
+[2026-03-24 22:30:01 UTC] ============================================================
+[2026-03-25 13:32:22 UTC] ============================================================
+[2026-03-25 13:32:22 UTC] AGENT 4: QUALITY MIRROR (MICRO — slot 4)
+[2026-03-25 13:32:22 UTC] ============================================================
+[2026-03-25 13:32:22 UTC] Micro: loaded manifest production_manifest_20260325_133107_slot4.json
+[2026-03-25 13:32:22 UTC] --- LOOP 6: Caption AB ---
+[2026-03-25 13:32:22 UTC]   Caption manifests with metadata: 0, with completion data: 0
+[2026-03-25 13:32:22 UTC]   Caption manifests with metadata: 0
+[2026-03-25 13:32:22 UTC] --- LOOP 7: Prompt Genome ---
+[2026-03-25 13:32:22 UTC]   Manifests with prompt_metadata: 1
+[2026-03-25 13:32:22 UTC] Micro Loop A error: 'NoneType' object is not subscriptable
+[2026-03-25 13:32:22 UTC] Timing: no audio alignment file for this slot
+[2026-03-25 13:32:22 UTC] Micro delta saved: micro_delta_20260325_133222_slot4.json
+[2026-03-25 13:32:22 UTC] ============================================================
+[2026-03-25 13:32:22 UTC] Quality Mirror micro-loop complete
+[2026-03-25 13:32:22 UTC] ============================================================
+[2026-03-25 16:02:16 UTC] ============================================================
+[2026-03-25 16:02:16 UTC] AGENT 4: QUALITY MIRROR (MICRO — slot 5)
+[2026-03-25 16:02:16 UTC] ============================================================
+[2026-03-25 16:02:16 UTC] Micro: loaded manifest production_manifest_20260325_160056_slot5.json
+[2026-03-25 16:02:16 UTC] --- LOOP 6: Caption AB ---
+[2026-03-25 16:02:16 UTC]   Caption manifests with metadata: 0, with completion data: 0
+[2026-03-25 16:02:16 UTC]   Caption manifests with metadata: 0
+[2026-03-25 16:02:16 UTC] --- LOOP 7: Prompt Genome ---
+[2026-03-25 16:02:16 UTC]   Manifests with prompt_metadata: 1
+[2026-03-25 16:02:16 UTC] Micro Loop A error: 'NoneType' object is not subscriptable
+[2026-03-25 16:02:16 UTC] Timing: no audio alignment file for this slot
+[2026-03-25 16:02:16 UTC] Micro delta saved: micro_delta_20260325_160216_slot5.json
+[2026-03-25 16:02:16 UTC] ============================================================
+[2026-03-25 16:02:16 UTC] Quality Mirror micro-loop complete
+[2026-03-25 16:02:16 UTC] ============================================================
+[2026-03-25 22:30:00 UTC] ============================================================
+[2026-03-25 22:30:00 UTC] AGENT 4: QUALITY MIRROR
+[2026-03-25 22:30:00 UTC] ============================================================
+[2026-03-25 22:30:00 UTC] Loaded 9 production manifests (last 2d)
+[2026-03-25 22:30:00 UTC] Viral benchmarks: 10 videos
+[2026-03-25 22:30:00 UTC] Analytics: loaded 17 posts from platform_metrics.json (age 0.2h)
+[2026-03-25 22:30:00 UTC] --- LOOP 1: First Frame ---
+[2026-03-25 22:30:00 UTC]   Scoring 5 viral thumbnails...
+[2026-03-25 22:30:00 UTC]   Vision request failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZQb9EnYCHshC4jGUZziW'}
+[2026-03-25 22:30:00 UTC]   Vision request failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZQb9M1Lva9BYVRRzmPZ6'}
+[2026-03-25 22:30:00 UTC]   Vision request failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZQb9Scgjq6AJ4hEaNMEy'}
+[2026-03-25 22:30:00 UTC]   Vision request failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZQb9Yk38aJb54GTKerev'}
+[2026-03-25 22:30:00 UTC]   Vision request failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZQb9eezEZN9nuSs8kbGS'}
+[2026-03-25 22:30:00 UTC]   Scoring 0 Harbinger frames...
+[2026-03-25 22:30:00 UTC]   Loop 1 complete — viral avg: 0.0, Harbinger avg: 0.0, gap: 0.0
+[2026-03-25 22:30:00 UTC] --- LOOP 2: Silence Geometry ---
+[2026-03-25 22:30:00 UTC] Loaded 65 production manifests (last 14d)
+[2026-03-25 22:30:00 UTC]   silence_geometry updated: {'after_intrusion': 450, 'after_mechanism': 250, 'before_move': 350}
+[2026-03-25 22:30:00 UTC]   Loop 2 complete — 65 manifests analysed, winners: ['after_intrusion', 'after_mechanism', 'before_move']
+[2026-03-25 22:30:00 UTC] --- LOOP 3: Sound Design A/B ---
+[2026-03-25 22:30:00 UTC] Loaded 65 production manifests (last 14d)
+[2026-03-25 22:30:00 UTC]   Loop 3 complete — testing: ambience_type, days in stage: 2, locked: {'sub_bass_db': -22.0}
+[2026-03-25 22:30:00 UTC] --- LOOP 4: Visual Language ---
+[2026-03-25 22:30:00 UTC]   Scoring 0 Harbinger Kling frames...
+[2026-03-25 22:30:00 UTC]   Scoring 3 viral frames...
+[2026-03-25 22:30:00 UTC]   Vision request failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZQb9kavbwpYUTezJ3iiq'}
+[2026-03-25 22:30:00 UTC]   Vision request failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZQb9r1Me3G1n5L2KtQz7'}
+[2026-03-25 22:30:00 UTC]   Vision request failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZQb9wupCU21iSxem36u8'}
+[2026-03-25 22:30:00 UTC]   Loop 4 complete — mean captured score: 0.0, failing elements: 0
+[2026-03-25 22:30:00 UTC] --- LOOP 5: Acoustic Space ---
+[2026-03-25 22:30:00 UTC] Loaded 65 production manifests (last 14d)
+[2026-03-25 22:30:00 UTC]   Profile means: {'medium': 37.0}
+[2026-03-25 22:30:00 UTC]   Loop 5 complete — winner: None, profiles analysed: ['medium']
+[2026-03-25 22:30:00 UTC] --- LOOP 6: Caption AB ---
+[2026-03-25 22:30:00 UTC]   Caption manifests with metadata: 0, with completion data: 0
+[2026-03-25 22:30:00 UTC]   Caption manifests with metadata: 0
+[2026-03-25 22:30:00 UTC] --- LOOP 7: Prompt Genome ---
+[2026-03-25 22:30:00 UTC]   Manifests with prompt_metadata: 9
+[2026-03-25 22:30:00 UTC] --- LOOP 8: Trust Signal Scorer ---
+[2026-03-25 22:30:00 UTC]   TRUST REVIEW flag: creative_brief_20260325_210042_slot7 score=4.3
+[2026-03-25 22:30:00 UTC]   TRUST REVIEW flag: creative_brief_20260325_210039_slot7 score=4.3
+[2026-03-25 22:30:00 UTC]   TRUST REVIEW flag: creative_brief_20260325_183031_slot6 score=4.3
+[2026-03-25 22:30:00 UTC]   TRUST REVIEW flag: creative_brief_20260325_183028_slot6 score=4.3
+[2026-03-25 22:30:00 UTC]   TRUST REVIEW flag: creative_brief_20260325_160040_slot5 score=4.3
+[2026-03-25 22:30:00 UTC]   TRUST REVIEW flag: creative_brief_20260325_160037_slot5 score=4.3
+[2026-03-25 22:30:00 UTC]   TRUST REVIEW flag: creative_brief_20260325_133049_slot4 score=4.3
+[2026-03-25 22:30:00 UTC]   TRUST REVIEW flag: creative_brief_20260325_133044_slot4 score=4.3
+[2026-03-25 22:30:00 UTC]   TRUST REVIEW flag: creative_brief_20260324_210039_slot7 score=4.3
+[2026-03-25 22:30:00 UTC]   TRUST REVIEW flag: creative_brief_20260324_210035_slot7 score=4.3
+[2026-03-25 22:30:00 UTC]   TRUST REVIEW flag: creative_brief_20260324_183029_slot6 score=4.3
+[2026-03-25 22:30:00 UTC]   TRUST REVIEW flag: creative_brief_20260324_183027_slot6 score=4.3
+[2026-03-25 22:30:00 UTC]   TRUST REVIEW flag: creative_brief_20260324_160029_slot5 score=4.3
+[2026-03-25 22:30:00 UTC]   TRUST REVIEW flag: creative_brief_20260324_160027_slot5 score=4.3
+[2026-03-25 22:30:00 UTC]   TRUST REVIEW flag: creative_brief_20260324_133028_slot4 score=4.3
+[2026-03-25 22:30:00 UTC]   TRUST REVIEW flag: creative_brief_20260324_133026_slot4 score=4.3
+[2026-03-25 22:30:00 UTC]   TRUST REVIEW flag: creative_brief_20260324_111529_slot3 score=4.3
+[2026-03-25 22:30:00 UTC]   TRUST REVIEW flag: creative_brief_20260324_111526_slot3 score=4.3
+[2026-03-25 22:30:00 UTC]   TRUST REVIEW flag: creative_brief_20260323_210206_slot7 score=4.3
+[2026-03-25 22:30:00 UTC]   TRUST REVIEW flag: creative_brief_20260323_210128_slot7 score=4.3
+[2026-03-25 22:30:00 UTC]   Loop 8 complete — scored=20, avg=4.3, retry_flags=0, review_flags=20, retired=0
+[2026-03-25 22:30:00 UTC]   Loop B nightly: avg chain score=5.0, rewrite rate=100%
+[2026-03-25 22:30:00 UTC]   Worst links: [('mechanism_specificity', 5.2), ('affiliate_as_conclusion', 5.7)]
+[2026-03-25 22:30:00 UTC]   Loop B nightly: 2 structural directives written to creative_directives
+[2026-03-25 22:30:00 UTC] creative_directives.json updated: ['instructions']
+[2026-03-25 22:30:00 UTC] Delta report saved: delta_report_2026-03-25.json
+[2026-03-25 22:30:00 UTC] ============================================================
+[2026-03-25 22:30:00 UTC] Quality Mirror complete. Loops run: 9/9. Directives changed: ['instructions']
+[2026-03-25 22:30:00 UTC] ============================================================
+[2026-03-26 16:03:11 UTC] ============================================================
+[2026-03-26 16:03:11 UTC] AGENT 4: QUALITY MIRROR (MICRO — slot 5)
+[2026-03-26 16:03:11 UTC] ============================================================
+[2026-03-26 16:03:11 UTC] Micro: loaded manifest production_manifest_20260326_160109_slot5.json
+[2026-03-26 16:03:11 UTC] --- LOOP 6: Caption AB ---
+[2026-03-26 16:03:11 UTC]   Caption manifests with metadata: 0, with completion data: 0
+[2026-03-26 16:03:11 UTC]   Caption manifests with metadata: 0
+[2026-03-26 16:03:11 UTC] --- LOOP 7: Prompt Genome ---
+[2026-03-26 16:03:11 UTC]   Manifests with prompt_metadata: 1
+[2026-03-26 16:03:11 UTC] Micro Loop A error: 'NoneType' object is not subscriptable
+[2026-03-26 16:03:11 UTC] Timing: no audio alignment file for this slot
+[2026-03-26 16:03:11 UTC] Micro delta saved: micro_delta_20260326_160311_slot5.json
+[2026-03-26 16:03:11 UTC] ============================================================
+[2026-03-26 16:03:11 UTC] Quality Mirror micro-loop complete
+[2026-03-26 16:03:11 UTC] ============================================================
+[2026-03-26 22:30:00 UTC] ============================================================
+[2026-03-26 22:30:00 UTC] AGENT 4: QUALITY MIRROR
+[2026-03-26 22:30:00 UTC] ============================================================
+[2026-03-26 22:30:00 UTC] Loaded 7 production manifests (last 2d)
+[2026-03-26 22:30:00 UTC] Viral benchmarks: 14 videos
+[2026-03-26 22:30:00 UTC] Analytics: loaded 11 posts from platform_metrics.json (age 0.2h)
+[2026-03-26 22:30:00 UTC] --- LOOP 1: First Frame ---
+[2026-03-26 22:30:00 UTC]   Scoring 5 viral thumbnails...
+[2026-03-26 22:30:00 UTC]   Vision request failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZSUxCMwUAg6AAZormSA9'}
+[2026-03-26 22:30:00 UTC]   Vision request failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZSUxK42QgHnDYeMpUE6z'}
+[2026-03-26 22:30:00 UTC]   Vision request failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZSUxRQWZGKJsQnUSKJs2'}
+[2026-03-26 22:30:00 UTC]   Vision request failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZSUxWxswVz2qiohByN3Y'}
+[2026-03-26 22:30:00 UTC]   Vision request failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZSUxcxnXjsAAbRrTrdNZ'}
+[2026-03-26 22:30:00 UTC]   Scoring 0 Harbinger frames...
+[2026-03-26 22:30:00 UTC]   Loop 1 complete — viral avg: 0.0, Harbinger avg: 0.0, gap: 0.0
+[2026-03-26 22:30:00 UTC] --- LOOP 2: Silence Geometry ---
+[2026-03-26 22:30:00 UTC] Loaded 61 production manifests (last 14d)
+[2026-03-26 22:30:00 UTC]   silence_geometry updated: {'after_intrusion': 450, 'after_mechanism': 250, 'before_move': 350}
+[2026-03-26 22:30:00 UTC]   Loop 2 complete — 61 manifests analysed, winners: ['after_intrusion', 'after_mechanism', 'before_move']
+[2026-03-26 22:30:00 UTC] --- LOOP 3: Sound Design A/B ---
+[2026-03-26 22:30:00 UTC] Loaded 61 production manifests (last 14d)
+[2026-03-26 22:30:00 UTC]   Loop 3 complete — testing: ambience_type, days in stage: 3, locked: {'sub_bass_db': -22.0}
+[2026-03-26 22:30:00 UTC] --- LOOP 4: Visual Language ---
+[2026-03-26 22:30:00 UTC]   Scoring 0 Harbinger Kling frames...
+[2026-03-26 22:30:00 UTC]   Scoring 3 viral frames...
+[2026-03-26 22:30:00 UTC]   Vision request failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZSUxjKHKEvL9kL6XHHxJ'}
+[2026-03-26 22:30:00 UTC]   Vision request failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZSUxqCk6nkpq2vkRo93L'}
+[2026-03-26 22:30:00 UTC]   Vision request failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZSUxvz1JEbHuWryYekSL'}
+[2026-03-26 22:30:00 UTC]   Loop 4 complete — mean captured score: 0.0, failing elements: 0
+[2026-03-26 22:30:00 UTC] --- LOOP 5: Acoustic Space ---
+[2026-03-26 22:30:00 UTC] Loaded 61 production manifests (last 14d)
+[2026-03-26 22:30:00 UTC]   Profile means: {'medium': 41.0}
+[2026-03-26 22:30:00 UTC]   Loop 5 complete — winner: None, profiles analysed: ['medium']
+[2026-03-26 22:30:00 UTC] --- LOOP 6: Caption AB ---
+[2026-03-26 22:30:00 UTC]   Caption manifests with metadata: 0, with completion data: 0
+[2026-03-26 22:30:00 UTC]   Caption manifests with metadata: 0
+[2026-03-26 22:30:00 UTC] --- LOOP 7: Prompt Genome ---
+[2026-03-26 22:30:00 UTC]   Manifests with prompt_metadata: 7
+[2026-03-26 22:30:00 UTC] --- LOOP 8: Trust Signal Scorer ---
+[2026-03-26 22:30:00 UTC]   TRUST REVIEW flag: creative_brief_20260326_210037_slot7 score=4.3
+[2026-03-26 22:30:00 UTC]   TRUST REVIEW flag: creative_brief_20260326_210033_slot7 score=4.3
+[2026-03-26 22:30:00 UTC]   TRUST REVIEW flag: creative_brief_20260326_183031_slot6 score=4.3
+[2026-03-26 22:30:00 UTC]   TRUST REVIEW flag: creative_brief_20260326_183028_slot6 score=4.3
+[2026-03-26 22:30:00 UTC]   TRUST REVIEW flag: creative_brief_20260326_160052_slot5 score=4.3
+[2026-03-26 22:30:00 UTC]   TRUST REVIEW flag: creative_brief_20260326_160049_slot5 score=4.3
+[2026-03-26 22:30:00 UTC]   TRUST REVIEW flag: creative_brief_20260325_210042_slot7 score=4.3
+[2026-03-26 22:30:00 UTC]   TRUST REVIEW flag: creative_brief_20260325_210039_slot7 score=4.3
+[2026-03-26 22:30:00 UTC]   TRUST REVIEW flag: creative_brief_20260325_183031_slot6 score=4.3
+[2026-03-26 22:30:00 UTC]   TRUST REVIEW flag: creative_brief_20260325_183028_slot6 score=4.3
+[2026-03-26 22:30:00 UTC]   TRUST REVIEW flag: creative_brief_20260325_160040_slot5 score=4.3
+[2026-03-26 22:30:00 UTC]   TRUST REVIEW flag: creative_brief_20260325_160037_slot5 score=4.3
+[2026-03-26 22:30:00 UTC]   TRUST REVIEW flag: creative_brief_20260325_133049_slot4 score=4.3
+[2026-03-26 22:30:00 UTC]   TRUST REVIEW flag: creative_brief_20260325_133044_slot4 score=4.3
+[2026-03-26 22:30:00 UTC]   TRUST REVIEW flag: creative_brief_20260324_210039_slot7 score=4.3
+[2026-03-26 22:30:00 UTC]   TRUST REVIEW flag: creative_brief_20260324_210035_slot7 score=4.3
+[2026-03-26 22:30:00 UTC]   TRUST REVIEW flag: creative_brief_20260324_183029_slot6 score=4.3
+[2026-03-26 22:30:00 UTC]   TRUST REVIEW flag: creative_brief_20260324_183027_slot6 score=4.3
+[2026-03-26 22:30:00 UTC]   TRUST REVIEW flag: creative_brief_20260324_160029_slot5 score=4.3
+[2026-03-26 22:30:00 UTC]   TRUST REVIEW flag: creative_brief_20260324_160027_slot5 score=4.3
+[2026-03-26 22:30:00 UTC]   Loop 8 complete — scored=20, avg=4.3, retry_flags=0, review_flags=20, retired=0
+[2026-03-26 22:30:00 UTC]   Loop B nightly: avg chain score=5.0, rewrite rate=100%
+[2026-03-26 22:30:00 UTC]   Worst links: [('mechanism_specificity', 5.1), ('affiliate_as_conclusion', 5.4)]
+[2026-03-26 22:30:00 UTC]   Loop B nightly: 2 structural directives written to creative_directives
+[2026-03-26 22:30:00 UTC] creative_directives.json updated: ['instructions']
+[2026-03-26 22:30:00 UTC] Delta report saved: delta_report_2026-03-26.json
+[2026-03-26 22:30:00 UTC] ============================================================
+[2026-03-26 22:30:00 UTC] Quality Mirror complete. Loops run: 9/9. Directives changed: ['instructions']
+[2026-03-26 22:30:00 UTC] ============================================================
+[2026-03-27 06:01:54 UTC] ============================================================
+[2026-03-27 06:01:54 UTC] AGENT 4: QUALITY MIRROR (MICRO — slot 1)
+[2026-03-27 06:01:54 UTC] ============================================================
+[2026-03-27 06:01:54 UTC] Micro: loaded manifest production_manifest_20260327_060020_slot1.json
+[2026-03-27 06:01:54 UTC] --- LOOP 6: Caption AB ---
+[2026-03-27 06:01:54 UTC]   Caption manifests with metadata: 0, with completion data: 0
+[2026-03-27 06:01:54 UTC]   Caption manifests with metadata: 0
+[2026-03-27 06:01:54 UTC] --- LOOP 7: Prompt Genome ---
+[2026-03-27 06:01:54 UTC]   Manifests with prompt_metadata: 1
+[2026-03-27 06:01:54 UTC] Micro Loop A error: 'NoneType' object is not subscriptable
+[2026-03-27 06:01:54 UTC] Timing: no audio alignment file for this slot
+[2026-03-27 06:01:54 UTC] Micro delta saved: micro_delta_20260327_060154_slot1.json
+[2026-03-27 06:01:54 UTC] ============================================================
+[2026-03-27 06:01:54 UTC] Quality Mirror micro-loop complete
+[2026-03-27 06:01:54 UTC] ============================================================
+[2026-03-27 08:31:47 UTC] ============================================================
+[2026-03-27 08:31:47 UTC] AGENT 4: QUALITY MIRROR (MICRO — slot 2)
+[2026-03-27 08:31:47 UTC] ============================================================
+[2026-03-27 08:31:47 UTC] Micro: loaded manifest production_manifest_20260327_083047_slot2.json
+[2026-03-27 08:31:47 UTC] --- LOOP 6: Caption AB ---
+[2026-03-27 08:31:47 UTC]   Caption manifests with metadata: 0, with completion data: 0
+[2026-03-27 08:31:47 UTC]   Caption manifests with metadata: 0
+[2026-03-27 08:31:47 UTC] --- LOOP 7: Prompt Genome ---
+[2026-03-27 08:31:47 UTC]   Manifests with prompt_metadata: 1
+[2026-03-27 08:31:47 UTC] Micro Loop A error: 'NoneType' object is not subscriptable
+[2026-03-27 08:31:47 UTC] Timing: no audio alignment file for this slot
+[2026-03-27 08:31:47 UTC] Micro delta saved: micro_delta_20260327_083147_slot2.json
+[2026-03-27 08:31:47 UTC] ============================================================
+[2026-03-27 08:31:47 UTC] Quality Mirror micro-loop complete
+[2026-03-27 08:31:47 UTC] ============================================================
+[2026-03-27 11:02:35 UTC] ============================================================
+[2026-03-27 11:02:35 UTC] AGENT 4: QUALITY MIRROR (MICRO — slot 3)
+[2026-03-27 11:02:35 UTC] ============================================================
+[2026-03-27 11:02:35 UTC] Micro: loaded manifest production_manifest_20260327_110115_slot3.json
+[2026-03-27 11:02:35 UTC] --- LOOP 6: Caption AB ---
+[2026-03-27 11:02:35 UTC]   Caption manifests with metadata: 0, with completion data: 0
+[2026-03-27 11:02:35 UTC]   Caption manifests with metadata: 0
+[2026-03-27 11:02:35 UTC] --- LOOP 7: Prompt Genome ---
+[2026-03-27 11:02:35 UTC]   Manifests with prompt_metadata: 1
+[2026-03-27 11:02:35 UTC] Micro Loop A error: 'NoneType' object is not subscriptable
+[2026-03-27 11:02:35 UTC] Timing: no audio alignment file for this slot
+[2026-03-27 11:02:35 UTC] Micro delta saved: micro_delta_20260327_110235_slot3.json
+[2026-03-27 11:02:35 UTC] ============================================================
+[2026-03-27 11:02:35 UTC] Quality Mirror micro-loop complete
+[2026-03-27 11:02:35 UTC] ============================================================
+[2026-03-27 13:32:06 UTC] ============================================================
+[2026-03-27 13:32:06 UTC] AGENT 4: QUALITY MIRROR (MICRO — slot 4)
+[2026-03-27 13:32:06 UTC] ============================================================
+[2026-03-27 13:32:06 UTC] Micro: loaded manifest production_manifest_20260327_133044_slot4.json
+[2026-03-27 13:32:06 UTC] --- LOOP 6: Caption AB ---
+[2026-03-27 13:32:06 UTC]   Caption manifests with metadata: 0, with completion data: 0
+[2026-03-27 13:32:06 UTC]   Caption manifests with metadata: 0
+[2026-03-27 13:32:06 UTC] --- LOOP 7: Prompt Genome ---
+[2026-03-27 13:32:06 UTC]   Manifests with prompt_metadata: 1
+[2026-03-27 13:32:06 UTC] Micro Loop A error: 'NoneType' object is not subscriptable
+[2026-03-27 13:32:06 UTC] Timing: no audio alignment file for this slot
+[2026-03-27 13:32:06 UTC] Micro delta saved: micro_delta_20260327_133206_slot4.json
+[2026-03-27 13:32:06 UTC] ============================================================
+[2026-03-27 13:32:06 UTC] Quality Mirror micro-loop complete
+[2026-03-27 13:32:06 UTC] ============================================================

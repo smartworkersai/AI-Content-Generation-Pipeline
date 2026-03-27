@@ -1,0 +1,276 @@
+{
+  "timestamp": "2026-03-19T18:32:33.458858",
+  "slot": 6,
+  "sound_profile": {
+    "sub_bass_db": -18,
+    "sub_bass_hz": 40,
+    "ambience_type": "server_hum"
+  },
+  "asymmetry": "ISA contribution limits reset annually but the allowance is not cumulative \u2014 money not saved in a given year is permanently lost to the tax-free wrapper, a fact HMRC does not proactively communicate.",
+  "affiliate": {
+    "name": "Trading 212",
+    "url": "trading212.com/affiliates"
+  },
+  "script": {
+    "intrusion": "Every pound you didn't put in an ISA this year is gone permanently.",
+    "weight": "The annual ISA allowance is \u00a320,000. If you don't use it by April 5th, that tax-free capacity is gone permanently \u2014 not carried forward, not recovered. HMRC does not send a reminder.",
+    "mechanism": "HMRC created the ISA wrapper in 1999. Each April 5th, any unused allowance disappears \u2014 permanently. It does not roll over. The wrapper itself protects every pound inside it from income tax and capital gains tax for life. But HMRC does not remind you. Your bank does not remind you. The deadline is structural. The silence around it is deliberate.",
+    "proof": "HMRC's ISA statistics, published annually, show \u00a33.7 billion in unclaimed ISA allowance in the 2022-23 tax year. That is permanent, irrecoverable tax exposure for the people who missed the April 5th deadline.",
+    "comment_trigger": "How much of your \u00a320,000 ISA allowance have you used this year?",
+    "move": "What financially-aware people use to navigate this is Trading 212."
+  },
+  "caption_text": "Every pound didn't.",
+  "visual_direction": {
+    "frame_description": "Extreme close-up of a bank statement, numbers slightly out of focus, single column of figures barely visible",
+    "light_source": "Single overhead fluorescent tube, directly above, casting sharp downward shadows",
+    "colour_temperature": "4200K, cold blue-white dominant",
+    "motion": "Ken Burns: slow pull back from 120% to 100%, revealing more of the document, 75 seconds duration",
+    "shadow_ratio": "60% of frame in shadow",
+    "kling_prompt": "extreme close-up bank statement paper texture, cold fluorescent overhead light, sharp downward shadows, numbers barely legible, cinematic 9:16 vertical, dark atmosphere, documentary realism, no faces, no people",
+    "negative_prompt": "faces, people, warm colours, sunlight, lifestyle imagery, text overlays, happy, bright, colorful, outdoors"
+  },
+  "voice_settings": {
+    "voice": "Josh",
+    "stability": 0.4,
+    "similarity": 0.88,
+    "style": 0.7,
+    "speed": 0.88,
+    "pre_script_silence_ms": 800,
+    "post_weight_silence_ms": 400,
+    "post_proof_silence_ms": 400
+  },
+  "visual_source": "/Users/kolly/HARBINGERHQ/output/visual_20260319_183233_slot6.mp4",
+  "audio": "/Users/kolly/HARBINGERHQ/output/mixed_audio_20260319_183233_slot6.mp3",
+  "video": "/Users/kolly/HARBINGERHQ/output/post_20260319_183233_slot6.mp4",
+  "quality_check": {
+    "file_size_mb": 13.23,
+    "size_ok": true,
+    "resolution": "1080x1920",
+    "resolution_ok": true,
+    "duration_s": 79.5,
+    "duration_ok": true
+  },
+  "prompt_metadata": {
+    "visual_dna": {
+      "primary_aesthetic": "hyperreal_macro",
+      "aesthetic_label": "Hyperreal Macro",
+      "aesthetic_plan": {
+        "mode": "multi",
+        "primary": "hyperreal_macro",
+        "shot_aesthetics": {
+          "HOOK": "hyperreal_macro",
+          "WEIGHT": "cold_clinical",
+          "INTRUSION": "cinematic_dark",
+          "MECHANISM": "cold_clinical",
+          "PROOF": "abstract_motion",
+          "STAT_REVEAL": "hyperreal_macro",
+          "MOVE": "cold_clinical"
+        },
+        "signals": {
+          "urgency_low": 0.0,
+          "urgency_mid": 0.9818181818181818,
+          "urgency_high": 0.0,
+          "urgency_extreme": 0.0,
+          "topic_finance": 1.0,
+          "topic_isa": 1.0,
+          "topic_pension": 0.0,
+          "topic_savings": 0.0,
+          "topic_mortgage": 0.0,
+          "topic_crypto": 0.0,
+          "topic_investment": 0.1,
+          "topic_wealth_gap": 0.1,
+          "tone_revelation": 0.3,
+          "tone_evidence": 1.0,
+          "tone_anger": 0.1,
+          "tone_injustice": 0.1,
+          "tone_weight": 0.3,
+          "tone_aspiration": 0.2,
+          "tone_authority": 1.0,
+          "tone_relatable": 1.0,
+          "tone_investigative": 0.2,
+          "tone_surprise": 0.2,
+          "tone_mechanism": 1.0,
+          "tone_historical": 0.1,
+          "tone_data": 1.0,
+          "tone_move": 1.0
+        }
+      },
+      "world": "extreme close-up of physical objects \u2014 paper fibres, metal grain, ink, fabric weave, glass surface \u2014 texture becomes landscape",
+      "camera_system": "Canon EF 100mm L macro, bellows extension, f/4-f/8, extreme magnification ratio",
+      "film": "Fujichrome Velvia 100 \u2014 ultra-saturation, microscopic grain, hyper-sharp, colour density",
+      "lighting_primary": "single raking side light at 10\u00b0 angle \u2014 surface texture revealed as topography",
+      "lighting_secondary": "ring flash fill at quarter power \u2014 depth preserved",
+      "motion_character": "micro-dolly or macro rail \u2014 movement measured in millimetres over seconds",
+      "anchor_text": "subject material + raking light angle + magnification scale consistency",
+      "full_anchor": "[Visual DNA \u2014 embed unchanged in every clip] Consistent emotional register and colour temperature throughout. Each shot's aesthetic serves its moment. Temporal energy consistency.",
+      "seed_phrase": "53707d03",
+      "topic": "isa"
+    },
+    "aesthetic_plan": {
+      "mode": "multi",
+      "primary": "hyperreal_macro",
+      "shot_aesthetics": {
+        "HOOK": "hyperreal_macro",
+        "WEIGHT": "cold_clinical",
+        "INTRUSION": "cinematic_dark",
+        "MECHANISM": "cold_clinical",
+        "PROOF": "abstract_motion",
+        "STAT_REVEAL": "hyperreal_macro",
+        "MOVE": "cold_clinical"
+      },
+      "signals": {
+        "urgency_low": 0.0,
+        "urgency_mid": 0.9818181818181818,
+        "urgency_high": 0.0,
+        "urgency_extreme": 0.0,
+        "topic_finance": 1.0,
+        "topic_isa": 1.0,
+        "topic_pension": 0.0,
+        "topic_savings": 0.0,
+        "topic_mortgage": 0.0,
+        "topic_crypto": 0.0,
+        "topic_investment": 0.1,
+        "topic_wealth_gap": 0.1,
+        "tone_revelation": 0.3,
+        "tone_evidence": 1.0,
+        "tone_anger": 0.1,
+        "tone_injustice": 0.1,
+        "tone_weight": 0.3,
+        "tone_aspiration": 0.2,
+        "tone_authority": 1.0,
+        "tone_relatable": 1.0,
+        "tone_investigative": 0.2,
+        "tone_surprise": 0.2,
+        "tone_mechanism": 1.0,
+        "tone_historical": 0.1,
+        "tone_data": 1.0,
+        "tone_move": 1.0
+      }
+    },
+    "shot_list": [
+      {
+        "index": 0,
+        "type": "HOOK",
+        "duration_s": 5,
+        "brief_section": "INTRUSION",
+        "intent": "Stop the scroll. Establish tension before explanation.",
+        "source_text": "",
+        "has_human": false,
+        "money_value": null,
+        "prompt": "Shot 1 (0\u20135s): World: extreme close-up of physical objects \u2014 paper fibres, metal grain, ink, fabric weave, glass surface \u2014 texture becomes landscape. Camera system: Canon EF 100mm L macro, bellows extension, f/4-f/8, extreme magnification ratio.  Empty office desk. Untouched ISA paperwork sits under a paperweight. A phone screen lights up \u2014 notification unseen. Optics: 24mm lens, f/2.0, wide field, slight environmental distortion. Camera: static for 0.5 seconds, then aggressive slow dolly forward. Lighting: single raking side light at 10\u00b0 angle \u2014 surface texture revealed as topography. harsh overhead fluorescent 5600K, cold blue-white, flat institutional light, deep shadows beneath subject. Film stock: Fujichrome Velvia 100 \u2014 ultra-saturation, microscopic grain, hyper-sharp, colour density. Atmosphere: light quality static throughout, no atmospheric progression. [Visual DNA \u2014 embed unchanged in every clip] Consistent emotional register and colour temperature throughout. Each shot's aesthetic serves its moment. Temporal energy consistency. Avoid: watermarks, text overlays, subtitle artifacts, camera jitter, morphing surfaces, flickering light, inconsistent shadows. Also avoid: wide establishing shots, human faces, architecture, depth of field, environmental context.",
+        "negative_prompt": "blur, distortion, watermark, text overlay, low quality, compression artifacts, flickering, inconsistent lighting, morphing faces, morphing textures, oversaturation, plastic skin, smooth waxy texture, artificial bokeh halos, readable account numbers, readable financial data, screen moir\u00e9, wide establishing shots, human faces, architecture, depth of field, environmental context",
+        "component_registry": {
+          "shot_index": 0,
+          "shot_type": "HOOK",
+          "aesthetic_key": "hyperreal_macro",
+          "aesthetic_label": "Hyperreal Macro",
+          "overrides_camera": false,
+          "components": [
+            "24mm lens, f/2.0, wide field, slight environmental distortion",
+            "static for 0.5 seconds, then aggressive slow dolly forward",
+            "harsh overhead fluorescent 5600K, cold blue-white, flat institutional light, deep shadows beneath subject",
+            "Fujichrome Velvia 100 \u2014 ultra-saturation, microscopic grain, hyper-sharp, colour density",
+            "light quality static throughout, no atmospheric progression"
+          ],
+          "action_line": "Empty office desk. Untouched ISA paperwork sits under a paperweight. A phone screen lights up \u2014 notification unseen.",
+          "optics": "24mm lens, f/2.0, wide field, slight environmental distortion",
+          "motion": "static for 0.5 seconds, then aggressive slow dolly forward",
+          "lighting": "single raking side light at 10\u00b0 angle \u2014 surface texture revealed as topography. harsh overhead fluorescent 5600K, cold blue-white, flat institutional light, deep shadows beneath subject",
+          "film_stock": "Fujichrome Velvia 100 \u2014 ultra-saturation, microscopic grain, hyper-sharp, colour density",
+          "dna_anchor": "subject material + raking light angle + magnification scale consistency"
+        },
+        "aesthetic_key": "hyperreal_macro",
+        "aesthetic_label": "Hyperreal Macro",
+        "fal_params": {
+          "duration": 5,
+          "aspect_ratio": "9:16",
+          "mode": "pro"
+        }
+      },
+      {
+        "index": 1,
+        "type": "MECHANISM",
+        "duration_s": 5,
+        "brief_section": "MECHANISM",
+        "intent": "Show how it works. Documentary observation, information discovered.",
+        "source_text": "",
+        "has_human": false,
+        "money_value": null,
+        "prompt": "Shot 2: World: sterile white or pale grey environments \u2014 examination rooms, clean surfaces, clinical precision over warmth. Camera system: Leica SL2, APO-Summicron 50mm f/2 ASPH, ultra-clinical resolution, no aberration.  ISA wrapper mechanism shown through simple visual metaphor \u2014 money inside protected versus money outside taxed. Optics: 50mm lens, f/4.0, enough DoF to show environment and subject together. Camera: slow orbital around object or environment element, 180 degrees over 5 seconds. Lighting: overhead fluorescent 6500K \u2014 perfectly diffused, shadowless, flat institutional. harsh overhead fluorescent 5600K, cold blue-white, flat institutional light, deep shadows beneath subject. Film stock: clean digital \u2014 zero grain, daylight balanced, clinical saturation 0.75 \u2014 truth over emotion. Atmosphere: light quality static throughout, no atmospheric progression. [Visual DNA \u2014 embed unchanged in every clip] Consistent emotional register and colour temperature throughout. Each shot's aesthetic serves its moment. Temporal energy consistency. Avoid: watermarks, text overlays, subtitle artifacts, camera jitter, morphing surfaces, flickering light, inconsistent shadows. Also avoid: warm tones, soft light, bokeh, natural environments, human warmth, texture, atmosphere.",
+        "negative_prompt": "blur, distortion, watermark, text overlay, low quality, compression artifacts, flickering, inconsistent lighting, morphing faces, morphing textures, oversaturation, plastic skin, smooth waxy texture, artificial bokeh halos, readable account numbers, readable financial data, screen moir\u00e9, warm tones, soft light, bokeh, natural environments, human warmth, texture, atmosphere",
+        "component_registry": {
+          "shot_index": 1,
+          "shot_type": "MECHANISM",
+          "aesthetic_key": "cold_clinical",
+          "aesthetic_label": "Cold Clinical",
+          "overrides_camera": false,
+          "components": [
+            "50mm lens, f/4.0, enough DoF to show environment and subject together",
+            "slow orbital around object or environment element, 180 degrees over 5 seconds",
+            "harsh overhead fluorescent 5600K, cold blue-white, flat institutional light, deep shadows beneath subject",
+            "clean digital \u2014 zero grain, daylight balanced, clinical saturation 0.75 \u2014 truth over emotion",
+            "light quality static throughout, no atmospheric progression"
+          ],
+          "action_line": "ISA wrapper mechanism shown through simple visual metaphor \u2014 money inside protected versus money outside taxed.",
+          "optics": "50mm lens, f/4.0, enough DoF to show environment and subject together",
+          "motion": "slow orbital around object or environment element, 180 degrees over 5 seconds",
+          "lighting": "overhead fluorescent 6500K \u2014 perfectly diffused, shadowless, flat institutional. harsh overhead fluorescent 5600K, cold blue-white, flat institutional light, deep shadows beneath subject",
+          "film_stock": "clean digital \u2014 zero grain, daylight balanced, clinical saturation 0.75 \u2014 truth over emotion",
+          "dna_anchor": "subject material + raking light angle + magnification scale consistency"
+        },
+        "aesthetic_key": "cold_clinical",
+        "aesthetic_label": "Cold Clinical",
+        "fal_params": {
+          "duration": 5,
+          "aspect_ratio": "9:16",
+          "mode": "pro"
+        }
+      },
+      {
+        "index": 2,
+        "type": "MOVE",
+        "duration_s": 5,
+        "brief_section": "MOVE",
+        "intent": "Resolution energy. Forward motion. The action the viewer must take.",
+        "source_text": "",
+        "has_human": false,
+        "money_value": null,
+        "prompt": "Shot 3: World: sterile white or pale grey environments \u2014 examination rooms, clean surfaces, clinical precision over warmth. Camera system: Leica SL2, APO-Summicron 50mm f/2 ASPH, ultra-clinical resolution, no aberration.  Person at a laptop. ISA application page open. Cursor moves. The action is being taken. Camera moves with the resolution. Optics: 24mm lens, f/2.8, wide to emphasise forward movement and environment opening up. Camera: slow crane upward revealing scale and forward direction simultaneously. Lighting: overhead fluorescent 6500K \u2014 perfectly diffused, shadowless, flat institutional. practical desk lamp warm 2800K from below left, harsh shadow on right side, chiaroscuro ratio 5:1. Film stock: clean digital \u2014 zero grain, daylight balanced, clinical saturation 0.75 \u2014 truth over emotion. Atmosphere: steam or breath barely visible in cold air, secondary motion from ventilation barely stirs any fabric. [Visual DNA \u2014 embed unchanged in every clip] Consistent emotional register and colour temperature throughout. Each shot's aesthetic serves its moment. Temporal energy consistency. Avoid: watermarks, text overlays, subtitle artifacts, camera jitter, morphing surfaces, flickering light, inconsistent shadows. Also avoid: warm tones, soft light, bokeh, natural environments, human warmth, texture, atmosphere.",
+        "negative_prompt": "blur, distortion, watermark, text overlay, low quality, compression artifacts, flickering, inconsistent lighting, morphing faces, morphing textures, oversaturation, plastic skin, smooth waxy texture, artificial bokeh halos, readable account numbers, readable financial data, screen moir\u00e9, warm tones, soft light, bokeh, natural environments, human warmth, texture, atmosphere",
+        "component_registry": {
+          "shot_index": 2,
+          "shot_type": "MOVE",
+          "aesthetic_key": "cold_clinical",
+          "aesthetic_label": "Cold Clinical",
+          "overrides_camera": false,
+          "components": [
+            "24mm lens, f/2.8, wide to emphasise forward movement and environment opening up",
+            "slow crane upward revealing scale and forward direction simultaneously",
+            "practical desk lamp warm 2800K from below left, harsh shadow on right side, chiaroscuro ratio 5:1",
+            "clean digital \u2014 zero grain, daylight balanced, clinical saturation 0.75 \u2014 truth over emotion",
+            "steam or breath barely visible in cold air, secondary motion from ventilation barely stirs any fabric"
+          ],
+          "action_line": "Person at a laptop. ISA application page open. Cursor moves. The action is being taken. Camera moves with the resolution.",
+          "optics": "24mm lens, f/2.8, wide to emphasise forward movement and environment opening up",
+          "motion": "slow crane upward revealing scale and forward direction simultaneously",
+          "lighting": "overhead fluorescent 6500K \u2014 perfectly diffused, shadowless, flat institutional. practical desk lamp warm 2800K from below left, harsh shadow on right side, chiaroscuro ratio 5:1",
+          "film_stock": "clean digital \u2014 zero grain, daylight balanced, clinical saturation 0.75 \u2014 truth over emotion",
+          "dna_anchor": "subject material + raking light angle + magnification scale consistency"
+        },
+        "aesthetic_key": "cold_clinical",
+        "aesthetic_label": "Cold Clinical",
+        "fal_params": {
+          "duration": 5,
+          "aspect_ratio": "9:16",
+          "mode": "pro"
+        }
+      }
+    ],
+    "genome_generation": 2,
+    "seed_phrase": "53707d03",
+    "total_shots": 3,
+    "total_duration_s": 15,
+    "generated_at": "2026-03-19T18:32:33.869715"
+  },
+  "audio_alignment": true
+}

@@ -1,0 +1,177 @@
+[2026-03-09 12:13:37 UTC] ============================================================
+[2026-03-09 12:13:37 UTC] AGENT 5: ALGORITHM INTELLIGENCE
+[2026-03-09 12:13:37 UTC] ============================================================
+[2026-03-09 12:13:37 UTC] Initialising model from seed data...
+[2026-03-09 12:13:37 UTC] Post count: 3 | Warm-up: active
+[2026-03-09 12:13:37 UTC] Loaded 3 recent production manifests for confidence updates
+[2026-03-09 12:13:37 UTC]   [WARN] completion_rate_70: 66% of recent videos exceed 65s
+[2026-03-09 12:13:37 UTC]   Expired: TikTok Business Account: Bio Link from Post 1 (No 1K Follower Gate) (post 3 ≥ 1)
+[2026-03-09 12:13:37 UTC] Signal updates: 1
+[2026-03-09 12:13:37 UTC] Directives written: algorithm_directives.json (5120 chars synthesis, 1952 chars production)
+[2026-03-09 12:13:37 UTC] Telegram report sent
+[2026-03-09 12:13:37 UTC] Model saved: algorithm_signals.json
+[2026-03-09 12:13:37 UTC] ============================================================
+[2026-03-10 01:14:17 UTC] ============================================================
+[2026-03-10 01:14:17 UTC] AGENT 5: ALGORITHM INTELLIGENCE
+[2026-03-10 01:14:17 UTC] ============================================================
+[2026-03-10 01:14:17 UTC] Post count: 6 | Warm-up: active
+[2026-03-10 01:14:17 UTC] Loaded 6 recent production manifests for confidence updates
+[2026-03-10 01:14:17 UTC] Signal updates: 0
+[2026-03-10 01:14:17 UTC] Directives written: algorithm_directives.json (5120 chars synthesis, 1952 chars production)
+[2026-03-10 01:14:17 UTC] Telegram report sent
+[2026-03-10 01:14:17 UTC] Model saved: algorithm_signals.json
+[2026-03-10 01:14:17 UTC] ============================================================
+[2026-03-10 05:45:00 UTC] ============================================================
+[2026-03-10 05:45:00 UTC] AGENT 5: ALGORITHM INTELLIGENCE
+[2026-03-10 05:45:00 UTC] ============================================================
+[2026-03-10 05:45:00 UTC] Post count: 7 | Warm-up: active
+[2026-03-10 05:45:00 UTC] Loaded 7 recent production manifests for confidence updates
+[2026-03-10 05:45:00 UTC] Signal updates: 0
+[2026-03-10 05:45:00 UTC] Directives written: algorithm_directives.json (5120 chars synthesis, 1952 chars production)
+[2026-03-10 05:45:00 UTC] Telegram report sent
+[2026-03-10 05:45:00 UTC] Model saved: algorithm_signals.json
+[2026-03-10 05:45:00 UTC] ============================================================
+[2026-03-11 05:45:00 UTC] ============================================================
+[2026-03-11 05:45:00 UTC] AGENT 5: ALGORITHM INTELLIGENCE
+[2026-03-11 05:45:00 UTC] ============================================================
+[2026-03-11 05:45:00 UTC] Post count: 9 | Warm-up: active
+[2026-03-11 05:45:00 UTC] observe: avg hook pace = 3.33 wps over 2 renders
+[2026-03-11 05:45:00 UTC] observe: avg visual identity score = 5.25 over 2 renders
+[2026-03-11 05:45:00 UTC] observe: findings saved to observed_behavior_2026-03-11.json
+[2026-03-11 05:45:00 UTC] Observed behavior: 0 signals updated from data
+[2026-03-11 05:45:00 UTC] Loaded 9 recent production manifests for confidence updates
+[2026-03-11 05:45:00 UTC] Signal updates: 0
+[2026-03-11 05:45:00 UTC] Directives written: algorithm_directives.json (5120 chars synthesis, 1952 chars production)
+[2026-03-11 05:45:00 UTC] Telegram report sent
+[2026-03-11 05:45:00 UTC] Model saved: algorithm_signals.json
+[2026-03-11 05:45:00 UTC] ============================================================
+[2026-03-12 05:45:03 UTC] ============================================================
+[2026-03-12 05:45:03 UTC] AGENT 5: ALGORITHM INTELLIGENCE
+[2026-03-12 05:45:03 UTC] ============================================================
+[2026-03-12 05:45:03 UTC] Post count: 13 | Warm-up: active
+[2026-03-12 05:45:03 UTC] observe: avg hook pace = 2.72 wps over 6 renders
+[2026-03-12 05:45:03 UTC] observe: avg visual identity score = 4.58 over 6 renders
+[2026-03-12 05:45:03 UTC] observe: findings saved to observed_behavior_2026-03-12.json
+[2026-03-12 05:45:03 UTC] Observed behavior: 0 signals updated from data
+[2026-03-12 05:45:03 UTC] Loaded 10 recent production manifests for confidence updates
+[2026-03-12 05:45:03 UTC] Signal updates: 0
+[2026-03-12 05:45:03 UTC] Directives written: algorithm_directives.json (5121 chars synthesis, 1952 chars production)
+[2026-03-12 05:45:03 UTC] Telegram report sent
+[2026-03-12 05:45:03 UTC] Model saved: algorithm_signals.json
+[2026-03-12 05:45:03 UTC] ============================================================
+[2026-03-14 05:45:00 UTC] ============================================================
+[2026-03-14 05:45:00 UTC] AGENT 5: ALGORITHM INTELLIGENCE
+[2026-03-14 05:45:00 UTC] ============================================================
+[2026-03-14 05:45:00 UTC] Post count: 13 | Warm-up: active
+[2026-03-14 05:45:00 UTC] observe: avg hook pace = 2.72 wps over 6 renders
+[2026-03-14 05:45:00 UTC] observe: avg visual identity score = 4.58 over 6 renders
+[2026-03-14 05:45:00 UTC] observe: findings saved to observed_behavior_2026-03-14.json
+[2026-03-14 05:45:00 UTC] Observed behavior: 0 signals updated from data
+[2026-03-14 05:45:00 UTC] Loaded 10 recent production manifests for confidence updates
+[2026-03-14 05:45:00 UTC] Signal updates: 0
+[2026-03-14 05:45:00 UTC] Directives written: algorithm_directives.json (5121 chars synthesis, 1952 chars production)
+[2026-03-14 05:45:00 UTC] Telegram report sent
+[2026-03-14 05:45:00 UTC] Model saved: algorithm_signals.json
+[2026-03-14 05:45:00 UTC] ============================================================
+[2026-03-16 05:45:00 UTC] ============================================================
+[2026-03-16 05:45:00 UTC] AGENT 5: ALGORITHM INTELLIGENCE
+[2026-03-16 05:45:00 UTC] ============================================================
+[2026-03-16 05:45:00 UTC] Post count: 17 | Warm-up: active
+[2026-03-16 05:45:00 UTC] observe: avg hook pace = 3.3 wps over 9 renders
+[2026-03-16 05:45:00 UTC] observe: avg visual identity score = 4.58 over 6 renders
+[2026-03-16 05:45:00 UTC] observe: findings saved to observed_behavior_2026-03-16.json
+[2026-03-16 05:45:00 UTC] Observed behavior: 0 signals updated from data
+[2026-03-16 05:45:00 UTC] Loaded 10 recent production manifests for confidence updates
+[2026-03-16 05:45:00 UTC]   [WARN] completion_rate_70: 100% of recent videos exceed 65s
+[2026-03-16 05:45:00 UTC] Signal updates: 0
+[2026-03-16 05:45:00 UTC] Directives written: algorithm_directives.json (5121 chars synthesis, 1952 chars production)
+[2026-03-16 05:45:00 UTC] Telegram report sent
+[2026-03-16 05:45:00 UTC] Model saved: algorithm_signals.json
+[2026-03-16 05:45:00 UTC] ============================================================
+[2026-03-17 05:45:00 UTC] ============================================================
+[2026-03-17 05:45:00 UTC] AGENT 5: ALGORITHM INTELLIGENCE
+[2026-03-17 05:45:00 UTC] ============================================================
+[2026-03-17 05:45:00 UTC] Post count: 18 | Warm-up: active
+[2026-03-17 05:45:00 UTC] observe: avg hook pace = 3.4 wps over 10 renders
+[2026-03-17 05:45:00 UTC] observe: avg visual identity score = 4.58 over 6 renders
+[2026-03-17 05:45:00 UTC] observe: findings saved to observed_behavior_2026-03-17.json
+[2026-03-17 05:45:00 UTC] Observed behavior: 0 signals updated from data
+[2026-03-17 05:45:00 UTC] Loaded 10 recent production manifests for confidence updates
+[2026-03-17 05:45:00 UTC] Signal updates: 0
+[2026-03-17 05:45:00 UTC] Directives written: algorithm_directives.json (5121 chars synthesis, 1952 chars production)
+[2026-03-17 05:45:00 UTC] Telegram report sent
+[2026-03-17 05:45:00 UTC] Model saved: algorithm_signals.json
+[2026-03-17 05:45:00 UTC] ============================================================
+[2026-03-18 05:45:00 UTC] ============================================================
+[2026-03-18 05:45:00 UTC] AGENT 5: ALGORITHM INTELLIGENCE
+[2026-03-18 05:45:00 UTC] ============================================================
+[2026-03-18 05:45:00 UTC] Post count: 24 | Warm-up: complete
+[2026-03-18 05:45:00 UTC] observe: avg hook pace = 3.75 wps over 15 renders
+[2026-03-18 05:45:00 UTC] observe: avg visual identity score = 3.83 over 9 renders
+[2026-03-18 05:45:00 UTC] observe: findings saved to observed_behavior_2026-03-18.json
+[2026-03-18 05:45:00 UTC] Observed behavior: 0 signals updated from data
+[2026-03-18 05:45:00 UTC] Loaded 10 recent production manifests for confidence updates
+[2026-03-18 05:45:00 UTC]   Expired: 100% Finance Niche Consistency (Posts 1-20 — Algorithm Classification) (post 24 ≥ 20)
+[2026-03-18 05:45:00 UTC]   Expired: No Post Deletion: Set Underperformers to Private (Not Delete) (post 24 ≥ 20)
+[2026-03-18 05:45:00 UTC]   Expired: Native Upload Only (No Buffer) for Posts 1-20 — Shadow Ban Avoidance (post 24 ≥ 20)
+[2026-03-18 05:45:00 UTC] Signal updates: 3
+[2026-03-18 05:45:00 UTC] Directives written: algorithm_directives.json (4561 chars synthesis, 1952 chars production)
+[2026-03-18 05:45:00 UTC] Telegram report sent
+[2026-03-18 05:45:00 UTC] Model saved: algorithm_signals.json
+[2026-03-18 05:45:00 UTC] ============================================================
+[2026-03-19 05:45:00 UTC] ============================================================
+[2026-03-19 05:45:00 UTC] AGENT 5: ALGORITHM INTELLIGENCE
+[2026-03-19 05:45:00 UTC] ============================================================
+[2026-03-19 05:45:00 UTC] Post count: 28 | Warm-up: complete
+[2026-03-19 05:45:00 UTC] observe: avg hook pace = 3.91 wps over 19 renders
+[2026-03-19 05:45:00 UTC] observe: avg visual identity score = 4.0 over 8 renders
+[2026-03-19 05:45:00 UTC] observe: findings saved to observed_behavior_2026-03-19.json
+[2026-03-19 05:45:00 UTC] Observed behavior: 0 signals updated from data
+[2026-03-19 05:45:00 UTC] Loaded 10 recent production manifests for confidence updates
+[2026-03-19 05:45:00 UTC] Signal updates: 0
+[2026-03-19 05:45:00 UTC] Directives written: algorithm_directives.json (4561 chars synthesis, 1952 chars production)
+[2026-03-19 05:45:00 UTC] Telegram report sent
+[2026-03-19 05:45:00 UTC] Model saved: algorithm_signals.json
+[2026-03-19 05:45:00 UTC] ============================================================
+[2026-03-21 14:17:33 UTC] ============================================================
+[2026-03-21 14:17:33 UTC] AGENT 5: ALGORITHM INTELLIGENCE
+[2026-03-21 14:17:33 UTC] ============================================================
+[2026-03-21 14:17:33 UTC] Post count: 35 | Warm-up: complete
+[2026-03-21 14:17:33 UTC] observe: avg hook pace = 4.33 wps over 20 renders
+[2026-03-21 14:17:33 UTC] observe: avg visual identity score = 2.0 over 4 renders
+[2026-03-21 14:17:33 UTC] observe: findings saved to observed_behavior_2026-03-21.json
+[2026-03-21 14:17:33 UTC] Observed behavior: 0 signals updated from data
+[2026-03-21 14:17:33 UTC] Loaded 10 recent production manifests for confidence updates
+[2026-03-21 14:17:33 UTC] Signal updates: 0
+[2026-03-21 14:17:33 UTC] Directives written: algorithm_directives.json (4561 chars synthesis, 1952 chars production)
+[2026-03-21 14:17:33 UTC] Telegram report sent
+[2026-03-21 14:17:33 UTC] Model saved: algorithm_signals.json
+[2026-03-21 14:17:33 UTC] ============================================================
+[2026-03-23 05:45:00 UTC] ============================================================
+[2026-03-23 05:45:00 UTC] AGENT 5: ALGORITHM INTELLIGENCE
+[2026-03-23 05:45:00 UTC] ============================================================
+[2026-03-23 05:45:00 UTC] Post count: 66 | Warm-up: complete
+[2026-03-23 05:45:00 UTC] observe: avg hook pace = 3.89 wps over 3 renders
+[2026-03-23 05:45:00 UTC] observe: avg visual identity score = 4.0 over 1 renders
+[2026-03-23 05:45:00 UTC] observe: findings saved to observed_behavior_2026-03-23.json
+[2026-03-23 05:45:00 UTC] Observed behavior: 0 signals updated from data
+[2026-03-23 05:45:00 UTC] Loaded 10 recent production manifests for confidence updates
+[2026-03-23 05:45:00 UTC] Signal updates: 0
+[2026-03-23 05:45:00 UTC] Directives written: algorithm_directives.json (4561 chars synthesis, 1952 chars production)
+[2026-03-23 05:45:00 UTC] Telegram report sent
+[2026-03-23 05:45:00 UTC] Model saved: algorithm_signals.json
+[2026-03-23 05:45:00 UTC] ============================================================
+[2026-03-27 05:45:00 UTC] ============================================================
+[2026-03-27 05:45:00 UTC] AGENT 5: ALGORITHM INTELLIGENCE
+[2026-03-27 05:45:00 UTC] ============================================================
+[2026-03-27 05:45:00 UTC] Post count: 57 | Warm-up: complete
+[2026-03-27 05:45:00 UTC] observe: avg hook pace = 3.89 wps over 3 renders
+[2026-03-27 05:45:00 UTC] observe: avg visual identity score = 4.0 over 1 renders
+[2026-03-27 05:45:00 UTC] observe: findings saved to observed_behavior_2026-03-27.json
+[2026-03-27 05:45:00 UTC] Observed behavior: 0 signals updated from data
+[2026-03-27 05:45:00 UTC] Loaded 10 recent production manifests for confidence updates
+[2026-03-27 05:45:00 UTC] Signal updates: 0
+[2026-03-27 05:45:00 UTC] Directives written: algorithm_directives.json (4559 chars synthesis, 1952 chars production)
+[2026-03-27 05:45:00 UTC] Telegram report sent
+[2026-03-27 05:45:00 UTC] Model saved: algorithm_signals.json
+[2026-03-27 05:45:00 UTC] ============================================================

@@ -1,0 +1,41 @@
+{
+  "timestamp": "2026-03-27T11:00:57.306247",
+  "slot": 3,
+  "brief_evaluated": "creative_brief_20260327_110055_slot3.json",
+  "overall_chain_score": 5.6,
+  "weakest_link": "mechanism_specificity",
+  "rewrite_required": true,
+  "corrective_directives": [
+    "Add a named UK regulatory body or specific percentage/figure with source in THE MECHANISM section. E.g. 'FCA data shows X% of Y in 2024'.",
+    "Rewrite THE MOVE so 'none_growth_mode' is introduced as the direct answer to the vulnerability just exposed. The viewer should feel the affiliate is obvious, not pitched.",
+    "The MOVE section must name the action, make it feel urgent (time-bounded or quantity-bounded), and connect explicitly to the mechanism just named. Don't explain \u2014 instruct."
+  ],
+  "chain_scores": {
+    "visual_identity_precondition": {
+      "score": 7,
+      "failure": "",
+      "directive": ""
+    },
+    "mechanism_specificity": {
+      "score": 4,
+      "failure": "Mechanism lacks a named UK source or specific verifiable claim. Viewers share specifics, not descriptions.",
+      "directive": "Add a named UK regulatory body or specific percentage/figure with source in THE MECHANISM section. E.g. 'FCA data shows X% of Y in 2024'."
+    },
+    "emotional_arc_to_cta": {
+      "score": 5,
+      "failure": "CTA is absent or too short to resolve the tension the intrusion created.",
+      "directive": "The MOVE section must name the action, make it feel urgent (time-bounded or quantity-bounded), and connect explicitly to the mechanism just named. Don't explain \u2014 instruct."
+    },
+    "affiliate_as_conclusion": {
+      "score": 4,
+      "failure": "Affiliate 'none_growth_mode' not mentioned in THE MOVE \u2014 affiliate will feel like an interruption, not a conclusion.",
+      "directive": "Rewrite THE MOVE so 'none_growth_mode' is introduced as the direct answer to the vulnerability just exposed. The viewer should feel the affiliate is obvious, not pitched."
+    },
+    "comment_trigger_structural": {
+      "score": 8,
+      "failure": "",
+      "directive": ""
+    }
+  },
+  "evaluation_method": "heuristic"
+}

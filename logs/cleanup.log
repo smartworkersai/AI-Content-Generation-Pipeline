@@ -1,0 +1,34 @@
+[2026-03-25 23:45:01 UTC] ── CLEANUP START ──────────────────────────────────────
+[2026-03-25 23:45:01 UTC] ── CLEANUP START ──────────────────────────────────────
+[2026-03-25 23:45:01 UTC] Deleting 21 stale log files (>7d)...
+[2026-03-25 23:45:01 UTC] Deleting 21 stale log files (>7d)...
+[2026-03-25 23:45:01 UTC] Deleting 1 output intermediates (>1d)...
+[2026-03-25 23:45:01 UTC] Deleting 1 output intermediates (>1d)...
+[2026-03-25 23:45:01 UTC] No old final renders to remove
+[2026-03-25 23:45:01 UTC] No old final renders to remove
+[2026-03-25 23:45:01 UTC] scripts/logs: stale files cleared
+[2026-03-25 23:45:01 UTC] scripts/logs: stale files cleared
+[2026-03-25 23:45:01 UTC] __pycache__ cleared
+[2026-03-25 23:45:01 UTC] __pycache__ cleared
+[2026-03-25 23:45:01 UTC] .DS_Store cleared
+[2026-03-25 23:45:01 UTC] .DS_Store cleared
+[2026-03-25 23:45:01 UTC] Empty dirs cleared
+[2026-03-25 23:45:01 UTC] Empty dirs cleared
+[2026-03-25 23:45:01 UTC] ── CLEANUP DONE ───────────────────────────────────────
+[2026-03-26 23:45:00 UTC] ── CLEANUP START ──────────────────────────────────────
+[2026-03-26 23:45:00 UTC] ── CLEANUP START ──────────────────────────────────────
+[2026-03-26 23:45:00 UTC] Deleting 13 stale log files (>7d)...
+[2026-03-26 23:45:00 UTC] Deleting 13 stale log files (>7d)...
+[2026-03-26 23:45:00 UTC] Deleting 9 output intermediates (>1d)...
+[2026-03-26 23:45:00 UTC] Deleting 9 output intermediates (>1d)...
+[2026-03-26 23:45:00 UTC] No old final renders to remove
+[2026-03-26 23:45:00 UTC] No old final renders to remove
+[2026-03-26 23:45:00 UTC] scripts/logs: stale files cleared
+[2026-03-26 23:45:00 UTC] scripts/logs: stale files cleared
+[2026-03-26 23:45:00 UTC] __pycache__ cleared
+[2026-03-26 23:45:00 UTC] __pycache__ cleared
+[2026-03-26 23:45:00 UTC] .DS_Store cleared
+[2026-03-26 23:45:00 UTC] .DS_Store cleared
+[2026-03-26 23:45:00 UTC] Empty dirs cleared
+[2026-03-26 23:45:00 UTC] Empty dirs cleared
+[2026-03-26 23:45:00 UTC] ── CLEANUP DONE ───────────────────────────────────────

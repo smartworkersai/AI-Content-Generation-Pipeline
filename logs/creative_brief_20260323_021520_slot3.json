@@ -1,0 +1,34 @@
+{
+  "timestamp": "2026-03-23T02:15:20.853846",
+  "slot": 3,
+  "niche": "tech_ai",
+  "niche_label": "Tech / AI Hacks",
+  "topic": "Peter Thiel, the billionaire venture capitalist and MAGA don.",
+  "framework": {
+    "structure": "[Familiar Tool/Habit] + ['is secretly/actually'] + [Hidden Cost or Danger you didn't know about]",
+    "trigger": "Loss aversion + status threat \u2014 viewer is already being harmed without knowing it",
+    "example": "That iPhone feature everyone uses is secretly selling your location to 47 data brokers."
+  },
+  "script": {
+    "hook": "That iPhone feature everyone uses is secretly selling your location to 47 data brokers.",
+    "body": "Most people scroll past these tools every day without realising they exist. Once you know about them, you cannot un-know them.",
+    "cta": "Follow before this disappears."
+  },
+  "full_script_text": "That iPhone feature everyone uses is secretly selling your location to 47 data brokers. Most people scroll past these tools every day without realising they exist. Once you know about them, you cannot un-know them. Follow before this disappears.",
+  "visual_direction": {
+    "kling_prompt": "dark glowing computer screens with code, futuristic AI interface, neon blue and green, no faces, 9:16 vertical cinematic, cyberpunk, high contrast",
+    "negative_prompt": "faces, logos, text overlays, watermarks"
+  },
+  "voice_settings": {
+    "voice_id": "TxGEqnHWrfWFTfGW9XjX",
+    "stability": 0.3,
+    "similarity": 0.88,
+    "style": 0.85,
+    "speed": 1.1,
+    "voice": "Josh"
+  },
+  "caption_text": "That iPhone feature everyone uses is secretly selling your location to 47 data b",
+  "affiliate": "none_growth_mode",
+  "script_variant": "long",
+  "compliance_checked": true
+}

@@ -1,0 +1,81 @@
+{
+  "timestamp": "2026-03-23T02:28:40.109418",
+  "slot": 8,
+  "sound_profile": {
+    "sub_bass_db": -18,
+    "sub_bass_hz": 40,
+    "ambience_type": "server_hum"
+  },
+  "asymmetry": null,
+  "affiliate": "none_growth_mode",
+  "script": {
+    "hook": "What if d\u00e9j\u00e0 vu is not a memory glitch. What if it is your brain catching a bleed from a parallel timeline.",
+    "body": "Scientists have no explanation for this. The data exists, the phenomenon is documented, but the answer has never been found.",
+    "cta": "Follow \u2014 there's more they're not saying."
+  },
+  "caption_text": "What if d\u00e9j\u00e0 vu is not a memory glitch. What if it is your brain catching a blee",
+  "visual_direction": {
+    "kling_prompt": "deep space starfield or abandoned corridor, eerie dim lighting, fog effect, no people, 9:16 vertical cinematic, horror atmospheric, unsettling stillness",
+    "negative_prompt": "faces, logos, text overlays, watermarks"
+  },
+  "voice_settings": {
+    "voice_id": "TxGEqnHWrfWFTfGW9XjX",
+    "stability": 0.7,
+    "similarity": 0.85,
+    "style": 0.45,
+    "speed": 0.8,
+    "voice": "Josh"
+  },
+  "visual_source": "broll_footage",
+  "audio": "/Users/kolly/HARBINGERHQ/output/voice_sfx_20260323_022840_slot8.mp3",
+  "video": "/Users/kolly/HARBINGERHQ/output/post_20260323_022840_slot8.mp4",
+  "quality_check": {
+    "file_size_mb": 194.68,
+    "size_ok": false,
+    "resolution": "1080x1920",
+    "resolution_ok": true,
+    "duration_s": 20.1,
+    "duration_ok": true
+  },
+  "prompt_metadata": {
+    "visual_source": "broll_footage",
+    "shot_list": []
+  },
+  "audio_alignment": true,
+  "ffmpeg_evolution_params": {
+    "zoom_factor": 0.15,
+    "ssml_break_secs": 0.8,
+    "prompt_version": 1
+  },
+  "script_variant": "long",
+  "qa_gate": {
+    "passed": true,
+    "checks": [
+      {
+        "name": "audio_stream",
+        "passed": true,
+        "detail": "Audio stream present: codec=aac channels=1"
+      },
+      {
+        "name": "volume",
+        "passed": true,
+        "detail": "Volume OK: max_volume=-1.4dB, mean=-18.3dB"
+      },
+      {
+        "name": "duration",
+        "passed": true,
+        "detail": "Duration OK: 20.1s"
+      },
+      {
+        "name": "file_size",
+        "passed": true,
+        "detail": "File size OK: 194.68MB"
+      }
+    ]
+  },
+  "garbage_collection": {
+    "deleted": 6,
+    "freed_mb": 1.6,
+    "errors": 0
+  }
+}

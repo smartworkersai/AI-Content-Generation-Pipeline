@@ -1,0 +1,262 @@
+[
+  {
+    "timestamp": "2026-03-14T08:11:21.626693",
+    "slot": 1,
+    "audit": "The hook is text-only with zero spoken delivery data (words/sec marked N/A), meaning the most critical scroll-stopping moment \u2014 the first 190ms of silence followed by \"Every pound you didn't put in an ISA this year is gone permanently\" \u2014 has no pacing enforcement, leaving it at the mercy of default TTS cadence which will flatten the emotional weight of \"gone permanently\" into administrative monotone. Next slot: set hook delivery speed to 1.8 words/sec with a 400ms hard pause before \"gone permanently.\"",
+    "hook_wps": "N/A",
+    "pre_hook_silence_ms": 190,
+    "duration_s": 75.8,
+    "loop_a_score": null,
+    "loop_b_score": null
+  },
+  {
+    "timestamp": "2026-03-14T08:35:43.400484",
+    "slot": 2,
+    "audit": "The hook \u2014 \"Every pound you didn't put in an ISA this year is gone permanently\" \u2014 is delivering into a visual of an out-of-focus bank statement that communicates nothing legible, creating a disconnect where the urgency of the copy has no visual anchor to land against; the viewer's eye finds no point of entry and the scroll continues before attention locks. For the next slot, change the visual to an extreme close-up of a calendar showing April 5th with a single red line through it \u2014 a concrete, instantly readable symbol of irreversible deadline.",
+    "hook_wps": "N/A",
+    "pre_hook_silence_ms": 330,
+    "duration_s": 77.5,
+    "loop_a_score": null,
+    "loop_b_score": null
+  },
+  {
+    "timestamp": "2026-03-15T16:32:49.797685",
+    "slot": 5,
+    "audit": "The mechanism is truncated \u2014 the copy reads \"They raise their savings rates weeks later, if at all. Th\" and cuts dead, meaning the single most persuasive structural argument in the entire script never lands, leaving the CTA dangling without the logical foundation that earns it. Next slot: complete the mechanism copy in full before distribution, ending on a concrete figure (\"if at all \u2014 often 0.2% against a 5.25% base rate\") to close the asymmetry loop before the move.",
+    "hook_wps": "N/A",
+    "pre_hook_silence_ms": 203,
+    "duration_s": 71.6,
+    "loop_a_score": null,
+    "loop_b_score": null
+  },
+  {
+    "timestamp": "2026-03-15T21:06:59.933238",
+    "slot": 7,
+    "audit": "The hook \u2014 \"Every pound you didn't put in an ISA this year is gone permanently\" \u2014 is doing all the weight-bearing work, but the visual is a blurred bank statement pulling back slowly, which creates zero tension and zero legibility at 2am on a phone. The viewer gets abstraction on top of abstraction: they can't read the numbers, they can't feel the loss, the visual gives them nothing to anchor the hook's emotional threat to. Next slot: replace the Ken Burns blur-and-pullback with a sharp, readable single-line figure \u2014 a specific number like \u00a320,000 \u2014 with a hard red strike-through animating across it in the first three seconds.",
+    "hook_wps": "N/A",
+    "pre_hook_silence_ms": "N/A",
+    "duration_s": 74.6,
+    "loop_a_score": null,
+    "loop_b_score": null
+  },
+  {
+    "timestamp": "2026-03-16T06:04:13.242993",
+    "slot": 1,
+    "audit": "The hook \u2014 \"Every pound you didn't put in an ISA this year is gone permanently\" \u2014 is delivered at N/A words/sec because there is no caption reveal system active, meaning the line exists only in audio with zero on-screen reinforcement; at 2am with phone on silent, this video is completely mute and invisible as a message. For the next slot, I am activating caption events with a minimum of 8 blocks, hook line rendered first at 72px bold white with black stroke, pop duration 180ms.",
+    "hook_wps": "N/A",
+    "pre_hook_silence_ms": 261,
+    "duration_s": 76.8,
+    "loop_a_score": null,
+    "loop_b_score": null
+  },
+  {
+    "timestamp": "2026-03-17T06:04:24.191163",
+    "slot": 1,
+    "audit": "The single most impactful weakness is that the hook \u2014 \"Every pound you didn't put in an ISA this year is gone permanently\" \u2014 has no caption delivery data (N/A across all caption variables), meaning it runs as silent text-free audio over a blurred bank statement, giving a 2am thumb-scroller zero visual anchor to arrest the scroll in the first 266ms before the hook even begins. Change: implement word-by-word caption reveals on the hook line at 2.8 words/sec, bold weight, 72px, white with black stroke.",
+    "hook_wps": "N/A",
+    "pre_hook_silence_ms": 266,
+    "duration_s": 76.3,
+    "loop_a_score": null,
+    "loop_b_score": null
+  },
+  {
+    "timestamp": "2026-03-17T08:38:20.416466",
+    "slot": 2,
+    "audit": "The single most impactful weakness is the CTA-to-affiliate mismatch: the mechanism builds anxiety around a tax-efficiency problem (ISA allowance loss), but the move lands on eToro \u2014 a trading platform \u2014 with zero bridging logic explaining why a retail CFD broker solves an ISA deadline problem. The viewer's tension is manufactured around HMRC rules, then discharged onto an unrelated product, breaking the chain at its most critical link. For the next slot, insert one explicit bridging sentence between mechanism and move: \"eToro's Stocks ISA lets you deploy your allowance before April 5th directly from your phone.\"",
+    "hook_wps": "N/A",
+    "pre_hook_silence_ms": 190,
+    "duration_s": 73.1,
+    "loop_a_score": null,
+    "loop_b_score": null
+  },
+  {
+    "timestamp": "2026-03-17T11:07:36.820736",
+    "slot": 3,
+    "audit": "The hook is doing zero perceptual work because \"Every pound you didn't put in an ISA this year is gone permanently\" lands as abstract loss with no sensory anchor \u2014 at 2am, loss aversion only fires when the viewer can picture *their* money, not a generalised concept. The bank statement visual should be doing this job but it's blurred and pulling *back*, creating distance at the exact moment you need proximity. Next slot: reverse the Ken Burns direction \u2014 slow push *in* from 100% to 120%, closing distance on the figures rather than retreating from them.",
+    "hook_wps": "N/A",
+    "pre_hook_silence_ms": 261,
+    "duration_s": 74.2,
+    "loop_a_score": null,
+    "loop_b_score": null
+  },
+  {
+    "timestamp": "2026-03-17T13:36:55.968159",
+    "slot": 4,
+    "audit": "The hook is undelivered \u2014 \"Every pound you didn't put in an ISA this year is gone permanently\" has no recorded delivery speed, no caption events, and no reveal mechanism, meaning the single sharpest line in the brief hits the viewer as silence over a blurry bank statement with zero text reinforcement, wasting the one moment that stops a scroll. For the next slot, caption the hook as a single full-screen text pop at 600ms duration, white bold on black, no fade.",
+    "hook_wps": "N/A",
+    "pre_hook_silence_ms": 261,
+    "duration_s": 74.0,
+    "loop_a_score": null,
+    "loop_b_score": null
+  },
+  {
+    "timestamp": "2026-03-17T16:08:32.254920",
+    "slot": 5,
+    "audit": "The hook \u2014 \"Every pound you didn't put in an ISA this year is gone permanently\" \u2014 is abstract loss framing that fails at 2am because it requires the viewer to mentally calculate their own unused allowance before feeling anything. There is no concrete anchor: no number, no deadline proximity, no visceral specificity. For the next slot, rewrite the hook to lead with a specific pound figure tied to the deadline: \"You have \u00a320,000 sitting unused \u2014 and in 19 days, HMRC takes it off the table forever.\"",
+    "hook_wps": "N/A",
+    "pre_hook_silence_ms": 303,
+    "duration_s": 78.5,
+    "loop_a_score": null,
+    "loop_b_score": null
+  },
+  {
+    "timestamp": "2026-03-17T18:37:54.088331",
+    "slot": 6,
+    "audit": "The weakest link is mechanism_specificity \u2014 the copy states \"every pound inside it\" is protected from income tax and capital gains but the sentence is incomplete, cutting off mid-clause, which means the single most persuasive proof point the viewer needs to justify action never lands. An incomplete mechanism is not a mechanism; it is noise that confirms nothing. For the next slot, complete the mechanism clause in full: name both tax protections explicitly, attach a concrete annual figure (\u00a320,000), and deliver it as one unbroken sentence before the CTA.",
+    "hook_wps": "N/A",
+    "pre_hook_silence_ms": "N/A",
+    "duration_s": 81.1,
+    "loop_a_score": null,
+    "loop_b_score": null
+  },
+  {
+    "timestamp": "2026-03-18T06:04:32.266834",
+    "slot": 1,
+    "audit": "CEO AUDIT Slot 1: Pre-hook silence is 261ms \u2014 below the 400ms minimum needed for the first frame to register before audio begins. Next: increase pre_hook_silence_ms to 600ms and reduce MECHANISM word budget by 10 words to allow breath before the mechanism explanation.",
+    "hook_wps": "N/A",
+    "pre_hook_silence_ms": 261,
+    "duration_s": 78.3,
+    "loop_a_score": null,
+    "loop_b_score": null
+  },
+  {
+    "timestamp": "2026-03-18T08:36:29.263448",
+    "slot": 2,
+    "audit": "CEO AUDIT Slot 2: Pre-hook silence is 261ms \u2014 below the 400ms minimum needed for the first frame to register before audio begins. Next: increase pre_hook_silence_ms to 600ms and reduce MECHANISM word budget by 10 words to allow breath before the mechanism explanation.",
+    "hook_wps": "N/A",
+    "pre_hook_silence_ms": 261,
+    "duration_s": 77.8,
+    "loop_a_score": null,
+    "loop_b_score": null
+  },
+  {
+    "timestamp": "2026-03-18T13:40:16.821565",
+    "slot": 4,
+    "audit": "CEO AUDIT Slot 4: Pre-hook silence is 261ms \u2014 below the 400ms minimum needed for the first frame to register before audio begins. Next: increase pre_hook_silence_ms to 600ms and reduce MECHANISM word budget by 10 words to allow breath before the mechanism explanation.",
+    "hook_wps": "N/A",
+    "pre_hook_silence_ms": 261,
+    "duration_s": 74.9,
+    "loop_a_score": null,
+    "loop_b_score": null
+  },
+  {
+    "timestamp": "2026-03-18T16:07:56.842255",
+    "slot": 5,
+    "audit": "CEO AUDIT Slot 5: Pre-hook silence is 266ms \u2014 below the 400ms minimum needed for the first frame to register before audio begins. Next: increase pre_hook_silence_ms to 600ms and reduce MECHANISM word budget by 10 words to allow breath before the mechanism explanation.",
+    "hook_wps": "N/A",
+    "pre_hook_silence_ms": 266,
+    "duration_s": 78.7,
+    "loop_a_score": null,
+    "loop_b_score": null
+  },
+  {
+    "timestamp": "2026-03-19T06:04:31.791794",
+    "slot": 1,
+    "audit": "CEO AUDIT Slot 1: Pre-hook silence is 261ms \u2014 below the 400ms minimum needed for the first frame to register before audio begins. Next: increase pre_hook_silence_ms to 600ms and reduce MECHANISM word budget by 10 words to allow breath before the mechanism explanation.",
+    "hook_wps": "N/A",
+    "pre_hook_silence_ms": 261,
+    "duration_s": 78.6,
+    "loop_a_score": null,
+    "loop_b_score": null
+  },
+  {
+    "timestamp": "2026-03-19T08:36:39.573052",
+    "slot": 2,
+    "audit": "CEO AUDIT Slot 2: Pre-hook silence is 266ms \u2014 below the 400ms minimum needed for the first frame to register before audio begins. Next: increase pre_hook_silence_ms to 600ms and reduce MECHANISM word budget by 10 words to allow breath before the mechanism explanation.",
+    "hook_wps": "N/A",
+    "pre_hook_silence_ms": 266,
+    "duration_s": 78.4,
+    "loop_a_score": null,
+    "loop_b_score": null
+  },
+  {
+    "timestamp": "2026-03-19T11:08:00.619244",
+    "slot": 3,
+    "audit": "CEO AUDIT Slot 3: Pre-hook silence is 138ms \u2014 below the 400ms minimum needed for the first frame to register before audio begins. Next: increase pre_hook_silence_ms to 600ms and reduce MECHANISM word budget by 10 words to allow breath before the mechanism explanation.",
+    "hook_wps": "N/A",
+    "pre_hook_silence_ms": 138,
+    "duration_s": 77.1,
+    "loop_a_score": null,
+    "loop_b_score": null
+  },
+  {
+    "timestamp": "2026-03-19T13:40:39.298536",
+    "slot": 4,
+    "audit": "CEO AUDIT Slot 4: Pre-hook silence is 330ms \u2014 below the 400ms minimum needed for the first frame to register before audio begins. Next: increase pre_hook_silence_ms to 600ms and reduce MECHANISM word budget by 10 words to allow breath before the mechanism explanation.",
+    "hook_wps": "N/A",
+    "pre_hook_silence_ms": 330,
+    "duration_s": 78.5,
+    "loop_a_score": null,
+    "loop_b_score": null
+  },
+  {
+    "timestamp": "2026-03-19T16:08:09.304928",
+    "slot": 5,
+    "audit": "CEO AUDIT Slot 5: Pre-hook silence is 330ms \u2014 below the 400ms minimum needed for the first frame to register before audio begins. Next: increase pre_hook_silence_ms to 600ms and reduce MECHANISM word budget by 10 words to allow breath before the mechanism explanation.",
+    "hook_wps": "N/A",
+    "pre_hook_silence_ms": 330,
+    "duration_s": 79.7,
+    "loop_a_score": null,
+    "loop_b_score": null
+  },
+  {
+    "timestamp": "2026-03-19T18:37:59.326526",
+    "slot": 6,
+    "audit": "CEO AUDIT Slot 6: Video is 79.5s \u2014 past the 60-75s mobile attention window; the last 15s are viewed by a fraction of the hook audience. Next: increase pre_hook_silence_ms to 600ms and reduce MECHANISM word budget by 10 words to allow breath before the mechanism explanation.",
+    "hook_wps": "N/A",
+    "pre_hook_silence_ms": "N/A",
+    "duration_s": 79.5,
+    "loop_a_score": null,
+    "loop_b_score": null
+  },
+  {
+    "timestamp": "2026-03-20T11:08:10.153569",
+    "slot": 3,
+    "audit": "CEO AUDIT Slot 3: Pre-hook silence is 261ms \u2014 below the 400ms minimum needed for the first frame to register before audio begins. Next: increase pre_hook_silence_ms to 600ms and reduce MECHANISM word budget by 10 words to allow breath before the mechanism explanation.",
+    "hook_wps": "N/A",
+    "pre_hook_silence_ms": 261,
+    "duration_s": 74.3,
+    "loop_a_score": null,
+    "loop_b_score": null
+  },
+  {
+    "timestamp": "2026-03-21T16:07:36.673385",
+    "slot": 5,
+    "audit": "The affiliate lands as a naked product drop \u2014 \"What financially-aware people use is Fidelity\" is a sales line wearing a recommendation costume, and a 2am scroller's fraud radar fires the instant the sentence resolves. The mechanism earns genuine attention by explaining HMRC permanence, then the move wastes that trust by naming the product without a bridging proof layer. Next slot: insert one concrete specificity before the CTA \u2014 a fee figure, a setup time, or a single functional differentiator \u2014 so the affiliate arrives as evidence, not conclusion.",
+    "hook_wps": "N/A",
+    "pre_hook_silence_ms": 261,
+    "duration_s": 75.2,
+    "loop_a_score": null,
+    "loop_b_score": null
+  },
+  {
+    "timestamp": "2026-03-21T18:37:18.978094",
+    "slot": 6,
+    "audit": "The affiliate CTA is the weakest link \u2014 \"what financially-aware people use to navigate this is Fidelity Stocks & Shares ISA\" is a limp, passive construction that collapses the urgency built by the mechanism into a soft product mention, breaking the chain between the permanent-loss framing and the action. The viewer feels sold at, not guided. Next slot: rewrite the CTA as a direct imperative tied to the deadline \u2014 \"Open your Fidelity Stocks & Shares ISA before April 5\" \u2014 active, deadline-anchored, no hedging.",
+    "hook_wps": "N/A",
+    "pre_hook_silence_ms": "N/A",
+    "duration_s": 76.2,
+    "loop_a_score": null,
+    "loop_b_score": null
+  },
+  {
+    "timestamp": "2026-03-21T21:06:57.880780",
+    "slot": 7,
+    "audit": "The affiliate appears as the conclusion \u2014 \"what financially-aware people use is Fidelity\" \u2014 which collapses the mechanism into a sales pitch before the viewer has internalized the loss. The asymmetry (permanent expiry) is the hook's real weapon, but it's never converted into visceral personal consequence before the CTA fires. For the next slot, the mechanism block gets a single inserted line: \"If you have \u00a320,000 undeployed right now, that shelter disappears in 14 days and never returns\" \u2014 placed before the affiliate is named.",
+    "hook_wps": "N/A",
+    "pre_hook_silence_ms": "N/A",
+    "duration_s": 75.2,
+    "loop_a_score": null,
+    "loop_b_score": null
+  },
+  {
+    "timestamp": "2026-03-23T21:05:55.145725",
+    "slot": 7,
+    "audit": "The mechanism body is truncated mid-sentence \u2014 \"flooding cortisol to\" cuts before delivering the payoff, meaning the viewer never receives the neurological explanation that justifies the hook's bold claim, leaving the trauma loop premise unverified and the CTA emotionally unearned. A viewer at 2am will not drop a \ud83d\udc41\ufe0f for a mechanism that doesn't close. For the next slot, the mechanism body extends to complete the cortisol sentence and adds one concrete behavioral consequence \u2014 minimum two full sentences delivered before the CTA fires.",
+    "hook_wps": "N/A",
+    "pre_hook_silence_ms": "N/A",
+    "duration_s": 34.2,
+    "loop_a_score": null,
+    "loop_b_score": null
+  }
+]

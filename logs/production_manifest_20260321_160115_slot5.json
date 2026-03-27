@@ -1,0 +1,276 @@
+{
+  "timestamp": "2026-03-21T16:01:15.688817",
+  "slot": 5,
+  "sound_profile": {
+    "sub_bass_db": -18,
+    "sub_bass_hz": 40,
+    "ambience_type": "server_hum"
+  },
+  "asymmetry": "The UK ISA allowance \u2014 \u00a320,000 tax-free \u2014 permanently expires April 5. Every pound not sheltered inside an ISA this tax year is gone from the wrapper forever. HMRC does not carry unused allowance forward. Banks do not remind you. The deadline is in 14 days. This is not manufactured urgency \u2014 it is statute.",
+  "affiliate": {
+    "name": "Fidelity Stocks & Shares ISA",
+    "url": "fidelity.co.uk/isa"
+  },
+  "script": {
+    "intrusion": "Every pound you didn't put in an ISA this year is gone permanently.",
+    "weight": "The annual ISA allowance is \u00a320,000. If you don't use it by April 5th, that tax-free capacity is gone permanently \u2014 not carried forward, not recovered. HMRC does not send a reminder.",
+    "mechanism": "HMRC created the ISA wrapper in 1999. Each April 5th, any unused allowance disappears \u2014 permanently. It does not roll over. The wrapper itself protects every pound inside it from income tax and capital gains tax for life. But HMRC does not remind you. Your bank does not remind you. The deadline is structural. The silence around it is deliberate.",
+    "proof": "HMRC's ISA statistics, published annually, show \u00a33.7 billion in unclaimed ISA allowance in the 2022-23 tax year. That is permanent, irrecoverable tax",
+    "comment_trigger": "How much of your \u00a320,000 ISA allowance have you used this year?",
+    "move": "What financially-aware people use to navigate this is Fidelity Stocks & Shares"
+  },
+  "caption_text": "Every pound didn't.",
+  "visual_direction": {
+    "frame_description": "Extreme close-up of a bank statement, numbers slightly out of focus, single column of figures barely visible",
+    "light_source": "Single overhead fluorescent tube, directly above, casting sharp downward shadows",
+    "colour_temperature": "4200K, cold blue-white dominant",
+    "motion": "Ken Burns: slow pull back from 120% to 100%, revealing more of the document, 75 seconds duration",
+    "shadow_ratio": "60% of frame in shadow",
+    "kling_prompt": "extreme close-up bank statement paper texture, cold fluorescent overhead light, sharp downward shadows, numbers barely legible, cinematic 9:16 vertical, dark atmosphere, documentary realism, no faces, no people",
+    "negative_prompt": "faces, people, warm colours, sunlight, lifestyle imagery, text overlays, happy, bright, colorful, outdoors"
+  },
+  "voice_settings": {
+    "voice": "Josh",
+    "stability": 0.4,
+    "similarity": 0.88,
+    "style": 0.7,
+    "speed": 0.88,
+    "pre_script_silence_ms": 800,
+    "post_weight_silence_ms": 400,
+    "post_proof_silence_ms": 400
+  },
+  "visual_source": "AI",
+  "audio": "/Users/kolly/HARBINGERHQ/output/mixed_audio_20260321_160115_slot5.mp3",
+  "video": "/Users/kolly/HARBINGERHQ/output/post_20260321_160115_slot5.mp4",
+  "quality_check": {
+    "file_size_mb": 22.72,
+    "size_ok": true,
+    "resolution": "1080x1920",
+    "resolution_ok": true,
+    "duration_s": 75.2,
+    "duration_ok": true
+  },
+  "prompt_metadata": {
+    "visual_dna": {
+      "primary_aesthetic": "surreal_temporal",
+      "aesthetic_label": "Surreal Temporal",
+      "aesthetic_plan": {
+        "mode": "single",
+        "primary": "surreal_temporal",
+        "shot_aesthetics": {
+          "HOOK": "surreal_temporal",
+          "WEIGHT": "surreal_temporal",
+          "INTRUSION": "surreal_temporal",
+          "MECHANISM": "surreal_temporal",
+          "PROOF": "surreal_temporal",
+          "STAT_REVEAL": "surreal_temporal",
+          "MOVE": "surreal_temporal"
+        },
+        "signals": {
+          "urgency_low": 0.0,
+          "urgency_mid": 0.9090909090909091,
+          "urgency_high": 0.0,
+          "urgency_extreme": 0.0,
+          "topic_finance": 1.0,
+          "topic_isa": 1.0,
+          "topic_pension": 0.0,
+          "topic_savings": 0.0,
+          "topic_mortgage": 0.0,
+          "topic_crypto": 0.0,
+          "topic_investment": 0.1,
+          "topic_wealth_gap": 0.1,
+          "tone_revelation": 0.3,
+          "tone_evidence": 1.0,
+          "tone_anger": 0.1,
+          "tone_injustice": 0.1,
+          "tone_weight": 0.3,
+          "tone_aspiration": 0.2,
+          "tone_authority": 1.0,
+          "tone_relatable": 1.0,
+          "tone_investigative": 0.2,
+          "tone_surprise": 0.2,
+          "tone_mechanism": 1.0,
+          "tone_historical": 0.1,
+          "tone_data": 1.0,
+          "tone_move": 1.0
+        }
+      },
+      "world": "environments that defy physics \u2014 reversed causality, impossible scale, dreamscape logic, events out of sequence",
+      "camera_system": "Phantom Flex 4K at extreme frame rates, perspective geometry deliberately broken",
+      "film": "Fuji Superia 800 pushed \u2014 colour shifts during motion, temporal colour temperature drift, blur as intent",
+      "lighting_primary": "golden hour frozen in time \u2014 light that doesn't change as camera moves",
+      "lighting_secondary": "shadow without source, light without origin \u2014 physically incorrect but emotionally right",
+      "motion_character": "time dilation \u2014 events appear slow-motion, gravity optional, camera defies physical space",
+      "anchor_text": "emotional register + colour temperature + temporal distortion level consistency",
+      "full_anchor": "[Visual DNA \u2014 embed unchanged in every clip] emotional register + colour temperature + temporal distortion level consistency. Fuji Superia 800 pushed \u2014 colour shifts during motion, temporal colour temperature drift, blur as intent. Temporal consistency across all clips.",
+      "seed_phrase": "f4070dc3",
+      "topic": "isa"
+    },
+    "aesthetic_plan": {
+      "mode": "single",
+      "primary": "surreal_temporal",
+      "shot_aesthetics": {
+        "HOOK": "surreal_temporal",
+        "WEIGHT": "surreal_temporal",
+        "INTRUSION": "surreal_temporal",
+        "MECHANISM": "surreal_temporal",
+        "PROOF": "surreal_temporal",
+        "STAT_REVEAL": "surreal_temporal",
+        "MOVE": "surreal_temporal"
+      },
+      "signals": {
+        "urgency_low": 0.0,
+        "urgency_mid": 0.9090909090909091,
+        "urgency_high": 0.0,
+        "urgency_extreme": 0.0,
+        "topic_finance": 1.0,
+        "topic_isa": 1.0,
+        "topic_pension": 0.0,
+        "topic_savings": 0.0,
+        "topic_mortgage": 0.0,
+        "topic_crypto": 0.0,
+        "topic_investment": 0.1,
+        "topic_wealth_gap": 0.1,
+        "tone_revelation": 0.3,
+        "tone_evidence": 1.0,
+        "tone_anger": 0.1,
+        "tone_injustice": 0.1,
+        "tone_weight": 0.3,
+        "tone_aspiration": 0.2,
+        "tone_authority": 1.0,
+        "tone_relatable": 1.0,
+        "tone_investigative": 0.2,
+        "tone_surprise": 0.2,
+        "tone_mechanism": 1.0,
+        "tone_historical": 0.1,
+        "tone_data": 1.0,
+        "tone_move": 1.0
+      }
+    },
+    "shot_list": [
+      {
+        "index": 0,
+        "type": "HOOK",
+        "duration_s": 5,
+        "brief_section": "INTRUSION",
+        "intent": "Stop the scroll. Establish tension before explanation.",
+        "source_text": "",
+        "has_human": false,
+        "money_value": null,
+        "prompt": "Shot 1 (0\u20135s): Aesthetic: Surreal Temporal. environments that defy physics \u2014 reversed causality, impossible scale, dreamscape logic, events out of sequence. Empty office desk. Untouched ISA paperwork sits under a paperweight. A phone screen lights up \u2014 notification unseen. Camera: Phantom Flex 4K at extreme frame rates, perspective geometry deliberately broken. Motion: time dilation \u2014 events appear slow-motion, gravity optional, camera defies physical space. Lighting: golden hour frozen in time \u2014 light that doesn't change as camera moves. shadow without source, light without origin \u2014 physically incorrect but emotionally right. Film stock: Fuji Superia 800 pushed \u2014 colour shifts during motion, temporal colour temperature drift, blur as intent. Atmosphere: at 3-second mark, distant city light shifts slightly as cloud passes, barely perceptible ambient change. [Visual DNA \u2014 embed unchanged in every clip] emotional register + colour temperature + temporal distortion level consistency. Fuji Superia 800 pushed \u2014 colour shifts during motion, temporal colour temperature drift, blur as intent. Temporal consistency across all clips. Avoid: watermarks, text overlays, subtitle artifacts, camera jitter, morphing surfaces, flickering light, inconsistent shadows. Also avoid: normal time perception, consistent physics, conventional camera logic, photorealistic accuracy, static objects.",
+        "negative_prompt": "blur, distortion, watermark, text overlay, low quality, compression artifacts, flickering, inconsistent lighting, morphing faces, morphing textures, oversaturation, plastic skin, smooth waxy texture, artificial bokeh halos, readable account numbers, readable financial data, screen moir\u00e9, normal time perception, consistent physics, conventional camera logic, photorealistic accuracy, static objects",
+        "component_registry": {
+          "shot_index": 0,
+          "shot_type": "HOOK",
+          "aesthetic_key": "surreal_temporal",
+          "aesthetic_label": "Surreal Temporal",
+          "overrides_camera": true,
+          "components": [
+            "Phantom Flex 4K at extreme frame rates, perspective geometry deliberately broken",
+            "time dilation \u2014 events appear slow-motion, gravity optional, camera defies physical space",
+            "golden hour frozen in time \u2014 light that doesn't change as camera moves. shadow without source, light without origin \u2014 physically incorrect but emotionally right",
+            "Fuji Superia 800 pushed \u2014 colour shifts during motion, temporal colour temperature drift, blur as intent",
+            "at 3-second mark, distant city light shifts slightly as cloud passes, barely perceptible ambient change"
+          ],
+          "action_line": "Empty office desk. Untouched ISA paperwork sits under a paperweight. A phone screen lights up \u2014 notification unseen.",
+          "optics": "Phantom Flex 4K at extreme frame rates, perspective geometry deliberately broken",
+          "motion": "time dilation \u2014 events appear slow-motion, gravity optional, camera defies physical space",
+          "lighting": "golden hour frozen in time \u2014 light that doesn't change as camera moves. shadow without source, light without origin \u2014 physically incorrect but emotionally right",
+          "film_stock": "Fuji Superia 800 pushed \u2014 colour shifts during motion, temporal colour temperature drift, blur as intent",
+          "dna_anchor": "emotional register + colour temperature + temporal distortion level consistency"
+        },
+        "aesthetic_key": "surreal_temporal",
+        "aesthetic_label": "Surreal Temporal",
+        "fal_params": {
+          "duration": 5,
+          "aspect_ratio": "9:16",
+          "mode": "pro"
+        }
+      },
+      {
+        "index": 1,
+        "type": "MECHANISM",
+        "duration_s": 5,
+        "brief_section": "MECHANISM",
+        "intent": "Show how it works. Documentary observation, information discovered.",
+        "source_text": "",
+        "has_human": false,
+        "money_value": null,
+        "prompt": "Shot 2: Aesthetic: Surreal Temporal. environments that defy physics \u2014 reversed causality, impossible scale, dreamscape logic, events out of sequence. ISA wrapper mechanism shown through simple visual metaphor \u2014 money inside protected versus money outside taxed. Camera: Phantom Flex 4K at extreme frame rates, perspective geometry deliberately broken. Motion: time dilation \u2014 events appear slow-motion, gravity optional, camera defies physical space. Lighting: golden hour frozen in time \u2014 light that doesn't change as camera moves. shadow without source, light without origin \u2014 physically incorrect but emotionally right. Film stock: Fuji Superia 800 pushed \u2014 colour shifts during motion, temporal colour temperature drift, blur as intent. Atmosphere: light quality static throughout, no atmospheric progression. [Visual DNA \u2014 embed unchanged in every clip] emotional register + colour temperature + temporal distortion level consistency. Fuji Superia 800 pushed \u2014 colour shifts during motion, temporal colour temperature drift, blur as intent. Temporal consistency across all clips. Avoid: watermarks, text overlays, subtitle artifacts, camera jitter, morphing surfaces, flickering light, inconsistent shadows. Also avoid: normal time perception, consistent physics, conventional camera logic, photorealistic accuracy, static objects.",
+        "negative_prompt": "blur, distortion, watermark, text overlay, low quality, compression artifacts, flickering, inconsistent lighting, morphing faces, morphing textures, oversaturation, plastic skin, smooth waxy texture, artificial bokeh halos, readable account numbers, readable financial data, screen moir\u00e9, normal time perception, consistent physics, conventional camera logic, photorealistic accuracy, static objects",
+        "component_registry": {
+          "shot_index": 1,
+          "shot_type": "MECHANISM",
+          "aesthetic_key": "surreal_temporal",
+          "aesthetic_label": "Surreal Temporal",
+          "overrides_camera": true,
+          "components": [
+            "Phantom Flex 4K at extreme frame rates, perspective geometry deliberately broken",
+            "time dilation \u2014 events appear slow-motion, gravity optional, camera defies physical space",
+            "golden hour frozen in time \u2014 light that doesn't change as camera moves. shadow without source, light without origin \u2014 physically incorrect but emotionally right",
+            "Fuji Superia 800 pushed \u2014 colour shifts during motion, temporal colour temperature drift, blur as intent",
+            "light quality static throughout, no atmospheric progression"
+          ],
+          "action_line": "ISA wrapper mechanism shown through simple visual metaphor \u2014 money inside protected versus money outside taxed.",
+          "optics": "Phantom Flex 4K at extreme frame rates, perspective geometry deliberately broken",
+          "motion": "time dilation \u2014 events appear slow-motion, gravity optional, camera defies physical space",
+          "lighting": "golden hour frozen in time \u2014 light that doesn't change as camera moves. shadow without source, light without origin \u2014 physically incorrect but emotionally right",
+          "film_stock": "Fuji Superia 800 pushed \u2014 colour shifts during motion, temporal colour temperature drift, blur as intent",
+          "dna_anchor": "emotional register + colour temperature + temporal distortion level consistency"
+        },
+        "aesthetic_key": "surreal_temporal",
+        "aesthetic_label": "Surreal Temporal",
+        "fal_params": {
+          "duration": 5,
+          "aspect_ratio": "9:16",
+          "mode": "pro"
+        }
+      },
+      {
+        "index": 2,
+        "type": "MOVE",
+        "duration_s": 5,
+        "brief_section": "MOVE",
+        "intent": "Resolution energy. Forward motion. The action the viewer must take.",
+        "source_text": "",
+        "has_human": false,
+        "money_value": null,
+        "prompt": "Shot 3: Aesthetic: Surreal Temporal. environments that defy physics \u2014 reversed causality, impossible scale, dreamscape logic, events out of sequence. Person at a laptop. ISA application page open. Cursor moves. The action is being taken. Camera moves with the resolution. Camera: Phantom Flex 4K at extreme frame rates, perspective geometry deliberately broken. Motion: time dilation \u2014 events appear slow-motion, gravity optional, camera defies physical space. Lighting: golden hour frozen in time \u2014 light that doesn't change as camera moves. shadow without source, light without origin \u2014 physically incorrect but emotionally right. Film stock: Fuji Superia 800 pushed \u2014 colour shifts during motion, temporal colour temperature drift, blur as intent. Atmosphere: at 3-second mark, distant city light shifts slightly as cloud passes, barely perceptible ambient change. [Visual DNA \u2014 embed unchanged in every clip] emotional register + colour temperature + temporal distortion level consistency. Fuji Superia 800 pushed \u2014 colour shifts during motion, temporal colour temperature drift, blur as intent. Temporal consistency across all clips. Avoid: watermarks, text overlays, subtitle artifacts, camera jitter, morphing surfaces, flickering light, inconsistent shadows. Also avoid: normal time perception, consistent physics, conventional camera logic, photorealistic accuracy, static objects.",
+        "negative_prompt": "blur, distortion, watermark, text overlay, low quality, compression artifacts, flickering, inconsistent lighting, morphing faces, morphing textures, oversaturation, plastic skin, smooth waxy texture, artificial bokeh halos, readable account numbers, readable financial data, screen moir\u00e9, normal time perception, consistent physics, conventional camera logic, photorealistic accuracy, static objects",
+        "component_registry": {
+          "shot_index": 2,
+          "shot_type": "MOVE",
+          "aesthetic_key": "surreal_temporal",
+          "aesthetic_label": "Surreal Temporal",
+          "overrides_camera": true,
+          "components": [
+            "Phantom Flex 4K at extreme frame rates, perspective geometry deliberately broken",
+            "time dilation \u2014 events appear slow-motion, gravity optional, camera defies physical space",
+            "golden hour frozen in time \u2014 light that doesn't change as camera moves. shadow without source, light without origin \u2014 physically incorrect but emotionally right",
+            "Fuji Superia 800 pushed \u2014 colour shifts during motion, temporal colour temperature drift, blur as intent",
+            "at 3-second mark, distant city light shifts slightly as cloud passes, barely perceptible ambient change"
+          ],
+          "action_line": "Person at a laptop. ISA application page open. Cursor moves. The action is being taken. Camera moves with the resolution.",
+          "optics": "Phantom Flex 4K at extreme frame rates, perspective geometry deliberately broken",
+          "motion": "time dilation \u2014 events appear slow-motion, gravity optional, camera defies physical space",
+          "lighting": "golden hour frozen in time \u2014 light that doesn't change as camera moves. shadow without source, light without origin \u2014 physically incorrect but emotionally right",
+          "film_stock": "Fuji Superia 800 pushed \u2014 colour shifts during motion, temporal colour temperature drift, blur as intent",
+          "dna_anchor": "emotional register + colour temperature + temporal distortion level consistency"
+        },
+        "aesthetic_key": "surreal_temporal",
+        "aesthetic_label": "Surreal Temporal",
+        "fal_params": {
+          "duration": 5,
+          "aspect_ratio": "9:16",
+          "mode": "pro"
+        }
+      }
+    ],
+    "genome_generation": 2,
+    "seed_phrase": "f4070dc3",
+    "total_shots": 3,
+    "total_duration_s": 15,
+    "generated_at": "2026-03-21T16:01:16.227688"
+  },
+  "audio_alignment": true
+}

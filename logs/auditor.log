@@ -1,0 +1,50 @@
+[2026-03-22 14:25:02 UTC] [auditor] ============================================================
+[2026-03-22 14:25:02 UTC] [auditor] AUDITOR — 24-hour performance audit
+[2026-03-22 14:25:02 UTC] [auditor] ============================================================
+[2026-03-22 14:25:02 UTC] [auditor]   Auditing slot=7 niche=tech_ai post=?
+[2026-03-22 14:25:04 UTC] [auditor] LLM sentiment error: Error code: 404 - {'error': {'message': 'No endpoints found for meta-llama/llama-3.1-405b-instruct.', 'code': 404}, 'user_id': 'user_33sxpMMBfb9uoCdG5ceA6CpR7Nb'}
+[2026-03-22 14:25:04 UTC] [auditor]   → views=None | Unknown | action=none
+[2026-03-22 14:25:04 UTC] [auditor]      LLM unavailable.
+[2026-03-22 14:25:05 UTC] [auditor]   Auditing slot=6 niche=tech_ai post=?
+[2026-03-22 14:25:05 UTC] [auditor] LLM sentiment error: ReplicateError Details:
+status: 429
+detail: Request was throttled. Your rate limit for creating predictions is reduced to 6 requests per minute with a burst of 1 requests while you have less than $5.0 in credit. Your rate limit resets in ~9s.
+[2026-03-22 14:25:05 UTC] [auditor]   → views=None | Unknown | action=none
+[2026-03-22 14:25:05 UTC] [auditor]      LLM unavailable.
+[2026-03-22 14:25:06 UTC] [auditor]   Auditing slot=5 niche=tech_ai post=?
+[2026-03-22 14:25:06 UTC] [auditor] LLM sentiment error: ReplicateError Details:
+status: 429
+detail: Request was throttled. Your rate limit for creating predictions is reduced to 6 requests per minute with a burst of 1 requests while you have less than $5.0 in credit. Your rate limit resets in ~8s.
+[2026-03-22 14:25:06 UTC] [auditor]   → views=None | Unknown | action=none
+[2026-03-22 14:25:06 UTC] [auditor]      LLM unavailable.
+[2026-03-22 14:25:07 UTC] [auditor]   Auditing slot=1 niche=tech_ai post=?
+[2026-03-22 14:25:07 UTC] [auditor] LLM sentiment error: ReplicateError Details:
+status: 429
+detail: Request was throttled. Your rate limit for creating predictions is reduced to 6 requests per minute with a burst of 1 requests while you have less than $5.0 in credit. Your rate limit resets in ~7s.
+[2026-03-22 14:25:07 UTC] [auditor]   → views=None | Unknown | action=none
+[2026-03-22 14:25:07 UTC] [auditor]      LLM unavailable.
+[2026-03-22 14:25:08 UTC] [auditor]   Auditing slot=3 niche=tech_ai post=?
+[2026-03-22 14:25:08 UTC] [auditor] LLM sentiment error: ReplicateError Details:
+status: 429
+detail: Request was throttled. Your rate limit for creating predictions is reduced to 6 requests per minute with a burst of 1 requests while you have less than $5.0 in credit. Your rate limit resets in ~5s.
+[2026-03-22 14:25:08 UTC] [auditor]   → views=None | Unknown | action=none
+[2026-03-22 14:25:08 UTC] [auditor]      LLM unavailable.
+[2026-03-22 14:25:09 UTC] [auditor]   Auditing slot=6 niche=tech_ai post=?
+[2026-03-22 14:25:09 UTC] [auditor] LLM sentiment error: ReplicateError Details:
+status: 429
+detail: Request was throttled. Your rate limit for creating predictions is reduced to 6 requests per minute with a burst of 1 requests while you have less than $5.0 in credit. Your rate limit resets in ~4s.
+[2026-03-22 14:25:09 UTC] [auditor]   → views=None | Unknown | action=none
+[2026-03-22 14:25:09 UTC] [auditor]      LLM unavailable.
+[2026-03-22 14:25:10 UTC] [auditor]   Auditing slot=5 niche=tech_ai post=?
+[2026-03-22 14:25:11 UTC] [auditor] LLM sentiment error: ReplicateError Details:
+status: 429
+detail: Request was throttled. Your rate limit for creating predictions is reduced to 6 requests per minute with a burst of 1 requests while you have less than $5.0 in credit. Your rate limit resets in ~3s.
+[2026-03-22 14:25:11 UTC] [auditor]   → views=None | Unknown | action=none
+[2026-03-22 14:25:11 UTC] [auditor]      LLM unavailable.
+[2026-03-22 14:25:12 UTC] [auditor]   Auditing slot=4 niche=tech_ai post=?
+[2026-03-22 14:25:12 UTC] [auditor] LLM sentiment error: ReplicateError Details:
+status: 429
+detail: Request was throttled. Your rate limit for creating predictions is reduced to 6 requests per minute with a burst of 1 requests while you have less than $5.0 in credit. Your rate limit resets in ~2s.
+[2026-03-22 14:25:12 UTC] [auditor]   → views=None | Unknown | action=none
+[2026-03-22 14:25:12 UTC] [auditor]      LLM unavailable.
+[2026-03-22 14:25:13 UTC] [auditor] Audit complete: 8 new | 8 total in memory

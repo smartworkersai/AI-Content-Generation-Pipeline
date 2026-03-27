@@ -1,0 +1,81 @@
+{
+  "timestamp": "2026-03-24T11:15:46.185579",
+  "slot": 3,
+  "sound_profile": {
+    "sub_bass_db": -22.0,
+    "sub_bass_hz": 40,
+    "ambience_type": "server_hum"
+  },
+  "asymmetry": null,
+  "affiliate": "none_growth_mode",
+  "script": {
+    "hook": "Psychologists have known this negotiation trick for 40 years. It was never taught in schools because it is too effective.",
+    "body": "This psychological mechanism gives an unfair advantage in every conversation.",
+    "cta": "Follow \u2014 there's more they're not saying."
+  },
+  "caption_text": "Psychologists have known this negotiation trick for 40 years. It was never taugh",
+  "visual_direction": {
+    "kling_prompt": "extreme close-up eyes in deep shadow, single side light source, no full faces, 9:16 vertical cinematic, psychological thriller, deep shadows",
+    "negative_prompt": "faces, logos, text overlays, watermarks"
+  },
+  "voice_settings": {
+    "voice_id": "TxGEqnHWrfWFTfGW9XjX",
+    "stability": 0.6,
+    "similarity": 0.88,
+    "style": 0.55,
+    "speed": 0.85,
+    "voice": "Josh"
+  },
+  "visual_source": "broll_footage",
+  "audio": "/Users/kolly/HARBINGERHQ/output/voice_sfx_20260324_111546_slot3.mp3",
+  "video": "/Users/kolly/HARBINGERHQ/output/post_20260324_111546_slot3.mp4",
+  "quality_check": {
+    "file_size_mb": 27.62,
+    "size_ok": true,
+    "resolution": "1080x1920",
+    "resolution_ok": true,
+    "duration_s": 16.1,
+    "duration_ok": true
+  },
+  "prompt_metadata": {
+    "visual_source": "broll_footage",
+    "shot_list": []
+  },
+  "audio_alignment": true,
+  "ffmpeg_evolution_params": {
+    "zoom_factor": 0.15,
+    "ssml_break_secs": 0.8,
+    "prompt_version": 1
+  },
+  "script_variant": "short",
+  "qa_gate": {
+    "passed": true,
+    "checks": [
+      {
+        "name": "audio_stream",
+        "passed": true,
+        "detail": "Audio stream present: codec=aac channels=1"
+      },
+      {
+        "name": "volume",
+        "passed": true,
+        "detail": "Volume OK: max_volume=-1.3dB, mean=-18.7dB"
+      },
+      {
+        "name": "duration",
+        "passed": true,
+        "detail": "Duration OK: 16.1s"
+      },
+      {
+        "name": "file_size",
+        "passed": true,
+        "detail": "File size OK: 27.62MB"
+      }
+    ]
+  },
+  "garbage_collection": {
+    "deleted": 5,
+    "freed_mb": 1.0,
+    "errors": 0
+  }
+}

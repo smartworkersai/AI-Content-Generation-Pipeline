@@ -1,0 +1,1889 @@
+[2026-03-22 17:31:32 UTC] ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[2026-03-22 17:31:32 UTC]   HARBINGER BLITZ 8 — 2026-03-22 17:31:32 UTC
+[2026-03-22 17:31:32 UTC] ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[2026-03-22 17:31:32 UTC] 
+[2026-03-22 17:31:32 UTC]   [META] Running meta_manager scheduling check...
+/Users/kolly/HARBINGERHQ/scripts/agents/meta_manager.py:80: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  diff = datetime.datetime.utcnow() - dt
+/Users/kolly/HARBINGERHQ/scripts/agents/meta_manager.py:41: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  line = f"[{datetime.datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')} UTC] [meta_manager] {msg}"
+[2026-03-22 17:31:33 UTC] [meta_manager] All modules up to date — nothing scheduled this run
+[2026-03-22 17:31:33 UTC] 
+[2026-03-22 17:31:33 UTC]   [CANARY] Running shadowban canary check...
+/Users/kolly/HARBINGERHQ/scripts/agents/canary.py:156: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  now          = datetime.datetime.utcnow()
+[canary] Post ? is 1.5h old — too recent, skipping
+[canary] Post ? is 2.7h old — too recent, skipping
+[canary] Post ? is 2.8h old — too recent, skipping
+[canary] Post ? is 2.9h old — too recent, skipping
+[canary] Post ? is 2.9h old — too recent, skipping
+[canary] Report saved: canary_report.json
+[canary] Niches: {'tech_ai': None, 'dark_psychology': None, 'micro_mystery': None}
+[canary] No shadowban (0/0 zero-view posts checked)
+[2026-03-22 17:31:33 UTC]   [CANARY] No shadowban lock — proceeding.
+[2026-03-22 17:31:33 UTC] 
+[2026-03-22 17:31:33 UTC]   [HYDRA] Computing optimised niche distribution...
+[2026-03-22 17:31:33 UTC]   [HYDRA] NICHE_MAP updated: tech_ai tech_ai tech_ai dark_psychology dark_psychology dark_psychology micro_mystery micro_mystery
+[2026-03-22 17:31:33 UTC] 
+[2026-03-22 17:31:33 UTC]   [PREFLIGHT] Running API health checks...
+[preflight] Running pre-flight API checks...
+[preflight] ElevenLabs: 25,645 chars remaining (84,355/110,000)
+[preflight] WARN: BUFFER_ACCESS_TOKEN not set — skipping Buffer check
+[preflight] Results: {'elevenlabs': True, 'buffer': True}
+[preflight] PASS — all systems go
+[2026-03-22 17:31:35 UTC]   [PREFLIGHT] PASS — all systems go.
+[2026-03-22 17:31:35 UTC] 
+[2026-03-22 17:31:35 UTC] 
+[2026-03-22 17:31:35 UTC]   Slot 1 / 8  │  Niche: tech_ai  │  Sched: +3h from now
+[2026-03-22 17:31:35 UTC] ────────────────────────────────────────────────────────────
+[2026-03-22 17:31:35 UTC] [A] creative_synthesis.py --slot 1 --niche tech_ai
+/Users/kolly/HARBINGERHQ/scripts/agents/creative_synthesis.py:18: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  NOW       = datetime.datetime.utcnow()
+[2026-03-22 17:31:35 UTC] ============================================================
+[2026-03-22 17:31:35 UTC] AGENT 2: CREATIVE SYNTHESIS — VIRAL CONTENT (SLOT 1)
+[2026-03-22 17:31:35 UTC] ============================================================
+[2026-03-22 17:31:35 UTC] Niche: tech_ai (CLI override)
+[2026-03-22 17:31:35 UTC] Variant:  LONG (70-80 words (30 seconds spoken))
+[2026-03-22 17:31:35 UTC] Topic:     Peter Thiel, the billionaire venture capitalist and MAGA don.
+[2026-03-22 17:31:35 UTC] Framework: [Number] + [Category of Thing] + ['that feel illegal to know']
+[2026-03-22 17:31:35 UTC] Trigger:   Information asymmetry — viewer gains restricted knowledge ot
+[2026-03-22 17:31:35 UTC] Generating script via Replicate (attempt 1)...
+[2026-03-22 17:31:35 UTC] Replicate generation failed: Error code: 404 - {'error': {'message': 'No endpoints found for meta-llama/llama-3.1-405b-instruct.', 'code': 404}, 'user_id': 'user_33sxpMMBfb9uoCdG5ceA6CpR7Nb'} — using template fallback
+[2026-03-22 17:31:35 UTC] SSML: injected <break time="0.8s"/> after hook
+[2026-03-22 17:31:35 UTC] Script: 40 words
+[2026-03-22 17:31:35 UTC] Creative brief saved: creative_brief_20260322_173135_slot1.json
+[2026-03-22 17:31:35 UTC] TOPIC:  Peter Thiel, the billionaire venture capitalist and MAGA don.
+[2026-03-22 17:31:35 UTC] NICHE:  Tech / AI Hacks
+[2026-03-22 17:31:35 UTC] HOOK:   4 websites that feel illegal to know about in 2026.
+[2026-03-22 17:31:35 UTC] BODY:   Most people scroll past these tools every day without realising they exist. Once...
+[2026-03-22 17:31:35 UTC] ============================================================
+{
+  "timestamp": "2026-03-22T17:31:35.858852",
+  "slot": 1,
+  "niche": "tech_ai",
+  "niche_label": "Tech / AI Hacks",
+  "topic": "Peter Thiel, the billionaire venture capitalist and MAGA don.",
+  "framework": {
+    "structure": "[Number] + [Category of Thing] + ['that feel illegal to know']",
+    "trigger": "Information asymmetry \u2014 viewer gains restricted knowledge others don't have",
+    "example": "4 websites that feel illegal to know about in 2026."
+  },
+  "script": {
+    "hook": "4 websites that feel illegal to know about in 2026.",
+    "body": "Most people scroll past these tools every day without realising they exist. Once you know about them, you cannot un-know them.",
+    "cta": "Follow \u2014 there's more they're not saying."
+  },
+  "full_script_text": "4 websites that feel illegal to know about in 2026. <break time=\"0.8s\"/> Most people scroll past these tools every day without realising they exist. Once you know about them, you cannot un-know them. Follow \u2014 there's more they're not saying.",
+  "visual_direction": {
+    "kling_prompt": "dark glowing computer screens with code, futuristic AI interface, neon blue and green, no faces, 9:16 vertical cinematic, cyberpunk, high contrast",
+    "negative_prompt": "faces, logos, text overlays, watermarks"
+  },
+  "voice_settings": {
+    "voice_id": "TxGEqnHWrfWFTfGW9XjX",
+    "stability": 0.3,
+    "similarity": 0.88,
+    "style": 0.85,
+    "speed": 1.1,
+    "voice": "Josh"
+  },
+  "caption_text": "4 websites that feel illegal to know about in 2026.",
+  "affiliate": "none_growth_mode",
+  "script_variant": "long",
+  "compliance_checked": true
+}
+[2026-03-22 17:31:45 UTC] [A] PASS — creative brief generated
+[2026-03-22 17:31:45 UTC] [B] quality_assessor.py --slot 1 --niche tech_ai --max-retries 3
+/Users/kolly/HARBINGERHQ/scripts/agents/quality_assessor.py:29: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  NOW       = datetime.datetime.utcnow()
+[2026-03-22 17:31:46 UTC] [quality_assessor] ============================================================
+[2026-03-22 17:31:46 UTC] [quality_assessor] QUALITY ASSESSOR — SLOT 1  (max retries: 3)
+[2026-03-22 17:31:46 UTC] [quality_assessor] ============================================================
+[2026-03-22 17:31:46 UTC] [quality_assessor] PASS — brief 'creative_brief_20260322_173135_slot1.json' passed all checks
+[2026-03-22 17:31:46 UTC] [quality_assessor]   Words:   40
+[2026-03-22 17:31:46 UTC] [quality_assessor]   Hook:    4 websites that feel illegal to know about in 2026.
+[2026-03-22 17:31:46 UTC] [quality_assessor]   Niche:   Tech / AI Hacks
+[2026-03-22 17:31:46 UTC] [quality_assessor] ============================================================
+[2026-03-22 17:31:46 UTC] [B] PASS — script passed quality gate
+[2026-03-22 17:31:46 UTC] [C] production_agent.py --slot 1 --niche tech_ai
+/Users/kolly/HARBINGERHQ/scripts/agents/production_agent.py:24: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  NOW = datetime.datetime.utcnow()
+[2026-03-22 17:31:46 UTC] ============================================================
+[2026-03-22 17:31:46 UTC] AGENT 3: PRODUCTION (SLOT 1)
+[2026-03-22 17:31:46 UTC] ============================================================
+[2026-03-22 17:31:46 UTC] Loaded creative brief: creative_brief_20260322_173135_slot1.json
+[2026-03-22 17:31:46 UTC] Niche override: tech_ai (CLI)
+[2026-03-22 17:31:46 UTC] Niche:       Tech / AI Hacks
+[2026-03-22 17:31:46 UTC] Compliance: all disclosures present
+[2026-03-22 17:31:46 UTC]   Visual: B-roll mode (AI generation bypassed)
+[footage_sourcer] Video search: 'POV motorcycle canyon stunt reel no commentary'
+[footage_sourcer] Searching: 'POV motorcycle canyon stunt reel no commentary' (max 8)
+[footage_sourcer] Found 8 results
+[footage_sourcer]   Top result: DARKFEST 2020- WORLDS BIGGEST MTB JUMPS WITH NICO VINK (32,524,321 views)
+[footage_sourcer]   Dedup: skipping _6sHmSM1 (already in used_broll_log)
+[footage_sourcer]   Dedup: skipping cxxeRzfJ (already in used_broll_log)
+[footage_sourcer] Downloading video clip: BMW S1000RR “CHILL” NIGHT RIDE WITH THE BOYS
+[footage_sourcer]   offset=13.7s, duration=25s
+[footage_sourcer]   Downloaded file missing or too small
+[footage_sourcer] Video search: 'satisfying kinetic sand cutting ASMR 4k'
+[footage_sourcer] Searching: 'satisfying kinetic sand cutting ASMR 4k' (max 8)
+[footage_sourcer] Found 7 results
+[footage_sourcer]   Top result: Very Satisfying and Relaxing Compilation 109 Kinetic Sand AS (5,310,599 views)
+[footage_sourcer]   Dedup: skipping 8BYrvVee (already in used_broll_log)
+[footage_sourcer]   Dedup: skipping etp46Aca (already in used_broll_log)
+[footage_sourcer] Downloading video clip: 12 Hour Kinetic Sand ASMR No Music! Sand Cutting ASMR Sounds
+[footage_sourcer]   offset=12.7s, duration=25s
+[footage_sourcer]   Downloaded file missing or too small
+[footage_sourcer] Niche queries exhausted for 'tech_ai' — trying generic fallback queries
+[footage_sourcer] Searching: 'satisfying marble run loop 4k' (max 5)
+[footage_sourcer] Found 5 results
+[footage_sourcer] Downloading video clip: Marble Water Park
+[footage_sourcer]   offset=10.2s, duration=25s
+[footage_sourcer]   Video saved: footage_20260322_173147_X9bRXm0D.mp4 (8626KB)
+[footage_sourcer] Resized to 1080x1920: vertical_footage_20260322_173147_X9bRXm0D.mp4
+[2026-03-22 17:31:46 UTC]   B-roll sourced: vertical_footage_20260322_173147_X9bRXm0D.mp4 (34926KB)
+[2026-03-22 17:31:46 UTC] Generating audio via eleven_v3 (40 words, voice=TxGEqnHWrfWF...)
+[2026-03-22 17:31:46 UTC] Audio saved: audio_20260322_173146_slot1.mp3 (302 KB)
+[2026-03-22 17:31:46 UTC] Alignment data saved: audio_alignment_20260322_173146_slot1.json (241 chars)
+[2026-03-22 17:31:46 UTC] Tempo: applying atempo=1.10 to voiceover...
+[2026-03-22 17:31:46 UTC] Tempo: voice_tempo_20260322_173146_slot1.mp3
+[footage_sourcer] BGM cache already seeded for 'tech_ai': 1 file(s)
+[footage_sourcer] BGM search: 'fast synthwave instrumental royalty free'
+[footage_sourcer] Searching: 'fast synthwave instrumental royalty free' (max 5)
+[footage_sourcer] Found 5 results
+[footage_sourcer] Downloading BGM: Flow State - Chillstep & Synthwave for Deep Focus | Coding S
+[footage_sourcer]   BGM saved: bgm_20260322_173147_am1VJP0R.mp3 (704KB)
+[footage_sourcer]   BGM normalized to 10% volume: bgm_norm_20260322_173147_bgm_20260322_173147_am1VJP0R.mp3
+[2026-03-22 17:31:46 UTC] BGM sourced via footage_sourcer: bgm_norm_20260322_173147_bgm_20260322_173147_am1VJP0R.mp3
+[2026-03-22 17:31:46 UTC] Mixing audio layers (sub-bass 40Hz @ -18dB, ambience=yes)...
+[2026-03-22 17:31:46 UTC] Mixed audio saved: mixed_audio_20260322_173146_slot1.mp3
+[2026-03-22 17:31:46 UTC] Using mixed audio: mixed_audio_20260322_173146_slot1.mp3
+[2026-03-22 17:31:46 UTC] SFX: hook clicks layered at ['0.00s', '0.30s', '0.85s']
+[2026-03-22 17:31:46 UTC] Rendering: duration=18.5s, visual=Kling
+[caption_engine] Using ElevenLabs word-level timestamps (40 words, niche=tech_ai)
+[caption_engine] Generated 14 karaoke blocks (real_timestamps, font=Montserrat, niche=tech_ai)
+[2026-03-22 17:31:46 UTC] Captions: captions_20260322_173146_slot1.ass | 14 blocks | real_timestamps | font=Montserrat
+[2026-03-22 17:31:46 UTC]   Zoom factor: 0.150 (from evolution_params)
+[2026-03-22 17:31:46 UTC]   Style route:  Tech / AI Hacks | grade=eq=saturation=1.2:contrast=1.1 | vignette=off | noise=off
+[2026-03-22 17:31:46 UTC]   ASS subtitles: captions_20260322_173146_slot1.ass
+[2026-03-22 17:31:46 UTC]   CTA overlay: 'Follow for More' from t=15.0s
+[2026-03-22 17:31:46 UTC] FFmpeg: /opt/homebrew/opt/ffmpeg-full/bin/ffmpeg -y -stream_loop -1 -i /Users/kolly/HARBINGERHQ/output/vertical_footage_20260322_173147_X9bRXm0D.mp4 -itsoffset 0.5...
+[2026-03-22 17:31:46 UTC] Metadata stripped: 1 image files updated
+[2026-03-22 17:31:46 UTC] Render complete: post_20260322_173146_slot1.mp4
+[2026-03-22 17:31:46 UTC]   [INFO] file_size_mb: 11.71
+[2026-03-22 17:31:46 UTC]   [OK] size_ok: True
+[2026-03-22 17:31:46 UTC]   [INFO] resolution: 1080x1920
+[2026-03-22 17:31:46 UTC]   [OK] resolution_ok: True
+[2026-03-22 17:31:46 UTC]   [INFO] duration_s: 18.5
+[2026-03-22 17:31:46 UTC]   [OK] duration_ok: True
+[2026-03-22 17:31:46 UTC] Manifest saved: production_manifest_20260322_173146_slot1.json
+[2026-03-22 17:31:46 UTC] Archived:       post_20260322_173146_slot1.mp4
+[2026-03-22 17:31:46 UTC] 
+--- PRODUCTION SUMMARY ---
+[2026-03-22 17:31:46 UTC] Slot:        1
+[2026-03-22 17:31:46 UTC] Niche:       Tech / AI Hacks
+[2026-03-22 17:31:46 UTC] Visual:      B-roll
+[2026-03-22 17:31:46 UTC] Audio:       voice_sfx_20260322_173146_slot1.mp3
+[2026-03-22 17:31:46 UTC] Video:       post_20260322_173146_slot1.mp4
+[2026-03-22 17:31:46 UTC] Size:        11.71 MB
+[2026-03-22 17:31:46 UTC] Resolution:  1080x1920
+[2026-03-22 17:31:46 UTC] Duration:    18.5s
+[2026-03-22 17:31:46 UTC] All checks:  PASS
+[2026-03-22 17:31:46 UTC] Shots:       0 (genome gen —)
+[2026-03-22 17:31:46 UTC] Alignment:   real timestamps
+[2026-03-22 17:31:46 UTC] ============================================================
+[2026-03-22 17:31:46 UTC] Auto-publishing: distribute.py --slot 1
+[2026-03-22 17:31:46 UTC] distribute.py: FAILED (exit 1)
+[2026-03-22 17:31:46 UTC] BINGERHQ/scripts/archive/distribute.py", line 487, in <module>
+    main()
+  File "/Users/kolly/HARBINGERHQ/scripts/archive/distribute.py", line 458, in main
+    "compliance":     COMPLIANCE_DISCLOSURE,
+                      ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'COMPLIANCE_DISCLOSURE' is not defined
+{
+  "timestamp": "2026-03-22T17:31:46.496037",
+  "slot": 1,
+  "sound_profile": {
+    "sub_bass_db": -18,
+    "sub_bass_hz": 40,
+    "ambience_type": "server_hum"
+  },
+  "asymmetry": null,
+  "affiliate": "none_growth_mode",
+  "script": {
+    "hook": "4 websites that feel illegal to know about in 2026.",
+    "body": "Most people scroll past these tools every day without realising they exist. Once you know about them, you cannot un-know them.",
+    "cta": "Follow \u2014 there's more they're not saying."
+  },
+  "caption_text": "4 websites that feel illegal to know about in 2026.",
+  "visual_direction": {
+    "kling_prompt": "dark glowing computer screens with code, futuristic AI interface, neon blue and green, no faces, 9:16 vertical cinematic, cyberpunk, high contrast",
+    "negative_prompt": "faces, logos, text overlays, watermarks"
+  },
+  "voice_settings": {
+    "voice_id": "TxGEqnHWrfWFTfGW9XjX",
+    "stability": 0.3,
+    "similarity": 0.88,
+    "style": 0.85,
+    "speed": 1.1,
+    "voice": "Josh"
+  },
+  "visual_source": "broll_footage",
+  "audio": "/Users/kolly/HARBINGERHQ/output/voice_sfx_20260322_173146_slot1.mp3",
+  "video": "/Users/kolly/HARBINGERHQ/output/post_20260322_173146_slot1.mp4",
+  "quality_check": {
+    "file_size_mb": 11.71,
+    "size_ok": true,
+    "resolution": "1080x1920",
+    "resolution_ok": true,
+    "duration_s": 18.5,
+    "duration_ok": true
+  },
+  "prompt_metadata": {
+    "visual_source": "broll_footage",
+    "shot_list": []
+  },
+  "audio_alignment": true,
+  "ffmpeg_evolution_params": {
+    "zoom_factor": 0.15,
+    "ssml_break_secs": 0.8,
+    "prompt_version": 1
+  },
+  "script_variant": "long"
+}
+[2026-03-22 17:34:12 UTC] [C] PASS — rendered and dispatched to Buffer API
+[2026-03-22 17:34:12 UTC]   Duration: 157s
+[2026-03-22 17:34:12 UTC] 
+[2026-03-22 17:34:12 UTC]   Slot 2 / 8  │  Niche: tech_ai  │  Sched: +6h from now
+[2026-03-22 17:34:12 UTC] ────────────────────────────────────────────────────────────
+[2026-03-22 17:34:12 UTC] [A] creative_synthesis.py --slot 2 --niche tech_ai
+/Users/kolly/HARBINGERHQ/scripts/agents/creative_synthesis.py:18: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  NOW       = datetime.datetime.utcnow()
+[2026-03-22 17:34:12 UTC] ============================================================
+[2026-03-22 17:34:12 UTC] AGENT 2: CREATIVE SYNTHESIS — VIRAL CONTENT (SLOT 2)
+[2026-03-22 17:34:12 UTC] ============================================================
+[2026-03-22 17:34:12 UTC] Niche: tech_ai (CLI override)
+[2026-03-22 17:34:12 UTC] Variant:  SHORT (30-40 words (15 seconds spoken))
+[2026-03-22 17:34:12 UTC] Topic:     Peter Thiel, the billionaire venture capitalist and MAGA don.
+[2026-03-22 17:34:12 UTC] Framework: ['How to'] + [Aspirational Outcome] + ['using'] + [Unknown Free Method]
+[2026-03-22 17:34:12 UTC] Trigger:   Effort gap — same result with a fraction of the work
+[2026-03-22 17:34:12 UTC] Generating script via Replicate (attempt 1)...
+[2026-03-22 17:34:12 UTC] Replicate generation failed: Error code: 404 - {'error': {'message': 'No endpoints found for meta-llama/llama-3.1-405b-instruct.', 'code': 404}, 'user_id': 'user_33sxpMMBfb9uoCdG5ceA6CpR7Nb'} — using template fallback
+[2026-03-22 17:34:12 UTC] SSML: injected <break time="0.8s"/> after hook
+[2026-03-22 17:34:12 UTC] Script: 35 words
+[2026-03-22 17:34:12 UTC] Creative brief saved: creative_brief_20260322_173412_slot2.json
+[2026-03-22 17:34:12 UTC] TOPIC:  Peter Thiel, the billionaire venture capitalist and MAGA don.
+[2026-03-22 17:34:12 UTC] NICHE:  Tech / AI Hacks
+[2026-03-22 17:34:12 UTC] HOOK:   How to automate your entire Monday morning using one free AI nobody is using.
+[2026-03-22 17:34:12 UTC] BODY:   Most people scroll past these tools without realising what they are missing....
+[2026-03-22 17:34:12 UTC] ============================================================
+{
+  "timestamp": "2026-03-22T17:34:12.834745",
+  "slot": 2,
+  "niche": "tech_ai",
+  "niche_label": "Tech / AI Hacks",
+  "topic": "Peter Thiel, the billionaire venture capitalist and MAGA don.",
+  "framework": {
+    "structure": "['How to'] + [Aspirational Outcome] + ['using'] + [Unknown Free Method]",
+    "trigger": "Effort gap \u2014 same result with a fraction of the work",
+    "example": "How to automate your entire Monday morning using one free AI nobody is using."
+  },
+  "script": {
+    "hook": "How to automate your entire Monday morning using one free AI nobody is using.",
+    "body": "Most people scroll past these tools without realising what they are missing.",
+    "cta": "Comment KNEW if you already knew this."
+  },
+  "full_script_text": "How to automate your entire Monday morning using one free AI nobody is using. <break time=\"0.8s\"/> Most people scroll past these tools without realising what they are missing. Comment KNEW if you already knew this.",
+  "visual_direction": {
+    "kling_prompt": "dark glowing computer screens with code, futuristic AI interface, neon blue and green, no faces, 9:16 vertical cinematic, cyberpunk, high contrast",
+    "negative_prompt": "faces, logos, text overlays, watermarks"
+  },
+  "voice_settings": {
+    "voice_id": "TxGEqnHWrfWFTfGW9XjX",
+    "stability": 0.3,
+    "similarity": 0.88,
+    "style": 0.85,
+    "speed": 1.1,
+    "voice": "Josh"
+  },
+  "caption_text": "How to automate your entire Monday morning using one free AI nobody is using.",
+  "affiliate": "none_growth_mode",
+  "script_variant": "short",
+  "compliance_checked": true
+}
+[2026-03-22 17:34:13 UTC] [A] PASS — creative brief generated
+[2026-03-22 17:34:13 UTC] [B] quality_assessor.py --slot 2 --niche tech_ai --max-retries 3
+/Users/kolly/HARBINGERHQ/scripts/agents/quality_assessor.py:29: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  NOW       = datetime.datetime.utcnow()
+[2026-03-22 17:34:14 UTC] [quality_assessor] ============================================================
+[2026-03-22 17:34:14 UTC] [quality_assessor] QUALITY ASSESSOR — SLOT 2  (max retries: 3)
+[2026-03-22 17:34:14 UTC] [quality_assessor] ============================================================
+[2026-03-22 17:34:14 UTC] [quality_assessor] FAIL (attempt 1/4): no recognised CTA phrase found
+[2026-03-22 17:34:14 UTC] [quality_assessor] Triggering regeneration for slot 2 niche=tech_ai...
+[2026-03-22 17:34:14 UTC] [quality_assessor] Regenerating: /Users/kolly/.pyenv/versions/3.12.13/bin/python3 /Users/kolly/HARBINGERHQ/scripts/agents/creative_synthesis.py --slot 2 --niche tech_ai
+[2026-03-22 17:34:14 UTC] [quality_assessor] Regeneration succeeded
+[2026-03-22 17:34:14 UTC] [quality_assessor] PASS — brief 'creative_brief_20260322_173414_slot2.json' passed all checks
+[2026-03-22 17:34:14 UTC] [quality_assessor]   Words:   44
+[2026-03-22 17:34:14 UTC] [quality_assessor]   Hook:    4 websites that feel illegal to know about in 2026.
+[2026-03-22 17:34:14 UTC] [quality_assessor]   Niche:   Tech / AI Hacks
+[2026-03-22 17:34:14 UTC] [quality_assessor] ============================================================
+[2026-03-22 17:34:30 UTC] [B] PASS — script passed quality gate
+[2026-03-22 17:34:30 UTC] [C] production_agent.py --slot 2 --niche tech_ai
+/Users/kolly/HARBINGERHQ/scripts/agents/production_agent.py:24: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  NOW = datetime.datetime.utcnow()
+[2026-03-22 17:34:31 UTC] ============================================================
+[2026-03-22 17:34:31 UTC] AGENT 3: PRODUCTION (SLOT 2)
+[2026-03-22 17:34:31 UTC] ============================================================
+[2026-03-22 17:34:31 UTC] Loaded creative brief: creative_brief_20260322_173414_slot2.json
+[2026-03-22 17:34:31 UTC] Niche override: tech_ai (CLI)
+[2026-03-22 17:34:31 UTC] Niche:       Tech / AI Hacks
+[2026-03-22 17:34:31 UTC] Compliance: all disclosures present
+[2026-03-22 17:34:31 UTC]   Visual: B-roll mode (AI generation bypassed)
+[footage_sourcer] Video search: 'POV motorcycle canyon stunt reel no commentary'
+[footage_sourcer] Searching: 'POV motorcycle canyon stunt reel no commentary' (max 8)
+[footage_sourcer] Found 8 results
+[footage_sourcer]   Top result: DARKFEST 2020- WORLDS BIGGEST MTB JUMPS WITH NICO VINK (32,524,321 views)
+[footage_sourcer]   Dedup: skipping _6sHmSM1 (already in used_broll_log)
+[footage_sourcer]   Dedup: skipping cxxeRzfJ (already in used_broll_log)
+[footage_sourcer] Downloading video clip: BMW S1000RR “CHILL” NIGHT RIDE WITH THE BOYS
+[footage_sourcer]   offset=8.8s, duration=25s
+[footage_sourcer]   Downloaded file missing or too small
+[footage_sourcer] Video search: 'satisfying kinetic sand cutting ASMR 4k'
+[footage_sourcer] Searching: 'satisfying kinetic sand cutting ASMR 4k' (max 8)
+[footage_sourcer] Found 8 results
+[footage_sourcer]   Top result: Very Satisfying and Relaxing Compilation 109 Kinetic Sand AS (5,310,599 views)
+[footage_sourcer]   Dedup: skipping 8BYrvVee (already in used_broll_log)
+[footage_sourcer]   Dedup: skipping etp46Aca (already in used_broll_log)
+[footage_sourcer] Downloading video clip: 12 Hour Kinetic Sand ASMR No Music! Sand Cutting ASMR Sounds
+[footage_sourcer]   offset=12.4s, duration=25s
+[footage_sourcer]   Downloaded file missing or too small
+[footage_sourcer] Niche queries exhausted for 'tech_ai' — trying generic fallback queries
+[footage_sourcer] Searching: 'satisfying marble run loop 4k' (max 5)
+[footage_sourcer] Found 5 results
+[footage_sourcer] Downloading video clip: Mega Marble Race | #marblerace #marbles #marblerun #blender 
+[footage_sourcer]   offset=24.5s, duration=25s
+[footage_sourcer]   Downloaded file missing or too small
+[footage_sourcer] Searching: 'city highway night drive dashcam 4k' (max 5)
+[footage_sourcer] Found 5 results
+[footage_sourcer] Downloading video clip: 4K Driving from Salt Lake City to Las Vegas - Full Road Trip
+[footage_sourcer]   offset=9.2s, duration=25s
+[footage_sourcer]   Downloaded file missing or too small
+[footage_sourcer] Searching: 'luxury supercar night drive POV 4k' (max 5)
+[footage_sourcer] Found 5 results
+[footage_sourcer] Downloading video clip: 750HP BMW M4 POV – Night Drive With Engine Sounds
+[footage_sourcer]   offset=8.7s, duration=25s
+[footage_sourcer]   Downloaded file missing or too small
+[footage_sourcer] All yt-dlp attempts failed — falling back to broll_cache
+[footage_sourcer] Using broll_cache fallback: kinetic_sand.mp4
+[footage_sourcer] Resized to 1080x1920: vertical_cache_fallback_20260322_173431_kinetic_sand.mp4
+[2026-03-22 17:34:31 UTC]   B-roll sourced: vertical_cache_fallback_20260322_173431_kinetic_sand.mp4 (12879KB)
+[2026-03-22 17:34:31 UTC] Generating audio via eleven_v3 (44 words, voice=TxGEqnHWrfWF...)
+[2026-03-22 17:34:31 UTC] Audio saved: audio_20260322_173431_slot2.mp3 (324 KB)
+[2026-03-22 17:34:31 UTC] Alignment data saved: audio_alignment_20260322_173431_slot2.json (251 chars)
+[2026-03-22 17:34:31 UTC] Tempo: applying atempo=1.10 to voiceover...
+[2026-03-22 17:34:31 UTC] Tempo: voice_tempo_20260322_173431_slot2.mp3
+[footage_sourcer] BGM cache already seeded for 'tech_ai': 1 file(s)
+[footage_sourcer] BGM search: 'fast synthwave instrumental royalty free'
+[footage_sourcer] Searching: 'fast synthwave instrumental royalty free' (max 5)
+[footage_sourcer] Found 5 results
+[footage_sourcer] Downloading BGM: Flow State - Chillstep & Synthwave for Deep Focus | Coding S
+[footage_sourcer]   BGM saved: bgm_20260322_173431_am1VJP0R.mp3 (704KB)
+[footage_sourcer]   BGM normalized to 10% volume: bgm_norm_20260322_173431_bgm_20260322_173431_am1VJP0R.mp3
+[2026-03-22 17:34:31 UTC] BGM sourced via footage_sourcer: bgm_norm_20260322_173431_bgm_20260322_173431_am1VJP0R.mp3
+[2026-03-22 17:34:31 UTC] Mixing audio layers (sub-bass 40Hz @ -18dB, ambience=yes)...
+[2026-03-22 17:34:31 UTC] Mixed audio saved: mixed_audio_20260322_173431_slot2.mp3
+[2026-03-22 17:34:31 UTC] Using mixed audio: mixed_audio_20260322_173431_slot2.mp3
+[2026-03-22 17:34:31 UTC] SFX: hook clicks layered at ['0.00s', '0.23s', '0.85s']
+[2026-03-22 17:34:31 UTC] Rendering: duration=19.8s, visual=Kling
+[caption_engine] Using ElevenLabs word-level timestamps (44 words, niche=tech_ai)
+[caption_engine] Generated 15 karaoke blocks (real_timestamps, font=Montserrat, niche=tech_ai)
+[2026-03-22 17:34:31 UTC] Captions: captions_20260322_173431_slot2.ass | 15 blocks | real_timestamps | font=Montserrat
+[2026-03-22 17:34:31 UTC]   Zoom factor: 0.150 (from evolution_params)
+[2026-03-22 17:34:31 UTC]   Style route:  Tech / AI Hacks | grade=eq=saturation=1.2:contrast=1.1 | vignette=off | noise=off
+[2026-03-22 17:34:31 UTC]   ASS subtitles: captions_20260322_173431_slot2.ass
+[2026-03-22 17:34:31 UTC]   CTA overlay: 'Follow for More' from t=16.3s
+[2026-03-22 17:34:31 UTC] FFmpeg: /opt/homebrew/opt/ffmpeg-full/bin/ffmpeg -y -stream_loop -1 -i /Users/kolly/HARBINGERHQ/output/vertical_cache_fallback_20260322_173431_kinetic_sand.mp4 -itsoffset 0.5...
+[2026-03-22 17:34:31 UTC] Metadata stripped: 1 image files updated
+[2026-03-22 17:34:31 UTC] Render complete: post_20260322_173431_slot2.mp4
+[2026-03-22 17:34:31 UTC]   [INFO] file_size_mb: 23.41
+[2026-03-22 17:34:31 UTC]   [OK] size_ok: True
+[2026-03-22 17:34:31 UTC]   [INFO] resolution: 1080x1920
+[2026-03-22 17:34:31 UTC]   [OK] resolution_ok: True
+[2026-03-22 17:34:31 UTC]   [INFO] duration_s: 19.8
+[2026-03-22 17:34:31 UTC]   [OK] duration_ok: True
+[2026-03-22 17:34:31 UTC] Manifest saved: production_manifest_20260322_173431_slot2.json
+[2026-03-22 17:34:31 UTC] Archived:       post_20260322_173431_slot2.mp4
+[2026-03-22 17:34:31 UTC] 
+--- PRODUCTION SUMMARY ---
+[2026-03-22 17:34:31 UTC] Slot:        2
+[2026-03-22 17:34:31 UTC] Niche:       Tech / AI Hacks
+[2026-03-22 17:34:31 UTC] Visual:      B-roll
+[2026-03-22 17:34:31 UTC] Audio:       voice_sfx_20260322_173431_slot2.mp3
+[2026-03-22 17:34:31 UTC] Video:       post_20260322_173431_slot2.mp4
+[2026-03-22 17:34:31 UTC] Size:        23.41 MB
+[2026-03-22 17:34:31 UTC] Resolution:  1080x1920
+[2026-03-22 17:34:31 UTC] Duration:    19.8s
+[2026-03-22 17:34:31 UTC] All checks:  PASS
+[2026-03-22 17:34:31 UTC] Shots:       0 (genome gen —)
+[2026-03-22 17:34:31 UTC] Alignment:   real timestamps
+[2026-03-22 17:34:31 UTC] ============================================================
+[2026-03-22 17:34:31 UTC] Auto-publishing: distribute.py --slot 2
+[2026-03-22 17:34:31 UTC] distribute.py: FAILED (exit 1)
+[2026-03-22 17:34:31 UTC] BINGERHQ/scripts/archive/distribute.py", line 487, in <module>
+    main()
+  File "/Users/kolly/HARBINGERHQ/scripts/archive/distribute.py", line 458, in main
+    "compliance":     COMPLIANCE_DISCLOSURE,
+                      ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'COMPLIANCE_DISCLOSURE' is not defined
+{
+  "timestamp": "2026-03-22T17:34:31.003711",
+  "slot": 2,
+  "sound_profile": {
+    "sub_bass_db": -18,
+    "sub_bass_hz": 40,
+    "ambience_type": "server_hum"
+  },
+  "asymmetry": null,
+  "affiliate": "none_growth_mode",
+  "script": {
+    "hook": "4 websites that feel illegal to know about in 2026.",
+    "body": "Most people scroll past these tools every day without realising they exist. Once you know about them, you cannot un-know them.",
+    "cta": "Follow to see the ones they don't want you to find."
+  },
+  "caption_text": "4 websites that feel illegal to know about in 2026.",
+  "visual_direction": {
+    "kling_prompt": "dark glowing computer screens with code, futuristic AI interface, neon blue and green, no faces, 9:16 vertical cinematic, cyberpunk, high contrast",
+    "negative_prompt": "faces, logos, text overlays, watermarks"
+  },
+  "voice_settings": {
+    "voice_id": "TxGEqnHWrfWFTfGW9XjX",
+    "stability": 0.3,
+    "similarity": 0.88,
+    "style": 0.85,
+    "speed": 1.1,
+    "voice": "Josh"
+  },
+  "visual_source": "broll_footage",
+  "audio": "/Users/kolly/HARBINGERHQ/output/voice_sfx_20260322_173431_slot2.mp3",
+  "video": "/Users/kolly/HARBINGERHQ/output/post_20260322_173431_slot2.mp4",
+  "quality_check": {
+    "file_size_mb": 23.41,
+    "size_ok": true,
+    "resolution": "1080x1920",
+    "resolution_ok": true,
+    "duration_s": 19.8,
+    "duration_ok": true
+  },
+  "prompt_metadata": {
+    "visual_source": "broll_footage",
+    "shot_list": []
+  },
+  "audio_alignment": true,
+  "ffmpeg_evolution_params": {
+    "zoom_factor": 0.15,
+    "ssml_break_secs": 0.8,
+    "prompt_version": 1
+  },
+  "script_variant": "long"
+}
+[2026-03-22 17:36:25 UTC] [C] PASS — rendered and dispatched to Buffer API
+[2026-03-22 17:36:25 UTC]   Duration: 133s
+[2026-03-22 17:36:25 UTC] 
+[2026-03-22 17:36:25 UTC]   Slot 3 / 8  │  Niche: tech_ai  │  Sched: +9h from now
+[2026-03-22 17:36:25 UTC] ────────────────────────────────────────────────────────────
+[2026-03-22 17:36:25 UTC] [A] creative_synthesis.py --slot 3 --niche tech_ai
+/Users/kolly/HARBINGERHQ/scripts/agents/creative_synthesis.py:18: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  NOW       = datetime.datetime.utcnow()
+[2026-03-22 17:36:25 UTC] ============================================================
+[2026-03-22 17:36:25 UTC] AGENT 2: CREATIVE SYNTHESIS — VIRAL CONTENT (SLOT 3)
+[2026-03-22 17:36:25 UTC] ============================================================
+[2026-03-22 17:36:25 UTC] Niche: tech_ai (CLI override)
+[2026-03-22 17:36:25 UTC] Variant:  SHORT (30-40 words (15 seconds spoken))
+[2026-03-22 17:36:25 UTC] Topic:     ‘Another internet is possible’: Norway rails against ‘enshit.
+[2026-03-22 17:36:25 UTC] Framework: [Familiar Tool/Habit] + ['is secretly/actually'] + [Hidden Cost or Danger]
+[2026-03-22 17:36:25 UTC] Trigger:   Loss aversion — viewer is already being harmed without knowi
+[2026-03-22 17:36:25 UTC] Generating script via Replicate (attempt 1)...
+[2026-03-22 17:36:25 UTC] Replicate generation failed: Error code: 404 - {'error': {'message': 'No endpoints found for meta-llama/llama-3.1-405b-instruct.', 'code': 404}, 'user_id': 'user_33sxpMMBfb9uoCdG5ceA6CpR7Nb'} — using template fallback
+[2026-03-22 17:36:25 UTC] SSML: injected <break time="0.8s"/> after hook
+[2026-03-22 17:36:25 UTC] Script: 36 words
+[2026-03-22 17:36:25 UTC] Creative brief saved: creative_brief_20260322_173625_slot3.json
+[2026-03-22 17:36:25 UTC] TOPIC:  ‘Another internet is possible’: Norway rails against ‘enshit.
+[2026-03-22 17:36:25 UTC] NICHE:  Tech / AI Hacks
+[2026-03-22 17:36:25 UTC] HOOK:   That iPhone feature everyone uses is secretly selling your location to 47 data brokers.
+[2026-03-22 17:36:25 UTC] BODY:   Most people scroll past these tools without realising what they are missing....
+[2026-03-22 17:36:25 UTC] ============================================================
+{
+  "timestamp": "2026-03-22T17:36:25.457029",
+  "slot": 3,
+  "niche": "tech_ai",
+  "niche_label": "Tech / AI Hacks",
+  "topic": "\u2018Another internet is possible\u2019: Norway rails against \u2018enshit.",
+  "framework": {
+    "structure": "[Familiar Tool/Habit] + ['is secretly/actually'] + [Hidden Cost or Danger]",
+    "trigger": "Loss aversion \u2014 viewer is already being harmed without knowing it",
+    "example": "That iPhone feature everyone uses is secretly selling your location to 47 data brokers."
+  },
+  "script": {
+    "hook": "That iPhone feature everyone uses is secretly selling your location to 47 data brokers.",
+    "body": "Most people scroll past these tools without realising what they are missing.",
+    "cta": "Comment NEW if this changed something for you."
+  },
+  "full_script_text": "That iPhone feature everyone uses is secretly selling your location to 47 data brokers. <break time=\"0.8s\"/> Most people scroll past these tools without realising what they are missing. Comment NEW if this changed something for you.",
+  "visual_direction": {
+    "kling_prompt": "dark glowing computer screens with code, futuristic AI interface, neon blue and green, no faces, 9:16 vertical cinematic, cyberpunk, high contrast",
+    "negative_prompt": "faces, logos, text overlays, watermarks"
+  },
+  "voice_settings": {
+    "voice_id": "TxGEqnHWrfWFTfGW9XjX",
+    "stability": 0.3,
+    "similarity": 0.88,
+    "style": 0.85,
+    "speed": 1.1,
+    "voice": "Josh"
+  },
+  "caption_text": "That iPhone feature everyone uses is secretly selling your location to 47 data b",
+  "affiliate": "none_growth_mode",
+  "script_variant": "short",
+  "compliance_checked": true
+}
+[2026-03-22 17:36:26 UTC] [A] PASS — creative brief generated
+[2026-03-22 17:36:26 UTC] [B] quality_assessor.py --slot 3 --niche tech_ai --max-retries 3
+/Users/kolly/HARBINGERHQ/scripts/agents/quality_assessor.py:29: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  NOW       = datetime.datetime.utcnow()
+[2026-03-22 17:36:26 UTC] [quality_assessor] ============================================================
+[2026-03-22 17:36:26 UTC] [quality_assessor] QUALITY ASSESSOR — SLOT 3  (max retries: 3)
+[2026-03-22 17:36:26 UTC] [quality_assessor] ============================================================
+[2026-03-22 17:36:26 UTC] [quality_assessor] FAIL (attempt 1/4): no recognised CTA phrase found
+[2026-03-22 17:36:26 UTC] [quality_assessor] Triggering regeneration for slot 3 niche=tech_ai...
+[2026-03-22 17:36:26 UTC] [quality_assessor] Regenerating: /Users/kolly/.pyenv/versions/3.12.13/bin/python3 /Users/kolly/HARBINGERHQ/scripts/agents/creative_synthesis.py --slot 3 --niche tech_ai
+[2026-03-22 17:36:26 UTC] [quality_assessor] Regeneration succeeded
+[2026-03-22 17:36:26 UTC] [quality_assessor] PASS — brief 'creative_brief_20260322_173626_slot3.json' passed all checks
+[2026-03-22 17:36:26 UTC] [quality_assessor]   Words:   40
+[2026-03-22 17:36:26 UTC] [quality_assessor]   Hook:    4 websites that feel illegal to know about in 2026.
+[2026-03-22 17:36:26 UTC] [quality_assessor]   Niche:   Tech / AI Hacks
+[2026-03-22 17:36:26 UTC] [quality_assessor] ============================================================
+[2026-03-22 17:36:43 UTC] [B] PASS — script passed quality gate
+[2026-03-22 17:36:43 UTC] [C] production_agent.py --slot 3 --niche tech_ai
+/Users/kolly/HARBINGERHQ/scripts/agents/production_agent.py:24: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  NOW = datetime.datetime.utcnow()
+[2026-03-22 17:36:43 UTC] ============================================================
+[2026-03-22 17:36:43 UTC] AGENT 3: PRODUCTION (SLOT 3)
+[2026-03-22 17:36:43 UTC] ============================================================
+[2026-03-22 17:36:43 UTC] Loaded creative brief: creative_brief_20260322_173626_slot3.json
+[2026-03-22 17:36:43 UTC] Niche override: tech_ai (CLI)
+[2026-03-22 17:36:43 UTC] Niche:       Tech / AI Hacks
+[2026-03-22 17:36:43 UTC] Compliance: all disclosures present
+[2026-03-22 17:36:43 UTC]   Visual: B-roll mode (AI generation bypassed)
+[footage_sourcer] Video search: 'POV motorcycle canyon stunt reel no commentary'
+[footage_sourcer] Searching: 'POV motorcycle canyon stunt reel no commentary' (max 8)
+[footage_sourcer] Found 8 results
+[footage_sourcer]   Top result: DARKFEST 2020- WORLDS BIGGEST MTB JUMPS WITH NICO VINK (32,524,320 views)
+[footage_sourcer]   Dedup: skipping _6sHmSM1 (already in used_broll_log)
+[footage_sourcer]   Dedup: skipping cxxeRzfJ (already in used_broll_log)
+[footage_sourcer] Downloading video clip: BMW S1000RR “CHILL” NIGHT RIDE WITH THE BOYS
+[footage_sourcer]   offset=25.4s, duration=25s
+[footage_sourcer]   Downloaded file missing or too small
+[footage_sourcer] Video search: 'satisfying kinetic sand cutting ASMR 4k'
+[footage_sourcer] Searching: 'satisfying kinetic sand cutting ASMR 4k' (max 8)
+[footage_sourcer] Found 7 results
+[footage_sourcer]   Top result: Very Satisfying and Relaxing Compilation 148 Kinetic Sand AS (135,405,174 views)
+[footage_sourcer]   Dedup: skipping 3clqk2U3 (already in used_broll_log)
+[footage_sourcer]   Dedup: skipping 8BYrvVee (already in used_broll_log)
+[footage_sourcer]   Dedup: skipping etp46Aca (already in used_broll_log)
+[footage_sourcer] Niche queries exhausted for 'tech_ai' — trying generic fallback queries
+[footage_sourcer] Searching: 'satisfying marble run loop 4k' (max 5)
+[footage_sourcer] Found 5 results
+[footage_sourcer] Downloading video clip: Mega Marble Race | #marblerace #marbles #marblerun #blender 
+[footage_sourcer]   offset=15.1s, duration=25s
+[footage_sourcer]   Downloaded file missing or too small
+[footage_sourcer] Searching: 'city highway night drive dashcam 4k' (max 5)
+[footage_sourcer] Found 5 results
+[footage_sourcer] Downloading video clip: 4K Driving from Salt Lake City to Las Vegas - Full Road Trip
+[footage_sourcer]   offset=7.6s, duration=25s
+[footage_sourcer]   Downloaded file missing or too small
+[footage_sourcer] Searching: 'luxury supercar night drive POV 4k' (max 5)
+[footage_sourcer] Found 5 results
+[footage_sourcer] Downloading video clip: 750HP BMW M4 POV – Night Drive With Engine Sounds
+[footage_sourcer]   offset=28.3s, duration=25s
+[footage_sourcer]   Downloaded file missing or too small
+[footage_sourcer] All yt-dlp attempts failed — falling back to broll_cache
+[footage_sourcer] Using broll_cache fallback: trading_floor.mp4
+[footage_sourcer] Resized to 1080x1920: vertical_cache_fallback_20260322_173644_trading_floor.mp4
+[2026-03-22 17:36:43 UTC]   B-roll sourced: vertical_cache_fallback_20260322_173644_trading_floor.mp4 (12444KB)
+[2026-03-22 17:36:43 UTC] Generating audio via eleven_v3 (40 words, voice=TxGEqnHWrfWF...)
+[2026-03-22 17:36:43 UTC] Audio saved: audio_20260322_173643_slot3.mp3 (308 KB)
+[2026-03-22 17:36:43 UTC] Alignment data saved: audio_alignment_20260322_173643_slot3.json (241 chars)
+[2026-03-22 17:36:43 UTC] Tempo: applying atempo=1.10 to voiceover...
+[2026-03-22 17:36:43 UTC] Tempo: voice_tempo_20260322_173643_slot3.mp3
+[footage_sourcer] BGM cache already seeded for 'tech_ai': 1 file(s)
+[footage_sourcer] BGM search: 'upbeat lofi background music no copyright'
+[footage_sourcer] Searching: 'upbeat lofi background music no copyright' (max 5)
+[footage_sourcer] Found 5 results
+[footage_sourcer] Downloading BGM: High-Energy Lofi Hip Hop Beats 🏋️‍♂️  for a Powerful Workout
+[footage_sourcer]   BGM saved: bgm_20260322_173644_gGOpElxq.mp3 (704KB)
+[footage_sourcer]   BGM normalized to 10% volume: bgm_norm_20260322_173644_bgm_20260322_173644_gGOpElxq.mp3
+[2026-03-22 17:36:43 UTC] BGM sourced via footage_sourcer: bgm_norm_20260322_173644_bgm_20260322_173644_gGOpElxq.mp3
+[2026-03-22 17:36:43 UTC] Mixing audio layers (sub-bass 40Hz @ -18dB, ambience=yes)...
+[2026-03-22 17:36:43 UTC] Mixed audio saved: mixed_audio_20260322_173643_slot3.mp3
+[2026-03-22 17:36:43 UTC] Using mixed audio: mixed_audio_20260322_173643_slot3.mp3
+[2026-03-22 17:36:43 UTC] SFX: hook clicks layered at ['0.00s', '0.23s', '0.83s']
+[2026-03-22 17:36:43 UTC] Rendering: duration=18.9s, visual=Kling
+[caption_engine] Using ElevenLabs word-level timestamps (40 words, niche=tech_ai)
+[caption_engine] Generated 14 karaoke blocks (real_timestamps, font=Montserrat, niche=tech_ai)
+[2026-03-22 17:36:43 UTC] Captions: captions_20260322_173643_slot3.ass | 14 blocks | real_timestamps | font=Montserrat
+[2026-03-22 17:36:43 UTC]   Zoom factor: 0.150 (from evolution_params)
+[2026-03-22 17:36:43 UTC]   Style route:  Tech / AI Hacks | grade=eq=saturation=1.2:contrast=1.1 | vignette=off | noise=off
+[2026-03-22 17:36:43 UTC]   ASS subtitles: captions_20260322_173643_slot3.ass
+[2026-03-22 17:36:43 UTC]   CTA overlay: 'Follow for More' from t=15.4s
+[2026-03-22 17:36:43 UTC] FFmpeg: /opt/homebrew/opt/ffmpeg-full/bin/ffmpeg -y -stream_loop -1 -i /Users/kolly/HARBINGERHQ/output/vertical_cache_fallback_20260322_173644_trading_floor.mp4 -itsoffset 0.5...
+[2026-03-22 17:36:43 UTC] Metadata stripped: 1 image files updated
+[2026-03-22 17:36:43 UTC] Render complete: post_20260322_173643_slot3.mp4
+[2026-03-22 17:36:43 UTC]   [INFO] file_size_mb: 14.09
+[2026-03-22 17:36:43 UTC]   [OK] size_ok: True
+[2026-03-22 17:36:43 UTC]   [INFO] resolution: 1080x1920
+[2026-03-22 17:36:43 UTC]   [OK] resolution_ok: True
+[2026-03-22 17:36:43 UTC]   [INFO] duration_s: 18.9
+[2026-03-22 17:36:43 UTC]   [OK] duration_ok: True
+[2026-03-22 17:36:43 UTC] Manifest saved: production_manifest_20260322_173643_slot3.json
+[2026-03-22 17:36:43 UTC] Archived:       post_20260322_173643_slot3.mp4
+[2026-03-22 17:36:43 UTC] 
+--- PRODUCTION SUMMARY ---
+[2026-03-22 17:36:43 UTC] Slot:        3
+[2026-03-22 17:36:43 UTC] Niche:       Tech / AI Hacks
+[2026-03-22 17:36:43 UTC] Visual:      B-roll
+[2026-03-22 17:36:43 UTC] Audio:       voice_sfx_20260322_173643_slot3.mp3
+[2026-03-22 17:36:43 UTC] Video:       post_20260322_173643_slot3.mp4
+[2026-03-22 17:36:43 UTC] Size:        14.09 MB
+[2026-03-22 17:36:43 UTC] Resolution:  1080x1920
+[2026-03-22 17:36:43 UTC] Duration:    18.9s
+[2026-03-22 17:36:43 UTC] All checks:  PASS
+[2026-03-22 17:36:43 UTC] Shots:       0 (genome gen —)
+[2026-03-22 17:36:43 UTC] Alignment:   real timestamps
+[2026-03-22 17:36:43 UTC] ============================================================
+[2026-03-22 17:36:43 UTC] Auto-publishing: distribute.py --slot 3
+[2026-03-22 17:36:43 UTC] distribute.py: FAILED (exit 1)
+[2026-03-22 17:36:43 UTC] BINGERHQ/scripts/archive/distribute.py", line 487, in <module>
+    main()
+  File "/Users/kolly/HARBINGERHQ/scripts/archive/distribute.py", line 458, in main
+    "compliance":     COMPLIANCE_DISCLOSURE,
+                      ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'COMPLIANCE_DISCLOSURE' is not defined
+{
+  "timestamp": "2026-03-22T17:36:43.821867",
+  "slot": 3,
+  "sound_profile": {
+    "sub_bass_db": -18,
+    "sub_bass_hz": 40,
+    "ambience_type": "server_hum"
+  },
+  "asymmetry": null,
+  "affiliate": "none_growth_mode",
+  "script": {
+    "hook": "4 websites that feel illegal to know about in 2026.",
+    "body": "Most people scroll past these tools every day without realising they exist. Once you know about them, you cannot un-know them.",
+    "cta": "Follow \u2014 there's more they're not saying."
+  },
+  "caption_text": "4 websites that feel illegal to know about in 2026.",
+  "visual_direction": {
+    "kling_prompt": "dark glowing computer screens with code, futuristic AI interface, neon blue and green, no faces, 9:16 vertical cinematic, cyberpunk, high contrast",
+    "negative_prompt": "faces, logos, text overlays, watermarks"
+  },
+  "voice_settings": {
+    "voice_id": "TxGEqnHWrfWFTfGW9XjX",
+    "stability": 0.3,
+    "similarity": 0.88,
+    "style": 0.85,
+    "speed": 1.1,
+    "voice": "Josh"
+  },
+  "visual_source": "broll_footage",
+  "audio": "/Users/kolly/HARBINGERHQ/output/voice_sfx_20260322_173643_slot3.mp3",
+  "video": "/Users/kolly/HARBINGERHQ/output/post_20260322_173643_slot3.mp4",
+  "quality_check": {
+    "file_size_mb": 14.09,
+    "size_ok": true,
+    "resolution": "1080x1920",
+    "resolution_ok": true,
+    "duration_s": 18.9,
+    "duration_ok": true
+  },
+  "prompt_metadata": {
+    "visual_source": "broll_footage",
+    "shot_list": []
+  },
+  "audio_alignment": true,
+  "ffmpeg_evolution_params": {
+    "zoom_factor": 0.15,
+    "ssml_break_secs": 0.8,
+    "prompt_version": 1
+  },
+  "script_variant": "long"
+}
+[2026-03-22 17:38:22 UTC] [C] PASS — rendered and dispatched to Buffer API
+[2026-03-22 17:38:22 UTC]   Duration: 117s
+[2026-03-22 17:38:22 UTC] 
+[2026-03-22 17:38:22 UTC]   Slot 4 / 8  │  Niche: dark_psychology  │  Sched: +12h from now
+[2026-03-22 17:38:22 UTC] ────────────────────────────────────────────────────────────
+[2026-03-22 17:38:22 UTC] [A] creative_synthesis.py --slot 4 --niche dark_psychology
+/Users/kolly/HARBINGERHQ/scripts/agents/creative_synthesis.py:18: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  NOW       = datetime.datetime.utcnow()
+[2026-03-22 17:38:22 UTC] ============================================================
+[2026-03-22 17:38:22 UTC] AGENT 2: CREATIVE SYNTHESIS — VIRAL CONTENT (SLOT 4)
+[2026-03-22 17:38:22 UTC] ============================================================
+[2026-03-22 17:38:22 UTC] Niche: dark_psychology (CLI override)
+[2026-03-22 17:38:22 UTC] Variant:  SHORT (30-40 words (15 seconds spoken))
+[2026-03-22 17:38:22 UTC] Topic:     Too much self-reflection is linked to anxiety and depression.
+[2026-03-22 17:38:22 UTC] Framework: [Authority] + ['has known this for decades'] + [Why it was suppressed]
+[2026-03-22 17:38:22 UTC] Trigger:   Conspiracy of suppression — powerful people kept this from y
+[2026-03-22 17:38:22 UTC] Generating script via Replicate (attempt 1)...
+[2026-03-22 17:38:22 UTC] Replicate generation failed: Error code: 404 - {'error': {'message': 'No endpoints found for meta-llama/llama-3.1-405b-instruct.', 'code': 404}, 'user_id': 'user_33sxpMMBfb9uoCdG5ceA6CpR7Nb'} — using template fallback
+[2026-03-22 17:38:22 UTC] SSML: injected <break time="0.8s"/> after hook
+[2026-03-22 17:38:22 UTC] Script: 37 words
+[2026-03-22 17:38:22 UTC] Creative brief saved: creative_brief_20260322_173822_slot4.json
+[2026-03-22 17:38:22 UTC] TOPIC:  Too much self-reflection is linked to anxiety and depression.
+[2026-03-22 17:38:22 UTC] NICHE:  Dark Psychology
+[2026-03-22 17:38:22 UTC] HOOK:   Psychologists have known this negotiation trick for 40 years. It was never taught because it is too effective.
+[2026-03-22 17:38:22 UTC] BODY:   This psychological mechanism gives an unfair advantage in every conversation....
+[2026-03-22 17:38:22 UTC] ============================================================
+{
+  "timestamp": "2026-03-22T17:38:22.662622",
+  "slot": 4,
+  "niche": "dark_psychology",
+  "niche_label": "Dark Psychology",
+  "topic": "Too much self-reflection is linked to anxiety and depression.",
+  "framework": {
+    "structure": "[Authority] + ['has known this for decades'] + [Why it was suppressed]",
+    "trigger": "Conspiracy of suppression \u2014 powerful people kept this from you intentionally",
+    "example": "Psychologists have known this negotiation trick for 40 years. It was never taught because it is too effective."
+  },
+  "script": {
+    "hook": "Psychologists have known this negotiation trick for 40 years. It was never taught because it is too effective.",
+    "body": "This psychological mechanism gives an unfair advantage in every conversation.",
+    "cta": "Comment KNEW if you already knew this."
+  },
+  "full_script_text": "Psychologists have known this negotiation trick for 40 years. It was never taught because it is too effective. <break time=\"0.8s\"/> This psychological mechanism gives an unfair advantage in every conversation. Comment KNEW if you already knew this.",
+  "visual_direction": {
+    "kling_prompt": "extreme close-up eyes in deep shadow, single side light source, no full faces, 9:16 vertical cinematic, psychological thriller, deep shadows",
+    "negative_prompt": "faces, logos, text overlays, watermarks"
+  },
+  "voice_settings": {
+    "voice_id": "TxGEqnHWrfWFTfGW9XjX",
+    "stability": 0.6,
+    "similarity": 0.88,
+    "style": 0.55,
+    "speed": 0.85,
+    "voice": "Josh"
+  },
+  "caption_text": "Psychologists have known this negotiation trick for 40 years. It was never taugh",
+  "affiliate": "none_growth_mode",
+  "script_variant": "short",
+  "compliance_checked": true
+}
+[2026-03-22 17:38:23 UTC] [A] PASS — creative brief generated
+[2026-03-22 17:38:23 UTC] [B] quality_assessor.py --slot 4 --niche dark_psychology --max-retries 3
+/Users/kolly/HARBINGERHQ/scripts/agents/quality_assessor.py:29: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  NOW       = datetime.datetime.utcnow()
+[2026-03-22 17:38:23 UTC] [quality_assessor] ============================================================
+[2026-03-22 17:38:23 UTC] [quality_assessor] QUALITY ASSESSOR — SLOT 4  (max retries: 3)
+[2026-03-22 17:38:23 UTC] [quality_assessor] ============================================================
+[2026-03-22 17:38:23 UTC] [quality_assessor] FAIL (attempt 1/4): no recognised CTA phrase found
+[2026-03-22 17:38:23 UTC] [quality_assessor] Triggering regeneration for slot 4 niche=dark_psychology...
+[2026-03-22 17:38:23 UTC] [quality_assessor] Regenerating: /Users/kolly/.pyenv/versions/3.12.13/bin/python3 /Users/kolly/HARBINGERHQ/scripts/agents/creative_synthesis.py --slot 4 --niche dark_psychology
+[2026-03-22 17:38:23 UTC] [quality_assessor] Regeneration succeeded
+[2026-03-22 17:38:23 UTC] [quality_assessor] PASS — brief 'creative_brief_20260322_173823_slot4.json' passed all checks
+[2026-03-22 17:38:23 UTC] [quality_assessor]   Words:   54
+[2026-03-22 17:38:23 UTC] [quality_assessor]   Hook:    If someone mirrors your body language in the first 30 second
+[2026-03-22 17:38:23 UTC] [quality_assessor]   Niche:   Dark Psychology
+[2026-03-22 17:38:23 UTC] [quality_assessor] ============================================================
+[2026-03-22 17:38:40 UTC] [B] PASS — script passed quality gate
+[2026-03-22 17:38:40 UTC] [C] production_agent.py --slot 4 --niche dark_psychology
+/Users/kolly/HARBINGERHQ/scripts/agents/production_agent.py:24: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  NOW = datetime.datetime.utcnow()
+[2026-03-22 17:38:40 UTC] ============================================================
+[2026-03-22 17:38:40 UTC] AGENT 3: PRODUCTION (SLOT 4)
+[2026-03-22 17:38:40 UTC] ============================================================
+[2026-03-22 17:38:40 UTC] Loaded creative brief: creative_brief_20260322_173823_slot4.json
+[2026-03-22 17:38:40 UTC] Niche override: dark_psychology (CLI)
+[2026-03-22 17:38:40 UTC] Niche:       Dark Psychology
+[2026-03-22 17:38:40 UTC] Compliance: all disclosures present
+[2026-03-22 17:38:40 UTC]   Visual: B-roll mode (AI generation bypassed)
+[footage_sourcer] Video search: 'rain on window dark aesthetic 4k'
+[footage_sourcer] Searching: 'rain on window dark aesthetic 4k' (max 8)
+[footage_sourcer] Found 8 results
+[footage_sourcer]   Top result: Cozy Bedroom With A Night View Of New York In Heavy Rain | R (13,344,286 views)
+[footage_sourcer]   Dedup: skipping xg1gNlxt (already in used_broll_log)
+[footage_sourcer]   Dedup: skipping QUqhgZjr (already in used_broll_log)
+[footage_sourcer]   Dedup: skipping l5lfdSCr (already in used_broll_log)
+[footage_sourcer] Video search: 'night city drive dashcam 4k'
+[footage_sourcer] Searching: 'night city drive dashcam 4k' (max 8)
+[footage_sourcer] Found 8 results
+[footage_sourcer]   Top result: Night Driving Seoul City | Gangnam and Expressway with Chill (4,850,486 views)
+[footage_sourcer] Downloading video clip: Night Driving Seoul City | Gangnam and Expressway with Chill
+[footage_sourcer]   offset=13.6s, duration=25s
+[footage_sourcer]   Downloaded file missing or too small
+[footage_sourcer] Downloading video clip: Fast Driving At Night Free Stock Video
+[footage_sourcer]   offset=5.0s, duration=25s
+[footage_sourcer]   Video saved: footage_20260322_173840_uXfZiKhB.mp4 (10659KB)
+[footage_sourcer] Dedup: logged video_id=uXfZiKhB (total logged: 9)
+[footage_sourcer] Resized to 1080x1920: vertical_footage_20260322_173840_uXfZiKhB.mp4
+[footage_sourcer]   B-roll ready: vertical_footage_20260322_173840_uXfZiKhB.mp4
+[2026-03-22 17:38:40 UTC]   B-roll sourced: vertical_footage_20260322_173840_uXfZiKhB.mp4 (15776KB)
+[2026-03-22 17:38:40 UTC] Generating audio via eleven_v3 (54 words, voice=TxGEqnHWrfWF...)
+[2026-03-22 17:38:40 UTC] Audio saved: audio_20260322_173840_slot4.mp3 (343 KB)
+[2026-03-22 17:38:40 UTC] Alignment data saved: audio_alignment_20260322_173840_slot4.json (330 chars)
+[footage_sourcer] BGM cache already seeded for 'dark_psychology': 1 file(s)
+[footage_sourcer] BGM search: 'slowed and reverb phonk instrumental no copyright'
+[footage_sourcer] Searching: 'slowed and reverb phonk instrumental no copyright' (max 5)
+[footage_sourcer] Found 5 results
+[footage_sourcer] Downloading BGM: the best slowed & reverb instrumental ever made.
+[footage_sourcer]   BGM saved: bgm_20260322_173840_uRvQ8imw.mp3 (704KB)
+[footage_sourcer]   BGM normalized to 10% volume: bgm_norm_20260322_173840_bgm_20260322_173840_uRvQ8imw.mp3
+[2026-03-22 17:38:40 UTC] BGM sourced via footage_sourcer: bgm_norm_20260322_173840_bgm_20260322_173840_uRvQ8imw.mp3
+[2026-03-22 17:38:40 UTC] Mixing audio layers (sub-bass 40Hz @ -18dB, ambience=yes)...
+[2026-03-22 17:38:40 UTC] Mixed audio saved: mixed_audio_20260322_173840_slot4.mp3
+[2026-03-22 17:38:40 UTC] Using mixed audio: mixed_audio_20260322_173840_slot4.mp3
+[2026-03-22 17:38:40 UTC] SFX: hook clicks layered at ['0.00s', '0.13s', '0.54s']
+[2026-03-22 17:38:40 UTC] Rendering: duration=22.9s, visual=Kling
+[caption_engine] Using ElevenLabs word-level timestamps (54 words, niche=dark_psychology)
+[caption_engine] Generated 18 karaoke blocks (real_timestamps, font=Arial, niche=dark_psychology)
+[2026-03-22 17:38:40 UTC] Captions: captions_20260322_173840_slot4.ass | 18 blocks | real_timestamps | font=Arial
+[2026-03-22 17:38:40 UTC]   Zoom factor: 0.150 (from evolution_params)
+[2026-03-22 17:38:40 UTC]   Style route:  Dark Psychology | grade=eq=saturation=0.8:contrast=1.2 | vignette=vignette=PI/4 | noise=off
+[2026-03-22 17:38:40 UTC]   ASS subtitles: captions_20260322_173840_slot4.ass
+[2026-03-22 17:38:40 UTC]   CTA overlay: 'Follow for More' from t=19.4s
+[2026-03-22 17:38:40 UTC] FFmpeg: /opt/homebrew/opt/ffmpeg-full/bin/ffmpeg -y -stream_loop -1 -i /Users/kolly/HARBINGERHQ/output/vertical_footage_20260322_173840_uXfZiKhB.mp4 -itsoffset 0.5...
+[2026-03-22 17:38:40 UTC] Metadata stripped: 1 image files updated
+[2026-03-22 17:38:40 UTC] Render complete: post_20260322_173840_slot4.mp4
+[2026-03-22 17:38:40 UTC]   [INFO] file_size_mb: 23.93
+[2026-03-22 17:38:40 UTC]   [OK] size_ok: True
+[2026-03-22 17:38:40 UTC]   [INFO] resolution: 1080x1920
+[2026-03-22 17:38:40 UTC]   [OK] resolution_ok: True
+[2026-03-22 17:38:40 UTC]   [INFO] duration_s: 22.9
+[2026-03-22 17:38:40 UTC]   [OK] duration_ok: True
+[2026-03-22 17:38:40 UTC] Manifest saved: production_manifest_20260322_173840_slot4.json
+[2026-03-22 17:38:40 UTC] Archived:       post_20260322_173840_slot4.mp4
+[2026-03-22 17:38:40 UTC] 
+--- PRODUCTION SUMMARY ---
+[2026-03-22 17:38:40 UTC] Slot:        4
+[2026-03-22 17:38:40 UTC] Niche:       Dark Psychology
+[2026-03-22 17:38:40 UTC] Visual:      B-roll
+[2026-03-22 17:38:40 UTC] Audio:       voice_sfx_20260322_173840_slot4.mp3
+[2026-03-22 17:38:40 UTC] Video:       post_20260322_173840_slot4.mp4
+[2026-03-22 17:38:40 UTC] Size:        23.93 MB
+[2026-03-22 17:38:40 UTC] Resolution:  1080x1920
+[2026-03-22 17:38:40 UTC] Duration:    22.9s
+[2026-03-22 17:38:40 UTC] All checks:  PASS
+[2026-03-22 17:38:40 UTC] Shots:       0 (genome gen —)
+[2026-03-22 17:38:40 UTC] Alignment:   real timestamps
+[2026-03-22 17:38:40 UTC] ============================================================
+[2026-03-22 17:38:40 UTC] Auto-publishing: distribute.py --slot 4
+[2026-03-22 17:38:40 UTC] distribute.py: FAILED (exit 1)
+[2026-03-22 17:38:40 UTC] BINGERHQ/scripts/archive/distribute.py", line 487, in <module>
+    main()
+  File "/Users/kolly/HARBINGERHQ/scripts/archive/distribute.py", line 458, in main
+    "compliance":     COMPLIANCE_DISCLOSURE,
+                      ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'COMPLIANCE_DISCLOSURE' is not defined
+{
+  "timestamp": "2026-03-22T17:38:40.564824",
+  "slot": 4,
+  "sound_profile": {
+    "sub_bass_db": -18,
+    "sub_bass_hz": 40,
+    "ambience_type": "server_hum"
+  },
+  "asymmetry": null,
+  "affiliate": "none_growth_mode",
+  "script": {
+    "hook": "If someone mirrors your body language in the first 30 seconds, they are running a dominance test on you.",
+    "body": "Psychologists have known this for decades but it never makes it into mainstream education. The people who use this have an unfair advantage in every conversation.",
+    "cta": "Follow \u2014 there's more they're not saying."
+  },
+  "caption_text": "If someone mirrors your body language in the first 30 seconds, they are running ",
+  "visual_direction": {
+    "kling_prompt": "extreme close-up eyes in deep shadow, single side light source, no full faces, 9:16 vertical cinematic, psychological thriller, deep shadows",
+    "negative_prompt": "faces, logos, text overlays, watermarks"
+  },
+  "voice_settings": {
+    "voice_id": "TxGEqnHWrfWFTfGW9XjX",
+    "stability": 0.6,
+    "similarity": 0.88,
+    "style": 0.55,
+    "speed": 0.85,
+    "voice": "Josh"
+  },
+  "visual_source": "broll_footage",
+  "audio": "/Users/kolly/HARBINGERHQ/output/voice_sfx_20260322_173840_slot4.mp3",
+  "video": "/Users/kolly/HARBINGERHQ/output/post_20260322_173840_slot4.mp4",
+  "quality_check": {
+    "file_size_mb": 23.93,
+    "size_ok": true,
+    "resolution": "1080x1920",
+    "resolution_ok": true,
+    "duration_s": 22.9,
+    "duration_ok": true
+  },
+  "prompt_metadata": {
+    "visual_source": "broll_footage",
+    "shot_list": []
+  },
+  "audio_alignment": true,
+  "ffmpeg_evolution_params": {
+    "zoom_factor": 0.15,
+    "ssml_break_secs": 0.8,
+    "prompt_version": 1
+  },
+  "script_variant": "long"
+}
+[2026-03-22 17:39:53 UTC] [C] PASS — rendered and dispatched to Buffer API
+[2026-03-22 17:39:53 UTC]   Duration: 91s
+[2026-03-22 17:39:53 UTC] 
+[2026-03-22 17:39:53 UTC]   Slot 5 / 8  │  Niche: dark_psychology  │  Sched: +15h from now
+[2026-03-22 17:39:53 UTC] ────────────────────────────────────────────────────────────
+[2026-03-22 17:39:53 UTC] [A] creative_synthesis.py --slot 5 --niche dark_psychology
+/Users/kolly/HARBINGERHQ/scripts/agents/creative_synthesis.py:18: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  NOW       = datetime.datetime.utcnow()
+[2026-03-22 17:39:53 UTC] ============================================================
+[2026-03-22 17:39:53 UTC] AGENT 2: CREATIVE SYNTHESIS — VIRAL CONTENT (SLOT 5)
+[2026-03-22 17:39:53 UTC] ============================================================
+[2026-03-22 17:39:53 UTC] Niche: dark_psychology (CLI override)
+[2026-03-22 17:39:53 UTC] Variant:  LONG (70-80 words (30 seconds spoken))
+[2026-03-22 17:39:53 UTC] Topic:     Scientists discover a surprising way to quiet the anxious mi.
+[2026-03-22 17:39:53 UTC] Framework: ['The reason you'] + [Universal Relatable Behaviour] + ['is not'] + [Assumed Rea
+[2026-03-22 17:39:53 UTC] Trigger:   Self-revelation — reframes a familiar experience with a dist
+[2026-03-22 17:39:53 UTC] Generating script via Replicate (attempt 1)...
+[2026-03-22 17:39:53 UTC] Replicate generation failed: Error code: 404 - {'error': {'message': 'No endpoints found for meta-llama/llama-3.1-405b-instruct.', 'code': 404}, 'user_id': 'user_33sxpMMBfb9uoCdG5ceA6CpR7Nb'} — using template fallback
+[2026-03-22 17:39:53 UTC] SSML: injected <break time="0.8s"/> after hook
+[2026-03-22 17:39:53 UTC] Script: 57 words
+[2026-03-22 17:39:53 UTC] Creative brief saved: creative_brief_20260322_173953_slot5.json
+[2026-03-22 17:39:53 UTC] TOPIC:  Scientists discover a surprising way to quiet the anxious mi.
+[2026-03-22 17:39:53 UTC] NICHE:  Dark Psychology
+[2026-03-22 17:39:53 UTC] HOOK:   The reason you can't stop scrolling is not boredom. It is a dopamine loop engineered by behavioural scientists.
+[2026-03-22 17:39:53 UTC] BODY:   Psychologists have known this for decades but it never makes it into mainstream ...
+[2026-03-22 17:39:53 UTC] ============================================================
+{
+  "timestamp": "2026-03-22T17:39:53.465328",
+  "slot": 5,
+  "niche": "dark_psychology",
+  "niche_label": "Dark Psychology",
+  "topic": "Scientists discover a surprising way to quiet the anxious mi.",
+  "framework": {
+    "structure": "['The reason you'] + [Universal Relatable Behaviour] + ['is not'] + [Assumed Reason] + ['it is'] + [Dark Mechanism]",
+    "trigger": "Self-revelation \u2014 reframes a familiar experience with a disturbing explanation",
+    "example": "The reason you can't stop scrolling is not boredom. It is a dopamine loop engineered by behavioural scientists."
+  },
+  "script": {
+    "hook": "The reason you can't stop scrolling is not boredom. It is a dopamine loop engineered by behavioural scientists.",
+    "body": "Psychologists have known this for decades but it never makes it into mainstream education. The people who use this have an unfair advantage in every conversation.",
+    "cta": "Follow to see the ones they don't want you to find."
+  },
+  "full_script_text": "The reason you can't stop scrolling is not boredom. It is a dopamine loop engineered by behavioural scientists. <break time=\"0.8s\"/> Psychologists have known this for decades but it never makes it into mainstream education. The people who use this have an unfair advantage in every conversation. Follow to see the ones they don't want you to find.",
+  "visual_direction": {
+    "kling_prompt": "extreme close-up eyes in deep shadow, single side light source, no full faces, 9:16 vertical cinematic, psychological thriller, deep shadows",
+    "negative_prompt": "faces, logos, text overlays, watermarks"
+  },
+  "voice_settings": {
+    "voice_id": "TxGEqnHWrfWFTfGW9XjX",
+    "stability": 0.6,
+    "similarity": 0.88,
+    "style": 0.55,
+    "speed": 0.85,
+    "voice": "Josh"
+  },
+  "caption_text": "The reason you can't stop scrolling is not boredom. It is a dopamine loop engine",
+  "affiliate": "none_growth_mode",
+  "script_variant": "long",
+  "compliance_checked": true
+}
+[2026-03-22 17:39:54 UTC] [A] PASS — creative brief generated
+[2026-03-22 17:39:54 UTC] [B] quality_assessor.py --slot 5 --niche dark_psychology --max-retries 3
+/Users/kolly/HARBINGERHQ/scripts/agents/quality_assessor.py:29: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  NOW       = datetime.datetime.utcnow()
+[2026-03-22 17:39:54 UTC] [quality_assessor] ============================================================
+[2026-03-22 17:39:54 UTC] [quality_assessor] QUALITY ASSESSOR — SLOT 5  (max retries: 3)
+[2026-03-22 17:39:54 UTC] [quality_assessor] ============================================================
+[2026-03-22 17:39:54 UTC] [quality_assessor] PASS — brief 'creative_brief_20260322_173953_slot5.json' passed all checks
+[2026-03-22 17:39:54 UTC] [quality_assessor]   Words:   57
+[2026-03-22 17:39:54 UTC] [quality_assessor]   Hook:    The reason you can't stop scrolling is not boredom. It is a 
+[2026-03-22 17:39:54 UTC] [quality_assessor]   Niche:   Dark Psychology
+[2026-03-22 17:39:54 UTC] [quality_assessor] ============================================================
+[2026-03-22 17:39:54 UTC] [B] PASS — script passed quality gate
+[2026-03-22 17:39:54 UTC] [C] production_agent.py --slot 5 --niche dark_psychology
+/Users/kolly/HARBINGERHQ/scripts/agents/production_agent.py:24: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  NOW = datetime.datetime.utcnow()
+[2026-03-22 17:39:54 UTC] ============================================================
+[2026-03-22 17:39:54 UTC] AGENT 3: PRODUCTION (SLOT 5)
+[2026-03-22 17:39:54 UTC] ============================================================
+[2026-03-22 17:39:54 UTC] Loaded creative brief: creative_brief_20260322_173953_slot5.json
+[2026-03-22 17:39:54 UTC] Niche override: dark_psychology (CLI)
+[2026-03-22 17:39:54 UTC] Niche:       Dark Psychology
+[2026-03-22 17:39:54 UTC] Compliance: all disclosures present
+[2026-03-22 17:39:54 UTC]   Visual: B-roll mode (AI generation bypassed)
+[footage_sourcer] Video search: 'rain on window dark aesthetic 4k'
+[footage_sourcer] Searching: 'rain on window dark aesthetic 4k' (max 8)
+[footage_sourcer] Found 8 results
+[footage_sourcer]   Top result: Cozy Bedroom With A Night View Of New York In Heavy Rain | R (13,344,310 views)
+[footage_sourcer]   Dedup: skipping xg1gNlxt (already in used_broll_log)
+[footage_sourcer]   Dedup: skipping QUqhgZjr (already in used_broll_log)
+[footage_sourcer] Downloading video clip: Muffled Sounds of Rain for Peace of Mind, Deep Sleep | Dark 
+[footage_sourcer]   offset=38.7s, duration=25s
+[footage_sourcer]   Downloaded file missing or too small
+[footage_sourcer] Video search: 'night city drive dashcam 4k'
+[footage_sourcer] Searching: 'night city drive dashcam 4k' (max 8)
+[footage_sourcer] Found 8 results
+[footage_sourcer]   Top result: Night Driving Seoul City | Gangnam and Expressway with Chill (4,850,486 views)
+[footage_sourcer] Downloading video clip: Night Driving Seoul City | Gangnam and Expressway with Chill
+[footage_sourcer]   offset=24.1s, duration=25s
+[footage_sourcer]   Downloaded file missing or too small
+[footage_sourcer] Downloading video clip: Miami 4K - Night Drive
+[footage_sourcer]   offset=28.9s, duration=25s
+[footage_sourcer]   Downloaded file missing or too small
+[footage_sourcer]   Dedup: skipping uXfZiKhB (already in used_broll_log)
+[footage_sourcer] Niche queries exhausted for 'dark_psychology' — trying generic fallback queries
+[footage_sourcer] Searching: 'satisfying marble run loop 4k' (max 5)
+[footage_sourcer] Found 5 results
+[footage_sourcer] Downloading video clip: Mega Marble Race | #marblerace #marbles #marblerun #blender 
+[footage_sourcer]   offset=37.7s, duration=25s
+[footage_sourcer]   Downloaded file missing or too small
+[footage_sourcer] Searching: 'city highway night drive dashcam 4k' (max 5)
+[footage_sourcer] Found 5 results
+[footage_sourcer] Downloading video clip: 4K Driving from Salt Lake City to Las Vegas - Full Road Trip
+[footage_sourcer]   offset=30.5s, duration=25s
+[footage_sourcer]   Downloaded file missing or too small
+[footage_sourcer] Searching: 'luxury supercar night drive POV 4k' (max 5)
+[footage_sourcer] Found 5 results
+[footage_sourcer] Downloading video clip: 750HP BMW M4 POV – Night Drive With Engine Sounds
+[footage_sourcer]   offset=15.8s, duration=25s
+[footage_sourcer]   Downloaded file missing or too small
+[footage_sourcer] All yt-dlp attempts failed — falling back to broll_cache
+[footage_sourcer] Using broll_cache fallback: marble_run.mp4
+[footage_sourcer] Resized to 1080x1920: vertical_cache_fallback_20260322_173955_marble_run.mp4
+[2026-03-22 17:39:54 UTC]   B-roll sourced: vertical_cache_fallback_20260322_173955_marble_run.mp4 (31395KB)
+[2026-03-22 17:39:54 UTC] Generating audio via eleven_v3 (57 words, voice=TxGEqnHWrfWF...)
+[2026-03-22 17:39:54 UTC] Audio saved: audio_20260322_173954_slot5.mp3 (392 KB)
+[2026-03-22 17:39:54 UTC] Alignment data saved: audio_alignment_20260322_173954_slot5.json (347 chars)
+[footage_sourcer] BGM cache already seeded for 'dark_psychology': 1 file(s)
+[footage_sourcer] BGM search: 'slowed and reverb phonk instrumental no copyright'
+[footage_sourcer] Searching: 'slowed and reverb phonk instrumental no copyright' (max 5)
+[footage_sourcer] Found 5 results
+[footage_sourcer] Downloading BGM: the best slowed & reverb instrumental ever made.
+[footage_sourcer]   BGM saved: bgm_20260322_173955_uRvQ8imw.mp3 (704KB)
+[footage_sourcer]   BGM normalized to 10% volume: bgm_norm_20260322_173955_bgm_20260322_173955_uRvQ8imw.mp3
+[2026-03-22 17:39:54 UTC] BGM sourced via footage_sourcer: bgm_norm_20260322_173955_bgm_20260322_173955_uRvQ8imw.mp3
+[2026-03-22 17:39:54 UTC] Mixing audio layers (sub-bass 40Hz @ -18dB, ambience=yes)...
+[2026-03-22 17:39:54 UTC] Mixed audio saved: mixed_audio_20260322_173954_slot5.mp3
+[2026-03-22 17:39:54 UTC] Using mixed audio: mixed_audio_20260322_173954_slot5.mp3
+[2026-03-22 17:39:54 UTC] SFX: hook clicks layered at ['0.00s', '0.14s', '0.52s']
+[2026-03-22 17:39:54 UTC] Rendering: duration=26.0s, visual=Kling
+[caption_engine] Using ElevenLabs word-level timestamps (57 words, niche=dark_psychology)
+[caption_engine] Generated 19 karaoke blocks (real_timestamps, font=Arial, niche=dark_psychology)
+[2026-03-22 17:39:54 UTC] Captions: captions_20260322_173954_slot5.ass | 19 blocks | real_timestamps | font=Arial
+[2026-03-22 17:39:54 UTC]   Zoom factor: 0.150 (from evolution_params)
+[2026-03-22 17:39:54 UTC]   Style route:  Dark Psychology | grade=eq=saturation=0.8:contrast=1.2 | vignette=vignette=PI/4 | noise=off
+[2026-03-22 17:39:54 UTC]   ASS subtitles: captions_20260322_173954_slot5.ass
+[2026-03-22 17:39:54 UTC]   CTA overlay: 'Follow for More' from t=22.5s
+[2026-03-22 17:39:54 UTC] FFmpeg: /opt/homebrew/opt/ffmpeg-full/bin/ffmpeg -y -stream_loop -1 -i /Users/kolly/HARBINGERHQ/output/vertical_cache_fallback_20260322_173955_marble_run.mp4 -itsoffset 0.5...
+[2026-03-22 17:39:54 UTC] Metadata stripped: 1 image files updated
+[2026-03-22 17:39:54 UTC] Render complete: post_20260322_173954_slot5.mp4
+[2026-03-22 17:39:54 UTC]   [INFO] file_size_mb: 34.72
+[2026-03-22 17:39:54 UTC]   [OK] size_ok: True
+[2026-03-22 17:39:54 UTC]   [INFO] resolution: 1080x1920
+[2026-03-22 17:39:54 UTC]   [OK] resolution_ok: True
+[2026-03-22 17:39:54 UTC]   [INFO] duration_s: 26.0
+[2026-03-22 17:39:54 UTC]   [OK] duration_ok: True
+[2026-03-22 17:39:54 UTC] Manifest saved: production_manifest_20260322_173954_slot5.json
+[2026-03-22 17:39:54 UTC] Archived:       post_20260322_173954_slot5.mp4
+[2026-03-22 17:39:54 UTC] 
+--- PRODUCTION SUMMARY ---
+[2026-03-22 17:39:54 UTC] Slot:        5
+[2026-03-22 17:39:54 UTC] Niche:       Dark Psychology
+[2026-03-22 17:39:54 UTC] Visual:      B-roll
+[2026-03-22 17:39:54 UTC] Audio:       voice_sfx_20260322_173954_slot5.mp3
+[2026-03-22 17:39:54 UTC] Video:       post_20260322_173954_slot5.mp4
+[2026-03-22 17:39:54 UTC] Size:        34.72 MB
+[2026-03-22 17:39:54 UTC] Resolution:  1080x1920
+[2026-03-22 17:39:54 UTC] Duration:    26.0s
+[2026-03-22 17:39:54 UTC] All checks:  PASS
+[2026-03-22 17:39:54 UTC] Shots:       0 (genome gen —)
+[2026-03-22 17:39:54 UTC] Alignment:   real timestamps
+[2026-03-22 17:39:54 UTC] ============================================================
+[2026-03-22 17:39:54 UTC] Auto-publishing: distribute.py --slot 5
+[2026-03-22 17:39:54 UTC] distribute.py: FAILED (exit 1)
+[2026-03-22 17:39:54 UTC] BINGERHQ/scripts/archive/distribute.py", line 487, in <module>
+    main()
+  File "/Users/kolly/HARBINGERHQ/scripts/archive/distribute.py", line 458, in main
+    "compliance":     COMPLIANCE_DISCLOSURE,
+                      ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'COMPLIANCE_DISCLOSURE' is not defined
+{
+  "timestamp": "2026-03-22T17:39:54.991434",
+  "slot": 5,
+  "sound_profile": {
+    "sub_bass_db": -18,
+    "sub_bass_hz": 40,
+    "ambience_type": "server_hum"
+  },
+  "asymmetry": null,
+  "affiliate": "none_growth_mode",
+  "script": {
+    "hook": "The reason you can't stop scrolling is not boredom. It is a dopamine loop engineered by behavioural scientists.",
+    "body": "Psychologists have known this for decades but it never makes it into mainstream education. The people who use this have an unfair advantage in every conversation.",
+    "cta": "Follow to see the ones they don't want you to find."
+  },
+  "caption_text": "The reason you can't stop scrolling is not boredom. It is a dopamine loop engine",
+  "visual_direction": {
+    "kling_prompt": "extreme close-up eyes in deep shadow, single side light source, no full faces, 9:16 vertical cinematic, psychological thriller, deep shadows",
+    "negative_prompt": "faces, logos, text overlays, watermarks"
+  },
+  "voice_settings": {
+    "voice_id": "TxGEqnHWrfWFTfGW9XjX",
+    "stability": 0.6,
+    "similarity": 0.88,
+    "style": 0.55,
+    "speed": 0.85,
+    "voice": "Josh"
+  },
+  "visual_source": "broll_footage",
+  "audio": "/Users/kolly/HARBINGERHQ/output/voice_sfx_20260322_173954_slot5.mp3",
+  "video": "/Users/kolly/HARBINGERHQ/output/post_20260322_173954_slot5.mp4",
+  "quality_check": {
+    "file_size_mb": 34.72,
+    "size_ok": true,
+    "resolution": "1080x1920",
+    "resolution_ok": true,
+    "duration_s": 26.0,
+    "duration_ok": true
+  },
+  "prompt_metadata": {
+    "visual_source": "broll_footage",
+    "shot_list": []
+  },
+  "audio_alignment": true,
+  "ffmpeg_evolution_params": {
+    "zoom_factor": 0.15,
+    "ssml_break_secs": 0.8,
+    "prompt_version": 1
+  },
+  "script_variant": "long"
+}
+[2026-03-22 17:42:36 UTC] [C] PASS — rendered and dispatched to Buffer API
+[2026-03-22 17:42:36 UTC]   Duration: 163s
+[2026-03-22 17:42:36 UTC] 
+[2026-03-22 17:42:36 UTC]   Slot 6 / 8  │  Niche: dark_psychology  │  Sched: +18h from now
+[2026-03-22 17:42:36 UTC] ────────────────────────────────────────────────────────────
+[2026-03-22 17:42:36 UTC] [A] creative_synthesis.py --slot 6 --niche dark_psychology
+/Users/kolly/HARBINGERHQ/scripts/agents/creative_synthesis.py:18: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  NOW       = datetime.datetime.utcnow()
+[2026-03-22 17:42:36 UTC] ============================================================
+[2026-03-22 17:42:36 UTC] AGENT 2: CREATIVE SYNTHESIS — VIRAL CONTENT (SLOT 6)
+[2026-03-22 17:42:36 UTC] ============================================================
+[2026-03-22 17:42:36 UTC] Niche: dark_psychology (CLI override)
+[2026-03-22 17:42:36 UTC] Variant:  LONG (70-80 words (30 seconds spoken))
+[2026-03-22 17:42:36 UTC] Topic:     Scientists discover a surprising way to quiet the anxious mi.
+[2026-03-22 17:42:36 UTC] Framework: [Authority] + ['has known this for decades'] + [Why it was suppressed]
+[2026-03-22 17:42:36 UTC] Trigger:   Conspiracy of suppression — powerful people kept this from y
+[2026-03-22 17:42:36 UTC] Generating script via Replicate (attempt 1)...
+[2026-03-22 17:42:36 UTC] Replicate generation failed: Error code: 404 - {'error': {'message': 'No endpoints found for meta-llama/llama-3.1-405b-instruct.', 'code': 404}, 'user_id': 'user_33sxpMMBfb9uoCdG5ceA6CpR7Nb'} — using template fallback
+[2026-03-22 17:42:36 UTC] SSML: injected <break time="0.8s"/> after hook
+[2026-03-22 17:42:36 UTC] Script: 55 words
+[2026-03-22 17:42:36 UTC] Creative brief saved: creative_brief_20260322_174236_slot6.json
+[2026-03-22 17:42:36 UTC] TOPIC:  Scientists discover a surprising way to quiet the anxious mi.
+[2026-03-22 17:42:36 UTC] NICHE:  Dark Psychology
+[2026-03-22 17:42:36 UTC] HOOK:   Psychologists have known this negotiation trick for 40 years. It was never taught because it is too effective.
+[2026-03-22 17:42:36 UTC] BODY:   Psychologists have known this for decades but it never makes it into mainstream ...
+[2026-03-22 17:42:36 UTC] ============================================================
+{
+  "timestamp": "2026-03-22T17:42:36.995036",
+  "slot": 6,
+  "niche": "dark_psychology",
+  "niche_label": "Dark Psychology",
+  "topic": "Scientists discover a surprising way to quiet the anxious mi.",
+  "framework": {
+    "structure": "[Authority] + ['has known this for decades'] + [Why it was suppressed]",
+    "trigger": "Conspiracy of suppression \u2014 powerful people kept this from you intentionally",
+    "example": "Psychologists have known this negotiation trick for 40 years. It was never taught because it is too effective."
+  },
+  "script": {
+    "hook": "Psychologists have known this negotiation trick for 40 years. It was never taught because it is too effective.",
+    "body": "Psychologists have known this for decades but it never makes it into mainstream education. The people who use this have an unfair advantage in every conversation.",
+    "cta": "Drop a \ud83d\udc41\ufe0f if you made it this far."
+  },
+  "full_script_text": "Psychologists have known this negotiation trick for 40 years. It was never taught because it is too effective. <break time=\"0.8s\"/> Psychologists have known this for decades but it never makes it into mainstream education. The people who use this have an unfair advantage in every conversation. Drop a \ud83d\udc41\ufe0f if you made it this far.",
+  "visual_direction": {
+    "kling_prompt": "extreme close-up eyes in deep shadow, single side light source, no full faces, 9:16 vertical cinematic, psychological thriller, deep shadows",
+    "negative_prompt": "faces, logos, text overlays, watermarks"
+  },
+  "voice_settings": {
+    "voice_id": "TxGEqnHWrfWFTfGW9XjX",
+    "stability": 0.6,
+    "similarity": 0.88,
+    "style": 0.55,
+    "speed": 0.85,
+    "voice": "Josh"
+  },
+  "caption_text": "Psychologists have known this negotiation trick for 40 years. It was never taugh",
+  "affiliate": "none_growth_mode",
+  "script_variant": "long",
+  "compliance_checked": true
+}
+[2026-03-22 17:42:38 UTC] [A] PASS — creative brief generated
+[2026-03-22 17:42:38 UTC] [B] quality_assessor.py --slot 6 --niche dark_psychology --max-retries 3
+/Users/kolly/HARBINGERHQ/scripts/agents/quality_assessor.py:29: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  NOW       = datetime.datetime.utcnow()
+[2026-03-22 17:42:38 UTC] [quality_assessor] ============================================================
+[2026-03-22 17:42:38 UTC] [quality_assessor] QUALITY ASSESSOR — SLOT 6  (max retries: 3)
+[2026-03-22 17:42:38 UTC] [quality_assessor] ============================================================
+[2026-03-22 17:42:38 UTC] [quality_assessor] FAIL (attempt 1/4): no recognised CTA phrase found
+[2026-03-22 17:42:38 UTC] [quality_assessor] Triggering regeneration for slot 6 niche=dark_psychology...
+[2026-03-22 17:42:38 UTC] [quality_assessor] Regenerating: /Users/kolly/.pyenv/versions/3.12.13/bin/python3 /Users/kolly/HARBINGERHQ/scripts/agents/creative_synthesis.py --slot 6 --niche dark_psychology
+[2026-03-22 17:42:38 UTC] [quality_assessor] Regeneration succeeded
+[2026-03-22 17:42:38 UTC] [quality_assessor] FAIL (attempt 2/4): no recognised CTA phrase found
+[2026-03-22 17:42:38 UTC] [quality_assessor] Triggering regeneration for slot 6 niche=dark_psychology...
+[2026-03-22 17:42:38 UTC] [quality_assessor] Regenerating: /Users/kolly/.pyenv/versions/3.12.13/bin/python3 /Users/kolly/HARBINGERHQ/scripts/agents/creative_synthesis.py --slot 6 --niche dark_psychology
+[2026-03-22 17:42:38 UTC] [quality_assessor] Regeneration succeeded
+[2026-03-22 17:42:38 UTC] [quality_assessor] PASS — brief 'creative_brief_20260322_174254_slot6.json' passed all checks
+[2026-03-22 17:42:38 UTC] [quality_assessor]   Words:   51
+[2026-03-22 17:42:38 UTC] [quality_assessor]   Hook:    If someone mirrors your body language in the first 30 second
+[2026-03-22 17:42:38 UTC] [quality_assessor]   Niche:   Dark Psychology
+[2026-03-22 17:42:38 UTC] [quality_assessor] ============================================================
+[2026-03-22 17:43:10 UTC] [B] PASS — script passed quality gate
+[2026-03-22 17:43:10 UTC] [C] production_agent.py --slot 6 --niche dark_psychology
+/Users/kolly/HARBINGERHQ/scripts/agents/production_agent.py:24: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  NOW = datetime.datetime.utcnow()
+[2026-03-22 17:43:11 UTC] ============================================================
+[2026-03-22 17:43:11 UTC] AGENT 3: PRODUCTION (SLOT 6)
+[2026-03-22 17:43:11 UTC] ============================================================
+[2026-03-22 17:43:11 UTC] Loaded creative brief: creative_brief_20260322_174254_slot6.json
+[2026-03-22 17:43:11 UTC] Niche override: dark_psychology (CLI)
+[2026-03-22 17:43:11 UTC] Niche:       Dark Psychology
+[2026-03-22 17:43:11 UTC] Compliance: all disclosures present
+[2026-03-22 17:43:11 UTC]   Visual: B-roll mode (AI generation bypassed)
+[footage_sourcer] Video search: 'rain on window dark aesthetic 4k'
+[footage_sourcer] Searching: 'rain on window dark aesthetic 4k' (max 8)
+[footage_sourcer] Found 8 results
+[footage_sourcer]   Top result: Cozy Bedroom With A Night View Of New York In Heavy Rain | R (13,344,310 views)
+[footage_sourcer]   Dedup: skipping xg1gNlxt (already in used_broll_log)
+[footage_sourcer]   Dedup: skipping QUqhgZjr (already in used_broll_log)
+[footage_sourcer] Downloading video clip: Muffled Sounds of Rain for Peace of Mind, Deep Sleep | Dark 
+[footage_sourcer]   offset=22.0s, duration=25s
+[footage_sourcer]   Downloaded file missing or too small
+[footage_sourcer] Video search: 'night city drive dashcam 4k'
+[footage_sourcer] Searching: 'night city drive dashcam 4k' (max 8)
+[footage_sourcer] Found 8 results
+[footage_sourcer]   Top result: Night Driving Seoul City | Gangnam and Expressway with Chill (4,850,496 views)
+[footage_sourcer] Downloading video clip: Night Driving Seoul City | Gangnam and Expressway with Chill
+[footage_sourcer]   offset=23.6s, duration=25s
+[footage_sourcer]   Downloaded file missing or too small
+[footage_sourcer] Downloading video clip: Miami 4K - Night Drive
+[footage_sourcer]   offset=28.7s, duration=25s
+[footage_sourcer]   Downloaded file missing or too small
+[footage_sourcer] Downloading video clip: Explore Melbourne in 4K: Coastal Drives, City Nights & More 
+[footage_sourcer]   offset=5.2s, duration=25s
+[footage_sourcer]   Video saved: footage_20260322_174311_TDoKTvH5.mp4 (80102KB)
+[footage_sourcer] Dedup: logged video_id=TDoKTvH5 (total logged: 10)
+[footage_sourcer] Resize error: Command '['ffmpeg', '-y', '-i', '/Users/kolly/HARBINGERHQ/output/footage_20260322_174311_TDoKTvH5.mp4', '-vf', 'scale=-2:1920,crop=1080:1920', '-c:v', 'libx264', '-preset', 'fast', '-crf', '20', '-c:a', 'aac', '-b:a', '128k', '-pix_fmt', 'yuv420p', '/Users/kolly/HARBINGERHQ/output/vertical_footage_20260322_174311_TDoKTvH5.mp4']' timed out after 120 seconds
+[2026-03-22 17:43:11 UTC]   B-roll sourced: footage_20260322_174311_TDoKTvH5.mp4 (80102KB)
+[2026-03-22 17:43:11 UTC] Generating audio via eleven_v3 (51 words, voice=TxGEqnHWrfWF...)
+[2026-03-22 17:43:11 UTC] Audio saved: audio_20260322_174311_slot6.mp3 (284 KB)
+[2026-03-22 17:43:11 UTC] Alignment data saved: audio_alignment_20260322_174311_slot6.json (307 chars)
+[footage_sourcer] BGM cache already seeded for 'dark_psychology': 1 file(s)
+[footage_sourcer] BGM search: 'slowed and reverb phonk instrumental no copyright'
+[footage_sourcer] Searching: 'slowed and reverb phonk instrumental no copyright' (max 5)
+[footage_sourcer] Found 5 results
+[footage_sourcer] Downloading BGM: AURA ♾️ - THE MAIN CHARACTER VILLAIN 👿- (ULTRA SLOWED + REVE
+[footage_sourcer]   BGM saved: bgm_20260322_174311_tKToXsQN.mp3 (704KB)
+[footage_sourcer]   BGM normalized to 10% volume: bgm_norm_20260322_174311_bgm_20260322_174311_tKToXsQN.mp3
+[2026-03-22 17:43:11 UTC] BGM sourced via footage_sourcer: bgm_norm_20260322_174311_bgm_20260322_174311_tKToXsQN.mp3
+[2026-03-22 17:43:11 UTC] Mixing audio layers (sub-bass 40Hz @ -18dB, ambience=yes)...
+[2026-03-22 17:43:11 UTC] Mixed audio saved: mixed_audio_20260322_174311_slot6.mp3
+[2026-03-22 17:43:11 UTC] Using mixed audio: mixed_audio_20260322_174311_slot6.mp3
+[2026-03-22 17:43:11 UTC] SFX: hook clicks layered at ['0.00s', '0.13s', '0.53s']
+[2026-03-22 17:43:11 UTC] Rendering: duration=19.2s, visual=Kling
+[caption_engine] Using ElevenLabs word-level timestamps (51 words, niche=dark_psychology)
+[caption_engine] Generated 17 karaoke blocks (real_timestamps, font=Arial, niche=dark_psychology)
+[2026-03-22 17:43:11 UTC] Captions: captions_20260322_174311_slot6.ass | 17 blocks | real_timestamps | font=Arial
+[2026-03-22 17:43:11 UTC]   Zoom factor: 0.150 (from evolution_params)
+[2026-03-22 17:43:11 UTC]   Style route:  Dark Psychology | grade=eq=saturation=0.8:contrast=1.2 | vignette=vignette=PI/4 | noise=off
+[2026-03-22 17:43:11 UTC]   ASS subtitles: captions_20260322_174311_slot6.ass
+[2026-03-22 17:43:11 UTC]   CTA overlay: 'Follow for More' from t=15.7s
+[2026-03-22 17:43:11 UTC] FFmpeg: /opt/homebrew/opt/ffmpeg-full/bin/ffmpeg -y -stream_loop -1 -i /Users/kolly/HARBINGERHQ/output/footage_20260322_174311_TDoKTvH5.mp4 -itsoffset 0.5...
+[2026-03-22 17:43:11 UTC] Metadata stripped: 1 image files updated
+[2026-03-22 17:43:11 UTC] Render complete: post_20260322_174311_slot6.mp4
+[2026-03-22 17:43:11 UTC]   [INFO] file_size_mb: 12.13
+[2026-03-22 17:43:11 UTC]   [OK] size_ok: True
+[2026-03-22 17:43:11 UTC]   [INFO] resolution: 1080x1920
+[2026-03-22 17:43:11 UTC]   [OK] resolution_ok: True
+[2026-03-22 17:43:11 UTC]   [INFO] duration_s: 19.2
+[2026-03-22 17:43:11 UTC]   [OK] duration_ok: True
+[2026-03-22 17:43:11 UTC] Manifest saved: production_manifest_20260322_174311_slot6.json
+[2026-03-22 17:43:11 UTC] Archived:       post_20260322_174311_slot6.mp4
+[2026-03-22 17:43:11 UTC] 
+--- PRODUCTION SUMMARY ---
+[2026-03-22 17:43:11 UTC] Slot:        6
+[2026-03-22 17:43:11 UTC] Niche:       Dark Psychology
+[2026-03-22 17:43:11 UTC] Visual:      B-roll
+[2026-03-22 17:43:11 UTC] Audio:       voice_sfx_20260322_174311_slot6.mp3
+[2026-03-22 17:43:11 UTC] Video:       post_20260322_174311_slot6.mp4
+[2026-03-22 17:43:11 UTC] Size:        12.13 MB
+[2026-03-22 17:43:11 UTC] Resolution:  1080x1920
+[2026-03-22 17:43:11 UTC] Duration:    19.2s
+[2026-03-22 17:43:11 UTC] All checks:  PASS
+[2026-03-22 17:43:11 UTC] Shots:       0 (genome gen —)
+[2026-03-22 17:43:11 UTC] Alignment:   real timestamps
+[2026-03-22 17:43:11 UTC] ============================================================
+[2026-03-22 17:43:11 UTC] Auto-publishing: distribute.py --slot 6
+[2026-03-22 17:43:11 UTC] distribute.py: FAILED (exit 1)
+[2026-03-22 17:43:11 UTC] BINGERHQ/scripts/archive/distribute.py", line 487, in <module>
+    main()
+  File "/Users/kolly/HARBINGERHQ/scripts/archive/distribute.py", line 458, in main
+    "compliance":     COMPLIANCE_DISCLOSURE,
+                      ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'COMPLIANCE_DISCLOSURE' is not defined
+{
+  "timestamp": "2026-03-22T17:43:11.064332",
+  "slot": 6,
+  "sound_profile": {
+    "sub_bass_db": -18,
+    "sub_bass_hz": 40,
+    "ambience_type": "server_hum"
+  },
+  "asymmetry": null,
+  "affiliate": "none_growth_mode",
+  "script": {
+    "hook": "If someone mirrors your body language in the first 30 seconds, they are running a dominance test on you.",
+    "body": "Psychologists have known this for decades but it never makes it into mainstream education. The people who use this have an unfair advantage in every conversation.",
+    "cta": "What do you think?"
+  },
+  "caption_text": "If someone mirrors your body language in the first 30 seconds, they are running ",
+  "visual_direction": {
+    "kling_prompt": "extreme close-up eyes in deep shadow, single side light source, no full faces, 9:16 vertical cinematic, psychological thriller, deep shadows",
+    "negative_prompt": "faces, logos, text overlays, watermarks"
+  },
+  "voice_settings": {
+    "voice_id": "TxGEqnHWrfWFTfGW9XjX",
+    "stability": 0.6,
+    "similarity": 0.88,
+    "style": 0.55,
+    "speed": 0.85,
+    "voice": "Josh"
+  },
+  "visual_source": "broll_footage",
+  "audio": "/Users/kolly/HARBINGERHQ/output/voice_sfx_20260322_174311_slot6.mp3",
+  "video": "/Users/kolly/HARBINGERHQ/output/post_20260322_174311_slot6.mp4",
+  "quality_check": {
+    "file_size_mb": 12.13,
+    "size_ok": true,
+    "resolution": "1080x1920",
+    "resolution_ok": true,
+    "duration_s": 19.2,
+    "duration_ok": true
+  },
+  "prompt_metadata": {
+    "visual_source": "broll_footage",
+    "shot_list": []
+  },
+  "audio_alignment": true,
+  "ffmpeg_evolution_params": {
+    "zoom_factor": 0.15,
+    "ssml_break_secs": 0.8,
+    "prompt_version": 1
+  },
+  "script_variant": "long"
+}
+[2026-03-22 17:46:24 UTC] [C] PASS — rendered and dispatched to Buffer API
+[2026-03-22 17:46:24 UTC]   Duration: 228s
+[2026-03-22 17:46:24 UTC] 
+[2026-03-22 17:46:24 UTC]   Slot 7 / 8  │  Niche: micro_mystery  │  Sched: +21h from now
+[2026-03-22 17:46:24 UTC] ────────────────────────────────────────────────────────────
+[2026-03-22 17:46:24 UTC] [A] creative_synthesis.py --slot 7 --niche micro_mystery
+/Users/kolly/HARBINGERHQ/scripts/agents/creative_synthesis.py:18: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  NOW       = datetime.datetime.utcnow()
+[2026-03-22 17:46:24 UTC] ============================================================
+[2026-03-22 17:46:24 UTC] AGENT 2: CREATIVE SYNTHESIS — VIRAL CONTENT (SLOT 7)
+[2026-03-22 17:46:24 UTC] ============================================================
+[2026-03-22 17:46:24 UTC] Niche: micro_mystery (CLI override)
+[2026-03-22 17:46:24 UTC] Variant:  LONG (70-80 words (30 seconds spoken))
+[2026-03-22 17:46:24 UTC] Topic:     The unsettling case of Gursimran Kaur (2024): 19 year old gi.
+[2026-03-22 17:46:24 UTC] Framework: ['What if'] + [Familiar Safe Phenomenon] + ['is actually'] + [Terrifying Alterna
+[2026-03-22 17:46:24 UTC] Trigger:   Existential reframe — takes a safe experience and makes it p
+[2026-03-22 17:46:24 UTC] Generating script via Replicate (attempt 1)...
+[2026-03-22 17:46:24 UTC] Replicate generation failed: Error code: 404 - {'error': {'message': 'No endpoints found for meta-llama/llama-3.1-405b-instruct.', 'code': 404}, 'user_id': 'user_33sxpMMBfb9uoCdG5ceA6CpR7Nb'} — using template fallback
+[2026-03-22 17:46:24 UTC] SSML: injected <break time="0.8s"/> after hook
+[2026-03-22 17:46:24 UTC] Script: 48 words
+[2026-03-22 17:46:24 UTC] Creative brief saved: creative_brief_20260322_174624_slot7.json
+[2026-03-22 17:46:24 UTC] TOPIC:  The unsettling case of Gursimran Kaur (2024): 19 year old gi.
+[2026-03-22 17:46:24 UTC] NICHE:  Micro-Mysteries
+[2026-03-22 17:46:24 UTC] HOOK:   What if déjà vu is not a memory glitch. What if it is your brain catching a bleed from a parallel timeline.
+[2026-03-22 17:46:24 UTC] BODY:   Scientists have no explanation for this. The data exists, the phenomenon is docu...
+[2026-03-22 17:46:24 UTC] ============================================================
+{
+  "timestamp": "2026-03-22T17:46:24.315051",
+  "slot": 7,
+  "niche": "micro_mystery",
+  "niche_label": "Micro-Mysteries",
+  "topic": "The unsettling case of Gursimran Kaur (2024): 19 year old gi.",
+  "framework": {
+    "structure": "['What if'] + [Familiar Safe Phenomenon] + ['is actually'] + [Terrifying Alternative]",
+    "trigger": "Existential reframe \u2014 takes a safe experience and makes it permanently unsettling",
+    "example": "What if d\u00e9j\u00e0 vu is not a memory glitch. What if it is your brain catching a bleed from a parallel timeline."
+  },
+  "script": {
+    "hook": "What if d\u00e9j\u00e0 vu is not a memory glitch. What if it is your brain catching a bleed from a parallel timeline.",
+    "body": "Scientists have no explanation for this. The data exists, the phenomenon is documented, but the answer has never been found.",
+    "cta": "Follow before this disappears."
+  },
+  "full_script_text": "What if d\u00e9j\u00e0 vu is not a memory glitch. What if it is your brain catching a bleed from a parallel timeline. <break time=\"0.8s\"/> Scientists have no explanation for this. The data exists, the phenomenon is documented, but the answer has never been found. Follow before this disappears.",
+  "visual_direction": {
+    "kling_prompt": "deep space starfield or abandoned corridor, eerie dim lighting, fog effect, no people, 9:16 vertical cinematic, horror atmospheric, unsettling stillness",
+    "negative_prompt": "faces, logos, text overlays, watermarks"
+  },
+  "voice_settings": {
+    "voice_id": "TxGEqnHWrfWFTfGW9XjX",
+    "stability": 0.7,
+    "similarity": 0.85,
+    "style": 0.45,
+    "speed": 0.8,
+    "voice": "Josh"
+  },
+  "caption_text": "What if d\u00e9j\u00e0 vu is not a memory glitch. What if it is your brain catching a blee",
+  "affiliate": "none_growth_mode",
+  "script_variant": "long",
+  "compliance_checked": true
+}
+[2026-03-22 17:46:25 UTC] [A] PASS — creative brief generated
+[2026-03-22 17:46:25 UTC] [B] quality_assessor.py --slot 7 --niche micro_mystery --max-retries 3
+/Users/kolly/HARBINGERHQ/scripts/agents/quality_assessor.py:29: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  NOW       = datetime.datetime.utcnow()
+[2026-03-22 17:46:25 UTC] [quality_assessor] ============================================================
+[2026-03-22 17:46:25 UTC] [quality_assessor] QUALITY ASSESSOR — SLOT 7  (max retries: 3)
+[2026-03-22 17:46:25 UTC] [quality_assessor] ============================================================
+[2026-03-22 17:46:25 UTC] [quality_assessor] PASS — brief 'creative_brief_20260322_174624_slot7.json' passed all checks
+[2026-03-22 17:46:25 UTC] [quality_assessor]   Words:   48
+[2026-03-22 17:46:25 UTC] [quality_assessor]   Hook:    What if déjà vu is not a memory glitch. What if it is your b
+[2026-03-22 17:46:25 UTC] [quality_assessor]   Niche:   Micro-Mysteries
+[2026-03-22 17:46:25 UTC] [quality_assessor] ============================================================
+[2026-03-22 17:46:25 UTC] [B] PASS — script passed quality gate
+[2026-03-22 17:46:25 UTC] [C] production_agent.py --slot 7 --niche micro_mystery
+/Users/kolly/HARBINGERHQ/scripts/agents/production_agent.py:24: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  NOW = datetime.datetime.utcnow()
+[2026-03-22 17:46:26 UTC] ============================================================
+[2026-03-22 17:46:26 UTC] AGENT 3: PRODUCTION (SLOT 7)
+[2026-03-22 17:46:26 UTC] ============================================================
+[2026-03-22 17:46:26 UTC] Loaded creative brief: creative_brief_20260322_174624_slot7.json
+[2026-03-22 17:46:26 UTC] Niche override: micro_mystery (CLI)
+[2026-03-22 17:46:26 UTC] Niche:       Micro-Mysteries
+[2026-03-22 17:46:26 UTC] Compliance: all disclosures present
+[2026-03-22 17:46:26 UTC]   Visual: B-roll mode (AI generation bypassed)
+[footage_sourcer] Video search: 'abstract space loop background 4k'
+[footage_sourcer] Searching: 'abstract space loop background 4k' (max 8)
+[footage_sourcer] Found 8 results
+[footage_sourcer]   Top result: Abstract Liquid! 12 Hours 4K Satisfaying Video! Relaxing Mus (9,824,290 views)
+[footage_sourcer] Downloading video clip: Abstract Liquid! 12 Hours 4K Satisfaying Video! Relaxing Mus
+[footage_sourcer]   offset=30.5s, duration=25s
+[footage_sourcer]   Downloaded file missing or too small
+[footage_sourcer] Downloading video clip: Travel the Universe While Relaxation ★ Space Ambient Music
+[footage_sourcer]   offset=8.4s, duration=25s
+[footage_sourcer]   Downloaded file missing or too small
+[footage_sourcer] Downloading video clip: 10 Hour Black & White Topographic Map Animation — Ambient 4K
+[footage_sourcer]   offset=6.8s, duration=25s
+[footage_sourcer]   Downloaded file missing or too small
+[footage_sourcer] Video search: 'deep ocean footage 4k'
+[footage_sourcer] Searching: 'deep ocean footage 4k' (max 8)
+[footage_sourcer] Found 7 results
+[footage_sourcer]   Top result: Music of Underwater Wonders + Relaxing Music - The Best 4K S (9,725,196 views)
+[footage_sourcer] Downloading video clip: Music of Underwater Wonders + Relaxing Music - The Best 4K S
+[footage_sourcer]   offset=25.7s, duration=25s
+[footage_sourcer]   Downloaded file missing or too small
+[footage_sourcer] Downloading video clip: Into the Abyss: Creatures of the Midwater (Full Movie)
+[footage_sourcer]   offset=18.1s, duration=25s
+[footage_sourcer]   Downloaded file missing or too small
+[footage_sourcer] Downloading video clip: The Ocean (4K UltraHD)- Relaxation Film - Peaceful Relaxing 
+[footage_sourcer]   offset=25.0s, duration=25s
+[footage_sourcer]   Downloaded file missing or too small
+[footage_sourcer] Niche queries exhausted for 'micro_mystery' — trying generic fallback queries
+[footage_sourcer] Searching: 'satisfying marble run loop 4k' (max 5)
+[footage_sourcer] Found 5 results
+[footage_sourcer] Downloading video clip: Marble Run Islands
+[footage_sourcer]   offset=35.8s, duration=25s
+[footage_sourcer]   Video saved: footage_20260322_174626_i-CLV1aH.mp4 (38395KB)
+[footage_sourcer] Resize error: Command '['ffmpeg', '-y', '-i', '/Users/kolly/HARBINGERHQ/output/footage_20260322_174626_i-CLV1aH.mp4', '-vf', 'scale=-2:1920,crop=1080:1920', '-c:v', 'libx264', '-preset', 'fast', '-crf', '20', '-c:a', 'aac', '-b:a', '128k', '-pix_fmt', 'yuv420p', '/Users/kolly/HARBINGERHQ/output/vertical_footage_20260322_174626_i-CLV1aH.mp4']' timed out after 120 seconds
+[2026-03-22 17:46:26 UTC]   B-roll sourced: footage_20260322_174626_i-CLV1aH.mp4 (38395KB)
+[2026-03-22 17:46:26 UTC] Generating audio via eleven_v3 (48 words, voice=TxGEqnHWrfWF...)
+[2026-03-22 17:46:26 UTC] Audio saved: audio_20260322_174626_slot7.mp3 (299 KB)
+[2026-03-22 17:46:26 UTC] Alignment data saved: audio_alignment_20260322_174626_slot7.json (284 chars)
+[2026-03-22 17:46:26 UTC] Tempo: applying atempo=0.95 to voiceover...
+[2026-03-22 17:46:26 UTC] Tempo: voice_tempo_20260322_174626_slot7.mp3
+[footage_sourcer] Auto-seeding BGM cache for 'micro_mystery': ytsearch1:"dark ambient drone no copyright"
+[footage_sourcer] BGM cache seeded: bgm_seed_micro_mystery_099rI6vU774.mp3 (9122KB)
+[footage_sourcer] BGM search: '432hz dark ambient drone no copyright'
+[footage_sourcer] Searching: '432hz dark ambient drone no copyright' (max 5)
+[footage_sourcer] Found 5 results
+[footage_sourcer] Downloading BGM: Dark Ambient Hour Meditations - Circumference (4 Hz Theta Bi
+[footage_sourcer]   BGM saved: bgm_20260322_174626_ch-HHGuz.mp3 (704KB)
+[footage_sourcer]   BGM normalized to 10% volume: bgm_norm_20260322_174626_bgm_20260322_174626_ch-HHGuz.mp3
+[2026-03-22 17:46:26 UTC] BGM sourced via footage_sourcer: bgm_norm_20260322_174626_bgm_20260322_174626_ch-HHGuz.mp3
+[2026-03-22 17:46:26 UTC] Mixing audio layers (sub-bass 40Hz @ -18dB, ambience=yes)...
+[2026-03-22 17:46:26 UTC] Mixed audio saved: mixed_audio_20260322_174626_slot7.mp3
+[2026-03-22 17:46:26 UTC] Using mixed audio: mixed_audio_20260322_174626_slot7.mp3
+[2026-03-22 17:46:26 UTC] SFX: hook clicks layered at ['0.00s', '0.21s', '0.40s']
+[2026-03-22 17:46:26 UTC] Rendering: duration=21.1s, visual=Kling
+[caption_engine] Using ElevenLabs word-level timestamps (48 words, niche=micro_mystery)
+[caption_engine] Generated 16 karaoke blocks (real_timestamps, font=Courier New, niche=micro_mystery)
+[2026-03-22 17:46:26 UTC] Captions: captions_20260322_174626_slot7.ass | 16 blocks | real_timestamps | font=Courier New
+[2026-03-22 17:46:26 UTC]   Zoom factor: 0.150 (from evolution_params)
+[2026-03-22 17:46:26 UTC]   Style route:  Micro-Mysteries | grade=eq=brightness=-0.05:contrast=1.1 | vignette=vignette=PI/3 | noise=noise=alls=20:allf=t+u
+[2026-03-22 17:46:26 UTC]   ASS subtitles: captions_20260322_174626_slot7.ass
+[2026-03-22 17:46:26 UTC]   CTA overlay: 'Follow for More' from t=17.6s
+[2026-03-22 17:46:26 UTC] FFmpeg: /opt/homebrew/opt/ffmpeg-full/bin/ffmpeg -y -stream_loop -1 -i /Users/kolly/HARBINGERHQ/output/footage_20260322_174626_i-CLV1aH.mp4 -itsoffset 0.5...
+[2026-03-22 17:46:26 UTC] Metadata stripped: 1 image files updated
+[2026-03-22 17:46:26 UTC] Render complete: post_20260322_174626_slot7.mp4
+[2026-03-22 17:46:26 UTC]   [INFO] file_size_mb: 226.27
+[2026-03-22 17:46:26 UTC]   [FAIL] size_ok: False
+[2026-03-22 17:46:26 UTC]   [INFO] resolution: 1080x1920
+[2026-03-22 17:46:26 UTC]   [OK] resolution_ok: True
+[2026-03-22 17:46:26 UTC]   [INFO] duration_s: 21.1
+[2026-03-22 17:46:26 UTC]   [OK] duration_ok: True
+[2026-03-22 17:46:26 UTC] Manifest saved: production_manifest_20260322_174626_slot7.json
+[2026-03-22 17:46:26 UTC] Archived:       post_20260322_174626_slot7.mp4
+[2026-03-22 17:46:26 UTC] 
+--- PRODUCTION SUMMARY ---
+[2026-03-22 17:46:26 UTC] Slot:        7
+[2026-03-22 17:46:26 UTC] Niche:       Micro-Mysteries
+[2026-03-22 17:46:26 UTC] Visual:      B-roll
+[2026-03-22 17:46:26 UTC] Audio:       voice_sfx_20260322_174626_slot7.mp3
+[2026-03-22 17:46:26 UTC] Video:       post_20260322_174626_slot7.mp4
+[2026-03-22 17:46:26 UTC] Size:        226.27 MB
+[2026-03-22 17:46:26 UTC] Resolution:  1080x1920
+[2026-03-22 17:46:26 UTC] Duration:    21.1s
+[2026-03-22 17:46:26 UTC] All checks:  PARTIAL
+[2026-03-22 17:46:26 UTC] Shots:       0 (genome gen —)
+[2026-03-22 17:46:26 UTC] Alignment:   real timestamps
+[2026-03-22 17:46:26 UTC] ============================================================
+[2026-03-22 17:46:26 UTC] Auto-publishing: distribute.py --slot 7
+[2026-03-22 17:46:26 UTC] distribute.py: FAILED (exit 1)
+[2026-03-22 17:46:26 UTC] BINGERHQ/scripts/archive/distribute.py", line 487, in <module>
+    main()
+  File "/Users/kolly/HARBINGERHQ/scripts/archive/distribute.py", line 458, in main
+    "compliance":     COMPLIANCE_DISCLOSURE,
+                      ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'COMPLIANCE_DISCLOSURE' is not defined
+{
+  "timestamp": "2026-03-22T17:46:26.097552",
+  "slot": 7,
+  "sound_profile": {
+    "sub_bass_db": -18,
+    "sub_bass_hz": 40,
+    "ambience_type": "server_hum"
+  },
+  "asymmetry": null,
+  "affiliate": "none_growth_mode",
+  "script": {
+    "hook": "What if d\u00e9j\u00e0 vu is not a memory glitch. What if it is your brain catching a bleed from a parallel timeline.",
+    "body": "Scientists have no explanation for this. The data exists, the phenomenon is documented, but the answer has never been found.",
+    "cta": "Follow before this disappears."
+  },
+  "caption_text": "What if d\u00e9j\u00e0 vu is not a memory glitch. What if it is your brain catching a blee",
+  "visual_direction": {
+    "kling_prompt": "deep space starfield or abandoned corridor, eerie dim lighting, fog effect, no people, 9:16 vertical cinematic, horror atmospheric, unsettling stillness",
+    "negative_prompt": "faces, logos, text overlays, watermarks"
+  },
+  "voice_settings": {
+    "voice_id": "TxGEqnHWrfWFTfGW9XjX",
+    "stability": 0.7,
+    "similarity": 0.85,
+    "style": 0.45,
+    "speed": 0.8,
+    "voice": "Josh"
+  },
+  "visual_source": "broll_footage",
+  "audio": "/Users/kolly/HARBINGERHQ/output/voice_sfx_20260322_174626_slot7.mp3",
+  "video": "/Users/kolly/HARBINGERHQ/output/post_20260322_174626_slot7.mp4",
+  "quality_check": {
+    "file_size_mb": 226.27,
+    "size_ok": false,
+    "resolution": "1080x1920",
+    "resolution_ok": true,
+    "duration_s": 21.1,
+    "duration_ok": true
+  },
+  "prompt_metadata": {
+    "visual_source": "broll_footage",
+    "shot_list": []
+  },
+  "audio_alignment": true,
+  "ffmpeg_evolution_params": {
+    "zoom_factor": 0.15,
+    "ssml_break_secs": 0.8,
+    "prompt_version": 1
+  },
+  "script_variant": "long"
+}
+[2026-03-22 17:50:50 UTC] [C] PASS — rendered and dispatched to Buffer API
+[2026-03-22 17:50:50 UTC]   Duration: 266s
+[2026-03-22 17:50:50 UTC] 
+[2026-03-22 17:50:50 UTC]   Slot 8 / 8  │  Niche: micro_mystery  │  Sched: +24h from now
+[2026-03-22 17:50:50 UTC] ────────────────────────────────────────────────────────────
+[2026-03-22 17:50:50 UTC] [A] creative_synthesis.py --slot 8 --niche micro_mystery
+/Users/kolly/HARBINGERHQ/scripts/agents/creative_synthesis.py:18: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  NOW       = datetime.datetime.utcnow()
+[2026-03-22 17:50:50 UTC] ============================================================
+[2026-03-22 17:50:50 UTC] AGENT 2: CREATIVE SYNTHESIS — VIRAL CONTENT (SLOT 8)
+[2026-03-22 17:50:50 UTC] ============================================================
+[2026-03-22 17:50:50 UTC] Niche: micro_mystery (CLI override)
+[2026-03-22 17:50:50 UTC] Variant:  LONG (70-80 words (30 seconds spoken))
+[2026-03-22 17:50:50 UTC] Topic:     West Des Moines Police Have Made An Arrest In The April 2011.
+[2026-03-22 17:50:50 UTC] Framework: [Authority] + ['can't explain'] + [Specific Documented Anomaly] + [Open implicat
+[2026-03-22 17:50:50 UTC] Trigger:   Authority gap — if experts cannot explain it, nobody can
+[2026-03-22 17:50:50 UTC] Generating script via Replicate (attempt 1)...
+[2026-03-22 17:50:50 UTC] Replicate generation failed: Error code: 404 - {'error': {'message': 'No endpoints found for meta-llama/llama-3.1-405b-instruct.', 'code': 404}, 'user_id': 'user_33sxpMMBfb9uoCdG5ceA6CpR7Nb'} — using template fallback
+[2026-03-22 17:50:50 UTC] SSML: injected <break time="0.8s"/> after hook
+[2026-03-22 17:50:50 UTC] Script: 46 words
+[2026-03-22 17:50:50 UTC] Creative brief saved: creative_brief_20260322_175050_slot8.json
+[2026-03-22 17:50:50 UTC] TOPIC:  West Des Moines Police Have Made An Arrest In The April 2011.
+[2026-03-22 17:50:50 UTC] NICHE:  Micro-Mysteries
+[2026-03-22 17:50:50 UTC] HOOK:   NASA has documented 47 radio signals from deep space that repeat on a 16-day cycle. No explanation.
+[2026-03-22 17:50:50 UTC] BODY:   Scientists have no explanation for this. The data exists, the phenomenon is docu...
+[2026-03-22 17:50:50 UTC] ============================================================
+{
+  "timestamp": "2026-03-22T17:50:50.869773",
+  "slot": 8,
+  "niche": "micro_mystery",
+  "niche_label": "Micro-Mysteries",
+  "topic": "West Des Moines Police Have Made An Arrest In The April 2011.",
+  "framework": {
+    "structure": "[Authority] + ['can't explain'] + [Specific Documented Anomaly] + [Open implication]",
+    "trigger": "Authority gap \u2014 if experts cannot explain it, nobody can",
+    "example": "NASA has documented 47 radio signals from deep space that repeat on a 16-day cycle. No explanation."
+  },
+  "script": {
+    "hook": "NASA has documented 47 radio signals from deep space that repeat on a 16-day cycle. No explanation.",
+    "body": "Scientists have no explanation for this. The data exists, the phenomenon is documented, but the answer has never been found.",
+    "cta": "Follow \u2014 there's more they're not saying."
+  },
+  "full_script_text": "NASA has documented 47 radio signals from deep space that repeat on a 16-day cycle. No explanation. <break time=\"0.8s\"/> Scientists have no explanation for this. The data exists, the phenomenon is documented, but the answer has never been found. Follow \u2014 there's more they're not saying.",
+  "visual_direction": {
+    "kling_prompt": "deep space starfield or abandoned corridor, eerie dim lighting, fog effect, no people, 9:16 vertical cinematic, horror atmospheric, unsettling stillness",
+    "negative_prompt": "faces, logos, text overlays, watermarks"
+  },
+  "voice_settings": {
+    "voice_id": "TxGEqnHWrfWFTfGW9XjX",
+    "stability": 0.7,
+    "similarity": 0.85,
+    "style": 0.45,
+    "speed": 0.8,
+    "voice": "Josh"
+  },
+  "caption_text": "NASA has documented 47 radio signals from deep space that repeat on a 16-day cyc",
+  "affiliate": "none_growth_mode",
+  "script_variant": "long",
+  "compliance_checked": true
+}
+[2026-03-22 17:50:51 UTC] [A] PASS — creative brief generated
+[2026-03-22 17:50:51 UTC] [B] quality_assessor.py --slot 8 --niche micro_mystery --max-retries 3
+/Users/kolly/HARBINGERHQ/scripts/agents/quality_assessor.py:29: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  NOW       = datetime.datetime.utcnow()
+[2026-03-22 17:50:52 UTC] [quality_assessor] ============================================================
+[2026-03-22 17:50:52 UTC] [quality_assessor] QUALITY ASSESSOR — SLOT 8  (max retries: 3)
+[2026-03-22 17:50:52 UTC] [quality_assessor] ============================================================
+[2026-03-22 17:50:52 UTC] [quality_assessor] PASS — brief 'creative_brief_20260322_175050_slot8.json' passed all checks
+[2026-03-22 17:50:52 UTC] [quality_assessor]   Words:   46
+[2026-03-22 17:50:52 UTC] [quality_assessor]   Hook:    NASA has documented 47 radio signals from deep space that re
+[2026-03-22 17:50:52 UTC] [quality_assessor]   Niche:   Micro-Mysteries
+[2026-03-22 17:50:52 UTC] [quality_assessor] ============================================================
+[2026-03-22 17:50:52 UTC] [B] PASS — script passed quality gate
+[2026-03-22 17:50:52 UTC] [C] production_agent.py --slot 8 --niche micro_mystery
+/Users/kolly/HARBINGERHQ/scripts/agents/production_agent.py:24: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  NOW = datetime.datetime.utcnow()
+[2026-03-22 17:50:52 UTC] ============================================================
+[2026-03-22 17:50:52 UTC] AGENT 3: PRODUCTION (SLOT 8)
+[2026-03-22 17:50:52 UTC] ============================================================
+[2026-03-22 17:50:52 UTC] Loaded creative brief: creative_brief_20260322_175050_slot8.json
+[2026-03-22 17:50:52 UTC] Niche override: micro_mystery (CLI)
+[2026-03-22 17:50:52 UTC] Niche:       Micro-Mysteries
+[2026-03-22 17:50:52 UTC] Compliance: all disclosures present
+[2026-03-22 17:50:52 UTC]   Visual: B-roll mode (AI generation bypassed)
+[footage_sourcer] Video search: 'abstract space loop background 4k'
+[footage_sourcer] Searching: 'abstract space loop background 4k' (max 8)
+[footage_sourcer] Found 8 results
+[footage_sourcer]   Top result: Abstract Liquid! 12 Hours 4K Satisfaying Video! Relaxing Mus (9,824,310 views)
+[footage_sourcer] Downloading video clip: Abstract Liquid! 12 Hours 4K Satisfaying Video! Relaxing Mus
+[footage_sourcer]   offset=31.2s, duration=25s
+[footage_sourcer]   Downloaded file missing or too small
+[footage_sourcer] Downloading video clip: Travel the Universe While Relaxation ★ Space Ambient Music
+[footage_sourcer]   offset=36.8s, duration=25s
+[footage_sourcer]   Downloaded file missing or too small
+[footage_sourcer] Downloading video clip: 10 Hour Black & White Topographic Map Animation — Ambient 4K
+[footage_sourcer]   offset=11.8s, duration=25s
+[footage_sourcer]   Downloaded file missing or too small
+[footage_sourcer] Video search: 'deep ocean footage 4k'
+[footage_sourcer] Searching: 'deep ocean footage 4k' (max 8)
+[footage_sourcer] Found 7 results
+[footage_sourcer]   Top result: 11 HOURS of 4K Underwater Wonders + Relaxing Music - Coral R (12,244,225 views)
+[footage_sourcer] Downloading video clip: 11 HOURS of 4K Underwater Wonders + Relaxing Music - Coral R
+[footage_sourcer]   offset=18.2s, duration=25s
+[footage_sourcer]   Downloaded file missing or too small
+[footage_sourcer] Downloading video clip: Music of Underwater Wonders + Relaxing Music - The Best 4K S
+[footage_sourcer]   offset=33.9s, duration=25s
+[footage_sourcer]   Downloaded file missing or too small
+[footage_sourcer] Downloading video clip: Into the Abyss: Creatures of the Midwater (Full Movie)
+[footage_sourcer]   offset=21.0s, duration=25s
+[footage_sourcer]   Downloaded file missing or too small
+[footage_sourcer] Niche queries exhausted for 'micro_mystery' — trying generic fallback queries
+[footage_sourcer] Searching: 'satisfying marble run loop 4k' (max 5)
+[footage_sourcer] Found 5 results
+[footage_sourcer] Downloading video clip: Mega Marble Race | #marblerace #marbles #marblerun #blender 
+[footage_sourcer]   offset=13.0s, duration=25s
+[footage_sourcer]   Downloaded file missing or too small
+[footage_sourcer] Searching: 'city highway night drive dashcam 4k' (max 5)
+[footage_sourcer] Found 5 results
+[footage_sourcer] Downloading video clip: 4K Driving from Salt Lake City to Las Vegas - Full Road Trip
+[footage_sourcer]   offset=32.4s, duration=25s
+[footage_sourcer]   Downloaded file missing or too small
+[footage_sourcer] Searching: 'luxury supercar night drive POV 4k' (max 5)
+[footage_sourcer] Found 5 results
+[footage_sourcer] Downloading video clip: 750HP BMW M4 POV – Night Drive With Engine Sounds
+[footage_sourcer]   offset=33.0s, duration=25s
+[footage_sourcer]   Downloaded file missing or too small
+[footage_sourcer] All yt-dlp attempts failed — falling back to broll_cache
+[footage_sourcer] Using broll_cache fallback: kinetic_sand.mp4
+[footage_sourcer] Resized to 1080x1920: vertical_cache_fallback_20260322_175052_kinetic_sand.mp4
+[2026-03-22 17:50:52 UTC]   B-roll sourced: vertical_cache_fallback_20260322_175052_kinetic_sand.mp4 (12879KB)
+[2026-03-22 17:50:52 UTC] Generating audio via eleven_v3 (46 words, voice=TxGEqnHWrfWF...)
+[2026-03-22 17:50:52 UTC] Audio saved: audio_20260322_175052_slot8.mp3 (372 KB)
+[2026-03-22 17:50:52 UTC] Alignment data saved: audio_alignment_20260322_175052_slot8.json (287 chars)
+[2026-03-22 17:50:52 UTC] Tempo: applying atempo=0.95 to voiceover...
+[2026-03-22 17:50:52 UTC] Tempo: voice_tempo_20260322_175052_slot8.mp3
+[footage_sourcer] BGM cache already seeded for 'micro_mystery': 1 file(s)
+[footage_sourcer] BGM search: '432hz dark ambient drone no copyright'
+[footage_sourcer] Searching: '432hz dark ambient drone no copyright' (max 5)
+[footage_sourcer] Found 5 results
+[footage_sourcer] Downloading BGM: Dark Ambient Hour Meditations - Circumference (4 Hz Theta Bi
+[footage_sourcer]   BGM saved: bgm_20260322_175052_ch-HHGuz.mp3 (704KB)
+[footage_sourcer]   BGM normalized to 10% volume: bgm_norm_20260322_175052_bgm_20260322_175052_ch-HHGuz.mp3
+[2026-03-22 17:50:52 UTC] BGM sourced via footage_sourcer: bgm_norm_20260322_175052_bgm_20260322_175052_ch-HHGuz.mp3
+[2026-03-22 17:50:52 UTC] Mixing audio layers (sub-bass 40Hz @ -18dB, ambience=yes)...
+[2026-03-22 17:50:52 UTC] Mixed audio saved: mixed_audio_20260322_175052_slot8.mp3
+[2026-03-22 17:50:52 UTC] Using mixed audio: mixed_audio_20260322_175052_slot8.mp3
+[2026-03-22 17:50:52 UTC] SFX: hook clicks layered at ['0.00s', '0.44s', '0.62s']
+[2026-03-22 17:50:52 UTC] Rendering: duration=26.0s, visual=Kling
+[caption_engine] Using ElevenLabs word-level timestamps (46 words, niche=micro_mystery)
+[caption_engine] Generated 16 karaoke blocks (real_timestamps, font=Courier New, niche=micro_mystery)
+[2026-03-22 17:50:52 UTC] Captions: captions_20260322_175052_slot8.ass | 16 blocks | real_timestamps | font=Courier New
+[2026-03-22 17:50:52 UTC]   Zoom factor: 0.150 (from evolution_params)
+[2026-03-22 17:50:52 UTC]   Style route:  Micro-Mysteries | grade=eq=brightness=-0.05:contrast=1.1 | vignette=vignette=PI/3 | noise=noise=alls=20:allf=t+u
+[2026-03-22 17:50:52 UTC]   ASS subtitles: captions_20260322_175052_slot8.ass
+[2026-03-22 17:50:52 UTC]   CTA overlay: 'Follow for More' from t=22.5s
+[2026-03-22 17:50:52 UTC] FFmpeg: /opt/homebrew/opt/ffmpeg-full/bin/ffmpeg -y -stream_loop -1 -i /Users/kolly/HARBINGERHQ/output/vertical_cache_fallback_20260322_175052_kinetic_sand.mp4 -itsoffset 0.5...
+[2026-03-22 17:50:52 UTC] Metadata stripped: 1 image files updated
+[2026-03-22 17:50:52 UTC] Render complete: post_20260322_175052_slot8.mp4
+[2026-03-22 17:50:52 UTC]   [INFO] file_size_mb: 271.91
+[2026-03-22 17:50:52 UTC]   [FAIL] size_ok: False
+[2026-03-22 17:50:52 UTC]   [INFO] resolution: 1080x1920
+[2026-03-22 17:50:52 UTC]   [OK] resolution_ok: True
+[2026-03-22 17:50:52 UTC]   [INFO] duration_s: 26.0
+[2026-03-22 17:50:52 UTC]   [OK] duration_ok: True
+[2026-03-22 17:50:52 UTC] Manifest saved: production_manifest_20260322_175052_slot8.json
+[2026-03-22 17:50:52 UTC] Archived:       post_20260322_175052_slot8.mp4
+[2026-03-22 17:50:52 UTC] 
+--- PRODUCTION SUMMARY ---
+[2026-03-22 17:50:52 UTC] Slot:        8
+[2026-03-22 17:50:52 UTC] Niche:       Micro-Mysteries
+[2026-03-22 17:50:52 UTC] Visual:      B-roll
+[2026-03-22 17:50:52 UTC] Audio:       voice_sfx_20260322_175052_slot8.mp3
+[2026-03-22 17:50:52 UTC] Video:       post_20260322_175052_slot8.mp4
+[2026-03-22 17:50:52 UTC] Size:        271.91 MB
+[2026-03-22 17:50:52 UTC] Resolution:  1080x1920
+[2026-03-22 17:50:52 UTC] Duration:    26.0s
+[2026-03-22 17:50:52 UTC] All checks:  PARTIAL
+[2026-03-22 17:50:52 UTC] Shots:       0 (genome gen —)
+[2026-03-22 17:50:52 UTC] Alignment:   real timestamps
+[2026-03-22 17:50:52 UTC] ============================================================
+[2026-03-22 17:50:52 UTC] Auto-publishing: distribute.py --slot 8
+[2026-03-22 17:50:52 UTC] distribute.py: FAILED (exit 1)
+[2026-03-22 17:50:52 UTC] BINGERHQ/scripts/archive/distribute.py", line 487, in <module>
+    main()
+  File "/Users/kolly/HARBINGERHQ/scripts/archive/distribute.py", line 458, in main
+    "compliance":     COMPLIANCE_DISCLOSURE,
+                      ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'COMPLIANCE_DISCLOSURE' is not defined
+{
+  "timestamp": "2026-03-22T17:50:52.388062",
+  "slot": 8,
+  "sound_profile": {
+    "sub_bass_db": -18,
+    "sub_bass_hz": 40,
+    "ambience_type": "server_hum"
+  },
+  "asymmetry": null,
+  "affiliate": "none_growth_mode",
+  "script": {
+    "hook": "NASA has documented 47 radio signals from deep space that repeat on a 16-day cycle. No explanation.",
+    "body": "Scientists have no explanation for this. The data exists, the phenomenon is documented, but the answer has never been found.",
+    "cta": "Follow \u2014 there's more they're not saying."
+  },
+  "caption_text": "NASA has documented 47 radio signals from deep space that repeat on a 16-day cyc",
+  "visual_direction": {
+    "kling_prompt": "deep space starfield or abandoned corridor, eerie dim lighting, fog effect, no people, 9:16 vertical cinematic, horror atmospheric, unsettling stillness",
+    "negative_prompt": "faces, logos, text overlays, watermarks"
+  },
+  "voice_settings": {
+    "voice_id": "TxGEqnHWrfWFTfGW9XjX",
+    "stability": 0.7,
+    "similarity": 0.85,
+    "style": 0.45,
+    "speed": 0.8,
+    "voice": "Josh"
+  },
+  "visual_source": "broll_footage",
+  "audio": "/Users/kolly/HARBINGERHQ/output/voice_sfx_20260322_175052_slot8.mp3",
+  "video": "/Users/kolly/HARBINGERHQ/output/post_20260322_175052_slot8.mp4",
+  "quality_check": {
+    "file_size_mb": 271.91,
+    "size_ok": false,
+    "resolution": "1080x1920",
+    "resolution_ok": true,
+    "duration_s": 26.0,
+    "duration_ok": true
+  },
+  "prompt_metadata": {
+    "visual_source": "broll_footage",
+    "shot_list": []
+  },
+  "audio_alignment": true,
+  "ffmpeg_evolution_params": {
+    "zoom_factor": 0.15,
+    "ssml_break_secs": 0.8,
+    "prompt_version": 1
+  },
+  "script_variant": "long"
+}
+[2026-03-22 17:54:05 UTC] [C] PASS — rendered and dispatched to Buffer API
+[2026-03-22 17:54:05 UTC]   Duration: 195s
+[2026-03-22 17:54:05 UTC] 
+[2026-03-22 17:54:05 UTC] ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[2026-03-22 17:54:05 UTC]   RESULTS
+[2026-03-22 17:54:05 UTC] ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SLOT  NICHE              SCRIPT       QA_GATE      RENDER/PUB    
+----  -----------------  ----------   ----------   --------------
+1     tech_ai            PASS         PASS         PASS          
+2     tech_ai            PASS         PASS         PASS          
+3     tech_ai            PASS         PASS         PASS          
+4     dark_psychology    PASS         PASS         PASS          
+5     dark_psychology    PASS         PASS         PASS          
+6     dark_psychology    PASS         PASS         PASS          
+7     micro_mystery      PASS         PASS         PASS          
+8     micro_mystery      PASS         PASS         PASS          
+[2026-03-22 17:54:05 UTC] 
+[2026-03-22 17:54:05 UTC]   Total:  8 PASS  /  0 FAIL
+[2026-03-22 17:54:05 UTC] 
+[2026-03-22 17:54:05 UTC]   Buffer API scheduling (UTC):
+[2026-03-22 17:54:05 UTC]     Slot 1  (tech_ai)  → +3h from run time
+[2026-03-22 17:54:05 UTC]     Slot 2  (tech_ai)  → +6h from run time
+[2026-03-22 17:54:05 UTC]     Slot 3  (tech_ai)  → +9h from run time
+[2026-03-22 17:54:05 UTC]     Slot 4  (dark_psychology)  → +12h from run time
+[2026-03-22 17:54:05 UTC]     Slot 5  (dark_psychology)  → +15h from run time
+[2026-03-22 17:54:05 UTC]     Slot 6  (dark_psychology)  → +18h from run time
+[2026-03-22 17:54:05 UTC]     Slot 7  (micro_mystery)  → +21h from run time
+[2026-03-22 17:54:05 UTC]     Slot 8  (micro_mystery)  → +24h from run time
+[2026-03-22 17:54:05 UTC] 
+[2026-03-22 17:54:05 UTC]   Log: /Users/kolly/HARBINGERHQ/logs/blitz_8_20260322_173132.log
+[2026-03-22 17:54:05 UTC] ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

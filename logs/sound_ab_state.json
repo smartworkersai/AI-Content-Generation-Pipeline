@@ -1,0 +1,530 @@
+{
+  "current_stage": "ambience_type",
+  "stage_start_date": "2026-03-23",
+  "locked_variables": {
+    "sub_bass_db": -22.0
+  },
+  "observations": [
+    {
+      "key": "2026-03-10_slot5",
+      "date": "2026-03-10",
+      "slot": 5,
+      "sub_bass_db": null,
+      "ambience_type": null,
+      "views": 0
+    },
+    {
+      "key": "2026-03-10_slot2",
+      "date": "2026-03-10",
+      "slot": 2,
+      "sub_bass_db": -22,
+      "ambience_type": "rain_glass",
+      "views": 0
+    },
+    {
+      "key": "2026-03-10_slot1",
+      "date": "2026-03-10",
+      "slot": 1,
+      "sub_bass_db": -18,
+      "ambience_type": "server_hum",
+      "views": 0
+    },
+    {
+      "key": "2026-03-09_slot5",
+      "date": "2026-03-09",
+      "slot": 5,
+      "sub_bass_db": null,
+      "ambience_type": null,
+      "views": 0
+    },
+    {
+      "key": "2026-03-09_slot3",
+      "date": "2026-03-09",
+      "slot": 3,
+      "sub_bass_db": -20,
+      "ambience_type": "distant_traffic",
+      "views": 0
+    },
+    {
+      "key": "2026-03-09_slot2",
+      "date": "2026-03-09",
+      "slot": 2,
+      "sub_bass_db": -22,
+      "ambience_type": "rain_glass",
+      "views": 0
+    },
+    {
+      "key": "2026-03-08_slot1",
+      "date": "2026-03-08",
+      "slot": 1,
+      "sub_bass_db": -18,
+      "ambience_type": "server_hum",
+      "views": 0
+    },
+    {
+      "key": "2026-03-11_slot5",
+      "date": "2026-03-11",
+      "slot": 5,
+      "sub_bass_db": null,
+      "ambience_type": null,
+      "views": 0
+    },
+    {
+      "key": "2026-03-11_slot3",
+      "date": "2026-03-11",
+      "slot": 3,
+      "sub_bass_db": -20,
+      "ambience_type": "distant_traffic",
+      "views": 0
+    },
+    {
+      "key": "2026-03-11_slot2",
+      "date": "2026-03-11",
+      "slot": 2,
+      "sub_bass_db": -22,
+      "ambience_type": "rain_glass",
+      "views": 0
+    },
+    {
+      "key": "2026-03-11_slot1",
+      "date": "2026-03-11",
+      "slot": 1,
+      "sub_bass_db": -18,
+      "ambience_type": "server_hum",
+      "views": 0
+    },
+    {
+      "key": "2026-03-15_slot7",
+      "date": "2026-03-15",
+      "slot": 7,
+      "sub_bass_db": null,
+      "ambience_type": null,
+      "views": 0
+    },
+    {
+      "key": "2026-03-15_slot5",
+      "date": "2026-03-15",
+      "slot": 5,
+      "sub_bass_db": null,
+      "ambience_type": null,
+      "views": 0
+    },
+    {
+      "key": "2026-03-14_slot2",
+      "date": "2026-03-14",
+      "slot": 2,
+      "sub_bass_db": -22,
+      "ambience_type": "rain_glass",
+      "views": 0
+    },
+    {
+      "key": "2026-03-14_slot1",
+      "date": "2026-03-14",
+      "slot": 1,
+      "sub_bass_db": -18,
+      "ambience_type": "server_hum",
+      "views": 0
+    },
+    {
+      "key": "2026-03-17_slot6",
+      "date": "2026-03-17",
+      "slot": 6,
+      "sub_bass_db": null,
+      "ambience_type": null,
+      "views": 0
+    },
+    {
+      "key": "2026-03-17_slot5",
+      "date": "2026-03-17",
+      "slot": 5,
+      "sub_bass_db": null,
+      "ambience_type": null,
+      "views": 1
+    },
+    {
+      "key": "2026-03-17_slot4",
+      "date": "2026-03-17",
+      "slot": 4,
+      "sub_bass_db": null,
+      "ambience_type": null,
+      "views": 7
+    },
+    {
+      "key": "2026-03-17_slot3",
+      "date": "2026-03-17",
+      "slot": 3,
+      "sub_bass_db": -20,
+      "ambience_type": "distant_traffic",
+      "views": 1
+    },
+    {
+      "key": "2026-03-17_slot2",
+      "date": "2026-03-17",
+      "slot": 2,
+      "sub_bass_db": -22,
+      "ambience_type": "rain_glass",
+      "views": 2
+    },
+    {
+      "key": "2026-03-17_slot1",
+      "date": "2026-03-17",
+      "slot": 1,
+      "sub_bass_db": -18,
+      "ambience_type": "server_hum",
+      "views": 2
+    },
+    {
+      "key": "2026-03-16_slot1",
+      "date": "2026-03-16",
+      "slot": 1,
+      "sub_bass_db": -18,
+      "ambience_type": "server_hum",
+      "views": 2
+    },
+    {
+      "key": "2026-03-23_slot7",
+      "date": "2026-03-23",
+      "slot": 7,
+      "sub_bass_db": null,
+      "ambience_type": null,
+      "views": 0
+    },
+    {
+      "key": "2026-03-23_slot6",
+      "date": "2026-03-23",
+      "slot": 6,
+      "sub_bass_db": null,
+      "ambience_type": null,
+      "views": 0
+    },
+    {
+      "key": "2026-03-23_slot5",
+      "date": "2026-03-23",
+      "slot": 5,
+      "sub_bass_db": null,
+      "ambience_type": null,
+      "views": 55
+    },
+    {
+      "key": "2026-03-23_slot4",
+      "date": "2026-03-23",
+      "slot": 4,
+      "sub_bass_db": null,
+      "ambience_type": null,
+      "views": 60
+    },
+    {
+      "key": "2026-03-23_slot3",
+      "date": "2026-03-23",
+      "slot": 3,
+      "sub_bass_db": -20,
+      "ambience_type": "distant_traffic",
+      "views": 61
+    },
+    {
+      "key": "2026-03-23_slot2",
+      "date": "2026-03-23",
+      "slot": 2,
+      "sub_bass_db": -22,
+      "ambience_type": "rain_glass",
+      "views": 96
+    },
+    {
+      "key": "2026-03-23_slot1",
+      "date": "2026-03-23",
+      "slot": 1,
+      "sub_bass_db": -18,
+      "ambience_type": "server_hum",
+      "views": 12
+    },
+    {
+      "key": "2026-03-23_slot8",
+      "date": "2026-03-23",
+      "slot": 8,
+      "sub_bass_db": null,
+      "ambience_type": null,
+      "views": 0
+    },
+    {
+      "key": "2026-03-22_slot7",
+      "date": "2026-03-22",
+      "slot": 7,
+      "sub_bass_db": null,
+      "ambience_type": null,
+      "views": 0
+    },
+    {
+      "key": "2026-03-22_slot6",
+      "date": "2026-03-22",
+      "slot": 6,
+      "sub_bass_db": null,
+      "ambience_type": null,
+      "views": 0
+    },
+    {
+      "key": "2026-03-22_slot8",
+      "date": "2026-03-22",
+      "slot": 8,
+      "sub_bass_db": null,
+      "ambience_type": null,
+      "views": 0
+    },
+    {
+      "key": "2026-03-22_slot5",
+      "date": "2026-03-22",
+      "slot": 5,
+      "sub_bass_db": null,
+      "ambience_type": null,
+      "views": 55
+    },
+    {
+      "key": "2026-03-22_slot4",
+      "date": "2026-03-22",
+      "slot": 4,
+      "sub_bass_db": null,
+      "ambience_type": null,
+      "views": 60
+    },
+    {
+      "key": "2026-03-22_slot3",
+      "date": "2026-03-22",
+      "slot": 3,
+      "sub_bass_db": -20,
+      "ambience_type": "distant_traffic",
+      "views": 61
+    },
+    {
+      "key": "2026-03-22_slot2",
+      "date": "2026-03-22",
+      "slot": 2,
+      "sub_bass_db": -22,
+      "ambience_type": "rain_glass",
+      "views": 96
+    },
+    {
+      "key": "2026-03-22_slot1",
+      "date": "2026-03-22",
+      "slot": 1,
+      "sub_bass_db": -18,
+      "ambience_type": "server_hum",
+      "views": 12
+    },
+    {
+      "key": "2026-03-21_slot7",
+      "date": "2026-03-21",
+      "slot": 7,
+      "sub_bass_db": null,
+      "ambience_type": null,
+      "views": 0
+    },
+    {
+      "key": "2026-03-21_slot6",
+      "date": "2026-03-21",
+      "slot": 6,
+      "sub_bass_db": null,
+      "ambience_type": null,
+      "views": 0
+    },
+    {
+      "key": "2026-03-21_slot5",
+      "date": "2026-03-21",
+      "slot": 5,
+      "sub_bass_db": null,
+      "ambience_type": null,
+      "views": 55
+    },
+    {
+      "key": "2026-03-21_slot1",
+      "date": "2026-03-21",
+      "slot": 1,
+      "sub_bass_db": -18,
+      "ambience_type": "server_hum",
+      "views": 12
+    },
+    {
+      "key": "2026-03-20_slot3",
+      "date": "2026-03-20",
+      "slot": 3,
+      "sub_bass_db": -20,
+      "ambience_type": "distant_traffic",
+      "views": 61
+    },
+    {
+      "key": "2026-03-19_slot6",
+      "date": "2026-03-19",
+      "slot": 6,
+      "sub_bass_db": null,
+      "ambience_type": null,
+      "views": 0
+    },
+    {
+      "key": "2026-03-19_slot5",
+      "date": "2026-03-19",
+      "slot": 5,
+      "sub_bass_db": null,
+      "ambience_type": null,
+      "views": 55
+    },
+    {
+      "key": "2026-03-19_slot4",
+      "date": "2026-03-19",
+      "slot": 4,
+      "sub_bass_db": null,
+      "ambience_type": null,
+      "views": 60
+    },
+    {
+      "key": "2026-03-19_slot3",
+      "date": "2026-03-19",
+      "slot": 3,
+      "sub_bass_db": -20,
+      "ambience_type": "distant_traffic",
+      "views": 61
+    },
+    {
+      "key": "2026-03-19_slot2",
+      "date": "2026-03-19",
+      "slot": 2,
+      "sub_bass_db": -22,
+      "ambience_type": "rain_glass",
+      "views": 96
+    },
+    {
+      "key": "2026-03-19_slot1",
+      "date": "2026-03-19",
+      "slot": 1,
+      "sub_bass_db": -18,
+      "ambience_type": "server_hum",
+      "views": 12
+    },
+    {
+      "key": "2026-03-18_slot5",
+      "date": "2026-03-18",
+      "slot": 5,
+      "sub_bass_db": null,
+      "ambience_type": null,
+      "views": 55
+    },
+    {
+      "key": "2026-03-18_slot4",
+      "date": "2026-03-18",
+      "slot": 4,
+      "sub_bass_db": null,
+      "ambience_type": null,
+      "views": 60
+    },
+    {
+      "key": "2026-03-18_slot2",
+      "date": "2026-03-18",
+      "slot": 2,
+      "sub_bass_db": -22,
+      "ambience_type": "rain_glass",
+      "views": 96
+    },
+    {
+      "key": "2026-03-18_slot1",
+      "date": "2026-03-18",
+      "slot": 1,
+      "sub_bass_db": -18,
+      "ambience_type": "server_hum",
+      "views": 12
+    },
+    {
+      "key": "2026-03-24_slot7",
+      "date": "2026-03-24",
+      "slot": 7,
+      "sub_bass_db": null,
+      "ambience_type": null,
+      "views": 0
+    },
+    {
+      "key": "2026-03-24_slot6",
+      "date": "2026-03-24",
+      "slot": 6,
+      "sub_bass_db": null,
+      "ambience_type": null,
+      "views": 0
+    },
+    {
+      "key": "2026-03-24_slot5",
+      "date": "2026-03-24",
+      "slot": 5,
+      "sub_bass_db": null,
+      "ambience_type": null,
+      "views": 55
+    },
+    {
+      "key": "2026-03-24_slot4",
+      "date": "2026-03-24",
+      "slot": 4,
+      "sub_bass_db": null,
+      "ambience_type": null,
+      "views": 60
+    },
+    {
+      "key": "2026-03-24_slot3",
+      "date": "2026-03-24",
+      "slot": 3,
+      "sub_bass_db": -20,
+      "ambience_type": "distant_traffic",
+      "views": 61
+    },
+    {
+      "key": "2026-03-25_slot7",
+      "date": "2026-03-25",
+      "slot": 7,
+      "sub_bass_db": null,
+      "ambience_type": null,
+      "views": 0
+    },
+    {
+      "key": "2026-03-25_slot6",
+      "date": "2026-03-25",
+      "slot": 6,
+      "sub_bass_db": null,
+      "ambience_type": null,
+      "views": 0
+    },
+    {
+      "key": "2026-03-25_slot5",
+      "date": "2026-03-25",
+      "slot": 5,
+      "sub_bass_db": null,
+      "ambience_type": null,
+      "views": 55
+    },
+    {
+      "key": "2026-03-25_slot4",
+      "date": "2026-03-25",
+      "slot": 4,
+      "sub_bass_db": null,
+      "ambience_type": null,
+      "views": 60
+    },
+    {
+      "key": "2026-03-26_slot7",
+      "date": "2026-03-26",
+      "slot": 7,
+      "sub_bass_db": null,
+      "ambience_type": null,
+      "views": 0
+    },
+    {
+      "key": "2026-03-26_slot6",
+      "date": "2026-03-26",
+      "slot": 6,
+      "sub_bass_db": null,
+      "ambience_type": null,
+      "views": 0
+    },
+    {
+      "key": "2026-03-26_slot5",
+      "date": "2026-03-26",
+      "slot": 5,
+      "sub_bass_db": null,
+      "ambience_type": null,
+      "views": 82
+    }
+  ],
+  "last_updated": "2026-03-26T22:30:00.872862"
+}

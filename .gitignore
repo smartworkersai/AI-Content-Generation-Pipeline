@@ -1,0 +1,12 @@
+venv/
+output/
+.env
+.DS_Store
+master.md
+process.md
+ads_ready_for_review/
+output/
+venv/
+*.mp4
+*.mov
+.env

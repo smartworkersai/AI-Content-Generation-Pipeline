@@ -1,0 +1,59 @@
+{
+  "source_file": "audio_alignment_20260321_141934_slot1.json",
+  "pre_hook_silence_ms": 266,
+  "hook_pace": {
+    "hook_wps": 4.33,
+    "hook_word_count": 13,
+    "hook_window_s": 3.0,
+    "hook_words": "[serious tone] Every pound you didn't put in an ISA this year is"
+  },
+  "delivery": {
+    "overall_wps": 2.07,
+    "zone_wps": {
+      "hook": 2.14,
+      "mechanism": 2.3,
+      "move": 1.87
+    },
+    "peak_zone": "mechanism",
+    "tempo_variance": 51.0,
+    "total_words": 153,
+    "duration_s": 74.06
+  },
+  "pauses_detected": 4,
+  "pause_map": [
+    {
+      "after_word": "permanently",
+      "before_word": "\u2014",
+      "pause_ms": 280,
+      "position_s": 14.192,
+      "position_pct": 0.192
+    },
+    {
+      "after_word": "recovered.",
+      "before_word": "HMRC",
+      "pause_ms": 426,
+      "position_s": 16.992,
+      "position_pct": 0.229
+    },
+    {
+      "after_word": "disappears",
+      "before_word": "\u2014",
+      "pause_ms": 200,
+      "position_s": 28.881,
+      "position_pct": 0.39
+    },
+    {
+      "after_word": "over.",
+      "before_word": "The",
+      "pause_ms": 200,
+      "position_s": 31.755,
+      "position_pct": 0.429
+    }
+  ],
+  "structural_pauses": {
+    "after_hook_ms": 280,
+    "after_mechanism_ms": 200,
+    "before_move_ms": 0
+  },
+  "word_count": 153
+}

@@ -1,0 +1,52 @@
+{
+  "timestamp": "2026-03-22T14:35:00.078121",
+  "slot": 1,
+  "sound_profile": {
+    "sub_bass_db": -18,
+    "sub_bass_hz": 40,
+    "ambience_type": "server_hum"
+  },
+  "asymmetry": null,
+  "affiliate": {},
+  "script": {
+    "hook": "Nobody is talking about this: Elon Musk to Owe Billions After Jury Finds He Misled Twitter.",
+    "body": "Most people scroll past these tools without realising what they are missing.",
+    "cta": "Follow before this gets taken down.",
+    "disclosure_cta": "Trading involves significant risk. Capital at risk. This is an affiliate link. I may earn a commission at no extra cost to you. Check out my affiliate link below."
+  },
+  "caption_text": "Nobody is talking about this: Elon Musk to Owe Billions After Jury Finds He Misl",
+  "visual_direction": {
+    "kling_prompt": "dark glowing computer screens with code, futuristic AI interface, neon blue and green, no faces, 9:16 vertical cinematic, cyberpunk, high contrast",
+    "negative_prompt": "faces, logos, text overlays, watermarks"
+  },
+  "voice_settings": {
+    "voice_id": "TxGEqnHWrfWFTfGW9XjX",
+    "stability": 0.3,
+    "similarity": 0.88,
+    "style": 0.85,
+    "speed": 1.1,
+    "voice": "Josh"
+  },
+  "visual_source": "broll_footage",
+  "audio": "/Users/kolly/HARBINGERHQ/output/voice_sfx_20260322_143500_slot1.mp3",
+  "video": "/Users/kolly/HARBINGERHQ/output/post_20260322_143500_slot1.mp4",
+  "quality_check": {
+    "file_size_mb": 49.33,
+    "size_ok": true,
+    "resolution": "1080x1920",
+    "resolution_ok": true,
+    "duration_s": 42.6,
+    "duration_ok": true
+  },
+  "prompt_metadata": {
+    "visual_source": "broll_footage",
+    "shot_list": []
+  },
+  "audio_alignment": true,
+  "ffmpeg_evolution_params": {
+    "zoom_factor": 0.15,
+    "ssml_break_secs": 0.8,
+    "prompt_version": 1
+  },
+  "script_variant": "short"
+}

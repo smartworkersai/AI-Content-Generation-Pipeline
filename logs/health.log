@@ -1,0 +1,773 @@
+[2026-03-08 06:00:00 UTC] --- health_check.sh starting ---
+[2026-03-08 06:00:01 UTC] ============================================================
+[2026-03-08 06:00:01 UTC] CAPITAL ENGINE — HEALTH CHECK
+[2026-03-08 06:00:01 UTC] ============================================================
+[2026-03-08 06:00:01 UTC] Checking APIs...
+[2026-03-08 06:00:01 UTC]   ElevenLabs OK — ? chars remaining
+[2026-03-08 06:00:01 UTC]   Buffer OK — smartworkers.ai@gmail.com
+[2026-03-08 06:00:01 UTC]   Cloudinary OK
+[2026-03-08 06:00:01 UTC]   Replicate OK
+[2026-03-08 06:00:01 UTC] Checking system...
+[2026-03-08 06:00:01 UTC]   Disk: 96% used, 9.0Gi available in output/
+[2026-03-08 06:00:01 UTC]   intelligence.log: last ran -0.0h ago ✓
+[2026-03-08 06:00:01 UTC]   production.log: last ran 5.5h ago ✓
+[2026-03-08 06:00:01 UTC]   render.log: last ran 5.5h ago ✓
+[2026-03-08 06:00:01 UTC]   distribution.log: last ran 5.5h ago ✓
+[2026-03-08 06:00:01 UTC]   Output/ has 3 video files — OK
+[2026-03-08 06:00:01 UTC] 
+Result: 1 issue(s) found
+[2026-03-08 06:00:01 UTC] Telegram alert: sent
+[2026-03-08 06:00:01 UTC] HEALTH CHECK COMPLETE
+[2026-03-08 06:00:01 UTC] ============================================================
+[2026-03-08 07:51:05 UTC] ============================================================
+[2026-03-08 07:51:05 UTC] CAPITAL ENGINE — HEALTH CHECK
+[2026-03-08 07:51:05 UTC] ============================================================
+[2026-03-08 07:51:05 UTC] Checking APIs...
+[2026-03-08 07:51:05 UTC]   ElevenLabs OK — ? chars remaining
+[2026-03-08 07:51:05 UTC]   Buffer OK — smartworkers.ai@gmail.com
+[2026-03-08 07:51:05 UTC]   Cloudinary OK
+[2026-03-08 07:51:05 UTC]   Replicate OK
+[2026-03-08 07:51:05 UTC] Checking system...
+[2026-03-08 07:51:05 UTC]   Disk: 96% used, 10Gi available in output/
+[2026-03-08 07:51:05 UTC]   intelligence.log: last ran 1.8h ago ✓
+[2026-03-08 07:51:05 UTC]   production.log: last ran 0.8h ago ✓
+[2026-03-08 07:51:05 UTC]   render.log: last ran 0.1h ago ✓
+[2026-03-08 07:51:05 UTC]   Output/ has 4 video files — OK
+[2026-03-08 07:51:05 UTC] 
+Result: 2 issue(s) found
+[2026-03-08 07:51:05 UTC] Telegram alert: sent
+[2026-03-08 07:51:05 UTC] HEALTH CHECK COMPLETE
+[2026-03-08 07:51:05 UTC] ============================================================
+[2026-03-08 12:00:00 UTC] --- health_check.sh starting ---
+[2026-03-08 12:00:01 UTC] ============================================================
+[2026-03-08 12:00:01 UTC] CAPITAL ENGINE — HEALTH CHECK
+[2026-03-08 12:00:01 UTC] ============================================================
+[2026-03-08 12:00:01 UTC] Checking APIs...
+[2026-03-08 12:00:01 UTC]   ElevenLabs OK — ? chars remaining
+[2026-03-08 12:00:01 UTC]   Buffer OK — smartworkers.ai@gmail.com
+[2026-03-08 12:00:01 UTC]   Cloudinary OK
+[2026-03-08 12:00:01 UTC]   Replicate OK
+[2026-03-08 12:00:01 UTC] Checking system...
+[2026-03-08 12:00:01 UTC]   Disk: 94% used, 13Gi available in output/
+[2026-03-08 12:00:01 UTC]   intelligence.log: last ran 6.0h ago ✓
+[2026-03-08 12:00:01 UTC]   production.log: last ran -0.0h ago ✓
+[2026-03-08 12:00:01 UTC]   render.log: last ran 4.2h ago ✓
+[2026-03-08 12:00:01 UTC]   distribution.log: last ran 4.0h ago ✓
+[2026-03-08 12:00:01 UTC]   Output/ has 4 video files — OK
+[2026-03-08 12:00:01 UTC] 
+Result: 1 issue(s) found
+[2026-03-08 12:00:01 UTC] Telegram alert: sent
+[2026-03-08 12:00:01 UTC] HEALTH CHECK COMPLETE
+[2026-03-08 12:00:01 UTC] ============================================================
+[2026-03-09 18:00:00 UTC] ============================================================
+[2026-03-09 18:00:00 UTC] HARBINGER HEALTH CHECK
+[2026-03-09 18:00:00 UTC] ============================================================
+[2026-03-09 18:00:00 UTC]   ElevenLabs           ✅ SET
+[2026-03-09 18:00:00 UTC]   Replicate            ✅ SET
+[2026-03-09 18:00:00 UTC]   Buffer               ✅ SET
+[2026-03-09 18:00:00 UTC]   Telegram             ✅ SET
+[2026-03-09 18:00:00 UTC]   fal.ai (Kling)       ✅ SET
+[2026-03-09 18:00:00 UTC]   Reddit API           ❌ MISSING
+[2026-03-09 18:00:00 UTC]   Twitter/X API        ❌ MISSING
+[2026-03-09 18:00:00 UTC]   YouTube API          ✅ SET
+[2026-03-09 18:00:00 UTC]   Cloudinary           ✅ SET
+[2026-03-09 18:00:00 UTC]   fal-client           ✅ INSTALLED
+[2026-03-09 18:00:00 UTC] ============================================================
+[2026-03-10 00:00:00 UTC] ============================================================
+[2026-03-10 00:00:00 UTC] HARBINGER HEALTH CHECK
+[2026-03-10 00:00:00 UTC] ============================================================
+[2026-03-10 00:00:00 UTC]   ElevenLabs           ✅ SET
+[2026-03-10 00:00:00 UTC]   Replicate            ✅ SET
+[2026-03-10 00:00:00 UTC]   Buffer               ✅ SET
+[2026-03-10 00:00:00 UTC]   Telegram             ✅ SET
+[2026-03-10 00:00:00 UTC]   fal.ai (Kling)       ✅ SET
+[2026-03-10 00:00:00 UTC]   Reddit API           ❌ MISSING
+[2026-03-10 00:00:00 UTC]   Twitter/X API        ❌ MISSING
+[2026-03-10 00:00:00 UTC]   YouTube API          ✅ SET
+[2026-03-10 00:00:00 UTC]   Cloudinary           ✅ SET
+[2026-03-10 00:00:00 UTC]   fal-client           ✅ INSTALLED
+[2026-03-10 00:00:00 UTC] ============================================================
+[2026-03-10 06:00:01 UTC] ============================================================
+[2026-03-10 06:00:01 UTC] HARBINGER HEALTH CHECK
+[2026-03-10 06:00:01 UTC] ============================================================
+[2026-03-10 06:00:01 UTC]   ElevenLabs           ✅ SET
+[2026-03-10 06:00:01 UTC]   Replicate            ✅ SET
+[2026-03-10 06:00:01 UTC]   Buffer               ✅ SET
+[2026-03-10 06:00:01 UTC]   Telegram             ✅ SET
+[2026-03-10 06:00:01 UTC]   fal.ai (Kling)       ✅ SET
+[2026-03-10 06:00:01 UTC]   Reddit API           ❌ MISSING
+[2026-03-10 06:00:01 UTC]   Twitter/X API        ❌ MISSING
+[2026-03-10 06:00:01 UTC]   YouTube API          ✅ SET
+[2026-03-10 06:00:01 UTC]   Cloudinary           ✅ SET
+[2026-03-10 06:00:01 UTC]   fal-client           ✅ INSTALLED
+[2026-03-10 06:00:01 UTC] ============================================================
+[2026-03-10 12:00:01 UTC] ============================================================
+[2026-03-10 12:00:01 UTC] HARBINGER HEALTH CHECK
+[2026-03-10 12:00:01 UTC] ============================================================
+[2026-03-10 12:00:01 UTC]   ElevenLabs           ✅ SET
+[2026-03-10 12:00:01 UTC]   Replicate            ✅ SET
+[2026-03-10 12:00:01 UTC]   Buffer               ✅ SET
+[2026-03-10 12:00:01 UTC]   Telegram             ✅ SET
+[2026-03-10 12:00:01 UTC]   fal.ai (Kling)       ✅ SET
+[2026-03-10 12:00:01 UTC]   Reddit API           ❌ MISSING
+[2026-03-10 12:00:01 UTC]   Twitter/X API        ❌ MISSING
+[2026-03-10 12:00:01 UTC]   YouTube API          ✅ SET
+[2026-03-10 12:00:01 UTC]   Cloudinary           ✅ SET
+[2026-03-10 12:00:01 UTC]   fal-client           ✅ INSTALLED
+[2026-03-10 12:00:01 UTC] ============================================================
+[2026-03-10 18:00:00 UTC] ============================================================
+[2026-03-10 18:00:00 UTC] HARBINGER HEALTH CHECK
+[2026-03-10 18:00:00 UTC] ============================================================
+[2026-03-10 18:00:00 UTC]   ElevenLabs           ✅ SET
+[2026-03-10 18:00:00 UTC]   Replicate            ✅ SET
+[2026-03-10 18:00:00 UTC]   Buffer               ✅ SET
+[2026-03-10 18:00:00 UTC]   Telegram             ✅ SET
+[2026-03-10 18:00:00 UTC]   fal.ai (Kling)       ✅ SET
+[2026-03-10 18:00:00 UTC]   Reddit API           ❌ MISSING
+[2026-03-10 18:00:00 UTC]   Twitter/X API        ❌ MISSING
+[2026-03-10 18:00:00 UTC]   YouTube API          ✅ SET
+[2026-03-10 18:00:00 UTC]   Cloudinary           ✅ SET
+[2026-03-10 18:00:00 UTC]   fal-client           ✅ INSTALLED
+[2026-03-10 18:00:00 UTC] ============================================================
+[2026-03-11 00:00:01 UTC] ============================================================
+[2026-03-11 00:00:01 UTC] HARBINGER HEALTH CHECK
+[2026-03-11 00:00:01 UTC] ============================================================
+[2026-03-11 00:00:01 UTC]   ElevenLabs           ✅ SET
+[2026-03-11 00:00:01 UTC]   Replicate            ✅ SET
+[2026-03-11 00:00:01 UTC]   Buffer               ✅ SET
+[2026-03-11 00:00:01 UTC]   Telegram             ✅ SET
+[2026-03-11 00:00:01 UTC]   fal.ai (Kling)       ✅ SET
+[2026-03-11 00:00:01 UTC]   Reddit API           ❌ MISSING
+[2026-03-11 00:00:01 UTC]   Twitter/X API        ❌ MISSING
+[2026-03-11 00:00:01 UTC]   YouTube API          ✅ SET
+[2026-03-11 00:00:01 UTC]   Cloudinary           ✅ SET
+[2026-03-11 00:00:01 UTC]   fal-client           ✅ INSTALLED
+[2026-03-11 00:00:01 UTC] ============================================================
+[2026-03-11 06:00:00 UTC] ============================================================
+[2026-03-11 06:00:00 UTC] HARBINGER HEALTH CHECK
+[2026-03-11 06:00:00 UTC] ============================================================
+[2026-03-11 06:00:00 UTC]   ElevenLabs           ✅ SET
+[2026-03-11 06:00:00 UTC]   Replicate            ✅ SET
+[2026-03-11 06:00:00 UTC]   Buffer               ✅ SET
+[2026-03-11 06:00:00 UTC]   Telegram             ✅ SET
+[2026-03-11 06:00:00 UTC]   fal.ai (Kling)       ✅ SET
+[2026-03-11 06:00:00 UTC]   Reddit API           ❌ MISSING
+[2026-03-11 06:00:00 UTC]   Twitter/X API        ❌ MISSING
+[2026-03-11 06:00:00 UTC]   YouTube API          ✅ SET
+[2026-03-11 06:00:00 UTC]   Cloudinary           ✅ SET
+[2026-03-11 06:00:00 UTC]   fal-client           ✅ INSTALLED
+[2026-03-11 06:00:00 UTC] ============================================================
+[2026-03-11 12:00:00 UTC] ============================================================
+[2026-03-11 12:00:00 UTC] HARBINGER HEALTH CHECK
+[2026-03-11 12:00:00 UTC] ============================================================
+[2026-03-11 12:00:00 UTC]   ElevenLabs           ✅ SET
+[2026-03-11 12:00:00 UTC]   Replicate            ✅ SET
+[2026-03-11 12:00:00 UTC]   Buffer               ✅ SET
+[2026-03-11 12:00:00 UTC]   Telegram             ✅ SET
+[2026-03-11 12:00:00 UTC]   fal.ai (Kling)       ✅ SET
+[2026-03-11 12:00:00 UTC]   Reddit API           ❌ MISSING
+[2026-03-11 12:00:00 UTC]   Twitter/X API        ❌ MISSING
+[2026-03-11 12:00:00 UTC]   YouTube API          ✅ SET
+[2026-03-11 12:00:00 UTC]   Cloudinary           ✅ SET
+[2026-03-11 12:00:00 UTC]   fal-client           ✅ INSTALLED
+[2026-03-11 12:00:00 UTC] ============================================================
+[2026-03-11 18:00:00 UTC] ============================================================
+[2026-03-11 18:00:00 UTC] HARBINGER HEALTH CHECK
+[2026-03-11 18:00:00 UTC] ============================================================
+[2026-03-11 18:00:00 UTC]   ElevenLabs           ✅ SET
+[2026-03-11 18:00:00 UTC]   Replicate            ✅ SET
+[2026-03-11 18:00:00 UTC]   Buffer               ✅ SET
+[2026-03-11 18:00:00 UTC]   Telegram             ✅ SET
+[2026-03-11 18:00:00 UTC]   fal.ai (Kling)       ✅ SET
+[2026-03-11 18:00:00 UTC]   Reddit API           ❌ MISSING
+[2026-03-11 18:00:00 UTC]   Twitter/X API        ❌ MISSING
+[2026-03-11 18:00:00 UTC]   YouTube API          ✅ SET
+[2026-03-11 18:00:00 UTC]   Cloudinary           ✅ SET
+[2026-03-11 18:00:00 UTC]   fal-client           ✅ INSTALLED
+[2026-03-11 18:00:00 UTC] ============================================================
+[2026-03-12 00:00:01 UTC] ============================================================
+[2026-03-12 00:00:01 UTC] HARBINGER HEALTH CHECK
+[2026-03-12 00:00:01 UTC] ============================================================
+[2026-03-12 00:00:01 UTC]   ElevenLabs           ✅ SET
+[2026-03-12 00:00:01 UTC]   Replicate            ✅ SET
+[2026-03-12 00:00:01 UTC]   Buffer               ✅ SET
+[2026-03-12 00:00:01 UTC]   Telegram             ✅ SET
+[2026-03-12 00:00:01 UTC]   fal.ai (Kling)       ✅ SET
+[2026-03-12 00:00:01 UTC]   Reddit API           ❌ MISSING
+[2026-03-12 00:00:01 UTC]   Twitter/X API        ❌ MISSING
+[2026-03-12 00:00:01 UTC]   YouTube API          ✅ SET
+[2026-03-12 00:00:01 UTC]   Cloudinary           ✅ SET
+[2026-03-12 00:00:01 UTC]   fal-client           ✅ INSTALLED
+[2026-03-12 00:00:01 UTC] ============================================================
+[2026-03-12 06:00:03 UTC] ============================================================
+[2026-03-12 06:00:03 UTC] HARBINGER HEALTH CHECK
+[2026-03-12 06:00:03 UTC] ============================================================
+[2026-03-12 06:00:03 UTC]   ElevenLabs           ✅ SET
+[2026-03-12 06:00:03 UTC]   Replicate            ✅ SET
+[2026-03-12 06:00:03 UTC]   Buffer               ✅ SET
+[2026-03-12 06:00:03 UTC]   Telegram             ✅ SET
+[2026-03-12 06:00:03 UTC]   fal.ai (Kling)       ✅ SET
+[2026-03-12 06:00:03 UTC]   Reddit API           ❌ MISSING
+[2026-03-12 06:00:03 UTC]   Twitter/X API        ❌ MISSING
+[2026-03-12 06:00:03 UTC]   YouTube API          ✅ SET
+[2026-03-12 06:00:03 UTC]   Cloudinary           ✅ SET
+[2026-03-12 06:00:03 UTC]   fal-client           ✅ INSTALLED
+[2026-03-12 06:00:03 UTC] ============================================================
+[2026-03-12 12:00:00 UTC] ============================================================
+[2026-03-12 12:00:00 UTC] HARBINGER HEALTH CHECK
+[2026-03-12 12:00:00 UTC] ============================================================
+[2026-03-12 12:00:00 UTC]   ElevenLabs           ✅ SET
+[2026-03-12 12:00:00 UTC]   Replicate            ✅ SET
+[2026-03-12 12:00:00 UTC]   Buffer               ✅ SET
+[2026-03-12 12:00:00 UTC]   Telegram             ✅ SET
+[2026-03-12 12:00:00 UTC]   fal.ai (Kling)       ✅ SET
+[2026-03-12 12:00:00 UTC]   Reddit API           ❌ MISSING
+[2026-03-12 12:00:00 UTC]   Twitter/X API        ❌ MISSING
+[2026-03-12 12:00:00 UTC]   YouTube API          ✅ SET
+[2026-03-12 12:00:00 UTC]   Cloudinary           ✅ SET
+[2026-03-12 12:00:00 UTC]   fal-client           ✅ INSTALLED
+[2026-03-12 12:00:00 UTC] ============================================================
+/Users/kolly/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+[2026-03-12 18:00:01 UTC] ============================================================
+[2026-03-12 18:00:01 UTC] HARBINGER HEALTH CHECK
+[2026-03-12 18:00:01 UTC] ============================================================
+[2026-03-12 18:00:01 UTC]   ElevenLabs           ✅ SET
+[2026-03-12 18:00:01 UTC]   Replicate            ✅ SET
+[2026-03-12 18:00:01 UTC]   Buffer               ✅ SET
+[2026-03-12 18:00:01 UTC]   Telegram             ✅ SET
+[2026-03-12 18:00:01 UTC]   fal.ai (Kling)       ✅ SET
+[2026-03-12 18:00:01 UTC]   Reddit API           ❌ MISSING
+[2026-03-12 18:00:01 UTC]   Twitter/X API        ❌ MISSING
+[2026-03-12 18:00:01 UTC]   YouTube API          ✅ SET
+[2026-03-12 18:00:01 UTC]   Cloudinary           ✅ SET
+[2026-03-12 18:00:01 UTC]   fal-client           ✅ INSTALLED
+[2026-03-12 18:00:01 UTC] ============================================================
+/Users/kolly/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+[2026-03-13 18:00:00 UTC] ============================================================
+[2026-03-13 18:00:00 UTC] HARBINGER HEALTH CHECK
+[2026-03-13 18:00:00 UTC] ============================================================
+[2026-03-13 18:00:00 UTC]   ElevenLabs           ✅ SET
+[2026-03-13 18:00:00 UTC]   Replicate            ✅ SET
+[2026-03-13 18:00:00 UTC]   Buffer               ✅ SET
+[2026-03-13 18:00:00 UTC]   Telegram             ✅ SET
+[2026-03-13 18:00:00 UTC]   fal.ai (Kling)       ✅ SET
+[2026-03-13 18:00:00 UTC]   Reddit API           ❌ MISSING
+[2026-03-13 18:00:00 UTC]   Twitter/X API        ❌ MISSING
+[2026-03-13 18:00:00 UTC]   YouTube API          ✅ SET
+[2026-03-13 18:00:00 UTC]   Cloudinary           ✅ SET
+[2026-03-13 18:00:00 UTC]   fal-client           ✅ INSTALLED
+[2026-03-13 18:00:00 UTC] ============================================================
+/Users/kolly/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+[2026-03-14 06:00:00 UTC] ============================================================
+[2026-03-14 06:00:00 UTC] HARBINGER HEALTH CHECK
+[2026-03-14 06:00:00 UTC] ============================================================
+[2026-03-14 06:00:00 UTC]   ElevenLabs           ✅ SET
+[2026-03-14 06:00:00 UTC]   Replicate            ✅ SET
+[2026-03-14 06:00:00 UTC]   Buffer               ✅ SET
+[2026-03-14 06:00:00 UTC]   Telegram             ✅ SET
+[2026-03-14 06:00:00 UTC]   fal.ai (Kling)       ✅ SET
+[2026-03-14 06:00:00 UTC]   Reddit API           ❌ MISSING
+[2026-03-14 06:00:00 UTC]   Twitter/X API        ❌ MISSING
+[2026-03-14 06:00:00 UTC]   YouTube API          ✅ SET
+[2026-03-14 06:00:00 UTC]   Cloudinary           ✅ SET
+[2026-03-14 06:00:00 UTC]   fal-client           ✅ INSTALLED
+[2026-03-14 06:00:00 UTC] ============================================================
+/Users/kolly/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+[2026-03-15 18:01:29 UTC] ============================================================
+[2026-03-15 18:01:29 UTC] HARBINGER HEALTH CHECK
+[2026-03-15 18:01:29 UTC] ============================================================
+[2026-03-15 18:01:29 UTC]   ElevenLabs           ✅ SET
+[2026-03-15 18:01:29 UTC]   Replicate            ✅ SET
+[2026-03-15 18:01:29 UTC]   Buffer               ✅ SET
+[2026-03-15 18:01:29 UTC]   Telegram             ✅ SET
+[2026-03-15 18:01:29 UTC]   fal.ai (Kling)       ✅ SET
+[2026-03-15 18:01:29 UTC]   Reddit API           ❌ MISSING
+[2026-03-15 18:01:29 UTC]   Twitter/X API        ❌ MISSING
+[2026-03-15 18:01:29 UTC]   YouTube API          ✅ SET
+[2026-03-15 18:01:29 UTC]   Cloudinary           ✅ SET
+[2026-03-15 18:01:29 UTC]   fal-client           ✅ INSTALLED
+[2026-03-15 18:01:29 UTC] ============================================================
+/Users/kolly/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+[2026-03-16 00:00:00 UTC] ============================================================
+[2026-03-16 00:00:00 UTC] HARBINGER HEALTH CHECK
+[2026-03-16 00:00:00 UTC] ============================================================
+[2026-03-16 00:00:00 UTC]   ElevenLabs           ✅ SET
+[2026-03-16 00:00:00 UTC]   Replicate            ✅ SET
+[2026-03-16 00:00:00 UTC]   Buffer               ✅ SET
+[2026-03-16 00:00:00 UTC]   Telegram             ✅ SET
+[2026-03-16 00:00:00 UTC]   fal.ai (Kling)       ✅ SET
+[2026-03-16 00:00:00 UTC]   Reddit API           ❌ MISSING
+[2026-03-16 00:00:00 UTC]   Twitter/X API        ❌ MISSING
+[2026-03-16 00:00:00 UTC]   YouTube API          ✅ SET
+[2026-03-16 00:00:00 UTC]   Cloudinary           ✅ SET
+[2026-03-16 00:00:00 UTC]   fal-client           ✅ INSTALLED
+[2026-03-16 00:00:00 UTC] ============================================================
+/Users/kolly/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+[2026-03-16 06:00:00 UTC] ============================================================
+[2026-03-16 06:00:00 UTC] HARBINGER HEALTH CHECK
+[2026-03-16 06:00:00 UTC] ============================================================
+[2026-03-16 06:00:00 UTC]   ElevenLabs           ✅ SET
+[2026-03-16 06:00:00 UTC]   Replicate            ✅ SET
+[2026-03-16 06:00:00 UTC]   Buffer               ✅ SET
+[2026-03-16 06:00:00 UTC]   Telegram             ✅ SET
+[2026-03-16 06:00:00 UTC]   fal.ai (Kling)       ✅ SET
+[2026-03-16 06:00:00 UTC]   Reddit API           ❌ MISSING
+[2026-03-16 06:00:00 UTC]   Twitter/X API        ❌ MISSING
+[2026-03-16 06:00:00 UTC]   YouTube API          ✅ SET
+[2026-03-16 06:00:00 UTC]   Cloudinary           ✅ SET
+[2026-03-16 06:00:00 UTC]   fal-client           ✅ INSTALLED
+[2026-03-16 06:00:00 UTC] ============================================================
+/Users/kolly/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+[2026-03-17 06:00:00 UTC] ============================================================
+[2026-03-17 06:00:00 UTC] HARBINGER HEALTH CHECK
+[2026-03-17 06:00:00 UTC] ============================================================
+[2026-03-17 06:00:00 UTC]   ElevenLabs           ✅ SET
+[2026-03-17 06:00:00 UTC]   Replicate            ✅ SET
+[2026-03-17 06:00:00 UTC]   Buffer               ✅ SET
+[2026-03-17 06:00:00 UTC]   Telegram             ✅ SET
+[2026-03-17 06:00:00 UTC]   fal.ai (Kling)       ✅ SET
+[2026-03-17 06:00:00 UTC]   Reddit API           ❌ MISSING
+[2026-03-17 06:00:00 UTC]   Twitter/X API        ❌ MISSING
+[2026-03-17 06:00:00 UTC]   YouTube API          ✅ SET
+[2026-03-17 06:00:00 UTC]   Cloudinary           ✅ SET
+[2026-03-17 06:00:00 UTC]   fal-client           ✅ INSTALLED
+[2026-03-17 06:00:00 UTC] ============================================================
+/Users/kolly/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+[2026-03-17 12:00:00 UTC] ============================================================
+[2026-03-17 12:00:00 UTC] HARBINGER HEALTH CHECK
+[2026-03-17 12:00:00 UTC] ============================================================
+[2026-03-17 12:00:00 UTC]   ElevenLabs           ✅ SET
+[2026-03-17 12:00:00 UTC]   Replicate            ✅ SET
+[2026-03-17 12:00:00 UTC]   Buffer               ✅ SET
+[2026-03-17 12:00:00 UTC]   Telegram             ✅ SET
+[2026-03-17 12:00:00 UTC]   fal.ai (Kling)       ✅ SET
+[2026-03-17 12:00:00 UTC]   Reddit API           ❌ MISSING
+[2026-03-17 12:00:00 UTC]   Twitter/X API        ❌ MISSING
+[2026-03-17 12:00:00 UTC]   YouTube API          ✅ SET
+[2026-03-17 12:00:00 UTC]   Cloudinary           ✅ SET
+[2026-03-17 12:00:00 UTC]   fal-client           ✅ INSTALLED
+[2026-03-17 12:00:00 UTC] ============================================================
+/Users/kolly/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+[2026-03-17 18:00:00 UTC] ============================================================
+[2026-03-17 18:00:00 UTC] HARBINGER HEALTH CHECK
+[2026-03-17 18:00:00 UTC] ============================================================
+[2026-03-17 18:00:00 UTC]   ElevenLabs           ✅ SET
+[2026-03-17 18:00:00 UTC]   Replicate            ✅ SET
+[2026-03-17 18:00:00 UTC]   Buffer               ✅ SET
+[2026-03-17 18:00:00 UTC]   Telegram             ✅ SET
+[2026-03-17 18:00:00 UTC]   fal.ai (Kling)       ✅ SET
+[2026-03-17 18:00:00 UTC]   Reddit API           ❌ MISSING
+[2026-03-17 18:00:00 UTC]   Twitter/X API        ❌ MISSING
+[2026-03-17 18:00:00 UTC]   YouTube API          ✅ SET
+[2026-03-17 18:00:00 UTC]   Cloudinary           ✅ SET
+[2026-03-17 18:00:00 UTC]   fal-client           ✅ INSTALLED
+[2026-03-17 18:00:00 UTC] ============================================================
+/Users/kolly/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+[2026-03-18 00:00:01 UTC] ============================================================
+[2026-03-18 00:00:01 UTC] HARBINGER HEALTH CHECK
+[2026-03-18 00:00:01 UTC] ============================================================
+[2026-03-18 00:00:01 UTC]   ElevenLabs           ✅ SET
+[2026-03-18 00:00:01 UTC]   Replicate            ✅ SET
+[2026-03-18 00:00:01 UTC]   Buffer               ✅ SET
+[2026-03-18 00:00:01 UTC]   Telegram             ✅ SET
+[2026-03-18 00:00:01 UTC]   fal.ai (Kling)       ✅ SET
+[2026-03-18 00:00:01 UTC]   Reddit API           ❌ MISSING
+[2026-03-18 00:00:01 UTC]   Twitter/X API        ❌ MISSING
+[2026-03-18 00:00:01 UTC]   YouTube API          ✅ SET
+[2026-03-18 00:00:01 UTC]   Cloudinary           ✅ SET
+[2026-03-18 00:00:01 UTC]   fal-client           ✅ INSTALLED
+[2026-03-18 00:00:01 UTC] ============================================================
+/Users/kolly/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+[2026-03-18 06:00:00 UTC] ============================================================
+[2026-03-18 06:00:00 UTC] HARBINGER HEALTH CHECK
+[2026-03-18 06:00:00 UTC] ============================================================
+[2026-03-18 06:00:00 UTC]   ElevenLabs           ✅ SET
+[2026-03-18 06:00:00 UTC]   Replicate            ✅ SET
+[2026-03-18 06:00:00 UTC]   Buffer               ✅ SET
+[2026-03-18 06:00:00 UTC]   Telegram             ✅ SET
+[2026-03-18 06:00:00 UTC]   fal.ai (Kling)       ✅ SET
+[2026-03-18 06:00:00 UTC]   Reddit API           ❌ MISSING
+[2026-03-18 06:00:00 UTC]   Twitter/X API        ❌ MISSING
+[2026-03-18 06:00:00 UTC]   YouTube API          ✅ SET
+[2026-03-18 06:00:00 UTC]   Cloudinary           ✅ SET
+[2026-03-18 06:00:00 UTC]   fal-client           ✅ INSTALLED
+[2026-03-18 06:00:00 UTC] ============================================================
+/Users/kolly/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+[2026-03-18 18:08:14 UTC] ============================================================
+[2026-03-18 18:08:14 UTC] HARBINGER HEALTH CHECK
+[2026-03-18 18:08:14 UTC] ============================================================
+[2026-03-18 18:08:14 UTC]   ElevenLabs           ✅ SET
+[2026-03-18 18:08:14 UTC]   Replicate            ✅ SET
+[2026-03-18 18:08:14 UTC]   Buffer               ✅ SET
+[2026-03-18 18:08:14 UTC]   Telegram             ✅ SET
+[2026-03-18 18:08:14 UTC]   fal.ai (Kling)       ✅ SET
+[2026-03-18 18:08:14 UTC]   Reddit API           ❌ MISSING
+[2026-03-18 18:08:14 UTC]   Twitter/X API        ❌ MISSING
+[2026-03-18 18:08:14 UTC]   YouTube API          ✅ SET
+[2026-03-18 18:08:14 UTC]   Cloudinary           ✅ SET
+[2026-03-18 18:08:14 UTC]   fal-client           ✅ INSTALLED
+[2026-03-18 18:08:14 UTC] ============================================================
+/Users/kolly/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+[2026-03-19 06:00:00 UTC] ============================================================
+[2026-03-19 06:00:00 UTC] HARBINGER HEALTH CHECK
+[2026-03-19 06:00:00 UTC] ============================================================
+[2026-03-19 06:00:00 UTC]   ElevenLabs           ✅ SET
+[2026-03-19 06:00:00 UTC]   Replicate            ✅ SET
+[2026-03-19 06:00:00 UTC]   Buffer               ✅ SET
+[2026-03-19 06:00:00 UTC]   Telegram             ✅ SET
+[2026-03-19 06:00:00 UTC]   fal.ai (Kling)       ✅ SET
+[2026-03-19 06:00:00 UTC]   Reddit API           ❌ MISSING
+[2026-03-19 06:00:00 UTC]   Twitter/X API        ❌ MISSING
+[2026-03-19 06:00:00 UTC]   YouTube API          ✅ SET
+[2026-03-19 06:00:00 UTC]   Cloudinary           ✅ SET
+[2026-03-19 06:00:00 UTC]   fal-client           ✅ INSTALLED
+[2026-03-19 06:00:00 UTC] ============================================================
+/Users/kolly/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+[2026-03-19 12:00:00 UTC] ============================================================
+[2026-03-19 12:00:00 UTC] HARBINGER HEALTH CHECK
+[2026-03-19 12:00:00 UTC] ============================================================
+[2026-03-19 12:00:00 UTC]   ElevenLabs           ✅ SET
+[2026-03-19 12:00:00 UTC]   Replicate            ✅ SET
+[2026-03-19 12:00:00 UTC]   Buffer               ✅ SET
+[2026-03-19 12:00:00 UTC]   Telegram             ✅ SET
+[2026-03-19 12:00:00 UTC]   fal.ai (Kling)       ✅ SET
+[2026-03-19 12:00:00 UTC]   Reddit API           ❌ MISSING
+[2026-03-19 12:00:00 UTC]   Twitter/X API        ❌ MISSING
+[2026-03-19 12:00:00 UTC]   YouTube API          ✅ SET
+[2026-03-19 12:00:00 UTC]   Cloudinary           ✅ SET
+[2026-03-19 12:00:00 UTC]   fal-client           ✅ INSTALLED
+[2026-03-19 12:00:00 UTC] ============================================================
+/Users/kolly/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+[2026-03-19 18:00:00 UTC] ============================================================
+[2026-03-19 18:00:00 UTC] HARBINGER HEALTH CHECK
+[2026-03-19 18:00:00 UTC] ============================================================
+[2026-03-19 18:00:00 UTC]   ElevenLabs           ✅ SET
+[2026-03-19 18:00:00 UTC]   Replicate            ✅ SET
+[2026-03-19 18:00:00 UTC]   Buffer               ✅ SET
+[2026-03-19 18:00:00 UTC]   Telegram             ✅ SET
+[2026-03-19 18:00:00 UTC]   fal.ai (Kling)       ✅ SET
+[2026-03-19 18:00:00 UTC]   Reddit API           ❌ MISSING
+[2026-03-19 18:00:00 UTC]   Twitter/X API        ❌ MISSING
+[2026-03-19 18:00:00 UTC]   YouTube API          ✅ SET
+[2026-03-19 18:00:00 UTC]   Cloudinary           ✅ SET
+[2026-03-19 18:00:00 UTC]   fal-client           ✅ INSTALLED
+[2026-03-19 18:00:00 UTC] ============================================================
+/Users/kolly/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+[2026-03-20 12:00:00 UTC] ============================================================
+[2026-03-20 12:00:00 UTC] HARBINGER HEALTH CHECK
+[2026-03-20 12:00:00 UTC] ============================================================
+[2026-03-20 12:00:00 UTC]   ElevenLabs           ✅ SET
+[2026-03-20 12:00:00 UTC]   Replicate            ✅ SET
+[2026-03-20 12:00:00 UTC]   Buffer               ✅ SET
+[2026-03-20 12:00:00 UTC]   Telegram             ✅ SET
+[2026-03-20 12:00:00 UTC]   fal.ai (Kling)       ✅ SET
+[2026-03-20 12:00:00 UTC]   Reddit API           ❌ MISSING
+[2026-03-20 12:00:00 UTC]   Twitter/X API        ❌ MISSING
+[2026-03-20 12:00:00 UTC]   YouTube API          ✅ SET
+[2026-03-20 12:00:00 UTC]   Cloudinary           ✅ SET
+[2026-03-20 12:00:00 UTC]   fal-client           ✅ INSTALLED
+[2026-03-20 12:00:00 UTC] ============================================================
+/Users/kolly/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+[2026-03-20 18:00:01 UTC] ============================================================
+[2026-03-20 18:00:01 UTC] HARBINGER HEALTH CHECK
+[2026-03-20 18:00:01 UTC] ============================================================
+[2026-03-20 18:00:01 UTC]   ElevenLabs           ✅ SET
+[2026-03-20 18:00:01 UTC]   Replicate            ✅ SET
+[2026-03-20 18:00:01 UTC]   Buffer               ✅ SET
+[2026-03-20 18:00:01 UTC]   Telegram             ✅ SET
+[2026-03-20 18:00:01 UTC]   fal.ai (Kling)       ✅ SET
+[2026-03-20 18:00:01 UTC]   Reddit API           ❌ MISSING
+[2026-03-20 18:00:01 UTC]   Twitter/X API        ❌ MISSING
+[2026-03-20 18:00:01 UTC]   YouTube API          ✅ SET
+[2026-03-20 18:00:01 UTC]   Cloudinary           ✅ SET
+[2026-03-20 18:00:01 UTC]   fal-client           ✅ INSTALLED
+[2026-03-20 18:00:01 UTC] ============================================================
+/Users/kolly/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+[2026-03-21 18:00:00 UTC] ============================================================
+[2026-03-21 18:00:00 UTC] HARBINGER HEALTH CHECK
+[2026-03-21 18:00:00 UTC] ============================================================
+[2026-03-21 18:00:00 UTC]   ElevenLabs           ✅ SET
+[2026-03-21 18:00:00 UTC]   Replicate            ✅ SET
+[2026-03-21 18:00:00 UTC]   Buffer               ✅ SET
+[2026-03-21 18:00:00 UTC]   Telegram             ✅ SET
+[2026-03-21 18:00:00 UTC]   fal.ai (Kling)       ✅ SET
+[2026-03-21 18:00:00 UTC]   Reddit API           ❌ MISSING
+[2026-03-21 18:00:00 UTC]   Twitter/X API        ❌ MISSING
+[2026-03-21 18:00:00 UTC]   YouTube API          ✅ SET
+[2026-03-21 18:00:00 UTC]   Cloudinary           ✅ SET
+[2026-03-21 18:00:00 UTC]   fal-client           ✅ INSTALLED
+[2026-03-21 18:00:00 UTC] ============================================================
+/Users/kolly/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+[2026-03-22 00:00:01 UTC] ============================================================
+[2026-03-22 00:00:01 UTC] HARBINGER HEALTH CHECK
+[2026-03-22 00:00:01 UTC] ============================================================
+[2026-03-22 00:00:01 UTC]   ElevenLabs           ✅ SET
+[2026-03-22 00:00:01 UTC]   Replicate            ✅ SET
+[2026-03-22 00:00:01 UTC]   Buffer               ✅ SET
+[2026-03-22 00:00:01 UTC]   Telegram             ✅ SET
+[2026-03-22 00:00:01 UTC]   fal.ai (Kling)       ✅ SET
+[2026-03-22 00:00:01 UTC]   Reddit API           ❌ MISSING
+[2026-03-22 00:00:01 UTC]   Twitter/X API        ❌ MISSING
+[2026-03-22 00:00:01 UTC]   YouTube API          ✅ SET
+[2026-03-22 00:00:01 UTC]   Cloudinary           ✅ SET
+[2026-03-22 00:00:01 UTC]   fal-client           ✅ INSTALLED
+[2026-03-22 00:00:01 UTC] ============================================================
+/Users/kolly/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+[2026-03-22 18:00:00 UTC] ============================================================
+[2026-03-22 18:00:00 UTC] HARBINGER HEALTH CHECK
+[2026-03-22 18:00:00 UTC] ============================================================
+[2026-03-22 18:00:00 UTC]   ElevenLabs           ✅ SET
+[2026-03-22 18:00:00 UTC]   Replicate            ✅ SET
+[2026-03-22 18:00:00 UTC]   Buffer               ✅ SET
+[2026-03-22 18:00:00 UTC]   Telegram             ✅ SET
+[2026-03-22 18:00:00 UTC]   fal.ai (Kling)       ✅ SET
+[2026-03-22 18:00:00 UTC]   Reddit API           ❌ MISSING
+[2026-03-22 18:00:00 UTC]   Twitter/X API        ❌ MISSING
+[2026-03-22 18:00:00 UTC]   YouTube API          ✅ SET
+[2026-03-22 18:00:00 UTC]   Cloudinary           ✅ SET
+[2026-03-22 18:00:00 UTC]   fal-client           ✅ INSTALLED
+[2026-03-22 18:00:00 UTC] ============================================================
+/Users/kolly/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+[2026-03-23 00:00:01 UTC] ============================================================
+[2026-03-23 00:00:01 UTC] HARBINGER HEALTH CHECK
+[2026-03-23 00:00:01 UTC] ============================================================
+[2026-03-23 00:00:01 UTC]   ElevenLabs           ✅ SET
+[2026-03-23 00:00:01 UTC]   Replicate            ✅ SET
+[2026-03-23 00:00:01 UTC]   Buffer               ✅ SET
+[2026-03-23 00:00:01 UTC]   Telegram             ✅ SET
+[2026-03-23 00:00:01 UTC]   fal.ai (Kling)       ✅ SET
+[2026-03-23 00:00:01 UTC]   Reddit API           ❌ MISSING
+[2026-03-23 00:00:01 UTC]   Twitter/X API        ❌ MISSING
+[2026-03-23 00:00:01 UTC]   YouTube API          ✅ SET
+[2026-03-23 00:00:01 UTC]   Cloudinary           ✅ SET
+[2026-03-23 00:00:01 UTC]   fal-client           ✅ INSTALLED
+[2026-03-23 00:00:01 UTC] ============================================================
+/Users/kolly/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+[2026-03-23 06:00:00 UTC] ============================================================
+[2026-03-23 06:00:00 UTC] HARBINGER HEALTH CHECK
+[2026-03-23 06:00:00 UTC] ============================================================
+[2026-03-23 06:00:00 UTC]   ElevenLabs           ✅ SET
+[2026-03-23 06:00:00 UTC]   Replicate            ✅ SET
+[2026-03-23 06:00:00 UTC]   Buffer               ✅ SET
+[2026-03-23 06:00:00 UTC]   Telegram             ✅ SET
+[2026-03-23 06:00:00 UTC]   fal.ai (Kling)       ✅ SET
+[2026-03-23 06:00:00 UTC]   Reddit API           ❌ MISSING
+[2026-03-23 06:00:00 UTC]   Twitter/X API        ❌ MISSING
+[2026-03-23 06:00:00 UTC]   YouTube API          ✅ SET
+[2026-03-23 06:00:00 UTC]   Cloudinary           ✅ SET
+[2026-03-23 06:00:00 UTC]   fal-client           ✅ INSTALLED
+[2026-03-23 06:00:00 UTC] ============================================================
+/Users/kolly/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+[2026-03-23 12:00:01 UTC] ============================================================
+[2026-03-23 12:00:01 UTC] HARBINGER HEALTH CHECK
+[2026-03-23 12:00:01 UTC] ============================================================
+[2026-03-23 12:00:01 UTC]   ElevenLabs           ✅ SET
+[2026-03-23 12:00:01 UTC]   Replicate            ✅ SET
+[2026-03-23 12:00:01 UTC]   Buffer               ✅ SET
+[2026-03-23 12:00:01 UTC]   Telegram             ✅ SET
+[2026-03-23 12:00:01 UTC]   fal.ai (Kling)       ✅ SET
+[2026-03-23 12:00:01 UTC]   Reddit API           ❌ MISSING
+[2026-03-23 12:00:01 UTC]   Twitter/X API        ❌ MISSING
+[2026-03-23 12:00:01 UTC]   YouTube API          ✅ SET
+[2026-03-23 12:00:01 UTC]   Cloudinary           ✅ SET
+[2026-03-23 12:00:01 UTC]   fal-client           ✅ INSTALLED
+[2026-03-23 12:00:01 UTC] ============================================================
+/Users/kolly/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+[2026-03-23 18:00:00 UTC] ============================================================
+[2026-03-23 18:00:00 UTC] HARBINGER HEALTH CHECK
+[2026-03-23 18:00:00 UTC] ============================================================
+[2026-03-23 18:00:00 UTC]   ElevenLabs           ✅ SET
+[2026-03-23 18:00:00 UTC]   Replicate            ✅ SET
+[2026-03-23 18:00:00 UTC]   Buffer               ✅ SET
+[2026-03-23 18:00:00 UTC]   Telegram             ✅ SET
+[2026-03-23 18:00:00 UTC]   fal.ai (Kling)       ✅ SET
+[2026-03-23 18:00:00 UTC]   Reddit API           ❌ MISSING
+[2026-03-23 18:00:00 UTC]   Twitter/X API        ❌ MISSING
+[2026-03-23 18:00:00 UTC]   YouTube API          ✅ SET
+[2026-03-23 18:00:00 UTC]   Cloudinary           ✅ SET
+[2026-03-23 18:00:00 UTC]   fal-client           ✅ INSTALLED
+[2026-03-23 18:00:00 UTC] ============================================================
+/Users/kolly/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+[2026-03-24 00:00:00 UTC] ============================================================
+[2026-03-24 00:00:00 UTC] HARBINGER HEALTH CHECK
+[2026-03-24 00:00:00 UTC] ============================================================
+[2026-03-24 00:00:00 UTC]   ElevenLabs           ✅ SET
+[2026-03-24 00:00:00 UTC]   Replicate            ✅ SET
+[2026-03-24 00:00:00 UTC]   Buffer               ✅ SET
+[2026-03-24 00:00:00 UTC]   Telegram             ✅ SET
+[2026-03-24 00:00:00 UTC]   fal.ai (Kling)       ✅ SET
+[2026-03-24 00:00:00 UTC]   Reddit API           ❌ MISSING
+[2026-03-24 00:00:00 UTC]   Twitter/X API        ❌ MISSING
+[2026-03-24 00:00:00 UTC]   YouTube API          ✅ SET
+[2026-03-24 00:00:00 UTC]   Cloudinary           ✅ SET
+[2026-03-24 00:00:00 UTC]   fal-client           ✅ INSTALLED
+[2026-03-24 00:00:00 UTC] ============================================================
+/Users/kolly/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+[2026-03-24 12:00:00 UTC] ============================================================
+[2026-03-24 12:00:00 UTC] HARBINGER HEALTH CHECK
+[2026-03-24 12:00:00 UTC] ============================================================
+[2026-03-24 12:00:00 UTC]   ElevenLabs           ✅ SET
+[2026-03-24 12:00:00 UTC]   Replicate            ✅ SET
+[2026-03-24 12:00:00 UTC]   Buffer               ✅ SET
+[2026-03-24 12:00:00 UTC]   Telegram             ✅ SET
+[2026-03-24 12:00:00 UTC]   fal.ai (Kling)       ✅ SET
+[2026-03-24 12:00:00 UTC]   Reddit API           ❌ MISSING
+[2026-03-24 12:00:00 UTC]   Twitter/X API        ❌ MISSING
+[2026-03-24 12:00:00 UTC]   YouTube API          ✅ SET
+[2026-03-24 12:00:00 UTC]   Cloudinary           ✅ SET
+[2026-03-24 12:00:00 UTC]   fal-client           ✅ INSTALLED
+[2026-03-24 12:00:00 UTC] ============================================================
+/Users/kolly/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+[2026-03-24 18:00:00 UTC] ============================================================
+[2026-03-24 18:00:00 UTC] HARBINGER HEALTH CHECK
+[2026-03-24 18:00:00 UTC] ============================================================
+[2026-03-24 18:00:00 UTC]   ElevenLabs           ✅ SET
+[2026-03-24 18:00:00 UTC]   Replicate            ✅ SET
+[2026-03-24 18:00:00 UTC]   Buffer               ✅ SET
+[2026-03-24 18:00:00 UTC]   Telegram             ✅ SET
+[2026-03-24 18:00:00 UTC]   fal.ai (Kling)       ✅ SET
+[2026-03-24 18:00:00 UTC]   Reddit API           ❌ MISSING
+[2026-03-24 18:00:00 UTC]   Twitter/X API        ❌ MISSING
+[2026-03-24 18:00:00 UTC]   YouTube API          ✅ SET
+[2026-03-24 18:00:00 UTC]   Cloudinary           ✅ SET
+[2026-03-24 18:00:00 UTC]   fal-client           ✅ INSTALLED
+[2026-03-24 18:00:00 UTC] ============================================================
+/Users/kolly/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+[2026-03-25 00:00:00 UTC] ============================================================
+[2026-03-25 00:00:00 UTC] HARBINGER HEALTH CHECK
+[2026-03-25 00:00:00 UTC] ============================================================
+[2026-03-25 00:00:00 UTC]   ElevenLabs           ✅ SET
+[2026-03-25 00:00:00 UTC]   Replicate            ✅ SET
+[2026-03-25 00:00:00 UTC]   Buffer               ✅ SET
+[2026-03-25 00:00:00 UTC]   Telegram             ✅ SET
+[2026-03-25 00:00:00 UTC]   fal.ai (Kling)       ✅ SET
+[2026-03-25 00:00:00 UTC]   Reddit API           ❌ MISSING
+[2026-03-25 00:00:00 UTC]   Twitter/X API        ❌ MISSING
+[2026-03-25 00:00:00 UTC]   YouTube API          ✅ SET
+[2026-03-25 00:00:00 UTC]   Cloudinary           ✅ SET
+[2026-03-25 00:00:00 UTC]   fal-client           ✅ INSTALLED
+[2026-03-25 00:00:00 UTC] ============================================================
+/Users/kolly/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+[2026-03-25 18:00:01 UTC] ============================================================
+[2026-03-25 18:00:01 UTC] HARBINGER HEALTH CHECK
+[2026-03-25 18:00:01 UTC] ============================================================
+[2026-03-25 18:00:01 UTC]   ElevenLabs           ✅ SET
+[2026-03-25 18:00:01 UTC]   Replicate            ✅ SET
+[2026-03-25 18:00:01 UTC]   Buffer               ✅ SET
+[2026-03-25 18:00:01 UTC]   Telegram             ✅ SET
+[2026-03-25 18:00:01 UTC]   fal.ai (Kling)       ✅ SET
+[2026-03-25 18:00:01 UTC]   Reddit API           ❌ MISSING
+[2026-03-25 18:00:01 UTC]   Twitter/X API        ❌ MISSING
+[2026-03-25 18:00:01 UTC]   YouTube API          ✅ SET
+[2026-03-25 18:00:01 UTC]   Cloudinary           ✅ SET
+[2026-03-25 18:00:01 UTC]   fal-client           ✅ INSTALLED
+[2026-03-25 18:00:01 UTC] ============================================================
+/Users/kolly/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+[2026-03-26 00:00:00 UTC] ============================================================
+[2026-03-26 00:00:00 UTC] HARBINGER HEALTH CHECK
+[2026-03-26 00:00:00 UTC] ============================================================
+[2026-03-26 00:00:00 UTC]   ElevenLabs           ✅ SET
+[2026-03-26 00:00:00 UTC]   Replicate            ✅ SET
+[2026-03-26 00:00:00 UTC]   Buffer               ✅ SET
+[2026-03-26 00:00:00 UTC]   Telegram             ✅ SET
+[2026-03-26 00:00:00 UTC]   fal.ai (Kling)       ✅ SET
+[2026-03-26 00:00:00 UTC]   Reddit API           ❌ MISSING
+[2026-03-26 00:00:00 UTC]   Twitter/X API        ❌ MISSING
+[2026-03-26 00:00:00 UTC]   YouTube API          ✅ SET
+[2026-03-26 00:00:00 UTC]   Cloudinary           ✅ SET
+[2026-03-26 00:00:00 UTC]   fal-client           ✅ INSTALLED
+[2026-03-26 00:00:00 UTC] ============================================================
+/Users/kolly/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+[2026-03-26 18:00:00 UTC] ============================================================
+[2026-03-26 18:00:00 UTC] HARBINGER HEALTH CHECK
+[2026-03-26 18:00:00 UTC] ============================================================
+[2026-03-26 18:00:00 UTC]   ElevenLabs           ✅ SET
+[2026-03-26 18:00:00 UTC]   Replicate            ✅ SET
+[2026-03-26 18:00:00 UTC]   Buffer               ✅ SET
+[2026-03-26 18:00:00 UTC]   Telegram             ✅ SET
+[2026-03-26 18:00:00 UTC]   fal.ai (Kling)       ✅ SET
+[2026-03-26 18:00:00 UTC]   Reddit API           ❌ MISSING
+[2026-03-26 18:00:00 UTC]   Twitter/X API        ❌ MISSING
+[2026-03-26 18:00:00 UTC]   YouTube API          ✅ SET
+[2026-03-26 18:00:00 UTC]   Cloudinary           ✅ SET
+[2026-03-26 18:00:00 UTC]   fal-client           ✅ INSTALLED
+[2026-03-26 18:00:00 UTC] ============================================================
+/Users/kolly/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+[2026-03-27 00:00:00 UTC] ============================================================
+[2026-03-27 00:00:00 UTC] HARBINGER HEALTH CHECK
+[2026-03-27 00:00:00 UTC] ============================================================
+[2026-03-27 00:00:00 UTC]   ElevenLabs           ✅ SET
+[2026-03-27 00:00:00 UTC]   Replicate            ✅ SET
+[2026-03-27 00:00:00 UTC]   Buffer               ✅ SET
+[2026-03-27 00:00:00 UTC]   Telegram             ✅ SET
+[2026-03-27 00:00:00 UTC]   fal.ai (Kling)       ✅ SET
+[2026-03-27 00:00:00 UTC]   Reddit API           ❌ MISSING
+[2026-03-27 00:00:00 UTC]   Twitter/X API        ❌ MISSING
+[2026-03-27 00:00:00 UTC]   YouTube API          ✅ SET
+[2026-03-27 00:00:00 UTC]   Cloudinary           ✅ SET
+[2026-03-27 00:00:00 UTC]   fal-client           ✅ INSTALLED
+[2026-03-27 00:00:00 UTC] ============================================================
+/Users/kolly/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+[2026-03-27 06:00:00 UTC] ============================================================
+[2026-03-27 06:00:00 UTC] HARBINGER HEALTH CHECK
+[2026-03-27 06:00:00 UTC] ============================================================
+[2026-03-27 06:00:00 UTC]   ElevenLabs           ✅ SET
+[2026-03-27 06:00:00 UTC]   Replicate            ✅ SET
+[2026-03-27 06:00:00 UTC]   Buffer               ✅ SET
+[2026-03-27 06:00:00 UTC]   Telegram             ✅ SET
+[2026-03-27 06:00:00 UTC]   fal.ai (Kling)       ✅ SET
+[2026-03-27 06:00:00 UTC]   Reddit API           ❌ MISSING
+[2026-03-27 06:00:00 UTC]   Twitter/X API        ❌ MISSING
+[2026-03-27 06:00:00 UTC]   YouTube API          ✅ SET
+[2026-03-27 06:00:00 UTC]   Cloudinary           ✅ SET
+[2026-03-27 06:00:00 UTC]   fal-client           ✅ INSTALLED
+[2026-03-27 06:00:00 UTC] ============================================================
+/Users/kolly/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+[2026-03-27 12:00:00 UTC] ============================================================
+[2026-03-27 12:00:00 UTC] HARBINGER HEALTH CHECK
+[2026-03-27 12:00:00 UTC] ============================================================
+[2026-03-27 12:00:00 UTC]   ElevenLabs           ✅ SET
+[2026-03-27 12:00:00 UTC]   Replicate            ✅ SET
+[2026-03-27 12:00:00 UTC]   Buffer               ✅ SET
+[2026-03-27 12:00:00 UTC]   Telegram             ✅ SET
+[2026-03-27 12:00:00 UTC]   fal.ai (Kling)       ✅ SET
+[2026-03-27 12:00:00 UTC]   Reddit API           ❌ MISSING
+[2026-03-27 12:00:00 UTC]   Twitter/X API        ❌ MISSING
+[2026-03-27 12:00:00 UTC]   YouTube API          ✅ SET
+[2026-03-27 12:00:00 UTC]   Cloudinary           ✅ SET
+[2026-03-27 12:00:00 UTC]   fal-client           ✅ INSTALLED
+[2026-03-27 12:00:00 UTC] ============================================================

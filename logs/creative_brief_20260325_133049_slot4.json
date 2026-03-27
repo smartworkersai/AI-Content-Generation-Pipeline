@@ -1,0 +1,34 @@
+{
+  "timestamp": "2026-03-25T13:30:49.706617",
+  "slot": 4,
+  "niche": "dark_psychology",
+  "niche_label": "Dark Psychology",
+  "topic": "Too much self-reflection is linked to anxiety and depression.",
+  "framework": {
+    "structure": "[Authority] + ['has known this for decades'] + [Why it was suppressed] + [What it means for you now]",
+    "trigger": "Conspiracy of suppression \u2014 powerful people deliberately kept this from you",
+    "example": "Psychologists have known this negotiation trick for 40 years. It was never taught in schools because it is too effective."
+  },
+  "script": {
+    "hook": "Psychologists have known this negotiation trick for 40 years. It was never taught in schools because it is too effective.",
+    "body": "Psychologists have known this for decades but it never makes it into mainstream education. The people who use this have an unfair advantage in every conversation.",
+    "cta": "Comment KNEW if you already knew this."
+  },
+  "full_script_text": "Psychologists have known this negotiation trick for 40 years. It was never taught in schools because it is too effective. Psychologists have known this for decades but it never makes it into mainstream education. The people who use this have an unfair advantage in every conversation. Comment KNEW if you already knew this.",
+  "visual_direction": {
+    "kling_prompt": "extreme close-up eyes in deep shadow, single side light source, no full faces, 9:16 vertical cinematic, psychological thriller, deep shadows",
+    "negative_prompt": "faces, logos, text overlays, watermarks"
+  },
+  "voice_settings": {
+    "voice_id": "TxGEqnHWrfWFTfGW9XjX",
+    "stability": 0.6,
+    "similarity": 0.88,
+    "style": 0.55,
+    "speed": 0.85,
+    "voice": "Josh"
+  },
+  "caption_text": "Psychologists have known this negotiation trick for 40 years. It was never taugh",
+  "affiliate": "none_growth_mode",
+  "script_variant": "long",
+  "compliance_checked": true
+}

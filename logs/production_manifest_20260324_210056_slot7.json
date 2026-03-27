@@ -1,0 +1,81 @@
+{
+  "timestamp": "2026-03-24T21:00:56.276357",
+  "slot": 7,
+  "sound_profile": {
+    "sub_bass_db": -22.0,
+    "sub_bass_hz": 40,
+    "ambience_type": "server_hum"
+  },
+  "asymmetry": null,
+  "affiliate": "none_growth_mode",
+  "script": {
+    "hook": "NASA has documented 47 radio signals from deep space that repeat on a 16-day cycle. They have no explanation.",
+    "body": "Scientists have no explanation. The data exists, but the answer was never found.",
+    "cta": "What do you think?"
+  },
+  "caption_text": "NASA has documented 47 radio signals from deep space that repeat on a 16-day cyc",
+  "visual_direction": {
+    "kling_prompt": "deep space starfield or abandoned corridor, eerie dim lighting, fog effect, no people, 9:16 vertical cinematic, horror atmospheric, unsettling stillness",
+    "negative_prompt": "faces, logos, text overlays, watermarks"
+  },
+  "voice_settings": {
+    "voice_id": "TxGEqnHWrfWFTfGW9XjX",
+    "stability": 0.7,
+    "similarity": 0.85,
+    "style": 0.45,
+    "speed": 0.8,
+    "voice": "Josh"
+  },
+  "visual_source": "broll_footage",
+  "audio": "/Users/kolly/HARBINGERHQ/output/voice_sfx_20260324_210056_slot7.mp3",
+  "video": "/Users/kolly/HARBINGERHQ/output/post_20260324_210056_slot7.mp4",
+  "quality_check": {
+    "file_size_mb": 241.07,
+    "size_ok": false,
+    "resolution": "1080x1920",
+    "resolution_ok": true,
+    "duration_s": 18.8,
+    "duration_ok": true
+  },
+  "prompt_metadata": {
+    "visual_source": "broll_footage",
+    "shot_list": []
+  },
+  "audio_alignment": true,
+  "ffmpeg_evolution_params": {
+    "zoom_factor": 0.15,
+    "ssml_break_secs": 0.8,
+    "prompt_version": 1
+  },
+  "script_variant": "short",
+  "qa_gate": {
+    "passed": true,
+    "checks": [
+      {
+        "name": "audio_stream",
+        "passed": true,
+        "detail": "Audio stream present: codec=aac channels=1"
+      },
+      {
+        "name": "volume",
+        "passed": true,
+        "detail": "Volume OK: max_volume=-3.5dB, mean=-20.0dB"
+      },
+      {
+        "name": "duration",
+        "passed": true,
+        "detail": "Duration OK: 18.8s"
+      },
+      {
+        "name": "file_size",
+        "passed": true,
+        "detail": "File size OK: 241.07MB"
+      }
+    ]
+  },
+  "garbage_collection": {
+    "deleted": 6,
+    "freed_mb": 1.5,
+    "errors": 0
+  }
+}

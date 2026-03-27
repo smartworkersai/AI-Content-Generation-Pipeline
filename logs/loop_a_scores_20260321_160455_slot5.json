@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-03-21T16:04:55.835526",
+  "slot": 5,
+  "video": "/Users/kolly/HARBINGERHQ/output/post_20260321_160115_slot5.mp4",
+  "visual_identity": "Topic: The UK ISA allowance \u2014 \u00a320,000 tax-free \u2014 permanently expires April 5. Every pou\nVisual identity: extreme close-up bank statement paper texture, cold fluorescent overhead light, sharp downward shadows, numbers barely legible, cinematic 9:16 vertical, dark atmosphere, documentary realism, no faces, no people\nIntended mood: \nColour palette:",
+  "shot_scores": [
+    {
+      "score": 4,
+      "executed_well": [
+        "Dark atmospheric mood with dusk/evening lighting suits financial urgency",
+        "Documents/papers visible on desk reinforce financial paperwork theme",
+        "No faces or people present as intended",
+        "9:16 vertical framing correct",
+        "City lights at dusk create some cinematic quality"
+      ],
+      "failed_elements": [
+        "Wide establishing shot instead of extreme close-up bank statement paper texture",
+        "Warm amber desk lamp light directly contradicts the intended cold fluorescent overhead lighting",
+        "Sharp downward shadows not present \u2014 lamp creates soft diffused warm glow",
+        "Numbers on documents not legible at all \u2014 too far away",
+        "Overall composition feels like a generic office/lifestyle shot rather than documentary realism focused on financial documents",
+        "Smartphone on desk is distracting and anachronistic to the intended sterile document aesthetic",
+        "Paper documents visible but not the focal point \u2014 camera too far back",
+        "Warm colour palette (amber, orange sunset) contradicts intended cold palette",
+        "Scene feels aspirational/premium rather than urgent/clinical"
+      ],
+      "negative_prompt_additions": [
+        "no warm amber lighting",
+        "no desk lamps with warm glow",
+        "no sunset or dusk backgrounds visible through windows",
+        "no wide establishing shots",
+        "no smartphones or electronic devices",
+        "no cityscape backgrounds",
+        "no premium office aesthetic",
+        "no soft diffused lighting",
+        "avoid wide angle compositions showing full desk surface"
+      ],
+      "label": "MOVE",
+      "time_s": 64.0
+    }
+  ],
+  "avg_visual_score": 4.0,
+  "negative_prompt_additions": [
+    "no warm amber lighting",
+    "no desk lamps with warm glow",
+    "no sunset or dusk backgrounds visible through windows",
+    "no wide establishing shots",
+    "no smartphones or electronic devices",
+    "no cityscape backgrounds",
+    "no premium office aesthetic",
+    "no soft diffused lighting",
+    "avoid wide angle compositions showing full desk surface"
+  ]
+}

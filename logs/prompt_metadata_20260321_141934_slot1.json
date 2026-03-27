@@ -1,0 +1,222 @@
+{
+  "visual_dna": {
+    "primary_aesthetic": "archive_degraded",
+    "aesthetic_label": "Archive Documentary",
+    "aesthetic_plan": {
+      "mode": "single",
+      "primary": "archive_degraded",
+      "shot_aesthetics": {
+        "HOOK": "archive_degraded",
+        "WEIGHT": "archive_degraded",
+        "INTRUSION": "archive_degraded",
+        "MECHANISM": "archive_degraded",
+        "PROOF": "archive_degraded",
+        "STAT_REVEAL": "archive_degraded",
+        "MOVE": "archive_degraded"
+      },
+      "signals": {
+        "urgency_low": 0.0,
+        "urgency_mid": 0.9090909090909091,
+        "urgency_high": 0.0,
+        "urgency_extreme": 0.0,
+        "topic_finance": 1.0,
+        "topic_isa": 1.0,
+        "topic_pension": 0.0,
+        "topic_savings": 0.0,
+        "topic_mortgage": 0.0,
+        "topic_crypto": 0.0,
+        "topic_investment": 0.1,
+        "topic_wealth_gap": 0.1,
+        "tone_revelation": 0.3,
+        "tone_evidence": 1.0,
+        "tone_anger": 0.1,
+        "tone_injustice": 0.1,
+        "tone_weight": 0.3,
+        "tone_aspiration": 0.2,
+        "tone_authority": 1.0,
+        "tone_relatable": 1.0,
+        "tone_investigative": 0.2,
+        "tone_surprise": 0.2,
+        "tone_mechanism": 1.0,
+        "tone_historical": 0.1,
+        "tone_data": 1.0,
+        "tone_move": 1.0
+      }
+    },
+    "world": "archival footage aesthetic \u2014 scan lines, gate weave, colour fade, timestamp burns \u2014 the look of historical truth",
+    "camera_system": "Super 8 or 16mm emulation, Bolex Rex-5 look, optical sound artifacts present in frame",
+    "film": "Kodachrome 40 expired \u2014 heavy magenta shift, dense grain, dust and scratch overlay, faded highlights, vignette",
+    "lighting_primary": "available light, over-exposed highlights, colour shift to cyan-orange crossprocess",
+    "lighting_secondary": "flicker from aging lamp \u2014 unstable light source as period detail",
+    "motion_character": "gate weave 2-pixel random drift per frame, speed fluctuation \u00b15%, jump cuts between observations",
+    "anchor_text": "grain density + colour grading + vignette + scan line texture consistency",
+    "full_anchor": "[Visual DNA \u2014 embed unchanged in every clip] grain density + colour grading + vignette + scan line texture consistency. Kodachrome 40 expired \u2014 heavy magenta shift, dense grain, dust and scratch overlay, faded highlights, vignette. Temporal consistency across all clips.",
+    "seed_phrase": "855ca6bd",
+    "topic": "isa"
+  },
+  "aesthetic_plan": {
+    "mode": "single",
+    "primary": "archive_degraded",
+    "shot_aesthetics": {
+      "HOOK": "archive_degraded",
+      "WEIGHT": "archive_degraded",
+      "INTRUSION": "archive_degraded",
+      "MECHANISM": "archive_degraded",
+      "PROOF": "archive_degraded",
+      "STAT_REVEAL": "archive_degraded",
+      "MOVE": "archive_degraded"
+    },
+    "signals": {
+      "urgency_low": 0.0,
+      "urgency_mid": 0.9090909090909091,
+      "urgency_high": 0.0,
+      "urgency_extreme": 0.0,
+      "topic_finance": 1.0,
+      "topic_isa": 1.0,
+      "topic_pension": 0.0,
+      "topic_savings": 0.0,
+      "topic_mortgage": 0.0,
+      "topic_crypto": 0.0,
+      "topic_investment": 0.1,
+      "topic_wealth_gap": 0.1,
+      "tone_revelation": 0.3,
+      "tone_evidence": 1.0,
+      "tone_anger": 0.1,
+      "tone_injustice": 0.1,
+      "tone_weight": 0.3,
+      "tone_aspiration": 0.2,
+      "tone_authority": 1.0,
+      "tone_relatable": 1.0,
+      "tone_investigative": 0.2,
+      "tone_surprise": 0.2,
+      "tone_mechanism": 1.0,
+      "tone_historical": 0.1,
+      "tone_data": 1.0,
+      "tone_move": 1.0
+    }
+  },
+  "shot_list": [
+    {
+      "index": 0,
+      "type": "HOOK",
+      "duration_s": 5,
+      "brief_section": "INTRUSION",
+      "intent": "Stop the scroll. Establish tension before explanation.",
+      "source_text": "",
+      "has_human": false,
+      "money_value": null,
+      "prompt": "Shot 1 (0\u20135s): Aesthetic: Archive Documentary. archival footage aesthetic \u2014 scan lines, gate weave, colour fade, timestamp burns \u2014 the look of historical truth. Empty office desk. Untouched ISA paperwork sits under a paperweight. A phone screen lights up \u2014 notification unseen. Camera: Super 8 or 16mm emulation, Bolex Rex-5 look, optical sound artifacts present in frame. Motion: gate weave 2-pixel random drift per frame, speed fluctuation \u00b15%, jump cuts between observations. Lighting: available light, over-exposed highlights, colour shift to cyan-orange crossprocess. flicker from aging lamp \u2014 unstable light source as period detail. Film stock: Kodachrome 40 expired \u2014 heavy magenta shift, dense grain, dust and scratch overlay, faded highlights, vignette. Atmosphere: warm practical light flickers once at 2 seconds \u2014 power-grid suggestion \u2014 then stabilises. [Visual DNA \u2014 embed unchanged in every clip] grain density + colour grading + vignette + scan line texture consistency. Kodachrome 40 expired \u2014 heavy magenta shift, dense grain, dust and scratch overlay, faded highlights, vignette. Temporal consistency across all clips. Avoid: watermarks, text overlays, subtitle artifacts, camera jitter, morphing surfaces, flickering light, inconsistent shadows. Also avoid: modern crisp digital video, clean aesthetic, contemporary equipment, smooth motion, current technology.",
+      "negative_prompt": "blur, distortion, watermark, text overlay, low quality, compression artifacts, flickering, inconsistent lighting, morphing faces, morphing textures, oversaturation, plastic skin, smooth waxy texture, artificial bokeh halos, readable account numbers, readable financial data, screen moir\u00e9, modern crisp digital video, clean aesthetic, contemporary equipment, smooth motion, current technology",
+      "component_registry": {
+        "shot_index": 0,
+        "shot_type": "HOOK",
+        "aesthetic_key": "archive_degraded",
+        "aesthetic_label": "Archive Documentary",
+        "overrides_camera": true,
+        "components": [
+          "Super 8 or 16mm emulation, Bolex Rex-5 look, optical sound artifacts present in frame",
+          "gate weave 2-pixel random drift per frame, speed fluctuation \u00b15%, jump cuts between observations",
+          "available light, over-exposed highlights, colour shift to cyan-orange crossprocess. flicker from aging lamp \u2014 unstable light source as period detail",
+          "Kodachrome 40 expired \u2014 heavy magenta shift, dense grain, dust and scratch overlay, faded highlights, vignette",
+          "warm practical light flickers once at 2 seconds \u2014 power-grid suggestion \u2014 then stabilises"
+        ],
+        "action_line": "Empty office desk. Untouched ISA paperwork sits under a paperweight. A phone screen lights up \u2014 notification unseen.",
+        "optics": "Super 8 or 16mm emulation, Bolex Rex-5 look, optical sound artifacts present in frame",
+        "motion": "gate weave 2-pixel random drift per frame, speed fluctuation \u00b15%, jump cuts between observations",
+        "lighting": "available light, over-exposed highlights, colour shift to cyan-orange crossprocess. flicker from aging lamp \u2014 unstable light source as period detail",
+        "film_stock": "Kodachrome 40 expired \u2014 heavy magenta shift, dense grain, dust and scratch overlay, faded highlights, vignette",
+        "dna_anchor": "grain density + colour grading + vignette + scan line texture consistency"
+      },
+      "aesthetic_key": "archive_degraded",
+      "aesthetic_label": "Archive Documentary",
+      "fal_params": {
+        "duration": 5,
+        "aspect_ratio": "9:16",
+        "mode": "pro"
+      }
+    },
+    {
+      "index": 1,
+      "type": "MECHANISM",
+      "duration_s": 5,
+      "brief_section": "MECHANISM",
+      "intent": "Show how it works. Documentary observation, information discovered.",
+      "source_text": "",
+      "has_human": false,
+      "money_value": null,
+      "prompt": "Shot 2: Aesthetic: Archive Documentary. archival footage aesthetic \u2014 scan lines, gate weave, colour fade, timestamp burns \u2014 the look of historical truth. ISA wrapper mechanism shown through simple visual metaphor \u2014 money inside protected versus money outside taxed. Camera: Super 8 or 16mm emulation, Bolex Rex-5 look, optical sound artifacts present in frame. Motion: gate weave 2-pixel random drift per frame, speed fluctuation \u00b15%, jump cuts between observations. Lighting: available light, over-exposed highlights, colour shift to cyan-orange crossprocess. flicker from aging lamp \u2014 unstable light source as period detail. Film stock: Kodachrome 40 expired \u2014 heavy magenta shift, dense grain, dust and scratch overlay, faded highlights, vignette. Atmosphere: steam or breath barely visible in cold air, secondary motion from ventilation barely stirs any fabric. [Visual DNA \u2014 embed unchanged in every clip] grain density + colour grading + vignette + scan line texture consistency. Kodachrome 40 expired \u2014 heavy magenta shift, dense grain, dust and scratch overlay, faded highlights, vignette. Temporal consistency across all clips. Avoid: watermarks, text overlays, subtitle artifacts, camera jitter, morphing surfaces, flickering light, inconsistent shadows. Also avoid: modern crisp digital video, clean aesthetic, contemporary equipment, smooth motion, current technology.",
+      "negative_prompt": "blur, distortion, watermark, text overlay, low quality, compression artifacts, flickering, inconsistent lighting, morphing faces, morphing textures, oversaturation, plastic skin, smooth waxy texture, artificial bokeh halos, readable account numbers, readable financial data, screen moir\u00e9, modern crisp digital video, clean aesthetic, contemporary equipment, smooth motion, current technology",
+      "component_registry": {
+        "shot_index": 1,
+        "shot_type": "MECHANISM",
+        "aesthetic_key": "archive_degraded",
+        "aesthetic_label": "Archive Documentary",
+        "overrides_camera": true,
+        "components": [
+          "Super 8 or 16mm emulation, Bolex Rex-5 look, optical sound artifacts present in frame",
+          "gate weave 2-pixel random drift per frame, speed fluctuation \u00b15%, jump cuts between observations",
+          "available light, over-exposed highlights, colour shift to cyan-orange crossprocess. flicker from aging lamp \u2014 unstable light source as period detail",
+          "Kodachrome 40 expired \u2014 heavy magenta shift, dense grain, dust and scratch overlay, faded highlights, vignette",
+          "steam or breath barely visible in cold air, secondary motion from ventilation barely stirs any fabric"
+        ],
+        "action_line": "ISA wrapper mechanism shown through simple visual metaphor \u2014 money inside protected versus money outside taxed.",
+        "optics": "Super 8 or 16mm emulation, Bolex Rex-5 look, optical sound artifacts present in frame",
+        "motion": "gate weave 2-pixel random drift per frame, speed fluctuation \u00b15%, jump cuts between observations",
+        "lighting": "available light, over-exposed highlights, colour shift to cyan-orange crossprocess. flicker from aging lamp \u2014 unstable light source as period detail",
+        "film_stock": "Kodachrome 40 expired \u2014 heavy magenta shift, dense grain, dust and scratch overlay, faded highlights, vignette",
+        "dna_anchor": "grain density + colour grading + vignette + scan line texture consistency"
+      },
+      "aesthetic_key": "archive_degraded",
+      "aesthetic_label": "Archive Documentary",
+      "fal_params": {
+        "duration": 5,
+        "aspect_ratio": "9:16",
+        "mode": "pro"
+      }
+    },
+    {
+      "index": 2,
+      "type": "MOVE",
+      "duration_s": 5,
+      "brief_section": "MOVE",
+      "intent": "Resolution energy. Forward motion. The action the viewer must take.",
+      "source_text": "",
+      "has_human": false,
+      "money_value": null,
+      "prompt": "Shot 3: Aesthetic: Archive Documentary. archival footage aesthetic \u2014 scan lines, gate weave, colour fade, timestamp burns \u2014 the look of historical truth. Person at a laptop. ISA application page open. Cursor moves. The action is being taken. Camera moves with the resolution. Camera: Super 8 or 16mm emulation, Bolex Rex-5 look, optical sound artifacts present in frame. Motion: gate weave 2-pixel random drift per frame, speed fluctuation \u00b15%, jump cuts between observations. Lighting: available light, over-exposed highlights, colour shift to cyan-orange crossprocess. flicker from aging lamp \u2014 unstable light source as period detail. Film stock: Kodachrome 40 expired \u2014 heavy magenta shift, dense grain, dust and scratch overlay, faded highlights, vignette. Atmosphere: light quality static throughout, no atmospheric progression. [Visual DNA \u2014 embed unchanged in every clip] grain density + colour grading + vignette + scan line texture consistency. Kodachrome 40 expired \u2014 heavy magenta shift, dense grain, dust and scratch overlay, faded highlights, vignette. Temporal consistency across all clips. Avoid: watermarks, text overlays, subtitle artifacts, camera jitter, morphing surfaces, flickering light, inconsistent shadows. Also avoid: modern crisp digital video, clean aesthetic, contemporary equipment, smooth motion, current technology.",
+      "negative_prompt": "blur, distortion, watermark, text overlay, low quality, compression artifacts, flickering, inconsistent lighting, morphing faces, morphing textures, oversaturation, plastic skin, smooth waxy texture, artificial bokeh halos, readable account numbers, readable financial data, screen moir\u00e9, modern crisp digital video, clean aesthetic, contemporary equipment, smooth motion, current technology",
+      "component_registry": {
+        "shot_index": 2,
+        "shot_type": "MOVE",
+        "aesthetic_key": "archive_degraded",
+        "aesthetic_label": "Archive Documentary",
+        "overrides_camera": true,
+        "components": [
+          "Super 8 or 16mm emulation, Bolex Rex-5 look, optical sound artifacts present in frame",
+          "gate weave 2-pixel random drift per frame, speed fluctuation \u00b15%, jump cuts between observations",
+          "available light, over-exposed highlights, colour shift to cyan-orange crossprocess. flicker from aging lamp \u2014 unstable light source as period detail",
+          "Kodachrome 40 expired \u2014 heavy magenta shift, dense grain, dust and scratch overlay, faded highlights, vignette",
+          "light quality static throughout, no atmospheric progression"
+        ],
+        "action_line": "Person at a laptop. ISA application page open. Cursor moves. The action is being taken. Camera moves with the resolution.",
+        "optics": "Super 8 or 16mm emulation, Bolex Rex-5 look, optical sound artifacts present in frame",
+        "motion": "gate weave 2-pixel random drift per frame, speed fluctuation \u00b15%, jump cuts between observations",
+        "lighting": "available light, over-exposed highlights, colour shift to cyan-orange crossprocess. flicker from aging lamp \u2014 unstable light source as period detail",
+        "film_stock": "Kodachrome 40 expired \u2014 heavy magenta shift, dense grain, dust and scratch overlay, faded highlights, vignette",
+        "dna_anchor": "grain density + colour grading + vignette + scan line texture consistency"
+      },
+      "aesthetic_key": "archive_degraded",
+      "aesthetic_label": "Archive Documentary",
+      "fal_params": {
+        "duration": 5,
+        "aspect_ratio": "9:16",
+        "mode": "pro"
+      }
+    }
+  ],
+  "genome_generation": 2,
+  "seed_phrase": "855ca6bd",
+  "total_shots": 3,
+  "total_duration_s": 15,
+  "generated_at": "2026-03-21T14:19:37.085961"
+}

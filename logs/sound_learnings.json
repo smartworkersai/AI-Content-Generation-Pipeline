@@ -1,0 +1,9 @@
+{
+  "date": "2026-03-26",
+  "current_stage": "ambience_type",
+  "stage_days": 3,
+  "total_observations": 65,
+  "locked_variables": {
+    "sub_bass_db": -22.0
+  }
+}
