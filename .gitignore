@@ -10,3 +10,4 @@ venv/
 *.mp4
 *.mov
 .env
+.env
